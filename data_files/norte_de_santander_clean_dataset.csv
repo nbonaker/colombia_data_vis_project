@@ -1,0 +1,360 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+8,norte_de_santander,san_jose_de_cucuta,54001,13,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,20000000,Other,0,,3.75,Severe Insecurity,1
+26,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,600000,0,,,0,,2.25,Marginal Security,0
+27,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,600000,0,,,0,,2.25,Marginal Security,0
+28,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,600000,0,,,0,,2.25,Marginal Security,0
+29,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,600000,0,,,0,,2.25,Marginal Security,0
+34,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,660000,1,7000000,Buy productive inputs,0,,3.5,Severe Insecurity,1
+35,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,660000,1,7000000,Buy productive inputs,0,,3.5,Severe Insecurity,1
+36,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,660000,1,7000000,Buy productive inputs,0,,3.5,Severe Insecurity,1
+37,norte_de_santander,san_jose_de_cucuta,54001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,660000,1,7000000,Buy productive inputs,0,,3.5,Severe Insecurity,1
+51,norte_de_santander,san_jose_de_cucuta,54001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,7000000,Buy food,0,,3.5,Severe Insecurity,1
+52,norte_de_santander,san_jose_de_cucuta,54001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,7000000,Buy food,0,,3.5,Severe Insecurity,1
+67,norte_de_santander,san_jose_de_cucuta,54001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,1500000,0,,,1,2000000,2.5,Moderate Insecurity,1
+68,norte_de_santander,san_jose_de_cucuta,54001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,1500000,0,,,1,2000000,2.5,Moderate Insecurity,1
+84,norte_de_santander,ocana,54498,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,10000000,Buy productive inputs,0,,1.75,Marginal Security,0
+104,norte_de_santander,san_jose_de_cucuta,54001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,2000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+122,norte_de_santander,san_jose_de_cucuta,54001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+123,norte_de_santander,san_jose_de_cucuta,54001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,360000,1,2300000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+190,norte_de_santander,san_jose_de_cucuta,54001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,99,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+191,norte_de_santander,san_jose_de_cucuta,54001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.75,Severe Insecurity,1
+192,norte_de_santander,san_jose_de_cucuta,54001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.75,Severe Insecurity,1
+193,norte_de_santander,san_jose_de_cucuta,54001,8,1.0,0,0,0,0,1,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,600000,2.25,Marginal Security,0
+313,norte_de_santander,abrego,54003,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,80000,1,200000,"Buy clothes, shoes",0,,2.25,Marginal Security,0
+314,norte_de_santander,abrego,54003,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,1,1000000,Other,0,,2.5,Moderate Insecurity,1
+315,norte_de_santander,abrego,54003,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,3.0,Moderate Insecurity,1
+316,norte_de_santander,sardinata,54720,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+386,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,1000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+387,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,9999,1,9999,Other,0,,2.75,Moderate Insecurity,1
+388,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+389,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+390,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,0,,,0,,3.75,Severe Insecurity,1
+391,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1600000,Buy food,0,,4.0,Severe Insecurity,1
+392,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,700000,1,1500000,Other,0,,1.75,Marginal Security,0
+393,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,670000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+461,norte_de_santander,san_jose_de_cucuta,54001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1000000,1,403000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+561,norte_de_santander,abrego,54003,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,1760000,Other,0,,2.5,Moderate Insecurity,1
+562,norte_de_santander,abrego,54003,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,2500000,Cover health expenses,0,,2.25,Marginal Security,0
+563,norte_de_santander,ocana,54498,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,25000000,Other,0,,1.75,Marginal Security,0
+564,norte_de_santander,ocana,54498,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+565,norte_de_santander,sardinata,54720,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+731,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.0,Marginal Security,0
+732,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1020000,1,10000000,Buy productive inputs,0,,2.0,Marginal Security,0
+733,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,2100000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+734,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+735,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1400000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+736,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1400000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+737,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,800000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+738,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+739,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+740,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,620000,1,200000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+741,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,620000,1,200000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+742,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.25,Marginal Security,0
+743,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.25,Marginal Security,0
+744,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.25,Marginal Security,0
+745,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,8000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+746,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,8000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+747,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,8000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+887,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,2300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+888,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+889,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+890,norte_de_santander,san_jose_de_cucuta,54001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,200000,Other,0,,3.0,Moderate Insecurity,1
+1081,norte_de_santander,abrego,54003,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,5000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1082,norte_de_santander,ocana,54498,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Other,0,,3.75,Severe Insecurity,1
+1083,norte_de_santander,sardinata,54720,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+1084,norte_de_santander,sardinata,54720,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,1,0.0,0,0,0,2,Work,2200000,0,,,0,,1.25,Secure,0
+1085,norte_de_santander,sardinata,54720,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",600000,1,3000000,Other,0,,1.75,Marginal Security,0
+1086,norte_de_santander,sardinata,54720,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,10000000,Buy productive inputs,0,,2.25,Marginal Security,0
+1407,norte_de_santander,abrego,54003,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+1408,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,625000,1,17000000,Buy food,0,,2.75,Moderate Insecurity,1
+1409,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,625000,1,17000000,Buy food,0,,2.75,Moderate Insecurity,1
+1410,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1411,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1100000,0,,,0,,2.25,Marginal Security,0
+1412,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+1413,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+1414,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1415,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1416,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1417,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1418,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,1200000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+1419,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,7000000,Other,0,,2.25,Marginal Security,0
+1420,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+1421,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+1422,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,1,800000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+1423,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.25,Marginal Security,0
+1424,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,1,2000000,1.25,Secure,0
+1620,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,350000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+1621,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+1622,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,800000,1,7000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+1623,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,1000000,Other,0,,1.25,Secure,0
+1624,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1625,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1500000,Buy food,0,,2.75,Moderate Insecurity,1
+1626,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.0,Marginal Security,0
+1627,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Work,1000000,1,16000000,Buy productive inputs,0,,1.25,Secure,0
+1628,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,400000,1,1000000,Other,0,,2.25,Marginal Security,0
+1629,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,1600000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+1630,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,1,65000000,Other,1,370000,1.75,Marginal Security,0
+1631,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1070000,1,12000000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+1632,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+1633,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,2700000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+1634,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+1635,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,1.5,Marginal Security,0
+1636,norte_de_santander,san_jose_de_cucuta,54001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2021,norte_de_santander,abrego,54003,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+2022,norte_de_santander,abrego,54003,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+2023,norte_de_santander,abrego,54003,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,800000,1,10000000,Buy food,0,,2.25,Marginal Security,0
+2024,norte_de_santander,ocana,54498,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2160000,1,270000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2025,norte_de_santander,ocana,54498,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,696000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2026,norte_de_santander,ocana,54498,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+2027,norte_de_santander,sardinata,54720,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,500000,0,,,0,,1.75,Marginal Security,0
+2028,norte_de_santander,sardinata,54720,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,1,99,Pay school or education expenses,1,99,1.5,Marginal Security,0
+2029,norte_de_santander,sardinata,54720,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+2030,norte_de_santander,sardinata,54720,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,5000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+2031,norte_de_santander,sardinata,54720,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,250000,0,,,1,200000,3.5,Severe Insecurity,1
+2572,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,30000000,Buy food,0,,3.75,Severe Insecurity,1
+2573,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,2500000,Buy food,0,,2.25,Marginal Security,0
+2574,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,1,1200000,Buy food,1,600000,1.75,Marginal Security,0
+2575,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,1,1200000,Buy food,1,600000,1.75,Marginal Security,0
+2576,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.75,Severe Insecurity,1
+2577,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2578,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2579,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+2580,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2581,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,8000000,1,2200000,Other,1,2000000,1.0,Secure,0
+2582,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+2583,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+2584,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1200000,1,300000,Other,0,,2.75,Moderate Insecurity,1
+2585,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,0,,,0,,1.75,Marginal Security,0
+2586,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,0,,,0,,1.75,Marginal Security,0
+2587,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,0,,,0,,1.75,Marginal Security,0
+2588,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,209000,Buy food,0,,2.25,Marginal Security,0
+2589,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+2590,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2591,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2592,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2593,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.75,Marginal Security,0
+2594,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,900000,1,9999,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2595,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,900000,1,9999,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2596,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,1,800000,Buy food,0,,1.25,Secure,0
+2597,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3700000,1,5000000,Other,0,,1.5,Marginal Security,0
+2598,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,80000,0,,,0,,3.0,Moderate Insecurity,1
+2599,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,80000,0,,,0,,3.0,Moderate Insecurity,1
+2854,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,360000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+2855,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,200000,Other,0,,1.5,Marginal Security,0
+2856,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,20000000,Buy food,0,,2.0,Marginal Security,0
+2857,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,300000000,Other,0,,1.5,Marginal Security,0
+2858,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,,0,0,0,1,Government assistance,200000,1,2000000,Buy food,0,,2.75,Moderate Insecurity,1
+2859,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,515000,0,,,0,,1.25,Secure,0
+2860,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2861,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,40000,0,,,0,,2.25,Marginal Security,0
+2862,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,2.0,Marginal Security,0
+2863,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+2864,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,1000000,Other,0,,2.25,Marginal Security,0
+2865,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,900000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2866,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,3000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+2867,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,7000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2868,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,920000,1,4000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+2869,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,600000,1,1200000,Other,1,180000,2.25,Marginal Security,0
+2870,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,1000000,1.75,Marginal Security,0
+2871,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,1,800000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+2872,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,400000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+2873,norte_de_santander,san_jose_de_cucuta,54001,4,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,1,0,1,The household receives no income of any kind,120000,1,1800000,Other,0,,2.75,Moderate Insecurity,1
+2874,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,3000000,Buy food,0,,2.25,Marginal Security,0
+2875,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+2876,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,1,46000000,Buy food,0,,2.75,Moderate Insecurity,1
+2877,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,100000,1,700000,Other,0,,2.0,Marginal Security,0
+2878,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,1,90000,Other,0,,2.75,Moderate Insecurity,1
+2879,norte_de_santander,san_jose_de_cucuta,54001,4,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,200000,Other,0,,2.25,Marginal Security,0
+2880,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1100000,0,,,0,,2.25,Marginal Security,0
+2881,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1250000,0,,,0,,1.0,Secure,0
+2882,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,1,4000000,2.25,Marginal Security,0
+2883,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+2884,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,400000,Buy food,0,,1.5,Marginal Security,0
+2885,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.75,Marginal Security,0
+2886,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,0,,2.25,Marginal Security,0
+2887,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2020000,0,,,0,,3.25,Moderate Insecurity,1
+2888,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Assistance from United Nations / NGOs / charitable organizations,840000,1,500000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2889,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Assistance from United Nations / NGOs / charitable organizations,840000,1,500000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2890,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+2891,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,500000,Pay rent or house rent,0,,3.25,Moderate Insecurity,1
+2892,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+2893,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,900000,Buy food,0,,2.25,Marginal Security,0
+2894,norte_de_santander,san_jose_de_cucuta,54001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,900000,Buy food,0,,2.25,Marginal Security,0
+3611,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3612,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+3613,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+3614,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,31000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.0,Secure,0
+3615,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+3616,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,0,,,0,,3.25,Moderate Insecurity,1
+3617,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,110000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3618,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.0,Marginal Security,0
+3619,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3620,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,6000000,1,40000000,Buy productive inputs,0,,1.0,Secure,0
+3621,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,290000,1,99,Buy productive inputs,0,,1.5,Marginal Security,0
+3622,norte_de_santander,abrego,54003,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,840000,ns_nr,,,0,,3.0,Moderate Insecurity,1
+3623,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.75,Marginal Security,0
+3624,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+3625,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,20000000,Other,0,,2.0,Marginal Security,0
+3626,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+3627,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,600000,Other,0,,2.0,Marginal Security,0
+3628,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,200000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3629,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,Buy food,0,,1.25,Secure,0
+3630,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,118000,Other,1,800000,1.75,Marginal Security,0
+3631,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3632,norte_de_santander,ocana,54498,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.0,Marginal Security,0
+3633,norte_de_santander,sardinata,54720,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,14000000,Other,0,,2.5,Moderate Insecurity,1
+3634,norte_de_santander,sardinata,54720,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1200000,0,,,0,,2.0,Marginal Security,0
+3635,norte_de_santander,sardinata,54720,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+4506,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,60000,0,,,0,,2.0,Marginal Security,0
+4507,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+4508,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,334000,Other,0,,2.75,Moderate Insecurity,1
+4509,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,0,,1.5,Marginal Security,0
+4510,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,2.5,Moderate Insecurity,1
+4511,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,3.0,Moderate Insecurity,1
+4512,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,1,70000000,Buy food,0,,3.0,Moderate Insecurity,1
+4513,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,240000,0,,,0,,3.25,Moderate Insecurity,1
+4514,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,240000,0,,,0,,3.25,Moderate Insecurity,1
+4515,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,12000000,Other,0,,3.25,Moderate Insecurity,1
+4516,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+4517,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+4518,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,99,Other,0,,1.0,Secure,0
+4519,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,3.0,Moderate Insecurity,1
+4520,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,3.0,Moderate Insecurity,1
+4521,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4522,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,720000,1,7000000,Other,0,,2.0,Marginal Security,0
+4523,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4524,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4525,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,ns_nr,,,0,,1.5,Marginal Security,0
+4526,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,800000,Other,0,,2.25,Marginal Security,0
+4527,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+4528,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,900000,0,,,0,,2.5,Moderate Insecurity,1
+4836,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4837,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1800000,0,,,1,1300000,1.0,Secure,0
+4838,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+4839,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,0,,,0,,2.5,Moderate Insecurity,1
+4840,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,350000,0,,,1,800000,2.25,Marginal Security,0
+4841,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+4842,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+4843,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+4844,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,2.0,Marginal Security,0
+4845,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,8000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+4846,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+4847,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.25,Marginal Security,0
+4848,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.25,Moderate Insecurity,1
+4849,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1700000,1,5000000,Pay school or education expenses,1,2000000,1.0,Secure,0
+4850,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,170000,Other,0,,2.0,Marginal Security,0
+4851,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,420000,"Cover basic services (water, electricity)",1,300000,2.25,Marginal Security,0
+4852,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,5000000,Other,0,,2.0,Marginal Security,0
+4853,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1480000,1,8400000,Other,0,,2.25,Marginal Security,0
+4854,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+4855,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.25,Marginal Security,0
+4856,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.0,Secure,0
+4857,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,1300000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+4858,norte_de_santander,san_jose_de_cucuta,54001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3600000,1,1300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5503,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+5504,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+5505,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,1.75,Marginal Security,0
+5506,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,10000000,Other,1,999999999,1.75,Marginal Security,0
+5507,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+5508,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+5509,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,850000,1,400000,Buy food,0,,1.5,Marginal Security,0
+5510,norte_de_santander,abrego,54003,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,110000,0,,,0,,2.5,Moderate Insecurity,1
+5511,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.0,Marginal Security,0
+5512,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,6000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+5513,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5514,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1200000,1,850000,Other,1,300000,1.25,Secure,0
+5515,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,The household receives no income of any kind,100000,0,,,0,,1.75,Marginal Security,0
+5516,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1140000,1,230000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+5517,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Buy food,0,,2.5,Moderate Insecurity,1
+5518,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+5519,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,1,20000000,Other,0,,2.25,Marginal Security,0
+5520,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+5521,norte_de_santander,ocana,54498,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,6000000,Buy productive inputs,1,100000,2.25,Marginal Security,0
+5522,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,220000,0,,,0,,3.0,Moderate Insecurity,1
+5523,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,0,,,0,,2.0,Marginal Security,0
+5524,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5525,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+5526,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+5527,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+5528,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,800000,Other,0,,3.5,Severe Insecurity,1
+5529,norte_de_santander,sardinata,54720,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,1,4000000,Other,0,,1.75,Marginal Security,0
+6364,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,100000,0,,,0,,4.0,Severe Insecurity,1
+6365,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,2.0,Marginal Security,0
+6366,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,2.0,Marginal Security,0
+6367,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,3.25,Moderate Insecurity,1
+6368,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,80000,0,,,0,,1.5,Marginal Security,0
+6369,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,348000,0,,,1,400000,2.25,Marginal Security,0
+6370,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1500000,0,,,0,,2.25,Marginal Security,0
+6371,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1500000,0,,,0,,2.25,Marginal Security,0
+6372,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,99999,0,,,1,9999999,1.0,Secure,0
+6373,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6374,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,1.75,Marginal Security,0
+6375,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,900000,1,2000000,Buy food,0,,1.75,Marginal Security,0
+6376,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,1.75,Marginal Security,0
+6377,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,1.75,Marginal Security,0
+6378,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,8000000,Other,0,,1.25,Secure,0
+6379,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,3.0,Moderate Insecurity,1
+6380,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,2000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+6381,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,1.75,Marginal Security,0
+6382,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,1.75,Marginal Security,0
+6661,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+6662,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1100000,0,,,1,120000,1.75,Marginal Security,0
+6663,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+6664,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+6665,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,130000,Other,0,,1.5,Marginal Security,0
+6666,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6667,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+6668,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,0,0,,,0,,1.0,Secure,0
+6669,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,100000000,pay trips,0,,1.5,Marginal Security,0
+6670,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,480000,1,190000,Buy food,0,,2.25,Marginal Security,0
+6671,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,500000,0,,,0,,1.0,Secure,0
+6672,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.0,Marginal Security,0
+6673,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1000000,0,,,0,,1.0,Secure,0
+6674,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,7000000,Buy productive inputs,1,3000000,2.25,Marginal Security,0
+6675,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,2950000,Other,0,,1.75,Marginal Security,0
+6676,norte_de_santander,san_jose_de_cucuta,54001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,8000000,1,320000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+7208,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,260000,0,,,0,,2.75,Moderate Insecurity,1
+7209,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,4.0,Severe Insecurity,1
+7210,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,750000,1,5000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+7211,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+7212,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,600000,0,,,0,,2.0,Marginal Security,0
+7213,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7214,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,1,12000000,Other,0,,2.0,Marginal Security,0
+7215,norte_de_santander,abrego,54003,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.0,Moderate Insecurity,1
+7216,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,250000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7217,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+7218,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,203000,Other,0,,2.25,Marginal Security,0
+7219,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,2.0,Marginal Security,0
+7220,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,2.0,Marginal Security,0
+7221,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,260000,Other,0,,1.5,Marginal Security,0
+7222,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,200000,0,,,0,,2.0,Marginal Security,0
+7223,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,ns_nr,,,0,,3.75,Severe Insecurity,1
+7224,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,6000000,Other,0,,2.0,Marginal Security,0
+7225,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,650000,1,8000000,Other,0,,1.75,Marginal Security,0
+7226,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1500000,0,,,0,,1.25,Secure,0
+7227,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,150000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7228,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,200000,0,,,0,,1.5,Marginal Security,0
+7229,norte_de_santander,ocana,54498,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,1,7000000,Buy productive inputs,0,,1.75,Marginal Security,0
+7230,norte_de_santander,sardinata,54720,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,750000,1,8000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+7868,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,1.5,Marginal Security,0
+7869,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,200000,Other,0,,2.25,Marginal Security,0
+7870,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",660000,0,,,0,,2.0,Marginal Security,0
+7871,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,1,400000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+7872,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,750000,1,30000000,Other,0,,1.5,Marginal Security,0
+7873,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,120000,0,,,0,,2.5,Moderate Insecurity,1
+7874,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,80000,1,1210000,Other,0,,1.75,Marginal Security,0
+7875,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",100000,0,,,0,,3.25,Moderate Insecurity,1
+8024,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.5,Marginal Security,0
+8025,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,2000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+8026,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,600000,1,17000000,Buy food,0,,2.25,Marginal Security,0
+8027,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,1.75,Marginal Security,0
+8028,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,220000,0,,,0,,2.25,Marginal Security,0
+8029,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,1.75,Marginal Security,0
+8030,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,The household receives no income of any kind,370000,0,,,0,,1.75,Marginal Security,0
+8031,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+8032,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4000000,Other,0,,1.5,Marginal Security,0
+8033,norte_de_santander,san_jose_de_cucuta,54001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,0,,,0,,1.5,Marginal Security,0
+8271,norte_de_santander,abrego,54003,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+8272,norte_de_santander,abrego,54003,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,400000,0,,,0,,1.75,Marginal Security,0
+8273,norte_de_santander,sardinata,54720,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,70000,0,,,0,,2.5,Moderate Insecurity,1
+8274,norte_de_santander,sardinata,54720,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,400000,0,,,0,,2.5,Moderate Insecurity,1

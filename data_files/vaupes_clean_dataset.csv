@@ -1,0 +1,36 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+41,vaupes,mitu,97001,11,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,1100000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+144,vaupes,mitu,97001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+285,vaupes,mitu,97001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+518,vaupes,mitu,97001,7,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+519,vaupes,mitu,97001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1001,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+1002,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,5000000,ns_nr,,,0,,2.0,Marginal Security,0
+1003,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,0,,2.0,Marginal Security,0
+1004,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2150000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1005,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1006,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1400000,0,,,0,,2.0,Marginal Security,0
+1007,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1300000,1,700000,Buy food,0,,2.25,Marginal Security,0
+1008,vaupes,mitu,97001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2150000,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+1865,vaupes,mitu,97001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,915000,1,3000000,Buy food,0,,2.75,Moderate Insecurity,1
+1866,vaupes,mitu,97001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,1,500000,2.25,Marginal Security,0
+1867,vaupes,mitu,97001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,9000000,1,2000000,Pay school or education expenses,0,,1.25,Secure,0
+1868,vaupes,mitu,97001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,2000000,1,12000000,Other,1,100000,2.0,Marginal Security,0
+3297,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,24000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3298,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,3.25,Moderate Insecurity,1
+3299,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+3300,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3301,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+3302,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,7000000,Buy productive inputs,1,1000000,2.25,Marginal Security,0
+3303,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,0,,2.0,Marginal Security,0
+3304,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+3305,vaupes,mitu,97001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,150000,Other,0,,3.5,Severe Insecurity,1
+5192,vaupes,mitu,97001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1400000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+5193,vaupes,mitu,97001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,2.75,Moderate Insecurity,1
+5194,vaupes,mitu,97001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1050000,1,50000000,Other,1,6000000,1.75,Marginal Security,0
+6939,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1090000,1,500000,Pay rent or house rent,0,,2.0,Marginal Security,0
+6940,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,1,13000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6941,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+6942,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,5000000,1.75,Marginal Security,0
+6943,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,800000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6944,vaupes,mitu,97001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1

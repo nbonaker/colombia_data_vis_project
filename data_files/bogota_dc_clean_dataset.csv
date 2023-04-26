@@ -1,0 +1,438 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+12,bogota_dc,bogota__d_c_,11001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,700000,1,18000000,Other,0,,3.5,Severe Insecurity,1
+40,bogota_dc,bogota__d_c_,11001,11,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,1,10000000,Other,0,,1.0,Secure,0
+115,bogota_dc,bogota__d_c_,11001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,2300000,Buy food,0,,3.0,Moderate Insecurity,1
+116,bogota_dc,bogota__d_c_,11001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,2300000,Buy food,0,,3.0,Moderate Insecurity,1
+117,bogota_dc,bogota__d_c_,11001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,2300000,Buy food,0,,3.0,Moderate Insecurity,1
+133,bogota_dc,bogota__d_c_,11001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.75,Moderate Insecurity,1
+134,bogota_dc,bogota__d_c_,11001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2050000,1,1190000,Other,0,,2.25,Marginal Security,0
+218,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+219,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+220,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,5,Work,4000000,0,,,0,,1.0,Secure,0
+221,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,5,Work,4000000,0,,,0,,1.0,Secure,0
+222,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,1,1070000,Other,0,,2.5,Moderate Insecurity,1
+223,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,1,1070000,Other,0,,2.5,Moderate Insecurity,1
+224,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,1,1070000,Other,0,,2.5,Moderate Insecurity,1
+225,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,1,1070000,Other,0,,2.5,Moderate Insecurity,1
+226,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,2.5,Moderate Insecurity,1
+227,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,4000000,1,47000000,Other,0,,1.0,Secure,0
+266,bogota_dc,bogota__d_c_,11001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1330000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+426,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,4,Work,2000000,1,630000,Other,0,,2.0,Marginal Security,0
+427,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,6000000,Other,0,,2.5,Moderate Insecurity,1
+428,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2300000,1,20000000,Other,0,,1.75,Marginal Security,0
+429,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,0,,,1,2000000,1.75,Marginal Security,0
+430,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2000000,0,,,0,,2.25,Marginal Security,0
+431,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,15000000,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+492,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2700000,0,,,1,1000000,1.75,Marginal Security,0
+493,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2700000,0,,,1,1000000,1.75,Marginal Security,0
+494,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,1.75,Marginal Security,0
+495,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,200000000,Other,0,,2.0,Marginal Security,0
+496,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,100000,1.75,Marginal Security,0
+497,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,100000,1.75,Marginal Security,0
+498,bogota_dc,bogota__d_c_,11001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,1,400000,1.75,Marginal Security,0
+810,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,6000000,0,,,0,,1.0,Secure,0
+811,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,3000000,0,,,0,,1.0,Secure,0
+812,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,4500000,0,,,0,,3.0,Moderate Insecurity,1
+813,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,0,,,1,5000000,1.0,Secure,0
+814,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,1000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+815,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+816,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,4,Pension,2800000,1,25000000,Other,0,,2.25,Marginal Security,0
+817,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,3500000,0,,,1,2000000,1.25,Secure,0
+818,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+819,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,1,50000000,Other,0,,1.0,Secure,0
+955,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,0,,,0,,2.75,Moderate Insecurity,1
+956,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,12000000,1,100000000,Other,0,,2.25,Marginal Security,0
+957,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,4500000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2500000,1.25,Secure,0
+958,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,0,,2.75,Moderate Insecurity,1
+959,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,16000000,Other,1,100000,1.75,Marginal Security,0
+960,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,16000000,Other,1,100000,1.75,Marginal Security,0
+961,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,0,,,0,,1.0,Secure,0
+962,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,0,,,0,,2.75,Moderate Insecurity,1
+963,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,3.25,Moderate Insecurity,1
+964,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,2100000,0,,,0,,3.5,Severe Insecurity,1
+965,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2500000,0,,,1,400000,2.0,Marginal Security,0
+966,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1417000,1,8000000,Other,0,,2.25,Marginal Security,0
+967,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",850000,0,,,0,,2.75,Moderate Insecurity,1
+968,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,1,1000000,1.0,Secure,0
+969,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+970,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,100000,Buy food,0,,3.0,Moderate Insecurity,1
+971,bogota_dc,bogota__d_c_,11001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,15000000,1,18000000,"Buy clothes, shoes",1,4000000,1.75,Marginal Security,0
+1501,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1054000,1,1650000,Other,0,,3.0,Moderate Insecurity,1
+1502,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1054000,1,1650000,Other,0,,3.0,Moderate Insecurity,1
+1503,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.0,Marginal Security,0
+1504,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,300000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1505,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,7000000,0,,,1,300000,1.0,Secure,0
+1506,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.5,Marginal Security,0
+1507,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,2000000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+1508,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,"Other (income, chance, inheritance...)", ,0,,,0,,1.5,Marginal Security,0
+1509,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2000000,1,3000000,Other,0,,1.75,Marginal Security,0
+1510,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",900000,1,800000,Other,0,,2.25,Marginal Security,0
+1511,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1512,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1513,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4500000,0,,,0,,1.5,Marginal Security,0
+1514,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4500000,0,,,0,,1.5,Marginal Security,0
+1515,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,10000000,Pay rent or house rent,0,,2.0,Marginal Security,0
+1516,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,1500000,1,5000000,Other,0,,1.75,Marginal Security,0
+1517,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4800000,0,,,0,,2.25,Marginal Security,0
+1518,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,530000,0,,,0,,2.25,Marginal Security,0
+1519,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,530000,0,,,0,,2.25,Marginal Security,0
+1520,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,950000,0,,,0,,2.0,Marginal Security,0
+1521,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,1,3000000,Other,1,5000000,1.0,Secure,0
+1522,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,0,,1.0,Secure,0
+1523,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,3.0,Moderate Insecurity,1
+1524,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,3.0,Moderate Insecurity,1
+1525,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,6000000,0,,,0,,1.0,Secure,0
+1526,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1527,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,2000000,Other,0,,1.5,Marginal Security,0
+1528,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+1529,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+1530,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+1531,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,2000000,1,1000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+1532,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,0,,2.0,Marginal Security,0
+1533,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+1534,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,1500000,Other,0,,2.0,Marginal Security,0
+1535,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5000000,1,300000000,Other,0,,1.5,Marginal Security,0
+1769,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,2.25,Marginal Security,0
+1770,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,20000000,Other,0,,1.75,Marginal Security,0
+1771,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Remittances from migrants or help from family/friends,910000,0,,,0,,2.5,Moderate Insecurity,1
+1772,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,0,,,1,5000000,2.0,Marginal Security,0
+1773,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,8000000,1,180000000,Other,0,,2.0,Marginal Security,0
+1774,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2300000,0,,,1,200000,2.0,Marginal Security,0
+1775,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+1776,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",2500000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,6000000,1.25,Secure,0
+1777,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,99,Other,0,,2.0,Marginal Security,0
+1778,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,1600000,0,,,0,,2.25,Marginal Security,0
+1779,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.5,Marginal Security,0
+1780,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,2500000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+1781,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,2400000,0,,,1,3000000,1.25,Secure,0
+1782,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.25,Marginal Security,0
+1783,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,49000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+1784,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,1,1000000,Other,0,,1.75,Marginal Security,0
+1785,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,2.0,Marginal Security,0
+1786,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",700000,0,,,1,1000000,1.5,Marginal Security,0
+1787,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1788,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+1789,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,1,50000000,Other,0,,2.0,Marginal Security,0
+1790,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1200000,Buy food,0,,2.5,Moderate Insecurity,1
+1791,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.75,Marginal Security,0
+1792,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,1.5,Marginal Security,0
+1793,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,500000,Buy food,1,60000,2.75,Moderate Insecurity,1
+1794,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1795,bogota_dc,bogota__d_c_,11001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,2000000,Pay school or education expenses,1,5000000,1.75,Marginal Security,0
+2699,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,1,1000000,Other,0,,2.0,Marginal Security,0
+2700,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,1,4000000,Buy food,0,,2.25,Marginal Security,0
+2701,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3000000,0,,,0,,2.0,Marginal Security,0
+2702,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.0,Secure,0
+2703,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,11000000,1,25000000,Other,0,,2.0,Marginal Security,0
+2704,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,2500000,1,63000000,Other,0,,2.25,Marginal Security,0
+2705,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,2500000,1,63000000,Other,0,,2.25,Marginal Security,0
+2706,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,5000000,0,,,1,12000000,2.0,Marginal Security,0
+2707,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,5000000,0,,,1,12000000,2.0,Marginal Security,0
+2708,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.0,Marginal Security,0
+2709,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2200000,0,,,0,,1.75,Marginal Security,0
+2710,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3600000,1,12000000,Other,0,,2.0,Marginal Security,0
+2711,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,3000000,1,1500000,Buy productive inputs,0,,1.25,Secure,0
+2712,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,4,Work,2300000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2713,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,7000000,1,68000000,Cover health expenses,0,,1.5,Marginal Security,0
+2714,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",700000,0,,,1,50000,3.25,Moderate Insecurity,1
+2715,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,0,,,1,400000,1.0,Secure,0
+2716,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1500000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2717,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,"Other (income, chance, inheritance...)",2000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2718,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,600000,Other,0,,2.5,Moderate Insecurity,1
+2719,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,1,350000,1.0,Secure,0
+2720,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2400000,0,,,1,5000000,1.0,Secure,0
+2721,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3000000,1,99,Buy productive inputs,0,,1.0,Secure,0
+2722,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",2000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.5,Moderate Insecurity,1
+2723,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3800000,0,,,1,1500000,1.25,Secure,0
+3115,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,500000,2.0,Marginal Security,0
+3116,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+3117,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+3118,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3119,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,12000000,1,3700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3120,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,1,50000000,Other,1,200000,1.75,Marginal Security,0
+3121,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.25,Secure,0
+3122,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3123,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+3124,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3125,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5000000,1,400000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3126,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,0,,,1,3000000,1.0,Secure,0
+3127,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,10000000,1,300000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.75,Marginal Security,0
+3128,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,850000,1,1900000,Other,0,,2.25,Marginal Security,0
+3129,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+3130,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+3131,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1200000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,50000,1.75,Marginal Security,0
+3132,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,1200000,Pay school or education expenses,0,,1.75,Marginal Security,0
+3133,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,8000000,Other,0,,3.0,Moderate Insecurity,1
+3134,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,1,5000000,1.0,Secure,0
+3135,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,Buy productive inputs,0,,2.0,Marginal Security,0
+3136,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+3137,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+3138,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+3139,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,20000000,Other,0,,1.75,Marginal Security,0
+3140,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,1,0,0,0.0,0,0,0,2,Work,1550000,1,500000,Buy food,0,,1.5,Marginal Security,0
+3141,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,1600000,1,10000000,Other,1,700000,1.5,Marginal Security,0
+3142,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1860000,1,2500000,"Buy clothes, shoes",0,,2.0,Marginal Security,0
+3143,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,10000000,Other,0,,2.5,Moderate Insecurity,1
+3144,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3145,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,4000000,0,,,0,,1.0,Secure,0
+3146,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,7000000,Other,0,,2.75,Moderate Insecurity,1
+3147,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+3148,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,1,800000,Other,1,99,1.25,Secure,0
+3149,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3150,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,30000000,Other,0,,1.0,Secure,0
+3151,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,15000000,Buy productive inputs,0,,2.0,Marginal Security,0
+3152,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1200000,Buy food,0,,2.25,Marginal Security,0
+3153,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,25000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+3154,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,400000,Other,0,,2.5,Moderate Insecurity,1
+3155,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,600000,1.0,Secure,0
+3156,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,2.5,Moderate Insecurity,1
+3157,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,0,,,1,600000,1.25,Secure,0
+3158,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,650000,Other,0,,1.75,Marginal Security,0
+3159,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,518000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3160,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,225000,Other,0,,2.25,Marginal Security,0
+3161,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,1,12000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+3162,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,8000000,Other,0,,1.75,Marginal Security,0
+3163,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+3164,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,2.5,Moderate Insecurity,1
+3165,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2500000,1,6000000,Buy productive inputs,1,2200000,1.0,Secure,0
+3166,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,620000,1,300000,Other,1,624050,1.75,Marginal Security,0
+3167,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,620000,1,300000,Other,1,624050,1.75,Marginal Security,0
+3168,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,7000000,0,,,1,500000,1.0,Secure,0
+3169,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,10000000,Other,0,,1.25,Secure,0
+3170,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,1,3000000,Cover health expenses,0,,1.75,Marginal Security,0
+3171,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,Other,0,,2.25,Marginal Security,0
+3172,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,1,1000000,1.0,Secure,0
+3173,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,0,,1.25,Secure,0
+3174,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,1000000,Buy productive inputs,0,,2.0,Marginal Security,0
+3175,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,15000000,1,300000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,24000000,1.0,Secure,0
+3176,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work, ,1,10000000,Other,1,4000000,1.0,Secure,0
+3177,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,0,,,0,,1.75,Marginal Security,0
+3178,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,0,,1.5,Marginal Security,0
+3179,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,5000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+3180,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,950000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+3181,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,400000,Other,0,,1.25,Secure,0
+3182,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.25,Secure,0
+3183,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,0,,,0,,1.5,Marginal Security,0
+3184,bogota_dc,bogota__d_c_,11001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,15360000,1,3000000,Buy food,0,,3.0,Moderate Insecurity,1
+4634,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,1000000,Pay rent or house rent,0,,1.0,Secure,0
+4635,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,5000000,1.0,Secure,0
+4636,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,1,127000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4637,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,2.75,Moderate Insecurity,1
+4638,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,400000,1.0,Secure,0
+4639,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1800000,0,,,1,80000,1.75,Marginal Security,0
+4640,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1200000,0,,,0,,1.75,Marginal Security,0
+4641,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,65000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4642,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,65000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4643,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,4000000,0,,,1,99,1.5,Marginal Security,0
+4644,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,9000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,18000000,1.5,Marginal Security,0
+4645,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,6000000,1.0,Secure,0
+4646,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,150000,1.0,Secure,0
+4647,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,5000000,Pay rent or house rent,0,,3.75,Severe Insecurity,1
+4648,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Government assistance,135000,0,,,0,,3.0,Moderate Insecurity,1
+4649,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Government assistance,135000,0,,,0,,3.0,Moderate Insecurity,1
+4650,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,20000000,Other,0,,2.25,Marginal Security,0
+4651,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3500000,0,,,1,400000,1.5,Marginal Security,0
+4652,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.0,Secure,0
+4653,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2600000,1,6000000,Other,0,,1.75,Marginal Security,0
+4654,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1100000,0,,,0,,2.5,Moderate Insecurity,1
+4655,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1380000,1,700000,"Buy clothes, shoes",0,,2.0,Marginal Security,0
+4656,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,0,,,0,,2.25,Marginal Security,0
+4657,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",900000,0,,,1,300000,2.25,Marginal Security,0
+4658,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",2000000,0,,,1,500000,1.5,Marginal Security,0
+4659,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.5,Marginal Security,0
+4660,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+4661,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,50000000,Other,0,,2.25,Marginal Security,0
+4662,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,8000000,0,,,0,,1.75,Marginal Security,0
+4663,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,8000000,0,,,0,,1.75,Marginal Security,0
+4664,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,460000,0,,,0,,2.75,Moderate Insecurity,1
+4665,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,460000,0,,,0,,2.75,Moderate Insecurity,1
+4666,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,1000000,1.0,Secure,0
+4667,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,18000000,1.5,Marginal Security,0
+4668,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+4669,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,1,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+4670,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,1,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+4671,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,1,10000000,Other,0,,2.0,Marginal Security,0
+4672,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,1800000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4673,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,60000000,Other,0,,1.0,Secure,0
+4674,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,1.75,Marginal Security,0
+4675,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Pension,2300000,1,21000000,Buy productive inputs,0,,1.75,Marginal Security,0
+4676,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,1.75,Marginal Security,0
+4677,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+4678,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3500000,0,,,0,,1.0,Secure,0
+4679,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,6500000,0,,,0,,1.0,Secure,0
+4680,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+4681,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4682,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.75,Marginal Security,0
+5066,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,3000000,1.0,Secure,0
+5067,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+5068,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,1,300000,1.0,Secure,0
+5069,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,1,1000000,Other,0,,1.0,Secure,0
+5070,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,0,,1.5,Marginal Security,0
+5071,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,1000000,Other,0,,1.75,Marginal Security,0
+5072,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1500000,1,1300000,Other,1,700000,1.75,Marginal Security,0
+5073,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1050000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5074,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,30000000,Other,0,,2.0,Marginal Security,0
+5075,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1200000,1,1300000,Other,1,1000000,1.5,Marginal Security,0
+5076,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,600000,Pay rent or house rent,0,,2.0,Marginal Security,0
+5077,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,600000,2.5,Moderate Insecurity,1
+5078,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,6000000,0,,,1,4000000,2.25,Marginal Security,0
+5079,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,20000,0,,,0,,2.75,Moderate Insecurity,1
+5080,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1800000,Other,0,,2.25,Marginal Security,0
+5081,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,600000,Other,1,20000000,3.0,Moderate Insecurity,1
+5082,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,0,,,0,,2.25,Marginal Security,0
+5083,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1800000,Buy food,0,,2.25,Marginal Security,0
+5084,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,550000,1,26000000,Buy productive inputs,0,,1.75,Marginal Security,0
+5085,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,0,,,1,600000,1.75,Marginal Security,0
+5086,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.0,Secure,0
+5087,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,750000,0,,,0,,2.5,Moderate Insecurity,1
+5088,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4500000,1,4000000,"Cover basic services (water, electricity)",0,,1.0,Secure,0
+5089,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1900000,0,,,0,,1.5,Marginal Security,0
+5090,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,400000,1.0,Secure,0
+5091,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,4200000,Pay school or education expenses,0,,2.25,Marginal Security,0
+5092,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,10000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+5093,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1080000,1,800000,Buy food,0,,1.75,Marginal Security,0
+5094,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,5000000,Buy productive inputs,1,400000,1.75,Marginal Security,0
+5095,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+5096,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,1500000,Other,0,,2.5,Moderate Insecurity,1
+5097,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,22000000,Buy productive inputs,1,600000,1.5,Marginal Security,0
+5098,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,1,3000000,2.25,Marginal Security,0
+5099,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Work,12000000,0,,,1,16000000,1.0,Secure,0
+5100,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5101,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,0,,,0,,1.75,Marginal Security,0
+5102,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5103,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,2000000,"Cover basic services (water, electricity)",1,3000000,2.0,Marginal Security,0
+5104,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,0,,2.25,Marginal Security,0
+5105,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,50000,1.0,Secure,0
+5106,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2700000,1,250000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5107,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1100000,0,,,0,,2.0,Marginal Security,0
+5108,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,300000,Buy productive inputs,0,,1.75,Marginal Security,0
+5109,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,2200000,1,9000000,Pay rent or house rent,0,,3.25,Moderate Insecurity,1
+5110,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,1,2000000,1.0,Secure,0
+5111,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,40000000,Other,0,,1.0,Secure,0
+5112,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,1,400000,1.0,Secure,0
+5113,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.0,Secure,0
+5114,bogota_dc,bogota__d_c_,11001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.0,Secure,0
+6505,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,260000,0,,,0,,1.5,Marginal Security,0
+6506,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,0,,1.0,Secure,0
+6507,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,1,300000,Other,0,,2.0,Marginal Security,0
+6508,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,6000000,Pay rent or house rent,0,,3.0,Moderate Insecurity,1
+6509,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,6000000,Pay rent or house rent,0,,3.0,Moderate Insecurity,1
+6510,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,0,,,0,,1.5,Marginal Security,0
+6511,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+6512,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.25,Secure,0
+6513,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,1,500000,1.25,Secure,0
+6514,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",300000,0,,,0,,1.0,Secure,0
+6515,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,0,,1.0,Secure,0
+6516,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4000000,0,,,0,,1.25,Secure,0
+6517,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,1300000,0,,,0,,1.0,Secure,0
+6518,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,0,,,0,,1.0,Secure,0
+6519,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6520,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,0,,,1,50000,1.25,Secure,0
+6521,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,2,Pension,4000000,1,100000000,Pay school or education expenses,1,3000000,1.0,Secure,0
+6522,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+6523,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,0,,,0,,1.0,Secure,0
+6524,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,2000000,Other,0,,1.5,Marginal Security,0
+6525,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,1,120000,1.5,Marginal Security,0
+6526,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,7000000,1,100000000,Other,0,,1.75,Marginal Security,0
+6527,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,0,,1.0,Secure,0
+6528,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2900000,0,,,0,,1.0,Secure,0
+6529,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1200000,1,2000000,Other,0,,1.75,Marginal Security,0
+6530,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,1,6000000,pay trips,1,15000000,1.5,Marginal Security,0
+6531,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,1,6000000,pay trips,1,15000000,1.5,Marginal Security,0
+6532,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,5000000,Other,0,,1.75,Marginal Security,0
+6533,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1200000,0,,,1,1000000,1.0,Secure,0
+6534,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,0,,,0,,2.5,Moderate Insecurity,1
+6535,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6536,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,600000,1,350000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6537,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,0,,,0,,2.0,Marginal Security,0
+6538,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,400000,0,,,0,,2.5,Moderate Insecurity,1
+6539,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,400000,0,,,0,,2.5,Moderate Insecurity,1
+6540,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,870000,0,,,0,,2.75,Moderate Insecurity,1
+6541,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6542,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,0,,,0,,3.0,Moderate Insecurity,1
+6543,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,205000,Buy productive inputs,0,,2.0,Marginal Security,0
+6544,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,205000,Buy productive inputs,0,,2.0,Marginal Security,0
+6545,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.5,Marginal Security,0
+6546,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,2000000,0,,,0,,1.0,Secure,0
+6547,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,200000,1.0,Secure,0
+6548,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,400000,0,,,0,,2.25,Marginal Security,0
+6549,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",6000000,0,,,1,99,1.0,Secure,0
+6550,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,5000000,1,5000000,Other,0,,1.0,Secure,0
+6551,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,1,200000,1.0,Secure,0
+6819,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.0,Secure,0
+6820,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3800000,1,5000000,Pay rent or house rent,1,4000000,1.0,Secure,0
+6821,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6822,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,8000000,1,15000000,pay trips,0,,1.0,Secure,0
+6823,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+6824,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,1000000,1.0,Secure,0
+6825,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+6826,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,55000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,10000000,1.0,Secure,0
+6827,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.25,Secure,0
+6828,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4500000,1,2000000,Other,0,,1.25,Secure,0
+6829,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,2.25,Marginal Security,0
+6830,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,2000000,1.0,Secure,0
+6831,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+6832,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,1,8000000,Other,0,,1.5,Marginal Security,0
+6833,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,150000,"Cover basic services (water, electricity)",0,,1.25,Secure,0
+6834,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+6835,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Government assistance,700000,0,,,0,,1.75,Marginal Security,0
+6836,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,1,1300000,1.75,Marginal Security,0
+6837,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1100000,1,1800000,Other,0,,3.25,Moderate Insecurity,1
+6838,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,400000,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+6839,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6840,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,600000,1,800000,Buy food,0,,2.25,Marginal Security,0
+6841,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,360000,1,15000000,Other,1,500000,2.25,Marginal Security,0
+6842,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,2000000,1.0,Secure,0
+6843,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6844,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,99,Other,1,200000,1.25,Secure,0
+6845,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,Buy productive inputs,0,,2.0,Marginal Security,0
+6846,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,1000000,Other,0,,1.0,Secure,0
+6847,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,3.5,Severe Insecurity,1
+6848,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,3000000,1.0,Secure,0
+6849,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+6850,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,18000000,Other,1,300000,1.0,Secure,0
+6851,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",750000,0,,,1,1200000,1.25,Secure,0
+6852,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3500000,0,,,1,700000,1.0,Secure,0
+6853,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6854,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,3360000,Cover health expenses,0,,2.25,Marginal Security,0
+6855,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,7000000,0,,,1,600000,1.0,Secure,0
+6856,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1000000,Pay rent or house rent,0,,1.25,Secure,0
+6857,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,15000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,24000000,1.75,Marginal Security,0
+6858,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6859,bogota_dc,bogota__d_c_,11001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",7000000,1,750000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.0,Secure,0
+7934,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1180000,1,2300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7935,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,0,,,0,,1.0,Secure,0
+7936,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,920000,1,50000,Other,0,,2.0,Marginal Security,0
+7937,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,0,,2.25,Marginal Security,0
+7938,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.25,Marginal Security,0
+7939,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,940000,1,5000000,Pay rent or house rent,0,,1.75,Marginal Security,0
+7940,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,430000,0,,,0,,1.5,Marginal Security,0
+7941,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,2.5,Moderate Insecurity,1
+7942,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,1.0,Secure,0
+7943,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+7944,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+7945,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,130000,0,,,0,,3.25,Moderate Insecurity,1
+7946,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+7947,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.25,Marginal Security,0
+7948,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",530000,0,,,0,,1.75,Marginal Security,0
+7949,bogota_dc,bogota__d_c_,11001,1,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,16000000,Other,0,,2.75,Moderate Insecurity,1
+7950,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.0,Marginal Security,0
+7951,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Government assistance,130000,0,,,0,,3.25,Moderate Insecurity,1
+7952,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,4000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+8090,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,250008,0,,,1,250000,2.0,Marginal Security,0
+8091,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",4500000,0,,,1,10000000,1.0,Secure,0
+8092,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,0,,1.0,Secure,0
+8093,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,5000000,0,,,1,4000000,1.0,Secure,0
+8094,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2800000,0,,,1,5000000,1.0,Secure,0
+8095,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,13000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+8096,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+8097,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,10000,1,1000,Other,0,,3.5,Severe Insecurity,1
+8098,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.75,Marginal Security,0
+8099,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,330000,Other,0,,2.0,Marginal Security,0
+8100,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,20000,0,,,0,,2.25,Marginal Security,0
+8101,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,200000,1.75,Marginal Security,0
+8102,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,480000,Other,0,,1.75,Marginal Security,0
+8103,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,600000,Other,0,,2.75,Moderate Insecurity,1
+8104,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,1.75,Marginal Security,0
+8105,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,30000000,Other,1,2000000,1.0,Secure,0
+8106,bogota_dc,bogota__d_c_,11001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,3.0,Moderate Insecurity,1

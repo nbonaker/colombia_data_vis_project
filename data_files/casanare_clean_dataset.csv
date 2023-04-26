@@ -1,0 +1,208 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+94,casanare,yopal,85001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+485,casanare,paz_de_ariporo,85250,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,14000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+642,casanare,85225,85225,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1665000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+643,casanare,yopal,85001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1400000,0,,,0,,2.5,Moderate Insecurity,1
+947,casanare,paz_de_ariporo,85250,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.75,Moderate Insecurity,1
+1231,casanare,85225,85225,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,400000,0,,,0,,1.75,Marginal Security,0
+1232,casanare,85225,85225,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,680000,0,,,0,,2.5,Moderate Insecurity,1
+1233,casanare,aguazul,85010,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1600000,0,,,0,,2.5,Moderate Insecurity,1
+1234,casanare,aguazul,85010,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1139000,0,,,0,,3.0,Moderate Insecurity,1
+1235,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,60000,0,,,0,,3.0,Moderate Insecurity,1
+1236,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1237,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1238,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,3000000,Buy food,0,,1.75,Marginal Security,0
+1239,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2700000,Buy food,0,,2.5,Moderate Insecurity,1
+1240,casanare,yopal,85001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+1741,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Work,400000,0,,,1,100000,1.5,Marginal Security,0
+1742,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,1900000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1743,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,100000,2.75,Moderate Insecurity,1
+1744,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,120000,Other,0,,3.0,Moderate Insecurity,1
+1745,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,1,0.0,0,0,0,1,Work,1400000,0,,,0,,1.75,Marginal Security,0
+1746,casanare,paz_de_ariporo,85250,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1035000,1,7000000,Other,0,,2.0,Marginal Security,0
+2313,casanare,85225,85225,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Work,1200000,1,400000,Other,0,,1.75,Marginal Security,0
+2314,casanare,aguazul,85010,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+2315,casanare,aguazul,85010,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,680000,1,6000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+2316,casanare,aguazul,85010,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1200000,0,,,1,500000,1.75,Marginal Security,0
+2317,casanare,aguazul,85010,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,2000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+2318,casanare,aguazul,85010,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,4000000,Other,0,,2.0,Marginal Security,0
+2319,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,1,400000,2.75,Moderate Insecurity,1
+2320,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,1.75,Marginal Security,0
+2321,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2322,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,0,,2.25,Marginal Security,0
+2323,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,1,7000000,Other,0,,2.5,Moderate Insecurity,1
+2324,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,400000,Other,0,,2.25,Marginal Security,0
+2325,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,1,700000,2.25,Marginal Security,0
+2326,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4000000,1,22000000,Other,0,,1.25,Secure,0
+2327,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,0,,,0,,3.25,Moderate Insecurity,1
+2328,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,100000,Buy food,0,,3.25,Moderate Insecurity,1
+2329,casanare,yopal,85001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2675,casanare,paz_de_ariporo,85250,4,,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.25,Marginal Security,0
+2676,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+3050,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,755000,0,,,0,,2.25,Marginal Security,0
+3051,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,560000,1,107000,Other,0,,1.5,Marginal Security,0
+3052,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1500000,Buy productive inputs,0,,1.5,Marginal Security,0
+3053,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,460000,0,,,0,,1.75,Marginal Security,0
+3054,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3055,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1480000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,2.5,Moderate Insecurity,1
+3056,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,675000,0,,,0,,1.75,Marginal Security,0
+3057,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,920000,0,,,0,,2.0,Marginal Security,0
+3058,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1500000,Other,0,,1.75,Marginal Security,0
+3059,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+3060,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,400000,1,7000000,Cover health expenses,0,,2.25,Marginal Security,0
+3061,casanare,paz_de_ariporo,85250,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,550000,1,600000,Pay school or education expenses,0,,3.5,Severe Insecurity,1
+4066,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+4067,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+4068,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,3.5,Severe Insecurity,1
+4069,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,1,0,0.0,0,0,0,2,Work,1000000,1,4000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+4070,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+4071,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+4072,casanare,85225,85225,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,930000,1,120000,Other,0,,2.0,Marginal Security,0
+4073,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1500000,1,500000,Cover health expenses,1,700000,1.25,Secure,0
+4074,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+4075,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4076,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,900000,1,18000000,Other,0,,2.0,Marginal Security,0
+4077,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,32000000,Other,0,,1.5,Marginal Security,0
+4078,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,5000000,Buy productive inputs,1,800000,1.5,Marginal Security,0
+4079,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,100000,0,,,0,,3.5,Severe Insecurity,1
+4080,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,527000,1,10000000,Other,0,,2.25,Marginal Security,0
+4081,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,400000,1,78000,Other,0,,4.0,Severe Insecurity,1
+4082,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,30000000,Other,1,2000000,1.75,Marginal Security,0
+4083,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+4084,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,216000,Other,0,,2.25,Marginal Security,0
+4085,casanare,aguazul,85010,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,550000,0,,,1,300000,3.0,Moderate Insecurity,1
+4086,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+4087,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,1,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,150000,1,200000,Other,0,,2.5,Moderate Insecurity,1
+4088,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4089,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,400000,2.0,Marginal Security,0
+4090,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,100000,2.5,Moderate Insecurity,1
+4091,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,1.0,Secure,0
+4092,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,0,,2.25,Marginal Security,0
+4093,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,1,200000,2.25,Marginal Security,0
+4094,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4095,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,580000,0,,,0,,2.5,Moderate Insecurity,1
+4096,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,700000,0,,,1,2000000,2.25,Marginal Security,0
+4097,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,2080000,1,380000,Buy food,0,,1.75,Marginal Security,0
+4098,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.25,Marginal Security,0
+4099,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1030000,0,,,0,,1.75,Marginal Security,0
+4100,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,250000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,1.5,Marginal Security,0
+4101,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,580000,1,5000000,Buy food,0,,2.75,Moderate Insecurity,1
+4102,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3010500,1,132000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4103,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.25,Marginal Security,0
+4104,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,1,400000,Other,1,100000,3.5,Severe Insecurity,1
+4105,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,750000,0,,,1,100000,2.75,Moderate Insecurity,1
+4106,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,2000000,Buy food,0,,2.25,Marginal Security,0
+4107,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+4108,casanare,yopal,85001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,830000,Other,0,,1.0,Secure,0
+4600,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,1,1,1,0.0,0,0,0,1,Government assistance,210000,1,400000,Other,0,,1.75,Marginal Security,0
+5004,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+5005,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1900000,1,7000000,Other,0,,1.25,Secure,0
+5006,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+5007,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,640000,0,,,0,,2.75,Moderate Insecurity,1
+5008,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",2000000,1,2000000,Other,1,99,1.0,Secure,0
+5009,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,0,,,1,99,1.75,Marginal Security,0
+5010,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,1,400000,2.25,Marginal Security,0
+5011,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+5012,casanare,paz_de_ariporo,85250,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,80000,0,,,0,,2.5,Moderate Insecurity,1
+5931,casanare,85225,85225,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,100000,2.5,Moderate Insecurity,1
+5932,casanare,85225,85225,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,1,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,6000000,Other,0,,2.5,Moderate Insecurity,1
+5933,casanare,85225,85225,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,115000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+5934,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.25,Marginal Security,0
+5935,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+5936,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,480000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5937,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.75,Marginal Security,0
+5938,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5939,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.25,Secure,0
+5940,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,315000,Other,0,,1.5,Marginal Security,0
+5941,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,1,800000,2.5,Moderate Insecurity,1
+5942,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,1,500000,Other,0,,1.25,Secure,0
+5943,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,1,9000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+5944,casanare,aguazul,85010,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,392000,Other,0,,2.75,Moderate Insecurity,1
+5945,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,1,400000,1.0,Secure,0
+5946,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,1200000,1.0,Secure,0
+5947,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,3000000,1.0,Secure,0
+5948,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,0,,1.0,Secure,0
+5949,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+5950,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+5951,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,250000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+5952,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,1500000,Other,0,,2.0,Marginal Security,0
+5953,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.5,Marginal Security,0
+5954,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2800000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,240000,1.25,Secure,0
+5955,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4500000,1,98000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1200000,1.75,Marginal Security,0
+5956,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+5957,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5958,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.0,Marginal Security,0
+5959,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,0,,,0,,1.0,Secure,0
+5960,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+5961,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,300000,Buy productive inputs,0,,1.75,Marginal Security,0
+5962,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Buy productive inputs,0,,1.5,Marginal Security,0
+5963,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2700000,0,,,0,,1.0,Secure,0
+5964,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,850000,0,,,1,800000,1.75,Marginal Security,0
+5965,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+5966,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Government assistance,250000,0,,,0,,3.5,Severe Insecurity,1
+5967,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,1200000,Buy food,0,,2.25,Marginal Security,0
+5968,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,1.75,Marginal Security,0
+5969,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.5,Marginal Security,0
+5970,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,1.5,Marginal Security,0
+5971,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1035000,1,400000,Buy food,0,,2.0,Marginal Security,0
+5972,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+5973,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,99,Other,0,,1.25,Secure,0
+5974,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,800000,0,,,1,400000,2.0,Marginal Security,0
+5975,casanare,yopal,85001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,90000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+6470,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,2000000,1.75,Marginal Security,0
+6766,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+6767,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2600000,1,60000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+6768,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,6500000,Buy productive inputs,0,,2.0,Marginal Security,0
+6769,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+6770,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,12000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+6771,casanare,paz_de_ariporo,85250,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,500000,1.75,Marginal Security,0
+7522,casanare,85225,85225,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,2000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+7523,casanare,85225,85225,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",900000,0,,,0,,1.75,Marginal Security,0
+7524,casanare,85225,85225,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Pension,4000000,1,10000000,Cover health expenses,0,,1.75,Marginal Security,0
+7525,casanare,85225,85225,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,12000000,Other,0,,1.75,Marginal Security,0
+7526,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,10000000,Buy productive inputs,0,,2.25,Marginal Security,0
+7527,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,35000000,Pay rent or house rent,0,,2.0,Marginal Security,0
+7528,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7529,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+7530,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Buy productive inputs,0,,1.75,Marginal Security,0
+7531,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.0,Secure,0
+7532,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,1000000,1.5,Marginal Security,0
+7533,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,0,,,0,,2.25,Marginal Security,0
+7534,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,100000,0,,,1,200000,3.25,Moderate Insecurity,1
+7535,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,450000,0,,,1,100000,2.25,Marginal Security,0
+7536,casanare,aguazul,85010,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,130000,0,,,0,,3.5,Severe Insecurity,1
+7537,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,0,,,1,1000000,2.25,Marginal Security,0
+7538,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7539,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.0,Secure,0
+7540,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.75,Marginal Security,0
+7541,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,10000000,Pay school or education expenses,1,100000,2.0,Marginal Security,0
+7542,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,1.25,Secure,0
+7543,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,300000,0,,,0,,1.75,Marginal Security,0
+7544,casanare,yopal,85001,2,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Pension,2000000,1,5000000,Buy productive inputs,1,200000,2.25,Marginal Security,0
+7545,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7546,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,350000,1.75,Marginal Security,0
+7547,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,25000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+7548,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,3.25,Moderate Insecurity,1
+7549,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,9000000,0,,,1,35000000,1.0,Secure,0
+7550,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,120000,Other,1,300000,2.25,Marginal Security,0
+7551,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",500000,0,,,0,,1.5,Marginal Security,0
+7552,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,40000000,Other,1,1000000,1.0,Secure,0
+7553,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,324000,Other,0,,1.75,Marginal Security,0
+7554,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,910000,1,1500000,Other,1,200000,1.75,Marginal Security,0
+7555,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+7556,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,1000000,1,133000,Other,0,,2.5,Moderate Insecurity,1
+7557,casanare,yopal,85001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+7912,casanare,paz_de_ariporo,85250,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,1,200000,Cover health expenses,1,30000,1.25,Secure,0
+8075,casanare,paz_de_ariporo,85250,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Government assistance,210000,0,,,0,,1.25,Secure,0
+8400,casanare,85225,85225,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+8401,casanare,85225,85225,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,300000,1,145000,Other,0,,2.25,Marginal Security,0
+8402,casanare,aguazul,85010,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,120000,0,,,0,,2.0,Marginal Security,0
+8403,casanare,aguazul,85010,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.25,Marginal Security,0
+8404,casanare,aguazul,85010,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,0,,1.0,Secure,0
+8405,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,15000000,Other,0,,1.25,Secure,0
+8406,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+8407,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+8408,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,100000000,Other,0,,1.0,Secure,0
+8409,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,107000,0,,,0,,2.75,Moderate Insecurity,1
+8410,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,0,,,0,,1.5,Marginal Security,0
+8411,casanare,yopal,85001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,2.0,Marginal Security,0

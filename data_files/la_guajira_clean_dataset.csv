@@ -1,0 +1,270 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+13,la_guajira,distraccion,44098,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,4000000,Buy productive inputs,0,,4.0,Severe Insecurity,1
+14,la_guajira,distraccion,44098,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,4000000,Buy productive inputs,0,,4.0,Severe Insecurity,1
+15,la_guajira,riohacha,44001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,200000,1,109320,Other,0,,3.5,Severe Insecurity,1
+16,la_guajira,riohacha,44001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,200000,1,109320,Other,0,,3.5,Severe Insecurity,1
+32,la_guajira,riohacha,44001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,0,,,0,,2.25,Marginal Security,0
+85,la_guajira,fonseca,44279,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.75,Severe Insecurity,1
+107,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,0,0.0,0,0,0,3,Work,700000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+108,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,0,0.0,0,0,0,3,Work,700000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+109,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,0,0.0,0,0,0,3,Work,700000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+110,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+111,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,3500000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.75,Marginal Security,0
+124,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,860000,0,,,1,250000,2.75,Moderate Insecurity,1
+125,la_guajira,riohacha,44001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,860000,0,,,1,250000,2.75,Moderate Insecurity,1
+155,la_guajira,dibulla,44090,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,2000000,Buy food,0,,3.5,Severe Insecurity,1
+202,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,3000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+203,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,3000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+204,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,3000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+205,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+206,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+251,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,150000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+252,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,150000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+253,la_guajira,distraccion,44098,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,150000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+254,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,1.75,Marginal Security,0
+255,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+256,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+257,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+258,la_guajira,riohacha,44001,8,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+404,la_guajira,riohacha,44001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+405,la_guajira,riohacha,44001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+406,la_guajira,riohacha,44001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+407,la_guajira,riohacha,44001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,1990000,Other,1,300000,3.25,Moderate Insecurity,1
+408,la_guajira,riohacha,44001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+469,la_guajira,distraccion,44098,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+585,la_guajira,dibulla,44090,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+586,la_guajira,fonseca,44279,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,4.0,Severe Insecurity,1
+587,la_guajira,fonseca,44279,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1900000,0,,,0,,2.75,Moderate Insecurity,1
+588,la_guajira,fonseca,44279,7,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,14000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+758,la_guajira,distraccion,44098,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+759,la_guajira,distraccion,44098,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.25,Moderate Insecurity,1
+760,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,120000,0,,,0,,2.0,Marginal Security,0
+761,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,120000,0,,,0,,2.0,Marginal Security,0
+762,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,600000,0,,,0,,1.75,Marginal Security,0
+763,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+764,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+765,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,2000000,Other,1,200000,2.75,Moderate Insecurity,1
+766,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,2000000,Other,1,200000,2.75,Moderate Insecurity,1
+767,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Cover basic services (water, electricity)",1,500000,3.25,Moderate Insecurity,1
+768,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Cover basic services (water, electricity)",1,500000,3.25,Moderate Insecurity,1
+769,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+770,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,0,,1.5,Marginal Security,0
+771,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+772,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+901,la_guajira,distraccion,44098,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,1,1000000,Buy food,0,,3.25,Moderate Insecurity,1
+902,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+903,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,440000,0,,,0,,3.0,Moderate Insecurity,1
+904,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1370000,1,1500000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+905,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1370000,1,1500000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+906,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,0,,,0,,2.5,Moderate Insecurity,1
+907,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,8000000,1,130000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1800000,1.0,Secure,0
+908,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,3000000,Buy food,1,500000,1.75,Marginal Security,0
+909,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+910,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+911,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,130000,0,,,0,,2.5,Moderate Insecurity,1
+912,la_guajira,riohacha,44001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,100000,Buy food,0,,3.0,Moderate Insecurity,1
+1129,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,200000,2.25,Marginal Security,0
+1130,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,380000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1131,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,12000000,Pay rent or house rent,1,400000,1.75,Marginal Security,0
+1132,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,4000000,Buy food,1,500000,2.25,Marginal Security,0
+1133,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+1134,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,7000000,Other,0,,3.75,Severe Insecurity,1
+1135,la_guajira,dibulla,44090,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,400000,1,3500000,Other,0,,2.75,Moderate Insecurity,1
+1136,la_guajira,fonseca,44279,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1137,la_guajira,fonseca,44279,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,1,450000,Buy productive inputs,0,,2.25,Marginal Security,0
+1138,la_guajira,fonseca,44279,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,5000000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+1139,la_guajira,fonseca,44279,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,552000,0,,,0,,2.5,Moderate Insecurity,1
+1447,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+1448,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,300000,2.25,Marginal Security,0
+1449,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,1,25000000,Other,1,600000,2.5,Moderate Insecurity,1
+1450,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,1,25000000,Other,1,600000,2.5,Moderate Insecurity,1
+1451,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,1,25000000,Other,1,600000,2.5,Moderate Insecurity,1
+1452,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,1,3000000,1.0,Secure,0
+1453,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,1,500000,2.25,Marginal Security,0
+1454,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+1455,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+1456,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+1457,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+1458,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,15000000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+1459,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,0,,3.25,Moderate Insecurity,1
+1460,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,0,,3.25,Moderate Insecurity,1
+1660,la_guajira,distraccion,44098,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+1661,la_guajira,distraccion,44098,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,2.5,Moderate Insecurity,1
+1662,la_guajira,distraccion,44098,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+1663,la_guajira,distraccion,44098,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+1664,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,300000,1.5,Marginal Security,0
+1665,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,500000,"Cover basic services (water, electricity)",1,300000,3.0,Moderate Insecurity,1
+1666,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+1667,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,3800000,Other,0,,2.5,Moderate Insecurity,1
+1668,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+1669,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,1,7530000,Buy food,0,,2.0,Marginal Security,0
+1670,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,4800000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+1671,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,390000,Other,0,,1.25,Secure,0
+1672,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",80000,0,,,0,,3.25,Moderate Insecurity,1
+1673,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,470000,0,,,0,,2.25,Marginal Security,0
+1674,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,1000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+1675,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+1676,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,700000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+1677,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,700000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+1678,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,750000,1,160000,Buy food,0,,2.75,Moderate Insecurity,1
+1679,la_guajira,riohacha,44001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+2111,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+2112,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,1,3000000,Cover health expenses,0,,3.5,Severe Insecurity,1
+2113,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,3.0,Moderate Insecurity,1
+2114,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,1,2000000,Buy food,0,,3.0,Moderate Insecurity,1
+2115,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3000000,1,100000,Buy food,1,200000,2.5,Moderate Insecurity,1
+2116,la_guajira,dibulla,44090,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+2117,la_guajira,fonseca,44279,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,2600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2118,la_guajira,fonseca,44279,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,934400,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2119,la_guajira,fonseca,44279,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,360000,1,500000,Buy food,0,,2.75,Moderate Insecurity,1
+2120,la_guajira,fonseca,44279,5,1.0,0,0,1,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,5000000,Other,0,,2.75,Moderate Insecurity,1
+2121,la_guajira,fonseca,44279,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,153000,Other,1,300000,2.75,Moderate Insecurity,1
+2122,la_guajira,fonseca,44279,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,300000,0,,,0,,3.25,Moderate Insecurity,1
+2619,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+2620,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+2621,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+2622,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Remittances from migrants or help from family/friends,700000,0,,,0,,2.5,Moderate Insecurity,1
+2623,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,530000,0,,,1,800000,3.25,Moderate Insecurity,1
+2624,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,530000,0,,,1,800000,3.25,Moderate Insecurity,1
+2625,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2626,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.0,Marginal Security,0
+2627,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+2628,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+2629,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,530000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+2630,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,530000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+2631,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,12000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+2632,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,2.0,Marginal Security,0
+2633,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,2.25,Marginal Security,0
+2634,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,Buy food,0,,2.5,Moderate Insecurity,1
+2635,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+2949,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+2950,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Buy food,0,,2.5,Moderate Insecurity,1
+2951,la_guajira,distraccion,44098,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,1500000,Buy food,0,,3.25,Moderate Insecurity,1
+2952,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,900060,0,,,0,,2.25,Marginal Security,0
+2953,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,3000000,1,26000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2954,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+2955,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,ns_nr,,,1,600000,1.75,Marginal Security,0
+2956,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+2957,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,1,1000000,Buy food,0,,1.25,Secure,0
+2958,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2959,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,2000000,Other,0,,1.0,Secure,0
+2960,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,12000000,Other,1,350000,2.25,Marginal Security,0
+2961,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,10000000,0,,,0,,1.0,Secure,0
+2962,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2963,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,20000000,Other,0,,2.0,Marginal Security,0
+2964,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,1,500000,1.75,Marginal Security,0
+2965,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+2966,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,1,0,1,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+2967,la_guajira,riohacha,44001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,1,0,1,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+3787,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+3788,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,2000000,Buy productive inputs,0,,1.5,Marginal Security,0
+3789,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,250000,1,1000000,Cover health expenses,0,,2.25,Marginal Security,0
+3790,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,673000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3791,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,0,,,0,,1.0,Secure,0
+3792,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+3793,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,700000,Other,0,,1.75,Marginal Security,0
+3794,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+3795,la_guajira,dibulla,44090,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1050000,0,,,1,600000,2.75,Moderate Insecurity,1
+3796,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,1,150000,2.0,Marginal Security,0
+3797,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,140000,0,,,0,,4.0,Severe Insecurity,1
+3798,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,800000,1,4000000,"Cover basic services (water, electricity)",1,900000,1.75,Marginal Security,0
+3799,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,3000000,Buy food,0,,2.0,Marginal Security,0
+3800,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+3801,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+3802,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,800000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+3803,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+3804,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,320000,0,,,0,,3.25,Moderate Insecurity,1
+3805,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+3806,la_guajira,fonseca,44279,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,1.75,Marginal Security,0
+4544,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,1,60000,3.0,Moderate Insecurity,1
+4545,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+4546,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,15000000,Other,0,,1.75,Marginal Security,0
+4547,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,250000,0,,,0,,2.0,Marginal Security,0
+4548,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,20000000,Cover health expenses,0,,2.0,Marginal Security,0
+4549,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,20000000,Cover health expenses,0,,2.0,Marginal Security,0
+4550,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,1,800000,Other,0,,1.25,Secure,0
+4551,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,1,800000,Other,0,,1.25,Secure,0
+4898,la_guajira,distraccion,44098,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+4899,la_guajira,distraccion,44098,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,0,,,0,,1.75,Marginal Security,0
+4900,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4901,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,800000,0,,,0,,2.25,Marginal Security,0
+4902,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+4903,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,1,2000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4904,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.25,Secure,0
+4905,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,5000000,1,3800000,Other,1,120000,1.5,Marginal Security,0
+4906,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.25,Marginal Security,0
+4907,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2600000,0,,,1,1200000,1.0,Secure,0
+4908,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,8000000,Pay school or education expenses,0,,1.0,Secure,0
+4909,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Other,0,,1.75,Marginal Security,0
+4910,la_guajira,riohacha,44001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Other,0,,1.75,Marginal Security,0
+5684,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,800000,1.5,Marginal Security,0
+5685,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,300000,Buy food,0,,2.75,Moderate Insecurity,1
+5686,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+5687,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+5688,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,1,200000,2.0,Marginal Security,0
+5689,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+5690,la_guajira,dibulla,44090,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,3.5,Severe Insecurity,1
+5691,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+5692,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+5693,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,80000,0,,,0,,1.75,Marginal Security,0
+5694,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,1,50000,2.0,Marginal Security,0
+5695,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,160000,0,,,0,,2.5,Moderate Insecurity,1
+5696,la_guajira,fonseca,44279,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+6402,la_guajira,distraccion,44098,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,450000,1,181000,Buy productive inputs,0,,1.75,Marginal Security,0
+6403,la_guajira,distraccion,44098,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,450000,1,181000,Buy productive inputs,0,,1.75,Marginal Security,0
+6404,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,1,105000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+6405,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,350000,1,2500000,Buy food,0,,1.75,Marginal Security,0
+6406,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,1000000,0,,,0,,1.5,Marginal Security,0
+6407,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.0,Marginal Security,0
+6408,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,1,300000,2.5,Moderate Insecurity,1
+6688,la_guajira,distraccion,44098,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+6689,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Work,500000,1,1500000,Other,0,,1.5,Marginal Security,0
+6690,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6691,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,99,Other,1,99,1.75,Marginal Security,0
+6692,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+6693,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,7000000,"Cover basic services (water, electricity)",1,2000000,2.25,Marginal Security,0
+6694,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,20000000,1.0,Secure,0
+6695,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6696,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6697,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6698,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+6699,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+6700,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+6701,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,4.0,Severe Insecurity,1
+6702,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,1.75,Marginal Security,0
+6703,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+6704,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,650000,Pay rent or house rent,0,,2.25,Marginal Security,0
+6705,la_guajira,riohacha,44001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,10000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+7328,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+7329,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+7330,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,600000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7331,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,The household receives no income of any kind,80000,0,,,0,,2.0,Marginal Security,0
+7332,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,300000,1,12000000,Other,0,,1.75,Marginal Security,0
+7333,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,1.5,Marginal Security,0
+7334,la_guajira,dibulla,44090,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+7335,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,20000,"Cover basic services (water, electricity)",1,600000,3.5,Severe Insecurity,1
+7336,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,270000,0,,,0,,3.0,Moderate Insecurity,1
+7337,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,960000,1,50000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+7338,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,1900000,Buy food,0,,2.75,Moderate Insecurity,1
+7339,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1600000,1,2000000,Cover health expenses,1,2800000,1.0,Secure,0
+7340,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,4.0,Severe Insecurity,1
+7341,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,2.0,Marginal Security,0
+7342,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+7343,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.0,Secure,0
+7344,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,1,2300000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+7345,la_guajira,fonseca,44279,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,3.25,Moderate Insecurity,1
+7884,la_guajira,distraccion,44098,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,150000,0,,,0,,2.5,Moderate Insecurity,1
+7885,la_guajira,distraccion,44098,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,0,,,0,,1.0,Secure,0
+7886,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,1.75,Marginal Security,0
+7887,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,400000,0,,,0,,2.75,Moderate Insecurity,1
+7888,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,1.75,Marginal Security,0
+8039,la_guajira,distraccion,44098,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,4.0,Severe Insecurity,1
+8040,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,50000,0,,,0,,3.25,Moderate Insecurity,1
+8041,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,2.75,Moderate Insecurity,1
+8042,la_guajira,riohacha,44001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,2200000,Pay rent or house rent,0,,1.75,Marginal Security,0
+8317,la_guajira,dibulla,44090,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+8318,la_guajira,dibulla,44090,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,1.75,Marginal Security,0
+8319,la_guajira,fonseca,44279,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,140000,0,,,0,,4.0,Severe Insecurity,1
+8320,la_guajira,fonseca,44279,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,400000,0,,,0,,2.0,Marginal Security,0
+8321,la_guajira,fonseca,44279,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,440000,0,,,0,,1.75,Marginal Security,0
+8322,la_guajira,fonseca,44279,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,12000000,Buy productive inputs,0,,1.25,Secure,0

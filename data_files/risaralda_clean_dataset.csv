@@ -1,0 +1,205 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+81,risaralda,santa_rosa_de_cabal,66682,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,20000000,Other,0,,1.5,Marginal Security,0
+148,risaralda,santa_rosa_de_cabal,66682,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+307,risaralda,dosquebradas,66170,8,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,5000000,Other,0,,3.75,Severe Insecurity,1
+308,risaralda,dosquebradas,66170,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,0,,2.5,Moderate Insecurity,1
+309,risaralda,marsella,66440,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work, ,0,,,0,,2.25,Marginal Security,0
+310,risaralda,pereira,66001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,ns_nr,,,0,,3.0,Moderate Insecurity,1
+547,risaralda,pereira,66001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,900000,0,,,0,,1.5,Marginal Security,0
+1056,risaralda,dosquebradas,66170,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1057,risaralda,dosquebradas,66170,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,20000000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+1058,risaralda,dosquebradas,66170,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,1,450000,"Cover basic services (water, electricity)",0,,3.75,Severe Insecurity,1
+1059,risaralda,marsella,66440,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,0,,,0,,1.5,Marginal Security,0
+1060,risaralda,marsella,66440,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,480000,0,,,0,,2.0,Marginal Security,0
+1061,risaralda,pereira,66001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1062,risaralda,pereira,66001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1063,risaralda,pereira,66001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,840000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1064,risaralda,pereira,66001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1977,risaralda,dosquebradas,66170,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,7000000,Other,0,,2.5,Moderate Insecurity,1
+1978,risaralda,dosquebradas,66170,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,6000000,Buy productive inputs,0,,1.75,Marginal Security,0
+1979,risaralda,dosquebradas,66170,5,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+1980,risaralda,dosquebradas,66170,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1500000,1,500000,Buy productive inputs,0,,1.5,Marginal Security,0
+1981,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,1.5,Marginal Security,0
+1982,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,4.0,Severe Insecurity,1
+1983,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,5000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+1984,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+1985,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.5,Marginal Security,0
+1986,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1987,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,0,,1.5,Marginal Security,0
+1988,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1989,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,2.25,Marginal Security,0
+1990,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+1991,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+1992,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,0,,1.5,Marginal Security,0
+1993,risaralda,pereira,66001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,ns_nr,,,0,,3.5,Severe Insecurity,1
+1994,risaralda,santa_rosa_de_cabal,66682,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,480000,0,,,0,,2.0,Marginal Security,0
+1995,risaralda,santa_rosa_de_cabal,66682,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,0,,,0,,1.0,Secure,0
+1996,risaralda,santa_rosa_de_cabal,66682,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.5,Moderate Insecurity,1
+3481,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3482,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,6000000,Other,0,,2.0,Marginal Security,0
+3483,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1300000,1,3000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+3484,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,1800000,1.0,Secure,0
+3485,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3486,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3000000,Other,0,,2.25,Marginal Security,0
+3487,risaralda,dosquebradas,66170,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,2.25,Marginal Security,0
+3488,risaralda,marsella,66440,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,1,9000000,Cover health expenses,0,,1.75,Marginal Security,0
+3489,risaralda,marsella,66440,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,2.25,Marginal Security,0
+3490,risaralda,marsella,66440,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+3491,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+3492,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2700000,0,,,0,,1.75,Marginal Security,0
+3493,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+3494,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+3495,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+3496,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Pay rent or house rent,0,,3.25,Moderate Insecurity,1
+3497,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,400000,Buy food,0,,2.5,Moderate Insecurity,1
+3498,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+3499,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,ns_nr,,,0,,2.0,Marginal Security,0
+3500,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,0,,,0,,1.75,Marginal Security,0
+3501,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,1,10000000,Buy productive inputs,0,,1.5,Marginal Security,0
+3502,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3503,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.25,Secure,0
+3504,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,1,4000000,1.75,Marginal Security,0
+3505,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",2500000,1,480000,Other,0,,2.5,Moderate Insecurity,1
+3506,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.25,Marginal Security,0
+3507,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,3.0,Moderate Insecurity,1
+3508,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3509,risaralda,pereira,66001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+3510,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+3511,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1040000,0,,,0,,2.5,Moderate Insecurity,1
+3512,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+3513,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+3514,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+3515,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.75,Moderate Insecurity,1
+3516,risaralda,santa_rosa_de_cabal,66682,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,400000,1,500000,Other,0,,2.5,Moderate Insecurity,1
+5375,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,0,,,1,3500000,1.5,Marginal Security,0
+5376,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,ns_nr,,,1,99,1.25,Secure,0
+5377,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",4000000,1,15000000,Other,1,3000000,1.0,Secure,0
+5378,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4500000,1,90000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5379,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5380,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3700000,1,950000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,900000,2.25,Marginal Security,0
+5381,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3500000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5382,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,1,0,0.0,0,0,0,3,Work,300000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5383,risaralda,dosquebradas,66170,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,1,3000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+5384,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+5385,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+5386,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1500000,ns_nr,,,0,,1.25,Secure,0
+5387,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+5388,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,900000,0,,,0,,1.5,Marginal Security,0
+5389,risaralda,marsella,66440,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.0,Secure,0
+5390,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5391,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,1500000,Buy food,0,,2.5,Moderate Insecurity,1
+5392,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5393,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,380000,0,,,0,,2.25,Marginal Security,0
+5394,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5395,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+5396,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.5,Marginal Security,0
+5397,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+5398,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.75,Moderate Insecurity,1
+5399,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,0,,1.0,Secure,0
+5400,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,6000000,0,,,1,3000000,1.0,Secure,0
+5401,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+5402,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,100000,0,,,0,,2.75,Moderate Insecurity,1
+5403,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1037000,1,78000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5404,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.0,Secure,0
+5405,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.5,Marginal Security,0
+5406,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,1,500000,2.75,Moderate Insecurity,1
+5407,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.5,Marginal Security,0
+5408,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5409,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,Other,1,730000,1.75,Marginal Security,0
+5410,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,400000,1.5,Marginal Security,0
+5411,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,800000,Other,0,,2.25,Marginal Security,0
+5412,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,960000,1,4000000,Other,0,,1.5,Marginal Security,0
+5413,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,18000000,Other,0,,3.75,Severe Insecurity,1
+5414,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,1000000,1.0,Secure,0
+5415,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+5416,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,280000,1,600000,Buy food,0,,3.0,Moderate Insecurity,1
+5417,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,23000000,1.0,Secure,0
+5418,risaralda,pereira,66001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,8000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+5419,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,0,,,0,,1.75,Marginal Security,0
+5420,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,4000000,1.0,Secure,0
+5421,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,3.0,Moderate Insecurity,1
+5422,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.5,Marginal Security,0
+5423,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,260000,0,,,0,,2.0,Marginal Security,0
+5424,risaralda,santa_rosa_de_cabal,66682,3,,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,85000,0,,,0,,3.5,Severe Insecurity,1
+5425,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,270000,0,,,0,,2.5,Moderate Insecurity,1
+5426,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5427,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+5428,risaralda,santa_rosa_de_cabal,66682,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,1,99,1.5,Marginal Security,0
+7083,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,800000,0,,,0,,1.5,Marginal Security,0
+7084,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,3000000,Other,0,,1.0,Secure,0
+7085,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+7086,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,43000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,430000,1.75,Marginal Security,0
+7087,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,700000,Other,0,,1.75,Marginal Security,0
+7088,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,7000000,Buy food,0,,1.0,Secure,0
+7089,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7090,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,2.25,Marginal Security,0
+7091,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,150000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7092,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+7093,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+7094,risaralda,dosquebradas,66170,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,Other,0,,2.25,Marginal Security,0
+7095,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,20000000,Cover health expenses,0,,2.25,Marginal Security,0
+7096,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1480000,0,,,0,,1.75,Marginal Security,0
+7097,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,600000,1,2000000,Buy food,0,,2.5,Moderate Insecurity,1
+7098,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+7099,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,2.0,Marginal Security,0
+7100,risaralda,marsella,66440,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,4000000,0,,,0,,1.25,Secure,0
+7101,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,0,,,0,,1.5,Marginal Security,0
+7102,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,200000,1,1500000,Buy food,0,,3.75,Severe Insecurity,1
+7103,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.25,Moderate Insecurity,1
+7104,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+7105,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,290000,0,,,0,,1.5,Marginal Security,0
+7106,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+7107,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1124000,0,,,0,,1.5,Marginal Security,0
+7108,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,1,99,1.0,Secure,0
+7109,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,0,,1.0,Secure,0
+7110,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,0,,1.0,Secure,0
+7111,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,3000000,Buy food,0,,3.0,Moderate Insecurity,1
+7112,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+7113,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,200000,0,,,0,,2.5,Moderate Insecurity,1
+7114,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,400000,1,300000,"Buy clothes, shoes",0,,2.5,Moderate Insecurity,1
+7115,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+7116,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+7117,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+7118,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,900000,1,320000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+7119,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7120,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",300000,0,,,0,,1.5,Marginal Security,0
+7121,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1150000,0,,,0,,1.0,Secure,0
+7122,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1200000,0,,,0,,1.5,Marginal Security,0
+7123,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",3000000,0,,,1,300000,1.0,Secure,0
+7124,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,2000000,Other,0,,2.0,Marginal Security,0
+7125,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,10000000,Other,1,7000000,1.0,Secure,0
+7126,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.25,Secure,0
+7127,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,80000,1,300000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+7128,risaralda,pereira,66001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,6000000,Other,0,,1.0,Secure,0
+7129,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7130,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,800000,1.5,Marginal Security,0
+7131,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,1.0,Secure,0
+7132,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+7133,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,0,,,0,,2.5,Moderate Insecurity,1
+7134,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.25,Marginal Security,0
+7135,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.5,Marginal Security,0
+7136,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.0,Secure,0
+7137,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7138,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,240000,0,,,0,,2.5,Moderate Insecurity,1
+7139,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+7140,risaralda,santa_rosa_de_cabal,66682,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,1.75,Marginal Security,0
+8211,risaralda,dosquebradas,66170,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800001,0,,,0,,2.0,Marginal Security,0
+8212,risaralda,dosquebradas,66170,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+8213,risaralda,dosquebradas,66170,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,0,,,1,200000,1.0,Secure,0
+8214,risaralda,marsella,66440,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,80000,0,,,0,,1.5,Marginal Security,0
+8215,risaralda,marsella,66440,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,1,99,1.0,Secure,0
+8216,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,600000,Other,0,,1.5,Marginal Security,0
+8217,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+8218,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+8219,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,7000000,0,,,0,,1.0,Secure,0
+8220,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+8221,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+8222,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,940000,1,1500000,Other,0,,3.0,Moderate Insecurity,1
+8223,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+8224,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,600000,Pay rent or house rent,0,,1.0,Secure,0
+8225,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,1,200000,2.25,Marginal Security,0
+8226,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2100000,0,,,0,,2.0,Marginal Security,0
+8227,risaralda,pereira,66001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,500000,1.5,Marginal Security,0
+8228,risaralda,santa_rosa_de_cabal,66682,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",150000,0,,,0,,2.75,Moderate Insecurity,1
+8229,risaralda,santa_rosa_de_cabal,66682,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,1,45000,Cover health expenses,0,,1.0,Secure,0
+8230,risaralda,santa_rosa_de_cabal,66682,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,2.25,Marginal Security,0

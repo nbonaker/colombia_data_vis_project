@@ -1,0 +1,205 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+82,quindio,armenia,63001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,5000000,Cover health expenses,0,,2.25,Marginal Security,0
+121,quindio,montenegro,63470,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,0,,,0,,2.0,Marginal Security,0
+184,quindio,montenegro,63470,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,840000,0,,,0,,3.5,Severe Insecurity,1
+245,quindio,montenegro,63470,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,1,1000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+311,quindio,cordoba,63212,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+548,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,70000000,Pay school or education expenses,1,300000,1.75,Marginal Security,0
+549,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+550,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,0,,3.25,Moderate Insecurity,1
+551,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,0,,2.75,Moderate Insecurity,1
+552,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,0,,,0,,2.0,Marginal Security,0
+553,quindio,armenia,63001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,5,Work,4000000,0,,,0,,1.5,Marginal Security,0
+728,quindio,montenegro,63470,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,700000,0,,,0,,2.25,Marginal Security,0
+729,quindio,montenegro,63470,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+1065,quindio,armenia,63001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1066,quindio,armenia,63001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,1500000,0,,,0,,2.25,Marginal Security,0
+1067,quindio,armenia,63001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,300000,0,,,0,,2.25,Marginal Security,0
+1068,quindio,armenia,63001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.75,Moderate Insecurity,1
+1069,quindio,calarca,63130,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2900000,1,12000000,Buy food,0,,2.25,Marginal Security,0
+1070,quindio,calarca,63130,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1170000,1,53000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1404,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+1405,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work,1000000,1,1200000,Other,0,,2.25,Marginal Security,0
+1611,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+1612,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,1.5,Marginal Security,0
+1613,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,1,600000,1.5,Marginal Security,0
+1614,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+1615,quindio,montenegro,63470,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+1997,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+1998,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+1999,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,0,,,0,,1.75,Marginal Security,0
+2000,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+2001,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.5,Marginal Security,0
+2002,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+2003,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,ns_nr,,,0,,3.25,Moderate Insecurity,1
+2004,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,2600000,Other,0,,1.5,Marginal Security,0
+2005,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,350000,1.0,Secure,0
+2006,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2200000,0,,,0,,1.0,Secure,0
+2007,quindio,armenia,63001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,270000,0,,,0,,2.5,Moderate Insecurity,1
+2008,quindio,calarca,63130,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2009,quindio,calarca,63130,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,6000000,1.0,Secure,0
+2010,quindio,cordoba,63212,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,0,,2.75,Moderate Insecurity,1
+2568,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,0,,,0,,2.25,Marginal Security,0
+2569,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,0,,,0,,2.25,Marginal Security,0
+2570,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+2849,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2000000,0,,,0,,1.75,Marginal Security,0
+2850,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+2851,quindio,montenegro,63470,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+3517,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Government assistance,300000,0,,,0,,2.0,Marginal Security,0
+3518,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,0,,,0,,2.75,Moderate Insecurity,1
+3519,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+3520,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.25,Secure,0
+3521,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+3522,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,820000,0,,,0,,2.75,Moderate Insecurity,1
+3523,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+3524,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,320000,0,,,0,,2.0,Marginal Security,0
+3525,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+3526,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,2.0,Marginal Security,0
+3527,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,1,35000000,Buy food,0,,1.75,Marginal Security,0
+3528,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,3000000,"Buy clothes, shoes",0,,1.0,Secure,0
+3529,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3530,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,4,Work,3000000,1,200000,Other,0,,2.75,Moderate Insecurity,1
+3531,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1400000,1,600000,Buy food,0,,1.75,Marginal Security,0
+3532,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,0,,,1,500000,1.5,Marginal Security,0
+3533,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,8000000,Buy food,0,,1.25,Secure,0
+3534,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1400000,1,90000000,Other,1,1200000,1.75,Marginal Security,0
+3535,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+3536,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3537,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+3538,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Remittances from migrants or help from family/friends,5000000,0,,,1,8000000,1.0,Secure,0
+3539,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.5,Marginal Security,0
+3540,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+3541,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+3542,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,1,10000000,Other,1,600000,1.0,Secure,0
+3543,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+3544,quindio,armenia,63001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,3,Work,700000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3545,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+3546,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+3547,quindio,calarca,63130,4,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,140000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3548,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,350000,0,,,0,,3.25,Moderate Insecurity,1
+3549,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1100000,1,1500000,Other,0,,1.75,Marginal Security,0
+3550,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,280000,1,70000,Other,0,,3.75,Severe Insecurity,1
+3551,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1165000,0,,,0,,2.5,Moderate Insecurity,1
+3552,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,870000,0,,,0,,1.25,Secure,0
+3553,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,45000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3554,quindio,calarca,63130,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,4000000,1,50000,Pay school or education expenses,0,,1.0,Secure,0
+3555,quindio,cordoba,63212,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,0,0,,,0,,2.25,Marginal Security,0
+3556,quindio,cordoba,63212,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+3557,quindio,cordoba,63212,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1500000,0,,,0,,1.75,Marginal Security,0
+3558,quindio,cordoba,63212,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,280000,0,,,0,,3.5,Severe Insecurity,1
+3559,quindio,cordoba,63212,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,440000,0,,,0,,3.25,Moderate Insecurity,1
+4497,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,15000000,Buy productive inputs,0,,1.5,Marginal Security,0
+4498,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+4499,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,480000,0,,,0,,2.0,Marginal Security,0
+4828,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,300000,Other,0,,1.5,Marginal Security,0
+4829,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+4830,quindio,montenegro,63470,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3100000,1,1000000,"Buy clothes, shoes",1,500000,1.0,Secure,0
+5429,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,0,,,1,3000000,1.0,Secure,0
+5430,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+5431,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+5432,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+5433,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2820000,0,,,0,,3.0,Moderate Insecurity,1
+5434,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,3900000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5435,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,980000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5436,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,16000000,Buy productive inputs,0,,2.0,Marginal Security,0
+5437,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+5438,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,800000,pay trips,0,,1.25,Secure,0
+5439,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,560000,1,1000000,Other,0,,3.5,Severe Insecurity,1
+5440,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,1,2300000,Other,0,,1.5,Marginal Security,0
+5441,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,350000,0,,,0,,3.0,Moderate Insecurity,1
+5442,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,550000,1,400000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+5443,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,1.75,Marginal Security,0
+5444,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",750000,0,,,1,50000,2.0,Marginal Security,0
+5445,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,600000,1,3500000,Other,0,,3.25,Moderate Insecurity,1
+5446,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,68000000,Other,0,,1.25,Secure,0
+5447,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+5448,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1150000,0,,,0,,2.0,Marginal Security,0
+5449,quindio,armenia,63001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,7000000,1,21000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,20000000,1.0,Secure,0
+5450,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,25000000,Cover health expenses,0,,2.0,Marginal Security,0
+5451,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+5452,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+5453,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,320000,1,2500000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+5454,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.0,Secure,0
+5455,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,0,,1.5,Marginal Security,0
+5456,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3500000,Other,0,,1.5,Marginal Security,0
+5457,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+5458,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+5459,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+5460,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1500000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5461,quindio,calarca,63130,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.25,Marginal Security,0
+5462,quindio,cordoba,63212,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,800000,0,,,0,,2.25,Marginal Security,0
+5463,quindio,cordoba,63212,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,99,"Buy clothes, shoes",1,99,1.75,Marginal Security,0
+5464,quindio,cordoba,63212,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,0,,,1,99,1.5,Marginal Security,0
+5465,quindio,cordoba,63212,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,90000,1.5,Marginal Security,0
+6355,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.0,Secure,0
+6356,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.0,Secure,0
+6357,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.0,Secure,0
+6358,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2200000,0,,,0,,1.0,Secure,0
+6359,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,300000,1,6000000,Other,0,,2.25,Marginal Security,0
+6360,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,99,Other,0,,1.5,Marginal Security,0
+6656,quindio,montenegro,63470,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,0,,,1,400000,2.0,Marginal Security,0
+6657,quindio,montenegro,63470,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.25,Secure,0
+7141,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,600000,1,700000,Other,0,,2.25,Marginal Security,0
+7142,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,700000,0,,,0,,1.5,Marginal Security,0
+7143,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,Other,0,,2.5,Moderate Insecurity,1
+7144,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,3.0,Moderate Insecurity,1
+7145,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.5,Marginal Security,0
+7146,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,70000,0,,,0,,2.75,Moderate Insecurity,1
+7147,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,100000,2.75,Moderate Insecurity,1
+7148,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1080000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7149,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.0,Secure,0
+7150,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,480000,0,,,0,,2.25,Marginal Security,0
+7151,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,1,300000,3.25,Moderate Insecurity,1
+7152,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,1,400000,Other,0,,1.0,Secure,0
+7153,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+7154,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,1.5,Marginal Security,0
+7155,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7156,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,800000,Pay school or education expenses,0,,2.0,Marginal Security,0
+7157,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,1500000,Other,0,,1.75,Marginal Security,0
+7158,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,7000000,0,,,1,700000,1.0,Secure,0
+7159,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,430000,1,6000000,Buy productive inputs,0,,1.75,Marginal Security,0
+7160,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,1,1000000,2.75,Moderate Insecurity,1
+7161,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,3000000,1.0,Secure,0
+7162,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,8000000,0,,,0,,1.0,Secure,0
+7163,quindio,armenia,63001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1117000,1,4000000,Other,0,,1.75,Marginal Security,0
+7164,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,2800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7165,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+7166,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1480000,1,15000000,Other,1,2000000,1.0,Secure,0
+7167,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,730000,0,,,0,,2.5,Moderate Insecurity,1
+7168,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3200000,0,,,0,,1.5,Marginal Security,0
+7169,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+7170,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,1,300000,1.0,Secure,0
+7171,quindio,calarca,63130,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,1.5,Marginal Security,0
+7172,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+7173,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,200000,0,,,0,,2.0,Marginal Security,0
+7174,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+7175,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,100000,Buy food,0,,1.75,Marginal Security,0
+7176,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,320000,0,,,0,,3.5,Severe Insecurity,1
+7177,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+7178,quindio,cordoba,63212,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7863,quindio,montenegro,63470,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,600000,0,,,0,,1.0,Secure,0
+7864,quindio,montenegro,63470,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+8231,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,1.5,Marginal Security,0
+8232,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,0,0,,,1,500000,1.0,Secure,0
+8233,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,300000,0,,,0,,2.5,Moderate Insecurity,1
+8234,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,1,30000,Buy food,0,,1.75,Marginal Security,0
+8235,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,300000,1,24000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+8236,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,280000,0,,,0,,2.5,Moderate Insecurity,1
+8237,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+8238,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,210000,0,,,0,,2.25,Marginal Security,0
+8239,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,1,400000,2.75,Moderate Insecurity,1
+8240,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,400000,0,,,0,,2.25,Marginal Security,0
+8241,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,65000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+8242,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,1,1500000,1.0,Secure,0
+8243,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,3000000,0,,,0,,1.0,Secure,0
+8244,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+8245,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,300000,2.0,Marginal Security,0
+8246,quindio,armenia,63001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,4000000,Other,1,300000,1.0,Secure,0
+8247,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,920000,1,3670000,Other,0,,1.0,Secure,0
+8248,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,20000,0,,,0,,4.0,Severe Insecurity,1
+8249,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,1.75,Marginal Security,0
+8250,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,130000,0,,,0,,2.5,Moderate Insecurity,1
+8251,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,160000,1,20000000,Other,0,,2.25,Marginal Security,0
+8252,quindio,calarca,63130,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,1.25,Secure,0
+8253,quindio,cordoba,63212,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,60000,Buy food,0,,3.0,Moderate Insecurity,1
+8254,quindio,cordoba,63212,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,50000,0,,,1,120000,4.0,Severe Insecurity,1

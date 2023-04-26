@@ -1,0 +1,492 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+18,antioquia,medellin,5001,12,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,0,,,0,,2.75,Moderate Insecurity,1
+63,antioquia,caicedo,5125,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,1000000,1,1000000,"Cover basic services (water, electricity)",1,200000,1.75,Marginal Security,0
+64,antioquia,medellin,5001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,ns_nr,,,0,,1.75,Marginal Security,0
+65,antioquia,medellin,5001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,ns_nr,,,0,,1.75,Marginal Security,0
+72,antioquia,medellin,5001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2200000,1,8000000,Other,1,200000,1.5,Marginal Security,0
+73,antioquia,medellin,5001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2200000,1,8000000,Other,1,200000,1.5,Marginal Security,0
+100,antioquia,puerto_berrio,5579,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2400000,0,,,0,,2.5,Moderate Insecurity,1
+101,antioquia,sonson,5756,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+137,antioquia,girardota,5308,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,5000000,Other,0,,3.75,Severe Insecurity,1
+138,antioquia,medellin,5001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,300000,Buy food,0,,3.0,Moderate Insecurity,1
+139,antioquia,medellin,5001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,2000000,0,,,0,,2.25,Marginal Security,0
+140,antioquia,medellin,5001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,2000000,0,,,0,,2.25,Marginal Security,0
+237,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,3000000,0,,,0,,2.0,Marginal Security,0
+238,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,0,,,0,,2.25,Marginal Security,0
+239,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,0,,,0,,2.25,Marginal Security,0
+240,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,0,,,0,,2.25,Marginal Security,0
+241,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,4,Work,700000,0,,,0,,3.0,Moderate Insecurity,1
+276,antioquia,girardota,5308,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,3.25,Moderate Insecurity,1
+277,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+278,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+279,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,1,600000,Buy food,0,,2.5,Moderate Insecurity,1
+280,antioquia,medellin,5001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+374,antioquia,sonson,5756,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2800000,1,500000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+442,antioquia,girardota,5308,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,"Other (income, chance, inheritance...)",4000000,0,,,0,,1.0,Secure,0
+443,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+444,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+445,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,3,Work,2500000,0,,,0,,1.75,Marginal Security,0
+446,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,3,Work,2500000,0,,,0,,1.75,Marginal Security,0
+447,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,3,Work,2500000,0,,,0,,1.75,Marginal Security,0
+448,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,2000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+449,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,0,,1.5,Marginal Security,0
+507,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+508,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,2.5,Moderate Insecurity,1
+509,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,2000000,0,,,1,5000000,1.5,Marginal Security,0
+510,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+511,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,1,500000,1.75,Marginal Security,0
+512,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+513,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+514,antioquia,medellin,5001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+688,antioquia,sonson,5756,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,2.5,Moderate Insecurity,1
+851,antioquia,caicedo,5125,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+852,antioquia,caicedo,5125,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+853,antioquia,caicedo,5125,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+854,antioquia,girardota,5308,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.25,Secure,0
+855,antioquia,girardota,5308,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.25,Secure,0
+856,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,0,,,0,,1.5,Marginal Security,0
+857,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,580000,1,400000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+858,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,580000,1,400000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+859,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+860,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,2.5,Moderate Insecurity,1
+984,antioquia,caicedo,5125,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,5000000,Buy food,0,,2.25,Marginal Security,0
+985,antioquia,girardota,5308,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,0,,,0,,1.25,Secure,0
+986,antioquia,girardota,5308,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,0,,3.0,Moderate Insecurity,1
+987,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+988,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+989,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,100000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+990,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,90000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+991,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,280000,1,1550000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+992,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1200000,1,3000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+993,antioquia,medellin,5001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Buy food,0,,2.75,Moderate Insecurity,1
+994,antioquia,medellin,5001,6,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,120000,Other,0,,3.0,Moderate Insecurity,1
+1341,antioquia,puerto_berrio,5579,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+1342,antioquia,puerto_berrio,5579,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,2.25,Marginal Security,0
+1343,antioquia,puerto_berrio,5579,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1200000,Other,0,,2.5,Moderate Insecurity,1
+1344,antioquia,puerto_berrio,5579,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+1345,antioquia,santafe_de_antioquia,5042,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,1,12000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+1346,antioquia,santafe_de_antioquia,5042,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,200000,0,,,0,,4.0,Severe Insecurity,1
+1347,antioquia,santafe_de_antioquia,5042,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,3,Work,2000000,1,1500000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1348,antioquia,sonson,5756,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,850000,0,,,0,,2.5,Moderate Insecurity,1
+1349,antioquia,sonson,5756,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1555,antioquia,caicedo,5125,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,470000,Pay school or education expenses,0,,2.25,Marginal Security,0
+1556,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1400000,1,3000000,Other,0,,2.25,Marginal Security,0
+1557,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1200000,0,,,0,,2.75,Moderate Insecurity,1
+1558,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+1559,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+1560,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+1561,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,1,28000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1562,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1700000,1,1550000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1563,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1564,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.25,Marginal Security,0
+1565,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.25,Marginal Security,0
+1566,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.25,Marginal Security,0
+1567,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1200000,0,,,1,5000000,1.5,Marginal Security,0
+1568,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,0,,,0,,1.75,Marginal Security,0
+1569,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+1570,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,2000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1571,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,2000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1572,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,2.0,Marginal Security,0
+1832,antioquia,caicedo,5125,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+1833,antioquia,caicedo,5125,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,200000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1834,antioquia,caicedo,5125,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1835,antioquia,girardota,5308,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2200000,0,,,1,420000,1.0,Secure,0
+1836,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,2.0,Marginal Security,0
+1837,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,1.75,Marginal Security,0
+1838,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,1000000,1.5,Marginal Security,0
+1839,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,500000,Buy productive inputs,0,,2.0,Marginal Security,0
+1840,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+1841,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,1,22000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1842,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1843,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,5000000,Other,0,,2.0,Marginal Security,0
+1844,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+1845,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,14000000,Buy productive inputs,0,,1.25,Secure,0
+1846,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,500000,1.25,Secure,0
+1847,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,1,50000000,Buy productive inputs,1,500000,1.0,Secure,0
+1848,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,2000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+1849,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.25,Marginal Security,0
+1850,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,0,,,0,,1.5,Marginal Security,0
+1851,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,7000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+1852,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+1853,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,5000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+1854,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,0,,,1,700000,1.5,Marginal Security,0
+1855,antioquia,medellin,5001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,0,,,1,700000,1.5,Marginal Security,0
+1856,antioquia,santafe_de_antioquia,5042,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,2.25,Marginal Security,0
+1857,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,1.0,Secure,0
+2497,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+2498,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,1,0.0,0,0,0,1,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+2499,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+2500,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+2501,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+2502,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)", ,0,,,0,,3.0,Moderate Insecurity,1
+2503,antioquia,puerto_berrio,5579,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,1,99,2.5,Moderate Insecurity,1
+2504,antioquia,santafe_de_antioquia,5042,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,4000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+2505,antioquia,santafe_de_antioquia,5042,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,1,9000000,Buy productive inputs,1,500000,1.75,Marginal Security,0
+2506,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3000000,0,,,0,,1.5,Marginal Security,0
+2507,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1350000,0,,,0,,1.5,Marginal Security,0
+2508,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2509,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,11000000,Other,0,,1.75,Marginal Security,0
+2510,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2511,antioquia,sonson,5756,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.0,Secure,0
+2764,antioquia,caicedo,5125,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2765,antioquia,caicedo,5125,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2766,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5500000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2767,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2768,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1000000,1,136000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2769,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.0,Secure,0
+2770,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,1,45000000,Other,0,,1.5,Marginal Security,0
+2771,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,0,,,1,2000000,1.5,Marginal Security,0
+2772,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.0,Moderate Insecurity,1
+2773,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.0,Moderate Insecurity,1
+2774,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,3000000,0,,,0,,1.0,Secure,0
+2775,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,0,,,0,,1.0,Secure,0
+2776,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,150000,0,,,0,,2.0,Marginal Security,0
+2777,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,150000,0,,,0,,2.0,Marginal Security,0
+2778,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,25000000,Other,0,,2.25,Marginal Security,0
+2779,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,8000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+2780,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,2500000,"Cover basic services (water, electricity)",0,,1.25,Secure,0
+2781,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,2000000,0,,,0,,1.5,Marginal Security,0
+2782,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,2000000,Buy food,0,,2.0,Marginal Security,0
+2783,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+2784,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,0,,,0,,2.25,Marginal Security,0
+2785,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,0,,,0,,2.25,Marginal Security,0
+2786,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.0,Marginal Security,0
+2787,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+2788,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+2789,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2790,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,740000,1,10000000,Other,0,,3.25,Moderate Insecurity,1
+2791,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,740000,1,10000000,Other,0,,3.25,Moderate Insecurity,1
+3240,antioquia,caicedo,5125,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,0,,,0,,2.25,Marginal Security,0
+3241,antioquia,caicedo,5125,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,38000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3242,antioquia,caicedo,5125,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+3243,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,1.5,Marginal Security,0
+3244,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+3245,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+3246,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+3247,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+3248,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2700000,1,17000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+3249,antioquia,girardota,5308,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,0,,,1,4000000,1.75,Marginal Security,0
+3250,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3251,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,0,,2.25,Marginal Security,0
+3252,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,0,,2.25,Marginal Security,0
+3253,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.75,Marginal Security,0
+3254,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,6000000,1,2000000,Other,1,4000000,1.0,Secure,0
+3255,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+3256,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+3257,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,500000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+3258,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3259,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3260,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3261,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3262,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,0,,1.0,Secure,0
+3263,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,1000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+3264,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+3265,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,2.0,Marginal Security,0
+3266,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,8000000,1,60000,Other,0,,1.25,Secure,0
+3267,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+3268,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+3269,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,600000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+3270,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,0,,2.0,Marginal Security,0
+3271,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3272,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+3273,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+3274,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,800000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+3275,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+3276,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,0,,2.0,Marginal Security,0
+3277,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.75,Moderate Insecurity,1
+3278,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.75,Moderate Insecurity,1
+3279,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3280,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.0,Marginal Security,0
+3281,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,1.0,Secure,0
+3282,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3283,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+3284,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,2.0,Marginal Security,0
+3285,antioquia,medellin,5001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+3286,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4388,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.75,Moderate Insecurity,1
+4389,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,0,,1.5,Marginal Security,0
+4390,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,0,,1.75,Marginal Security,0
+4391,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,27000000,Buy productive inputs,0,,1.5,Marginal Security,0
+4392,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+4393,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4394,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4395,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,15000000,Other,1,200000,1.75,Marginal Security,0
+4396,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,50000,1,30000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+4397,antioquia,puerto_berrio,5579,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,300000,1,40000,Buy food,0,,3.0,Moderate Insecurity,1
+4398,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.5,Marginal Security,0
+4399,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,0,,,0,,2.5,Moderate Insecurity,1
+4400,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3400000,0,,,0,,1.25,Secure,0
+4401,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,100000,2.75,Moderate Insecurity,1
+4402,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4403,antioquia,santafe_de_antioquia,5042,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,2.75,Moderate Insecurity,1
+4404,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1280000,1,450000,Other,0,,1.5,Marginal Security,0
+4405,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4406,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4407,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,120000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4408,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+4409,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,900000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4410,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1100000,1,40000000,Buy productive inputs,0,,1.75,Marginal Security,0
+4411,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,0,,,0,,1.5,Marginal Security,0
+4412,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+4413,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,20000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+4414,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+4415,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,2.0,Marginal Security,0
+4416,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,0,,,1,160000,2.25,Marginal Security,0
+4417,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,6000000,Buy productive inputs,0,,1.0,Secure,0
+4418,antioquia,sonson,5756,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,1,15000000,Buy productive inputs,1,1000000,1.25,Secure,0
+4707,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,4000000,Buy productive inputs,0,,2.0,Marginal Security,0
+4708,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+4709,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4710,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,400000,Cover health expenses,0,,2.25,Marginal Security,0
+4711,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,0,0,0,2,Pension,2800000,1,140000000,Other,0,,1.5,Marginal Security,0
+4712,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1800000,0,,,0,,2.0,Marginal Security,0
+4713,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4714,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1100000,0,,,0,,1.25,Secure,0
+4715,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,200000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4716,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,25000000,Buy productive inputs,0,,1.25,Secure,0
+4717,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1100000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4718,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1100000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4719,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1100000,0,,,0,,2.5,Moderate Insecurity,1
+4720,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1100000,0,,,0,,2.5,Moderate Insecurity,1
+4721,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,50000000,Other,0,,3.25,Moderate Insecurity,1
+4722,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+4723,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+4724,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,9000000,0,,,0,,1.5,Marginal Security,0
+4725,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,1000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+4726,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,24000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4727,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,24000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4728,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+4729,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,100000,Buy food,0,,1.25,Secure,0
+4730,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,35000000,Other,0,,2.75,Moderate Insecurity,1
+4731,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,8000000,0,,,0,,1.0,Secure,0
+4732,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+4733,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,2200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4734,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,360000,1.75,Marginal Security,0
+4735,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,120000,Buy productive inputs,0,,1.5,Marginal Security,0
+4736,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1300000,1,4000000,Other,0,,2.0,Marginal Security,0
+4737,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,40000000,Buy productive inputs,0,,2.0,Marginal Security,0
+4738,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,1,200000,Buy food,0,,2.75,Moderate Insecurity,1
+4739,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4740,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,1,10000000,pay trips,0,,1.5,Marginal Security,0
+4741,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,15000000,Other,0,,2.0,Marginal Security,0
+4742,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,1,8000000,Other,0,,2.0,Marginal Security,0
+4743,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,170000,1,260000,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+4744,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4745,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5154,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,5000000,Other,1,12000000,1.75,Marginal Security,0
+5155,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,300000,1.0,Secure,0
+5156,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,1.5,Marginal Security,0
+5157,antioquia,caicedo,5125,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,400000,1.5,Marginal Security,0
+5158,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+5159,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,21000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5160,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.25,Secure,0
+5161,antioquia,girardota,5308,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+5162,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5163,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.5,Marginal Security,0
+5164,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,1.0,Secure,0
+5165,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,1,600000,Buy productive inputs,0,,2.25,Marginal Security,0
+5166,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,8200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.75,Marginal Security,0
+5167,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,2.0,Marginal Security,0
+5168,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+5169,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5170,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.0,Secure,0
+5171,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5172,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,1200000,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+5173,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,1,6000000,1.0,Secure,0
+5174,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,32000000,Other,0,,1.0,Secure,0
+5175,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,820000,0,,,0,,2.25,Marginal Security,0
+5176,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,1,500000,Other,0,,1.5,Marginal Security,0
+5177,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,700000,Buy food,0,,2.0,Marginal Security,0
+5178,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,4.0,Severe Insecurity,1
+5179,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,1.75,Marginal Security,0
+5180,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,1,3000000,Other,0,,2.75,Moderate Insecurity,1
+5181,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,ns_nr,,,1,450000,1.5,Marginal Security,0
+5182,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,The household receives no income of any kind,100000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+5183,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,1,400000,1.0,Secure,0
+5184,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,1500000,1.5,Marginal Security,0
+5185,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+5186,antioquia,medellin,5001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,5000000,1.5,Marginal Security,0
+5187,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6265,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,400000,1.75,Marginal Security,0
+6266,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,0,,,0,,2.0,Marginal Security,0
+6267,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,0,,,1,500000,1.25,Secure,0
+6268,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,0,,,0,,1.75,Marginal Security,0
+6269,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+6270,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,800000,ns_nr__strong_e__no_leer__strong_,0,,2.5,Moderate Insecurity,1
+6271,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,The household receives no income of any kind,400000,0,,,0,,2.25,Marginal Security,0
+6272,antioquia,puerto_berrio,5579,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,1.25,Secure,0
+6273,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,2.25,Marginal Security,0
+6274,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.25,Secure,0
+6275,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,320000,1,1800000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+6276,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,5000000,Buy productive inputs,1,3000000,1.0,Secure,0
+6277,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6278,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,10000000,Other,0,,1.75,Marginal Security,0
+6279,antioquia,santafe_de_antioquia,5042,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,1.75,Marginal Security,0
+6280,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Work,880000,0,,,0,,1.5,Marginal Security,0
+6281,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,600000,0,,,0,,2.75,Moderate Insecurity,1
+6282,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+6283,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,380000,0,,,0,,1.0,Secure,0
+6284,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,450000,ns_nr,,,0,,1.5,Marginal Security,0
+6285,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,1,350000,2.0,Marginal Security,0
+6286,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+6287,antioquia,sonson,5756,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+6569,antioquia,caicedo,5125,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,2.0,Marginal Security,0
+6570,antioquia,caicedo,5125,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,0,,,0,,1.5,Marginal Security,0
+6571,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,0,,1.0,Secure,0
+6572,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,850000,0,,,0,,2.5,Moderate Insecurity,1
+6573,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,850000,0,,,0,,2.5,Moderate Insecurity,1
+6574,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,Buy productive inputs,0,,3.75,Severe Insecurity,1
+6575,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.0,Marginal Security,0
+6576,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,112000,0,,,1,99,1.0,Secure,0
+6577,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.0,Marginal Security,0
+6578,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.0,Marginal Security,0
+6579,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,1,900000,Buy food,0,,2.25,Marginal Security,0
+6580,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+6581,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,180000,0,,,0,,3.25,Moderate Insecurity,1
+6582,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,0,,,0,,2.0,Marginal Security,0
+6583,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,1,16000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6584,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,500000,0,,,0,,1.0,Secure,0
+6585,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.0,Secure,0
+6586,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+6587,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.0,Secure,0
+6588,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,99,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+6589,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,950000,0,,,0,,1.5,Marginal Security,0
+6590,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6591,antioquia,medellin,5001,2,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+6592,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,2.5,Moderate Insecurity,1
+6593,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,2.75,Moderate Insecurity,1
+6594,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,2.75,Moderate Insecurity,1
+6595,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,7000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+6596,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,2.25,Marginal Security,0
+6894,antioquia,caicedo,5125,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,440000,0,,,0,,2.5,Moderate Insecurity,1
+6895,antioquia,caicedo,5125,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,240000,0,,,0,,1.0,Secure,0
+6896,antioquia,caicedo,5125,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.5,Marginal Security,0
+6897,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,8000000,0,,,1,2000000,1.0,Secure,0
+6898,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,1.0,Secure,0
+6899,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+6900,antioquia,girardota,5308,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,960000,0,,,0,,1.75,Marginal Security,0
+6901,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,1.75,Marginal Security,0
+6902,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,5000000,Other,0,,1.75,Marginal Security,0
+6903,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,4000000,1.0,Secure,0
+6904,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+6905,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.75,Marginal Security,0
+6906,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,0,,1.0,Secure,0
+6907,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+6908,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,400000,1.0,Secure,0
+6909,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+6910,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+6911,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+6912,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+6913,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6914,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+6915,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,370000,Other,0,,2.25,Marginal Security,0
+6916,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+6917,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.25,Secure,0
+6918,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+6919,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,9000000,0,,,1,12000000,1.0,Secure,0
+6920,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,2000000,Other,0,,1.0,Secure,0
+6921,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,500000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+6922,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.0,Secure,0
+6923,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+6924,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6925,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.0,Secure,0
+6926,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,600000,1.0,Secure,0
+6927,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+6928,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.0,Secure,0
+6929,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+6930,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,250000,1,180000,Buy productive inputs,1,120000,2.75,Moderate Insecurity,1
+6931,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,0,,,0,,1.25,Secure,0
+6932,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+6933,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+6934,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+6935,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,1,6000000,1.0,Secure,0
+6936,antioquia,medellin,5001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,1,2000000,pay trips,1,1200000,1.0,Secure,0
+7793,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1280000,0,,,0,,2.0,Marginal Security,0
+7794,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+7795,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,400000,Buy productive inputs,0,,1.75,Marginal Security,0
+7796,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1000000,Buy productive inputs,0,,2.25,Marginal Security,0
+7797,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1800000,1,25000000,Other,0,,1.75,Marginal Security,0
+7798,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+7799,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7800,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7801,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+7802,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,200000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+7803,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,380000,1,99,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+7804,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+7805,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7806,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,420000,1,2000000,Other,1,99,1.0,Secure,0
+7807,antioquia,puerto_berrio,5579,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7808,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.25,Secure,0
+7809,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7810,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,2.5,Moderate Insecurity,1
+7811,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,2.5,Moderate Insecurity,1
+7812,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,20000000,Pay school or education expenses,0,,1.0,Secure,0
+7813,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.5,Marginal Security,0
+7814,antioquia,santafe_de_antioquia,5042,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,1000000,Buy productive inputs,0,,1.25,Secure,0
+7815,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1040000,1,1500000,"Cover basic services (water, electricity)",0,,1.0,Secure,0
+7816,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,500000,1.0,Secure,0
+7817,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,500000,0,,,0,,2.5,Moderate Insecurity,1
+7818,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,650000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+7819,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,830000,"Cover basic services (water, electricity)",0,,1.0,Secure,0
+7820,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7821,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,8000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+7822,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,1.75,Marginal Security,0
+7823,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,1.5,Marginal Security,0
+7824,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,1,500000,1.0,Secure,0
+7825,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,1.25,Secure,0
+7826,antioquia,sonson,5756,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,20000000,Buy productive inputs,0,,1.5,Marginal Security,0
+7962,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,1.75,Marginal Security,0
+7963,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,120000,1,1000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+7964,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,0,0,,,0,,2.25,Marginal Security,0
+7965,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,80000,0,,,0,,2.25,Marginal Security,0
+7966,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,1.5,Marginal Security,0
+7967,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Government assistance,90000,1,40000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+7968,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.5,Marginal Security,0
+7969,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,280000,0,,,0,,1.75,Marginal Security,0
+7970,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.75,Marginal Security,0
+7971,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,1.5,Marginal Security,0
+7972,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,18000000,Other,0,,2.25,Marginal Security,0
+7973,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,0,,1.25,Secure,0
+7974,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7975,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,460000,0,,,0,,1.75,Marginal Security,0
+7976,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+7977,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,0,,,1,200000,1.0,Secure,0
+7978,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,500000,1,6000000,Other,0,,1.75,Marginal Security,0
+7979,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,2.5,Moderate Insecurity,1
+7980,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+7981,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,0,,,0,,1.0,Secure,0
+7982,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+7983,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,500000,Other,0,,1.5,Marginal Security,0
+8118,antioquia,caicedo,5125,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,110000,0,,,0,,2.25,Marginal Security,0
+8119,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,0,0,,,0,,2.25,Marginal Security,0
+8120,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",50000,0,,,0,,3.25,Moderate Insecurity,1
+8121,antioquia,girardota,5308,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8122,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8123,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,1,99,2.25,Marginal Security,0
+8124,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.0,Secure,0
+8125,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,8000000,Buy productive inputs,0,,1.75,Marginal Security,0
+8126,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,1000000,1.5,Marginal Security,0
+8127,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,840000,1,66000,Buy food,0,,3.25,Moderate Insecurity,1
+8128,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,1000000,"Buy clothes, shoes",1,1000000,1.25,Secure,0
+8129,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.0,Secure,0
+8130,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8131,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,500000,Buy productive inputs,1,100000,1.75,Marginal Security,0
+8132,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,2000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+8133,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,5000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+8134,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3600000,0,,,1,4800000,1.0,Secure,0
+8135,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,10000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+8136,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,300000,1.0,Secure,0
+8137,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+8138,antioquia,medellin,5001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,110000,0,,,0,,2.75,Moderate Insecurity,1
+8495,antioquia,puerto_berrio,5579,1,1.0,0,0,0,1,0,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,1,100000,3.0,Moderate Insecurity,1
+8496,antioquia,puerto_berrio,5579,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8497,antioquia,puerto_berrio,5579,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,7000000,Buy productive inputs,0,,1.75,Marginal Security,0
+8498,antioquia,puerto_berrio,5579,1,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,1.25,Secure,0
+8499,antioquia,puerto_berrio,5579,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+8500,antioquia,puerto_berrio,5579,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,1000000,1.25,Secure,0
+8501,antioquia,santafe_de_antioquia,5042,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,3.25,Moderate Insecurity,1
+8502,antioquia,santafe_de_antioquia,5042,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+8503,antioquia,sonson,5756,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,1.75,Marginal Security,0
+8504,antioquia,sonson,5756,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4000000,1,80000000,Cover health expenses,0,,1.25,Secure,0
+8505,antioquia,sonson,5756,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+8506,antioquia,sonson,5756,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.25,Secure,0

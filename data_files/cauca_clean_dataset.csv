@@ -1,0 +1,266 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+11,cauca,timbiqui,19809,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,4,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+70,cauca,timbiqui,19809,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,2,Work,400000,1,500000,Buy food,0,,3.25,Moderate Insecurity,1
+129,cauca,bolivar,19100,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,480000,0,,,0,,2.5,Moderate Insecurity,1
+130,cauca,bolivar,19100,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1500000,1,6000000,Other,0,,2.25,Marginal Security,0
+131,cauca,timbiqui,19809,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,2.25,Marginal Security,0
+211,cauca,timbiqui,19809,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,2,Work,600000,1,170000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+262,cauca,timbiqui,19809,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,3.0,Moderate Insecurity,1
+343,cauca,popayan,19001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,8000000,Other,0,,2.5,Moderate Insecurity,1
+422,cauca,bolivar,19100,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,8000000,Cover health expenses,1,3000000,1.25,Secure,0
+483,cauca,timbiqui,19809,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,50000,1,600000,Buy food,0,,3.25,Moderate Insecurity,1
+484,cauca,timbiqui,19809,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,12000000,Other,0,,2.75,Moderate Insecurity,1
+636,cauca,popayan,19001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,5000000,1,2000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+637,cauca,popayan,19001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+638,cauca,popayan,19001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+639,cauca,popayan,19001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+640,cauca,popayan,19001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1800000,0,,,0,,1.0,Secure,0
+641,cauca,rosas,19622,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+942,cauca,bolivar,19100,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,0,,,0,,2.75,Moderate Insecurity,1
+943,cauca,bolivar,19100,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,150000,0,,,1,99,2.25,Marginal Security,0
+944,cauca,bolivar,19100,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,0,,,0,,1.5,Marginal Security,0
+945,cauca,bolivar,19100,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,140000,0,,,0,,2.0,Marginal Security,0
+946,cauca,timbiqui,19809,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,300000,1,500000,Buy food,0,,3.25,Moderate Insecurity,1
+1219,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,950000,0,,,0,,2.75,Moderate Insecurity,1
+1220,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,4500000,1,150000000,Other,1,800000,1.0,Secure,0
+1221,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.5,Moderate Insecurity,1
+1222,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Assistance from United Nations / NGOs / charitable organizations,6000000,0,,,1,5000000,1.75,Marginal Security,0
+1223,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+1224,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1225,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1226,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,887000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+1227,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work, ,1,4700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1228,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1229,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3600000,1.75,Marginal Security,0
+1230,cauca,popayan,19001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1100000,1,7000000,Other,0,,2.25,Marginal Security,0
+1487,cauca,bolivar,19100,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,345000,1,7500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1488,cauca,bolivar,19100,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+1489,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",450000,0,,,0,,3.25,Moderate Insecurity,1
+1735,cauca,bolivar,19100,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+1736,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,3000000,Other,0,,2.5,Moderate Insecurity,1
+1737,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,1,1000000,3.25,Moderate Insecurity,1
+1738,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,4.0,Severe Insecurity,1
+1739,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,3,Government assistance,600000,1,13000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+1740,cauca,timbiqui,19809,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,6000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+2291,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,5500000,0,,,1,2000000,1.5,Marginal Security,0
+2292,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,30000000,Buy food,0,,2.0,Marginal Security,0
+2293,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,8000000,1,5000000,Other,0,,1.75,Marginal Security,0
+2294,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,20000000,Buy food,0,,2.25,Marginal Security,0
+2295,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,1.5,Marginal Security,0
+2296,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,4000000,1,10000000,Buy productive inputs,1,2000000,1.0,Secure,0
+2297,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,1.0,0,0,1,1,Government assistance,3000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+2298,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2299,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,2000000,2.5,Moderate Insecurity,1
+2300,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,1.5,Marginal Security,0
+2301,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,0,,,0,,1.5,Marginal Security,0
+2302,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+2303,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,980000,0,,,0,,2.75,Moderate Insecurity,1
+2304,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,1000000,Other,0,,1.75,Marginal Security,0
+2305,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1700000,1,20000000,Other,0,,1.0,Secure,0
+2306,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1500000,Buy food,0,,2.5,Moderate Insecurity,1
+2307,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2308,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,99,1.5,Marginal Security,0
+2309,cauca,popayan,19001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,100000,2.0,Marginal Security,0
+2310,cauca,rosas,19622,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,800000,1,3000000,Buy productive inputs,1,12000000,2.25,Marginal Security,0
+2311,cauca,rosas,19622,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,800000,1,3000000,Buy productive inputs,1,12000000,2.25,Marginal Security,0
+2312,cauca,rosas,19622,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+2671,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+2672,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2673,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2674,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,1,1000000,2.75,Moderate Insecurity,1
+3040,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,3.25,Moderate Insecurity,1
+3041,cauca,bolivar,19100,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+3042,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,1.0,0,0,1,1,Work,600000,0,,,0,,3.75,Severe Insecurity,1
+3043,cauca,timbiqui,19809,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,1,0,1.0,0,0,1,2,Work,1700000,0,,,1,850000,2.5,Moderate Insecurity,1
+3044,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+3045,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,17000000,Other,0,,2.75,Moderate Insecurity,1
+3046,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,2,Work,300000,1,200000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+3047,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,1.0,0,0,1,1,"Other (income, chance, inheritance...)",200000,0,,,0,,3.25,Moderate Insecurity,1
+3048,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,640000,0,,,0,,2.25,Marginal Security,0
+3049,cauca,timbiqui,19809,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,100000,Other,0,,3.5,Severe Insecurity,1
+4024,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,15000000,Cover health expenses,0,,1.5,Marginal Security,0
+4025,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+4026,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,0,,,0,,1.0,Secure,0
+4027,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1280000,0,,,0,,1.5,Marginal Security,0
+4028,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2500000,1,25000000,Other,1,320000,1.0,Secure,0
+4029,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+4030,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1800000,1,40000000,Other,1,400000,1.0,Secure,0
+4031,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1300000,1,18000000,Other,1,150000,2.0,Marginal Security,0
+4032,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,1,3000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+4033,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,4,Remittances from migrants or help from family/friends,816000,0,,,0,,1.75,Marginal Security,0
+4034,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,3000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+4035,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,500000,2.75,Moderate Insecurity,1
+4036,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,8000000,0,,,0,,1.75,Marginal Security,0
+4037,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.0,Marginal Security,0
+4038,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,500000,1.75,Marginal Security,0
+4039,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,0,,,0,,2.25,Marginal Security,0
+4040,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,2,Pension,1200000,1,50000000,Pay rent or house rent,0,,1.5,Marginal Security,0
+4041,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.5,Moderate Insecurity,1
+4042,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+4043,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.25,Marginal Security,0
+4044,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+4045,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,2.25,Marginal Security,0
+4046,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,1,1000000,Buy productive inputs,0,,1.75,Marginal Security,0
+4047,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2300000,Buy productive inputs,0,,1.75,Marginal Security,0
+4048,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,819000,1,10000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+4049,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4050,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,1,10000000,Other,0,,2.0,Marginal Security,0
+4051,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,0,,2.25,Marginal Security,0
+4052,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,448000,1,7000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+4053,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,1.5,Marginal Security,0
+4054,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,2.0,Marginal Security,0
+4055,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+4056,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,1.0,Secure,0
+4057,cauca,popayan,19001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,160000,0,,,0,,3.0,Moderate Insecurity,1
+4058,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,400000,0,,,1,500000,1.75,Marginal Security,0
+4059,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,20000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+4060,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+4061,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,1,5000000,Other,0,,1.0,Secure,0
+4062,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,9000000,Buy productive inputs,0,,1.5,Marginal Security,0
+4063,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+4064,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+4065,cauca,rosas,19622,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,99,Other,1,180000,1.25,Secure,0
+4591,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,36000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,150000,1.25,Secure,0
+4592,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,280000,0,,,0,,2.0,Marginal Security,0
+4593,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,2.0,Marginal Security,0
+4594,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1000000,Other,0,,2.5,Moderate Insecurity,1
+4595,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,5000000,1,1500000,Other,0,,2.25,Marginal Security,0
+4596,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+4597,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+4598,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,1,30000000,2.0,Marginal Security,0
+4599,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+4990,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+4991,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,1,350000,2.25,Marginal Security,0
+4992,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,1900000,Other,0,,2.0,Marginal Security,0
+4993,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+4994,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4995,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,330000,1,6000000,Other,0,,2.25,Marginal Security,0
+4996,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,1,10000000,Buy productive inputs,0,,2.0,Marginal Security,0
+4997,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,28000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4998,cauca,bolivar,19100,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,4.0,Severe Insecurity,1
+4999,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,25000000,Other,0,,2.75,Moderate Insecurity,1
+5000,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,900000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+5001,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,4.0,Severe Insecurity,1
+5002,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,500000,Buy food,0,,3.75,Severe Insecurity,1
+5003,cauca,timbiqui,19809,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+5889,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,0,,,1,4000000,1.0,Secure,0
+5890,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4500000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,2.0,Marginal Security,0
+5891,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+5892,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,5000000,0,,,1,1500000,1.0,Secure,0
+5893,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+5894,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,1,10500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.0,Secure,0
+5895,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,1,3000000,1.0,Secure,0
+5896,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.0,Secure,0
+5897,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,8000000,1,180000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,9000000,1.5,Marginal Security,0
+5898,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5899,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+5900,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,180000,0,,,1,300000,3.5,Severe Insecurity,1
+5901,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+5902,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,4800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5903,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+5904,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1300000,1,400000,Pay school or education expenses,1,500000,1.75,Marginal Security,0
+5905,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Other,1,500000,1.0,Secure,0
+5906,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,1,2500000,1.75,Marginal Security,0
+5907,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3600000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5908,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,25000000,Other,0,,1.5,Marginal Security,0
+5909,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,1,1000000,Other,0,,2.25,Marginal Security,0
+5910,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5911,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,900000,Buy food,0,,2.0,Marginal Security,0
+5912,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,10000000,Other,0,,2.25,Marginal Security,0
+5913,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5914,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+5915,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,8000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+5916,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2500000,Buy food,0,,2.5,Moderate Insecurity,1
+5917,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5918,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5919,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5920,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+5921,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,40000,0,,,0,,1.5,Marginal Security,0
+5922,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,99,"Cover basic services (water, electricity)",1,99,2.25,Marginal Security,0
+5923,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,The household receives no income of any kind,200000,0,,,0,,2.75,Moderate Insecurity,1
+5924,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,1,5000000,Other,0,,2.0,Marginal Security,0
+5925,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+5926,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,500000,1.75,Marginal Security,0
+5927,cauca,popayan,19001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+5928,cauca,rosas,19622,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,0,,,0,,2.25,Marginal Security,0
+5929,cauca,rosas,19622,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1168000,1,10000000,Buy productive inputs,0,,1.25,Secure,0
+5930,cauca,rosas,19622,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,600000,0,,,0,,2.0,Marginal Security,0
+6459,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,360000,0,,,0,,3.5,Severe Insecurity,1
+6460,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.25,Moderate Insecurity,1
+6461,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,96000,0,,,0,,2.5,Moderate Insecurity,1
+6462,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,155000,0,,,0,,1.75,Marginal Security,0
+6463,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,140000,0,,,0,,2.25,Marginal Security,0
+6464,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,320000,0,,,0,,1.0,Secure,0
+6465,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.5,Marginal Security,0
+6466,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Work,500000,1,5000000,Buy productive inputs,1,150000,2.75,Moderate Insecurity,1
+6467,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,35000,1,600000,Cover health expenses,0,,1.75,Marginal Security,0
+6468,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,35000,1,600000,Cover health expenses,0,,1.75,Marginal Security,0
+6469,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Work,400000,1,1000000,Other,0,,1.75,Marginal Security,0
+6755,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+6756,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+6757,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,40000,1,5000000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+6758,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1400000,Buy food,0,,2.25,Marginal Security,0
+6759,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+6760,cauca,bolivar,19100,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,1400000,Other,0,,3.25,Moderate Insecurity,1
+6761,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,550000,0,,,1,300000,1.5,Marginal Security,0
+6762,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,200000,Other,1,10000,3.25,Moderate Insecurity,1
+6763,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,300000,2.75,Moderate Insecurity,1
+6764,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,300000,Other,0,,2.25,Marginal Security,0
+6765,cauca,timbiqui,19809,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2000000,Cover health expenses,0,,1.75,Marginal Security,0
+7487,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.0,Secure,0
+7488,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,50000000,Other,0,,1.0,Secure,0
+7489,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,1.5,Marginal Security,0
+7490,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+7491,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,120000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.25,Secure,0
+7492,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.75,Marginal Security,0
+7493,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+7494,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,500000,2.25,Marginal Security,0
+7495,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.0,Secure,0
+7496,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,1,5000000,Buy food,0,,1.25,Secure,0
+7497,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.5,Marginal Security,0
+7498,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+7499,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Other,0,,1.75,Marginal Security,0
+7500,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+7501,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,105000,0,,,0,,3.25,Moderate Insecurity,1
+7502,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,0,,,0,,1.5,Marginal Security,0
+7503,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,0,,,1,200000,2.0,Marginal Security,0
+7504,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+7505,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1900000,1,3000000,pay trips,0,,1.25,Secure,0
+7506,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,4000000,Buy productive inputs,1,600000,1.0,Secure,0
+7507,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.0,Secure,0
+7508,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+7509,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,1.25,Secure,0
+7510,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+7511,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,20000000,Buy productive inputs,0,,1.5,Marginal Security,0
+7512,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,880000,0,,,0,,2.0,Marginal Security,0
+7513,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,4000000,Buy productive inputs,0,,1.75,Marginal Security,0
+7514,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,560000,0,,,0,,2.25,Marginal Security,0
+7515,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Cover health expenses,0,,1.75,Marginal Security,0
+7516,cauca,popayan,19001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,0,,1.0,Secure,0
+7517,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1070000,0,,,0,,1.75,Marginal Security,0
+7518,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7519,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7520,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,300000,0,,,0,,1.5,Marginal Security,0
+7521,cauca,rosas,19622,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,1,25000000,Other,0,,2.25,Marginal Security,0
+7909,cauca,timbiqui,19809,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,4000000,1,20000000,Other,1,5000000,1.75,Marginal Security,0
+7910,cauca,timbiqui,19809,1,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,1,250000,Other,0,,2.0,Marginal Security,0
+7911,cauca,timbiqui,19809,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+8073,cauca,bolivar,19100,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,210000,0,,,0,,3.75,Severe Insecurity,1
+8074,cauca,bolivar,19100,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,200000,1,100000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+8383,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.0,Secure,0
+8384,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,1,200000,1.5,Marginal Security,0
+8385,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,400000,2.25,Marginal Security,0
+8386,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,300000,0,,,0,,2.5,Moderate Insecurity,1
+8387,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+8388,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,1,960000,1.75,Marginal Security,0
+8389,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,1.0,Secure,0
+8390,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2500000,1,150000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+8391,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,0,,,0,,1.5,Marginal Security,0
+8392,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,100000,1,1000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+8393,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,500000,2.0,Marginal Security,0
+8394,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,70000,1,2000000,Buy productive inputs,0,,1.0,Secure,0
+8395,cauca,popayan,19001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2900000,1,8000000,Other,1,4000000,1.0,Secure,0
+8396,cauca,rosas,19622,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,100000,0,,,0,,3.0,Moderate Insecurity,1
+8397,cauca,rosas,19622,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+8398,cauca,rosas,19622,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,24000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+8399,cauca,rosas,19622,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1

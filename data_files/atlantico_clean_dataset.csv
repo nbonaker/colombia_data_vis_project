@@ -1,0 +1,434 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+48,atlantico,malambo,8433,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,760000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+61,atlantico,barranquilla,8001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Government assistance,2000000,0,,,0,,2.0,Marginal Security,0
+62,atlantico,barranquilla,8001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Government assistance,2000000,0,,,0,,2.0,Marginal Security,0
+98,atlantico,malambo,8433,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,0,,,0,,2.25,Marginal Security,0
+118,atlantico,barranquilla,8001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,4000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+135,atlantico,barranquilla,8001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3500000,1,17000000,Other,0,,1.0,Secure,0
+136,atlantico,barranquilla,8001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,1.25,Secure,0
+173,atlantico,candelaria,8141,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,0,,1.75,Marginal Security,0
+228,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,2000000,Other,0,,2.25,Marginal Security,0
+229,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,2000000,Other,0,,2.25,Marginal Security,0
+230,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,1,450000,3.0,Moderate Insecurity,1
+231,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,1,450000,3.0,Moderate Insecurity,1
+232,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,4000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+233,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+234,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+235,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+267,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1260000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+268,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1680000,1,2000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+269,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2680000,0,,,0,,1.5,Marginal Security,0
+270,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,1.5,Marginal Security,0
+271,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1800000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+272,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+273,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+274,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+275,atlantico,barranquilla,8001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,2300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+363,atlantico,malambo,8433,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,6000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+364,atlantico,sabanagrande,8634,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1800000,1,2700000,Cover health expenses,0,,1.5,Marginal Security,0
+365,atlantico,sabanagrande,8634,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,0,,,0,,1.75,Marginal Security,0
+432,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,7000000,Other,0,,2.75,Moderate Insecurity,1
+433,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,7000000,Other,0,,2.75,Moderate Insecurity,1
+434,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Work,1400000,0,,,0,,2.25,Marginal Security,0
+435,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+436,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5400000,Buy productive inputs,0,,2.25,Marginal Security,0
+437,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,1,150000,1.75,Marginal Security,0
+438,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+439,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work, ,1,2000000,Cover health expenses,0,,1.75,Marginal Security,0
+440,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,8000000,1,27000000,Pay school or education expenses,0,,1.25,Secure,0
+441,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,8000000,1,27000000,Pay school or education expenses,0,,1.25,Secure,0
+499,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Buy food,0,,2.5,Moderate Insecurity,1
+500,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",2000000,0,,,0,,1.5,Marginal Security,0
+501,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,,0,0,0,2,Work,2400000,1,3600000,Other,0,,2.25,Marginal Security,0
+502,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,500000,Buy food,0,,2.5,Moderate Insecurity,1
+503,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,5000000,Other,0,,1.5,Marginal Security,0
+504,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+505,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,0,,,0,,1.75,Marginal Security,0
+506,atlantico,barranquilla,8001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,7000000,1,14000000,Other,1,1200000,2.0,Marginal Security,0
+671,atlantico,candelaria,8141,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,250000,0,,,0,,2.5,Moderate Insecurity,1
+672,atlantico,candelaria,8141,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,100000,1,183000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+673,atlantico,sabanagrande,8634,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,735000,1,2000000,Other,0,,1.75,Marginal Security,0
+820,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+821,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,6000000,Other,0,,2.25,Marginal Security,0
+822,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,Other,0,,2.25,Marginal Security,0
+823,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,Other,0,,2.25,Marginal Security,0
+824,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,Other,0,,2.25,Marginal Security,0
+825,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1700000,0,,,0,,2.25,Marginal Security,0
+826,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+827,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1500000,0,,,1,420000,1.0,Secure,0
+828,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3000000,0,,,0,,2.25,Marginal Security,0
+829,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,3000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+830,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,3000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+831,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,1,40000000,Other,0,,1.25,Secure,0
+832,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1500000,1,40000000,Other,0,,1.25,Secure,0
+833,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,400000,Buy food,0,,2.75,Moderate Insecurity,1
+834,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,120000,Buy food,0,,3.5,Severe Insecurity,1
+835,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1000000,1,99,Other,0,,2.75,Moderate Insecurity,1
+836,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1000000,1,99,Other,0,,2.75,Moderate Insecurity,1
+837,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1000000,1,99,Other,0,,2.75,Moderate Insecurity,1
+838,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+839,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,400000,0,,,0,,2.0,Marginal Security,0
+840,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Pension,3300000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+841,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Pension,3300000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+842,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+843,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+844,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+845,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+846,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,8000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+847,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,4000000,0,,,0,,1.5,Marginal Security,0
+848,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Pension,5000000,0,,,0,,1.0,Secure,0
+849,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Pension,5000000,0,,,0,,1.0,Secure,0
+850,atlantico,sabanagrande,8634,6,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,280000,0,,,0,,1.5,Marginal Security,0
+972,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+973,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.0,Marginal Security,0
+974,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,0,,3.5,Severe Insecurity,1
+975,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+976,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,ns_nr,,,1,800000,1.0,Secure,0
+977,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,1.75,Marginal Security,0
+978,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,700000,Pay rent or house rent,0,,3.5,Severe Insecurity,1
+979,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,0,,,0,,1.25,Secure,0
+980,atlantico,barranquilla,8001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+1297,atlantico,8558,8558,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,950000,1,2800000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+1298,atlantico,candelaria,8141,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,590000,0,,,1,300000,2.5,Moderate Insecurity,1
+1299,atlantico,candelaria,8141,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1650000,1,350000,Other,0,,2.5,Moderate Insecurity,1
+1300,atlantico,candelaria,8141,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1301,atlantico,candelaria,8141,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,1500000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+1302,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,6000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1303,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2000000,0,,,0,,1.75,Marginal Security,0
+1304,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,900000,0,,,1,100000,2.5,Moderate Insecurity,1
+1305,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1050000,1,2000000,Cover health expenses,0,,1.75,Marginal Security,0
+1306,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,550000,0,,,0,,1.75,Marginal Security,0
+1307,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,4.0,Severe Insecurity,1
+1308,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1309,atlantico,malambo,8433,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,700000,Other,0,,2.25,Marginal Security,0
+1310,atlantico,sabanagrande,8634,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,0,,,0,,3.0,Moderate Insecurity,1
+1311,atlantico,sabanagrande,8634,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,1,20000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+1312,atlantico,sabanagrande,8634,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2300000,0,,,0,,1.0,Secure,0
+1536,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4800000,0,,,1,6000000,1.0,Secure,0
+1537,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,8000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1538,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,4000000,"Cover basic services (water, electricity)",1,200000,3.0,Moderate Insecurity,1
+1539,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,500000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1540,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,4000000,Other,0,,2.25,Marginal Security,0
+1541,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,4800000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1542,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,4800000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1543,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2300000,1,1700000,Other,1,2000000,1.0,Secure,0
+1544,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,1000000,Buy productive inputs,0,,1.5,Marginal Security,0
+1545,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Government assistance,400000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1546,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+1547,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1300000,1,4200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1548,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,1.5,Marginal Security,0
+1549,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+1550,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+1551,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,900000,0,,,1,300000,1.5,Marginal Security,0
+1552,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,2500000,0,,,0,,2.5,Moderate Insecurity,1
+1553,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,700000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+1554,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1796,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,220000,1,14000000,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+1797,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1798,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1270000,0,,,0,,1.5,Marginal Security,0
+1799,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,15000000,0,,,1,350000,2.0,Marginal Security,0
+1800,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,15000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+1801,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.5,Marginal Security,0
+1802,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,0,,2.25,Marginal Security,0
+1803,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+1804,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,1000000,Other,0,,1.0,Secure,0
+1805,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,3500000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1806,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,118000,Buy food,0,,2.75,Moderate Insecurity,1
+1807,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1808,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,130000,2.25,Marginal Security,0
+1809,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,3.75,Severe Insecurity,1
+1810,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,1,99,1.5,Marginal Security,0
+1811,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1812,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2400000,1,12000000,Pay school or education expenses,1,99,1.5,Marginal Security,0
+1813,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2500000,1.25,Secure,0
+1814,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,500000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1815,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+1816,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,800000,2.25,Marginal Security,0
+1817,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1400000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1818,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+1819,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.0,Marginal Security,0
+1820,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,1,600000,2.5,Moderate Insecurity,1
+1821,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,300000,1.25,Secure,0
+1822,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,20000000,Other,0,,2.25,Marginal Security,0
+1823,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,20000000,"Cover basic services (water, electricity)",1,99,2.25,Marginal Security,0
+1824,atlantico,barranquilla,8001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,"Other (income, chance, inheritance...)",3000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2432,atlantico,8558,8558,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,550000,1,500000,Pay school or education expenses,0,,4.0,Severe Insecurity,1
+2433,atlantico,8558,8558,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+2434,atlantico,candelaria,8141,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,0,,,0,,3.25,Moderate Insecurity,1
+2435,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.25,Marginal Security,0
+2436,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,0,,,0,,2.25,Marginal Security,0
+2437,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2400000,1,18000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2438,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2439,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2440,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+2441,atlantico,malambo,8433,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1400000,1,380000,Other,0,,2.5,Moderate Insecurity,1
+2442,atlantico,sabanagrande,8634,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,0,,,1,120000,2.5,Moderate Insecurity,1
+2443,atlantico,sabanagrande,8634,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,150000,Other,0,,2.5,Moderate Insecurity,1
+2444,atlantico,sabanagrande,8634,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,440000,0,,,0,,4.0,Severe Insecurity,1
+2724,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,8000000,0,,,1,5000000,1.0,Secure,0
+2725,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,7000000,0,,,1,5000000,1.0,Secure,0
+2726,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+2727,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,1.75,Marginal Security,0
+2728,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,3.75,Severe Insecurity,1
+2729,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,3.75,Severe Insecurity,1
+2730,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,3.75,Severe Insecurity,1
+2731,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,3.75,Severe Insecurity,1
+2732,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,1000000,1.25,Secure,0
+2733,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,1000000,1.25,Secure,0
+2734,atlantico,barranquilla,8001,4,,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+2735,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+2736,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+2737,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2100000,1,2000000,Other,0,,1.25,Secure,0
+2738,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2100000,1,2000000,Other,0,,1.25,Secure,0
+2739,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2740,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2741,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+2742,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2743,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+2744,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+2745,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+2746,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+2747,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1850000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2748,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1850000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2749,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,1,10000000,Other,0,,1.0,Secure,0
+2750,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4000000,1,17000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2751,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,4000000,1,30000000,Pay school or education expenses,1,10000000,1.0,Secure,0
+2752,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2753,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,907000,0,,,0,,2.25,Marginal Security,0
+2754,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,9000000,1,10000000,Other,0,,1.0,Secure,0
+2755,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.25,Secure,0
+2756,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,1,3500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2757,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+2758,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2500000,1,99,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+2759,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,200000,2.25,Marginal Security,0
+2760,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,0,,,0,,3.0,Moderate Insecurity,1
+3185,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,1500000,Other,0,,2.75,Moderate Insecurity,1
+3186,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,1000000,Buy food,0,,1.75,Marginal Security,0
+3187,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+3188,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+3189,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,0,,,1,600000,2.75,Moderate Insecurity,1
+3190,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1700000,1.0,Secure,0
+3191,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+3192,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,2000000,Buy productive inputs,0,,1.75,Marginal Security,0
+3193,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,1.0,Secure,0
+3194,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,11000000,Buy food,0,,3.0,Moderate Insecurity,1
+3195,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,10000000,Buy productive inputs,1,300000,1.25,Secure,0
+3196,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,9800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3197,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,1,4000000,Pay school or education expenses,0,,1.25,Secure,0
+3198,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,3000000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+3199,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,2.0,Marginal Security,0
+3200,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,8000000,0,,,1,99,1.0,Secure,0
+3201,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+3202,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,200000,Other,0,,1.0,Secure,0
+3203,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+3204,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,1,9000000,1.5,Marginal Security,0
+3205,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,"Cover basic services (water, electricity)",0,,1.0,Secure,0
+3206,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.0,Marginal Security,0
+3207,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+3208,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,1,92000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3209,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+3210,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,2,Work,800000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3211,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,5000000,Buy food,0,,2.0,Marginal Security,0
+3212,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,5000000,Buy food,0,,2.0,Marginal Security,0
+3213,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,1,150000,2.5,Moderate Insecurity,1
+3214,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+3215,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension, ,0,,,1,99,2.5,Moderate Insecurity,1
+3216,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,6000000,Buy food,1,2000000,2.25,Marginal Security,0
+3217,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,1,1400000,Buy food,0,,2.25,Marginal Security,0
+3218,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3219,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+3220,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,600000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+3221,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.25,Secure,0
+3222,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,1,99,1.0,Secure,0
+3223,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+3224,atlantico,barranquilla,8001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1700000,1,15000000,Other,0,,1.75,Marginal Security,0
+3225,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,0,,,0,,1.5,Marginal Security,0
+3226,atlantico,sabanagrande,8634,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+4278,atlantico,8558,8558,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4279,atlantico,8558,8558,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,600000,0,,,1,800000,2.0,Marginal Security,0
+4280,atlantico,8558,8558,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,1,2000000,1.75,Marginal Security,0
+4281,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,360000,1,150000,Other,0,,2.25,Marginal Security,0
+4282,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,210000,1,310000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4283,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,410000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4284,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,3200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4285,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,1.75,Marginal Security,0
+4286,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+4287,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,7600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4288,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,800000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+4289,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,130000,Other,0,,2.25,Marginal Security,0
+4290,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.75,Moderate Insecurity,1
+4291,atlantico,candelaria,8141,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+4292,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,430000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+4293,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.0,Marginal Security,0
+4294,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+4295,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+4296,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4297,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1220000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4298,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,200000,1.75,Marginal Security,0
+4299,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Pension,1500000,1,1000000,Buy food,0,,1.75,Marginal Security,0
+4300,atlantico,malambo,8433,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,7000000,Other,0,,1.75,Marginal Security,0
+4301,atlantico,sabanagrande,8634,4,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,60000,0,,,0,,1.5,Marginal Security,0
+4302,atlantico,sabanagrande,8634,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",900000,0,,,0,,1.0,Secure,0
+4303,atlantico,sabanagrande,8634,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+4304,atlantico,sabanagrande,8634,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,200000,2.5,Moderate Insecurity,1
+4305,atlantico,sabanagrande,8634,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+4683,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.0,Marginal Security,0
+4684,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4685,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,120000,ns_nr__strong_e__no_leer__strong_,1,800000,1.75,Marginal Security,0
+4686,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,1,25000000,Other,0,,1.5,Marginal Security,0
+4687,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,2.5,Moderate Insecurity,1
+4688,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4689,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,300000,Other,0,,3.0,Moderate Insecurity,1
+4690,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+4691,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+4692,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,500000,0,,,0,,2.5,Moderate Insecurity,1
+4693,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,500000,0,,,0,,2.5,Moderate Insecurity,1
+4694,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,22000000,Other,0,,3.25,Moderate Insecurity,1
+4695,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",800000,0,,,0,,1.5,Marginal Security,0
+4696,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4697,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4698,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,99,Other,0,,1.75,Marginal Security,0
+4699,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+4700,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,1,7000000,1.0,Secure,0
+4701,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,5000000,0,,,1,600000,1.0,Secure,0
+4702,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,5000000,0,,,1,600000,1.0,Secure,0
+5115,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.25,Secure,0
+5116,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4300000,0,,,0,,1.25,Secure,0
+5117,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,800000,Cover health expenses,0,,1.0,Secure,0
+5118,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,16000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5119,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,600000,Buy food,0,,1.75,Marginal Security,0
+5120,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,750000,1,200000,Other,0,,2.75,Moderate Insecurity,1
+5121,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,56000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.5,Marginal Security,0
+5122,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2300000,0,,,1,1200000,1.75,Marginal Security,0
+5123,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,130000,0,,,0,,2.25,Marginal Security,0
+5124,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.0,Secure,0
+5125,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,300000,2.0,Marginal Security,0
+5126,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+5127,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,75000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5128,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,99,Pay school or education expenses,0,,3.0,Moderate Insecurity,1
+5129,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,0,,,0,,2.0,Marginal Security,0
+5130,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+5131,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,15000000,Other,0,,2.5,Moderate Insecurity,1
+5132,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5133,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+5134,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,10000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+5135,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.0,Secure,0
+5136,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",3700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5137,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,99,1.0,Secure,0
+5138,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,2000000,Other,1,99,1.25,Secure,0
+5139,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+5140,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,2000000,1.75,Marginal Security,0
+5141,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4100000,1,30000000,Pay school or education expenses,1,3000000,2.25,Marginal Security,0
+5142,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,12000000,1,4000000,Other,0,,1.0,Secure,0
+5143,atlantico,barranquilla,8001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6134,atlantico,8558,8558,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,340000,0,,,0,,3.25,Moderate Insecurity,1
+6135,atlantico,8558,8558,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,355000,0,,,0,,1.75,Marginal Security,0
+6136,atlantico,8558,8558,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,1,2000000,1.0,Secure,0
+6137,atlantico,8558,8558,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,3.5,Severe Insecurity,1
+6138,atlantico,8558,8558,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,1,200000,1.75,Marginal Security,0
+6139,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1010000,1,300000,Buy food,0,,2.25,Marginal Security,0
+6140,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,0,,,0,,2.0,Marginal Security,0
+6141,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,1,500000,Buy food,0,,3.25,Moderate Insecurity,1
+6142,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,650000,1,900000,Buy food,0,,2.25,Marginal Security,0
+6143,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+6144,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,330000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+6145,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+6146,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,6000000,Other,0,,3.25,Moderate Insecurity,1
+6147,atlantico,candelaria,8141,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,120000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,170000,2.25,Marginal Security,0
+6148,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+6149,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,530000,0,,,0,,2.0,Marginal Security,0
+6150,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,1,180000,Other,0,,2.75,Moderate Insecurity,1
+6151,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6152,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+6153,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+6154,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,2.25,Marginal Security,0
+6155,atlantico,malambo,8433,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+6156,atlantico,sabanagrande,8634,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,200000,Buy food,0,,2.25,Marginal Security,0
+6157,atlantico,sabanagrande,8634,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1050000,0,,,0,,2.0,Marginal Security,0
+6158,atlantico,sabanagrande,8634,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+6552,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,300000,0,,,0,,2.5,Moderate Insecurity,1
+6553,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+6554,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,480000,0,,,0,,1.25,Secure,0
+6555,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,99,1.75,Marginal Security,0
+6556,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+6557,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,10000000,ns_nr__strong_e__no_leer__strong_,1,2000000,1.0,Secure,0
+6558,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,10000000,ns_nr__strong_e__no_leer__strong_,1,2000000,1.0,Secure,0
+6559,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",250000,ns_nr,,,0,,3.0,Moderate Insecurity,1
+6560,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,30000,0,,,0,,2.25,Marginal Security,0
+6561,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+6562,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,20000000,Cover health expenses,0,,2.0,Marginal Security,0
+6563,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,3500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6564,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,40000,0,,,0,,3.75,Severe Insecurity,1
+6565,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,3.0,Moderate Insecurity,1
+6860,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4600000,0,,,1,6000000,1.0,Secure,0
+6861,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2900000,0,,,1,3200000,1.0,Secure,0
+6862,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3500000,0,,,1,5000000,1.0,Secure,0
+6863,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,0,,,0,,1.25,Secure,0
+6864,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,1.5,Marginal Security,0
+6865,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+6866,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,0,,,0,,1.0,Secure,0
+6867,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1200000,0,,,1,200000,2.5,Moderate Insecurity,1
+6868,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+6869,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+6870,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,1,99,1.75,Marginal Security,0
+6871,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,6000000,1,200000,Other,0,,1.25,Secure,0
+6872,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+6873,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,4000000,1.0,Secure,0
+6874,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,2000000,1.0,Secure,0
+6875,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6876,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,7000000,Buy productive inputs,0,,1.25,Secure,0
+6877,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6878,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,0,,1.0,Secure,0
+6879,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+6880,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+6881,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,2.25,Marginal Security,0
+6882,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,1.0,Secure,0
+6883,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,960000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+6884,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,1.75,Marginal Security,0
+6885,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,0,,,0,,1.0,Secure,0
+6886,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,500000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+6887,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+6888,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,30000000,Other,0,,1.0,Secure,0
+6889,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3800000,0,,,1,2000000,1.0,Secure,0
+6890,atlantico,barranquilla,8001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,0,,,0,,1.75,Marginal Security,0
+6891,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,700000,0,,,0,,1.5,Marginal Security,0
+7699,atlantico,8558,8558,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+7700,atlantico,8558,8558,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,150000,1,600000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+7701,atlantico,8558,8558,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+7702,atlantico,candelaria,8141,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+7703,atlantico,candelaria,8141,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,0,0,,,0,,2.75,Moderate Insecurity,1
+7704,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,1800000,Other,0,,2.75,Moderate Insecurity,1
+7705,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+7706,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,0,1,4500000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+7707,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,1,300000,1.5,Marginal Security,0
+7708,atlantico,malambo,8433,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.5,Moderate Insecurity,1
+7709,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2000000,0,,,1,200000,1.5,Marginal Security,0
+7710,atlantico,sabanagrande,8634,2,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,400000,0,,,0,,2.25,Marginal Security,0
+7711,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+7712,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5500000,0,,,1,1500000,1.0,Secure,0
+7713,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,430000,0,,,0,,2.5,Moderate Insecurity,1
+7714,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1090000,ns_nr,,,0,,2.25,Marginal Security,0
+7715,atlantico,sabanagrande,8634,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,550000,1,36000000,Other,0,,1.5,Marginal Security,0
+7953,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7954,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,750000,1,6000000,Pay rent or house rent,0,,1.25,Secure,0
+7955,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",750000,1,4000000,Other,0,,1.75,Marginal Security,0
+7956,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",2600000,0,,,0,,1.25,Secure,0
+7957,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,1.0,Secure,0
+7958,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,200000,1,2000000,Other,0,,2.25,Marginal Security,0
+7959,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,1.5,Marginal Security,0
+7960,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,1.25,Secure,0
+7961,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,70000,0,,,0,,1.25,Secure,0
+8107,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,4000000,Pay school or education expenses,1,2000000,1.0,Secure,0
+8108,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,0,,1.0,Secure,0
+8109,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,1.0,Secure,0
+8110,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.25,Secure,0
+8111,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.0,Secure,0
+8112,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+8113,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,18000000,0,,,0,,1.0,Secure,0
+8114,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,1500000,1.0,Secure,0
+8115,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,5200000,1,37000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.0,Secure,0
+8116,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,600000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+8117,atlantico,barranquilla,8001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1900000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+8476,atlantico,malambo,8433,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+8477,atlantico,sabanagrande,8634,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+8478,atlantico,sabanagrande,8634,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1200000,0,,,0,,2.0,Marginal Security,0

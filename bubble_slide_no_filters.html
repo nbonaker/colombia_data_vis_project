@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script type="module" src="./bubbles_simple.js"></script>
+  <link rel="stylesheet" href="main_stylesheet.css">
+</head>
+<style>
+  .bubble-box{
+    background-color:white;
+    background-clip: content-box;
+    border-radius: 20px;
+    width: 60%;
+    height: 100%;
+    display: table-cell;
+
+  }
+  .description-box{
+    background-color:white;
+    background-clip: content-box;
+    border-radius: 20px;
+    width: 33%;
+    height: 100%;
+    display: table-cell;
+    padding-left: 5px;
+    vertical-align: top;
+  }
+  .description-box-text{
+    display: block;
+    width: 95%;
+    height: 95%;
+    padding-left: 5%;
+    padding-top: 5%;
+  }
+</style>
+<body>
+
+  <div class="title-box">
+    <div class="title-box-text">Food Security in the Population</div>
+  </div>
+
+  <div class="content-container">
+    <div style="display: table-row; padding: 10px;">
+      <div class="bubble-box">
+          <div id="bubble-graph"></div>
+      </div>
+      <div class="description-box">
+        <div class="description-box-text">Here you can put some info about the graph :)</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-box">
+    <div><a href="./red_flags_map.html" target="_self" style="display: table-cell;">Previous</a></div>
+    <div class="timeline-box-text" style="display: table-cell; width: 90%">timeline goes here</div>
+    <div><a href="./bubble_slide_no_filters.html" target="_self" style="display: table-cell;">Next</a></div>
+  </div>
+
+<script type="module">
+    import {BubbleChart} from "./bubbles_simple.js";
+    // load the data
+    update_bubble_chart()
+
+    // resizes the bubble chart when resizing event finishes (prevents jittering)
+    var resize_delay;
+    window.onresize = function() {
+      clearTimeout(resize_delay);
+      resize_delay = setTimeout(update_bubble_chart, 100);
+    }
+
+    function update_bubble_chart() {
+      var plot_data = [];
+      d3.csv("data_files/food_insecurity_bubble_data.csv", function (data) {
+        for (var i = 0; i < data.length; i++) {
+          plot_data.push({"size": 100, "group": Math.round(data[i].cari)})
+        }
+        console.log(plot_data)
+        document.getElementById("bubble-graph").innerHTML = "";
+        var svg = d3.select("svg");
+        svg.selectAll("*").remove();
+
+        let box = document.querySelector('.bubble-box');
+        let width = box.clientWidth;
+        let height = box.clientHeight;
+        let BC = new BubbleChart("#bubble-graph", width, height)
+        BC.initialize_nodes(plot_data)
+      });
+    }
+</script>
+
+</body>
+</html>

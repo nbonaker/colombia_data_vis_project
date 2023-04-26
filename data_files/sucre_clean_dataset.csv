@@ -1,0 +1,217 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+2,sucre,sincelejo,70001,16,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,690000,0,,,0,,3.5,Severe Insecurity,1
+78,sucre,corozal,70215,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Government assistance,600000,1,1200000,Buy food,0,,3.0,Moderate Insecurity,1
+79,sucre,corozal,70215,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,4,Work,1277500,0,,,0,,3.25,Moderate Insecurity,1
+80,sucre,sincelejo,70001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.5,Severe Insecurity,1
+295,sucre,corozal,70215,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,300000,1,440000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+296,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+297,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,570000,1,300000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+298,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,1.5,Marginal Security,0
+299,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,2.75,Moderate Insecurity,1
+300,sucre,sincelejo,70001,8,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,600000,Buy food,0,,3.5,Severe Insecurity,1
+301,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+302,sucre,sincelejo,70001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,8,Work,1000000,0,,,0,,2.25,Marginal Security,0
+455,sucre,sucre,70771,7,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,3,Work,340000,1,1500000,Buy food,0,,3.25,Moderate Insecurity,1
+532,sucre,coloso,70204,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,600000,1,5000000,Other,1,300000,3.5,Severe Insecurity,1
+533,sucre,coloso,70204,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,140000,0,,,0,,3.75,Severe Insecurity,1
+534,sucre,corozal,70215,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,1,1500000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+535,sucre,corozal,70215,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,780000,0,,,0,,2.5,Moderate Insecurity,1
+536,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,680000,0,,,0,,4.0,Severe Insecurity,1
+537,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+538,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,6000000,Other,0,,2.5,Moderate Insecurity,1
+539,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1450000,1,6000000,Buy productive inputs,1,150000,3.0,Moderate Insecurity,1
+540,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Remittances from migrants or help from family/friends,500000,0,,,0,,3.25,Moderate Insecurity,1
+541,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,825000,0,,,0,,2.75,Moderate Insecurity,1
+542,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,5000000,Buy productive inputs,0,,2.0,Marginal Security,0
+543,sucre,sincelejo,70001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,660000,0,,,0,,2.0,Marginal Security,0
+716,sucre,sucre,70771,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.0,Moderate Insecurity,1
+1029,sucre,coloso,70204,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+1030,sucre,coloso,70204,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,12000000,Buy productive inputs,0,,3.5,Severe Insecurity,1
+1031,sucre,corozal,70215,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,320000,0,,,0,,2.75,Moderate Insecurity,1
+1032,sucre,corozal,70215,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,440000,0,,,0,,2.25,Marginal Security,0
+1033,sucre,corozal,70215,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+1034,sucre,corozal,70215,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,700000,Buy productive inputs,0,,4.0,Severe Insecurity,1
+1035,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,0,,3.25,Moderate Insecurity,1
+1036,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+1037,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,510000,0,,,0,,2.5,Moderate Insecurity,1
+1038,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,340000,1,1300000,Other,0,,2.5,Moderate Insecurity,1
+1039,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,100000,0,,,0,,2.25,Marginal Security,0
+1040,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,529000,1,2300000,Other,0,,2.75,Moderate Insecurity,1
+1041,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,600000,2.5,Moderate Insecurity,1
+1042,sucre,sincelejo,70001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+1588,sucre,sucre,70771,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,1.0,0,0,1,2,Work,420000,1,5000000,Buy food,0,,4.0,Severe Insecurity,1
+1589,sucre,sucre,70771,5,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,680000,0,,,0,,2.75,Moderate Insecurity,1
+1590,sucre,sucre,70771,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+1925,sucre,coloso,70204,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,385000,0,,,0,,3.5,Severe Insecurity,1
+1926,sucre,coloso,70204,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,1800000,Buy food,0,,2.75,Moderate Insecurity,1
+1927,sucre,coloso,70204,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.0,Marginal Security,0
+1928,sucre,coloso,70204,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.25,Marginal Security,0
+1929,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,600000,Other,1,110000,2.75,Moderate Insecurity,1
+1930,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,430000,0,,,0,,2.5,Moderate Insecurity,1
+1931,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,80000,0,,,0,,3.0,Moderate Insecurity,1
+1932,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,112000,0,,,0,,3.75,Severe Insecurity,1
+1933,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,980000,1,9000000,Buy food,0,,2.25,Marginal Security,0
+1934,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,1,100000,2.0,Marginal Security,0
+1935,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,560000,1,1366000,Other,0,,2.75,Moderate Insecurity,1
+1936,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,900000,1,2000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+1937,sucre,corozal,70215,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,8000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+1938,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,350000,1,700000,Buy food,0,,2.5,Moderate Insecurity,1
+1939,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1940,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,950000,0,,,0,,2.75,Moderate Insecurity,1
+1941,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1942,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+1943,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+1944,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+1945,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,300000,Buy food,0,,2.25,Marginal Security,0
+1946,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1947,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,2300000,1,85000000,Other,1,200000,1.0,Secure,0
+1948,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,760000,0,,,0,,2.75,Moderate Insecurity,1
+1949,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+1950,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,560000,0,,,1,100000,3.0,Moderate Insecurity,1
+1951,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,140000,0,,,0,,3.25,Moderate Insecurity,1
+1952,sucre,sincelejo,70001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,850000,1,600000,Buy productive inputs,0,,2.0,Marginal Security,0
+2552,sucre,sucre,70771,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,200000,0,,,1,100000,2.25,Marginal Security,0
+2553,sucre,sucre,70771,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,3,Work,600000,1,1000000,Other,0,,2.0,Marginal Security,0
+2554,sucre,sucre,70771,4,,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,1.0,0,0,1,2,Remittances from migrants or help from family/friends,150000,1,1300000,Other,0,,4.0,Severe Insecurity,1
+2818,sucre,sucre,70771,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,2,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+2819,sucre,sucre,70771,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Government assistance,200000,0,,,0,,2.75,Moderate Insecurity,1
+2820,sucre,sucre,70771,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,392500,0,,,0,,1.5,Marginal Security,0
+3404,sucre,coloso,70204,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,4.0,Severe Insecurity,1
+3405,sucre,coloso,70204,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,1000000,Other,1,500000,3.0,Moderate Insecurity,1
+3406,sucre,coloso,70204,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1080000,0,,,0,,2.0,Marginal Security,0
+3407,sucre,coloso,70204,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,3.5,Severe Insecurity,1
+3408,sucre,coloso,70204,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,505000,0,,,0,,2.0,Marginal Security,0
+3409,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,11000000,Other,0,,2.75,Moderate Insecurity,1
+3410,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,405000,0,,,0,,3.25,Moderate Insecurity,1
+3411,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,1,30000000,Other,0,,1.0,Secure,0
+3412,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+3413,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,540000,0,,,0,,2.5,Moderate Insecurity,1
+3414,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+3415,sucre,corozal,70215,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+3416,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1036000,1,3000000,Buy productive inputs,1,20000,2.75,Moderate Insecurity,1
+3417,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,1,300000,2.25,Marginal Security,0
+3418,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+3419,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,300000,Pay rent or house rent,1,300000,2.75,Moderate Insecurity,1
+3420,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,300000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+3421,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+3422,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,140000,0,,,1,370000,3.0,Moderate Insecurity,1
+3423,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work, ,0,,,0,,2.75,Moderate Insecurity,1
+3424,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+3425,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Buy food,0,,2.75,Moderate Insecurity,1
+3426,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,400000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+3427,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+3428,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,450000,0,,,0,,3.5,Severe Insecurity,1
+3429,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1001000,1,3000000,Buy productive inputs,0,,1.5,Marginal Security,0
+3430,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,0,,,0,,3.5,Severe Insecurity,1
+3431,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,20000000,Buy productive inputs,0,,2.0,Marginal Security,0
+3432,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,600000,0,,,0,,2.5,Moderate Insecurity,1
+3433,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,75000,0,,,0,,3.0,Moderate Insecurity,1
+3434,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+3435,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+3436,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3437,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,787500,1,2767697,Other,0,,2.75,Moderate Insecurity,1
+3438,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,10000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+3439,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,614575,1,5000000,Other,0,,3.0,Moderate Insecurity,1
+3440,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+3441,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,440000,0,,,0,,2.5,Moderate Insecurity,1
+3442,sucre,sincelejo,70001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,539971,Other,0,,3.5,Severe Insecurity,1
+4474,sucre,coloso,70204,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,3.5,Severe Insecurity,1
+4475,sucre,sucre,70771,3,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+4789,sucre,sucre,70771,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,2,Work,430000,0,,,0,,2.25,Marginal Security,0
+4790,sucre,sucre,70771,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,2,Work,200000,0,,,0,,2.25,Marginal Security,0
+4791,sucre,sucre,70771,3,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,2,Government assistance,500000,1,8000000,Buy productive inputs,0,,2.0,Marginal Security,0
+4792,sucre,sucre,70771,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,510000,1,665000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4793,sucre,sucre,70771,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,3,Work,430000,1,9000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4794,sucre,sucre,70771,3,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Remittances from migrants or help from family/friends,380000,0,,,1,40000,2.5,Moderate Insecurity,1
+5294,sucre,coloso,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+5295,sucre,coloso,70204,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,440000,0,,,0,,3.5,Severe Insecurity,1
+5296,sucre,coloso,70204,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+5297,sucre,coloso,70204,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.25,Marginal Security,0
+5298,sucre,coloso,70204,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,3.5,Severe Insecurity,1
+5299,sucre,coloso,70204,3,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,475000,0,,,1,20000,3.5,Severe Insecurity,1
+5300,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,1,1800000,Other,0,,3.25,Moderate Insecurity,1
+5301,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,3.25,Moderate Insecurity,1
+5302,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,267500,0,,,0,,2.25,Marginal Security,0
+5303,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+5304,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,1,18000000,Other,0,,2.25,Marginal Security,0
+5305,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+5306,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,330000,0,,,0,,2.75,Moderate Insecurity,1
+5307,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,950000,1,1500000,Pay rent or house rent,0,,2.25,Marginal Security,0
+5308,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,880000,0,,,0,,2.25,Marginal Security,0
+5309,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1155000,1,4500000,Cover health expenses,0,,1.75,Marginal Security,0
+5310,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,980000,0,,,0,,1.25,Secure,0
+5311,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,1,1500000,Buy food,0,,2.0,Marginal Security,0
+5312,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.75,Severe Insecurity,1
+5313,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,140000,Pay school or education expenses,0,,2.0,Marginal Security,0
+5314,sucre,corozal,70215,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+5315,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,425000,1,9500000,Other,0,,3.25,Moderate Insecurity,1
+5316,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+5317,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,1,6000000,Buy food,0,,2.25,Marginal Security,0
+5318,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2150000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+5319,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,553000,Pay rent or house rent,0,,2.0,Marginal Security,0
+5320,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,20000000,Buy productive inputs,0,,1.25,Secure,0
+5321,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,3.5,Severe Insecurity,1
+5322,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,950000,1,5000000,Other,0,,3.5,Severe Insecurity,1
+5323,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,5000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+5324,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1100000,1,1600000,Other,0,,1.25,Secure,0
+5325,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,2000000,Buy food,0,,1.0,Secure,0
+5326,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,200000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+5327,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3500000,0,,,0,,1.0,Secure,0
+5328,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,800000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+5329,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+5330,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension, ,1,60000,Buy food,0,,3.25,Moderate Insecurity,1
+5331,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5332,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,600000,0,,,0,,3.5,Severe Insecurity,1
+5333,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,830000,0,,,0,,2.25,Marginal Security,0
+5334,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,410000,0,,,1,300000,2.75,Moderate Insecurity,1
+5335,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,2000000,Other,1,220000,1.75,Marginal Security,0
+5336,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,4000000,Other,0,,2.75,Moderate Insecurity,1
+5337,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+5338,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.25,Secure,0
+5339,sucre,sincelejo,70001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,80000,0,,,0,,2.25,Marginal Security,0
+6337,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,190000,0,,,0,,2.25,Marginal Security,0
+6338,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,160000,0,,,0,,2.0,Marginal Security,0
+6339,sucre,sucre,70771,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,360000,1,7000000,Buy food,0,,1.25,Secure,0
+6340,sucre,sucre,70771,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,360000,1,7000000,Buy food,0,,1.25,Secure,0
+6618,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Remittances from migrants or help from family/friends,250000,0,,,0,,1.75,Marginal Security,0
+6619,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,300000,1,600000,Pay school or education expenses,1,300000,2.25,Marginal Security,0
+6620,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,140000,0,,,1,10000,2.75,Moderate Insecurity,1
+6621,sucre,sucre,70771,2,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,237500,0,,,0,,2.25,Marginal Security,0
+6622,sucre,sucre,70771,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,300000,1,1200000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+7042,sucre,coloso,70204,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+7043,sucre,coloso,70204,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,130000,0,,,0,,3.25,Moderate Insecurity,1
+7044,sucre,coloso,70204,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,460000,0,,,0,,2.5,Moderate Insecurity,1
+7045,sucre,coloso,70204,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+7046,sucre,corozal,70215,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,290000,0,,,0,,2.75,Moderate Insecurity,1
+7047,sucre,corozal,70215,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,180000,0,,,0,,2.5,Moderate Insecurity,1
+7048,sucre,corozal,70215,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,0,,,0,,2.25,Marginal Security,0
+7049,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,120000,1,500000,Other,0,,2.5,Moderate Insecurity,1
+7050,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+7051,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,12000000,Other,0,,1.75,Marginal Security,0
+7052,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,15000000,Other,0,,1.25,Secure,0
+7053,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+7054,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,450000,0,,,0,,3.25,Moderate Insecurity,1
+7055,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,1,500000,1.5,Marginal Security,0
+7056,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+7057,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,480000,0,,,0,,1.25,Secure,0
+7058,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+7059,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7060,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,1,1200000,2.5,Moderate Insecurity,1
+7061,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,216000,0,,,0,,2.5,Moderate Insecurity,1
+7062,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,330000,0,,,0,,2.5,Moderate Insecurity,1
+7063,sucre,sincelejo,70001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,4000000,Other,0,,1.0,Secure,0
+7854,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+7855,sucre,sucre,70771,1,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Government assistance,100000,1,80000,Cover health expenses,0,,2.0,Marginal Security,0
+7856,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Government assistance,302000,1,200000,Other,0,,2.25,Marginal Security,0
+7857,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,380000,1,800000,Buy productive inputs,1,4000000,2.0,Marginal Security,0
+8005,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,250000,0,,,0,,1.5,Marginal Security,0
+8006,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,540000,0,,,0,,2.0,Marginal Security,0
+8007,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,1.0,0,0,1,1,Work,500000,1,40000,Buy food,0,,2.5,Moderate Insecurity,1
+8008,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Government assistance,240000,0,,,0,,1.5,Marginal Security,0
+8009,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,1.0,0,0,1,1,Government assistance,200000,0,,,0,,2.0,Marginal Security,0
+8010,sucre,sucre,70771,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,1,Work,300000,0,,,1,100000,2.5,Moderate Insecurity,1
+8194,sucre,coloso,70204,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,220000,0,,,0,,3.25,Moderate Insecurity,1
+8195,sucre,coloso,70204,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,260000,0,,,0,,3.25,Moderate Insecurity,1
+8196,sucre,corozal,70215,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,235000,0,,,0,,2.0,Marginal Security,0
+8197,sucre,corozal,70215,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,160000,0,,,0,,2.75,Moderate Insecurity,1
+8198,sucre,sincelejo,70001,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,3.25,Moderate Insecurity,1

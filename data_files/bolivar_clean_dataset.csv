@@ -1,0 +1,378 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+0,bolivar,cartagena_de_indias,13001,17,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,5000000,Other,1,200000,3.75,Severe Insecurity,1
+10,bolivar,cartagena_de_indias,13001,13,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,250000,1,3000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+17,bolivar,turbaco,13836,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+23,bolivar,cartagena_de_indias,13001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1150000,1,9000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+24,bolivar,cartagena_de_indias,13001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,3.0,Moderate Insecurity,1
+46,bolivar,cartagena_de_indias,13001,11,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1200000,0,,,0,,2.25,Marginal Security,0
+47,bolivar,el_carmen_de_bolivar,13244,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+95,bolivar,cartagena_de_indias,13001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,10,Work,1200000,0,,,1,200000,3.75,Severe Insecurity,1
+96,bolivar,cartagena_de_indias,13001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,1500000,0,,,0,,2.0,Marginal Security,0
+97,bolivar,cartagena_de_indias,13001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,3.0,Moderate Insecurity,1
+132,bolivar,el_guamo,13248,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+169,bolivar,cartagena_de_indias,13001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,1000000,1,10000000,Other,1,120000,3.25,Moderate Insecurity,1
+170,bolivar,cartagena_de_indias,13001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,600000,Buy food,0,,2.5,Moderate Insecurity,1
+171,bolivar,cartagena_de_indias,13001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,2.75,Moderate Insecurity,1
+172,bolivar,cartagena_de_indias,13001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1080000,Buy food,0,,1.75,Marginal Security,0
+217,bolivar,el_guamo,13248,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,3000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+265,bolivar,el_carmen_de_bolivar,13244,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,4000000,Other,0,,1.75,Marginal Security,0
+350,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+351,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+352,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+353,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,1,300000,3.25,Moderate Insecurity,1
+354,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2580000,0,,,0,,2.0,Marginal Security,0
+355,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+356,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1800000,0,,,0,,2.0,Marginal Security,0
+357,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,1100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,2.0,Marginal Security,0
+358,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+359,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,1,3000000,Other,0,,1.75,Marginal Security,0
+360,bolivar,cartagena_de_indias,13001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,1,27000000,Other,0,,2.25,Marginal Security,0
+361,bolivar,el_carmen_de_bolivar,13244,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work,400000,1,1000000,Buy food,0,,3.75,Severe Insecurity,1
+362,bolivar,el_carmen_de_bolivar,13244,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+424,bolivar,turbaco,13836,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+425,bolivar,turbaco,13836,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+487,bolivar,el_guamo,13248,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,900000,0,,,0,,2.25,Marginal Security,0
+488,bolivar,el_guamo,13248,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+489,bolivar,turbaco,13836,7,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,1,100000,2.25,Marginal Security,0
+490,bolivar,turbaco,13836,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+491,bolivar,turbaco,13836,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,1,99,Other,0,,3.5,Severe Insecurity,1
+658,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+659,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,4.0,Severe Insecurity,1
+660,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+661,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,1000000,0,,,0,,2.5,Moderate Insecurity,1
+662,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+663,bolivar,cartagena_de_indias,13001,7,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,1,0,1.0,0,0,1,2,Work,350000,0,,,1,300000,2.75,Moderate Insecurity,1
+664,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Cover health expenses,1,32000,2.25,Marginal Security,0
+665,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+666,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,480000,1,28000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+667,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,1,1500000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+668,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+669,bolivar,cartagena_de_indias,13001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1200000,Buy food,0,,3.0,Moderate Insecurity,1
+670,bolivar,el_carmen_de_bolivar,13244,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,150000,0,,,0,,3.0,Moderate Insecurity,1
+806,bolivar,el_guamo,13248,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+807,bolivar,el_guamo,13248,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+808,bolivar,turbaco,13836,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+809,bolivar,turbaco,13836,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,5000000,Buy productive inputs,1,2000000,1.75,Marginal Security,0
+952,bolivar,el_guamo,13248,6,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+953,bolivar,el_guamo,13248,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+954,bolivar,el_guamo,13248,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+1259,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+1260,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+1261,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,450000,Cover health expenses,0,,2.0,Marginal Security,0
+1262,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1263,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,400000,Buy food,0,,2.5,Moderate Insecurity,1
+1264,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+1265,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,800000,0,,,0,,2.25,Marginal Security,0
+1266,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,20000,2.75,Moderate Insecurity,1
+1267,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,400000,Buy food,0,,3.25,Moderate Insecurity,1
+1268,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,9000000,0,,,0,,1.5,Marginal Security,0
+1269,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.25,Marginal Security,0
+1270,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5500000,1,18000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1271,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,3000000,0,,,0,,2.25,Marginal Security,0
+1272,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,850000,1,5000000,"Cover basic services (water, electricity)",1,2800000,2.5,Moderate Insecurity,1
+1273,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1274,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1275,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,1,3900000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1276,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,600000,1,12000000,Other,0,,2.75,Moderate Insecurity,1
+1277,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,240000,0,,,0,,3.5,Severe Insecurity,1
+1278,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+1279,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,1,500000,1.75,Marginal Security,0
+1280,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,1,1500000,1.0,Secure,0
+1281,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1282,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,1,8000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1283,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,1,6000000,Other,0,,1.5,Marginal Security,0
+1284,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1400000,1,55000000,Other,0,,2.0,Marginal Security,0
+1285,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,200000,Other,0,,2.5,Moderate Insecurity,1
+1286,bolivar,cartagena_de_indias,13001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,0,,,0,,3.5,Severe Insecurity,1
+1287,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+1288,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,750000,1,4000000,Buy productive inputs,1,30000,2.75,Moderate Insecurity,1
+1289,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+1290,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,12000000,Buy productive inputs,0,,2.25,Marginal Security,0
+1291,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,480000,0,,,0,,3.5,Severe Insecurity,1
+1292,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,300000,0,,,1,100000,2.75,Moderate Insecurity,1
+1293,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.0,Marginal Security,0
+1294,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,870000,1,8000000,Other,0,,2.25,Marginal Security,0
+1295,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,3.75,Severe Insecurity,1
+1296,bolivar,el_carmen_de_bolivar,13244,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,0,,,0,,2.75,Moderate Insecurity,1
+1496,bolivar,el_guamo,13248,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,270000,0,,,0,,2.0,Marginal Security,0
+1497,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+1498,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1500000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1499,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+1500,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+1759,bolivar,el_guamo,13248,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,680000,1,350000,Buy food,1,300000,2.25,Marginal Security,0
+1760,bolivar,el_guamo,13248,5,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.0,Secure,0
+1761,bolivar,el_guamo,13248,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,1,500000,Buy food,0,,2.25,Marginal Security,0
+1762,bolivar,el_guamo,13248,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+1763,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+1764,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,600000,0,,,1,200000,3.0,Moderate Insecurity,1
+1765,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3000000,Other,1,300000,2.25,Marginal Security,0
+1766,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,200000,0,,,0,,3.75,Severe Insecurity,1
+1767,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+1768,bolivar,turbaco,13836,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,4.0,Severe Insecurity,1
+2389,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,4.0,Severe Insecurity,1
+2390,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,190000,1,122620,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+2391,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,850000,0,,,0,,2.5,Moderate Insecurity,1
+2392,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,8000000,"Cover basic services (water, electricity)",1,400000,1.75,Marginal Security,0
+2393,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1000000,0,,,1,500000,1.5,Marginal Security,0
+2394,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,0,,,0,,2.5,Moderate Insecurity,1
+2395,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,7000000,1,20000000,ns_nr__strong_e__no_leer__strong_,0,,1.0,Secure,0
+2396,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.25,Secure,0
+2397,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,4000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+2398,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2399,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,5000000,Other,1,300000,3.5,Severe Insecurity,1
+2400,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,4000000,Buy food,0,,2.5,Moderate Insecurity,1
+2401,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.75,Moderate Insecurity,1
+2402,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+2403,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,6000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+2404,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,8300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2405,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,210000,0,,,0,,3.5,Severe Insecurity,1
+2406,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,3000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2407,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,200000,Other,0,,2.25,Marginal Security,0
+2408,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,280000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2409,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,8000000,Buy food,0,,2.25,Marginal Security,0
+2410,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,1800000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+2411,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,1000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2412,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,15000000,Other,0,,2.5,Moderate Insecurity,1
+2413,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+2414,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,300000,"Cover basic services (water, electricity)",1,100000,2.25,Marginal Security,0
+2415,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,0,,,1,10000000,1.25,Secure,0
+2416,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,5000000,0,,,1,1500000,1.0,Secure,0
+2417,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,4000000,0,,,0,,1.0,Secure,0
+2418,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,20000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+2419,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2420,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,1000000,Other,0,,2.5,Moderate Insecurity,1
+2421,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1050000,0,,,0,,2.25,Marginal Security,0
+2422,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,3000000,Other,0,,1.75,Marginal Security,0
+2423,bolivar,cartagena_de_indias,13001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,1500000,Other,0,,2.5,Moderate Insecurity,1
+2424,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2425,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+2426,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+2427,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,1,1500000,Buy food,0,,3.5,Severe Insecurity,1
+2428,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,1,250000,2.75,Moderate Insecurity,1
+2429,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,700000,Buy food,0,,2.75,Moderate Insecurity,1
+2430,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,150000,0,,,0,,3.25,Moderate Insecurity,1
+2431,bolivar,el_carmen_de_bolivar,13244,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+2692,bolivar,el_guamo,13248,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,0,,,0,,2.25,Marginal Security,0
+2693,bolivar,el_guamo,13248,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,500000,0,,,0,,2.5,Moderate Insecurity,1
+2694,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+2695,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,1600000,Other,0,,1.5,Marginal Security,0
+2696,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,200000,1,1700000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+2697,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+2698,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,310000,0,,,0,,2.75,Moderate Insecurity,1
+3094,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+3095,bolivar,el_guamo,13248,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,99,Buy productive inputs,0,,1.75,Marginal Security,0
+3096,bolivar,el_guamo,13248,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,433000,1,2000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+3097,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,2.0,Marginal Security,0
+3098,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,8000000,Other,0,,2.75,Moderate Insecurity,1
+3099,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,2.75,Moderate Insecurity,1
+3100,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,4000000,Other,1,4300000,2.0,Marginal Security,0
+3101,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+3102,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,230000,Buy productive inputs,0,,1.25,Secure,0
+3103,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1200000,1,90000,Other,0,,3.0,Moderate Insecurity,1
+3104,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,245000,0,,,0,,3.0,Moderate Insecurity,1
+3105,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,"Other (income, chance, inheritance...)",800000,1,100000,Buy food,0,,2.25,Marginal Security,0
+3106,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,1,100000,2.25,Marginal Security,0
+3107,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,800000,Other,0,,1.5,Marginal Security,0
+3108,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1250000,0,,,0,,2.25,Marginal Security,0
+3109,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+3110,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,3000000,Other,1,100000,2.25,Marginal Security,0
+3111,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,3.5,Severe Insecurity,1
+3112,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,160000,0,,,1,25000,2.75,Moderate Insecurity,1
+3113,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,235000,0,,,0,,3.5,Severe Insecurity,1
+3114,bolivar,turbaco,13836,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,230000,1,170000,Buy food,0,,2.5,Moderate Insecurity,1
+4219,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,1,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+4220,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1350000,1,1000000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4221,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,0,,,1,600000,1.75,Marginal Security,0
+4222,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5000000,Other,0,,1.75,Marginal Security,0
+4223,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,14000000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+4224,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+4225,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,300000,"Buy clothes, shoes",0,,3.75,Severe Insecurity,1
+4226,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,0,,2.25,Marginal Security,0
+4227,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,20000000,"Cover basic services (water, electricity)",1,300000,2.25,Marginal Security,0
+4228,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+4229,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,450000,1,300000,"Cover basic services (water, electricity)",1,50000,2.25,Marginal Security,0
+4230,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension, ,0,,,0,,2.5,Moderate Insecurity,1
+4231,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,13000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+4232,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+4233,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4234,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,10000000,Other,0,,1.0,Secure,0
+4235,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,700000,Buy food,0,,3.75,Severe Insecurity,1
+4236,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,300000,1,3000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+4237,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+4238,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+4239,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,1.5,Marginal Security,0
+4240,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,3000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+4241,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,0,,,0,,2.25,Marginal Security,0
+4242,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+4243,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,80000,1,1300000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+4244,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4245,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,3.25,Moderate Insecurity,1
+4246,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+4247,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+4248,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,25000,2.25,Marginal Security,0
+4249,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,380000,0,,,0,,4.0,Severe Insecurity,1
+4250,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,5600000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4251,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,600000,1.75,Marginal Security,0
+4252,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,Buy food,0,,2.75,Moderate Insecurity,1
+4253,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,99,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+4254,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,300000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4255,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+4256,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,28000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4257,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,99,Other,0,,1.5,Marginal Security,0
+4258,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,5000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.0,Secure,0
+4259,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3300000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4260,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,1000000,Pay school or education expenses,0,,1.25,Secure,0
+4261,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,3.0,Moderate Insecurity,1
+4262,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,30000000,Other,0,,2.25,Marginal Security,0
+4263,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+4264,bolivar,cartagena_de_indias,13001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,539287,Cover health expenses,0,,2.25,Marginal Security,0
+4265,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,30000,0,,,0,,2.75,Moderate Insecurity,1
+4266,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,400000,Buy food,0,,3.25,Moderate Insecurity,1
+4267,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+4268,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,50000,0,,,0,,2.0,Marginal Security,0
+4269,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+4270,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.0,Marginal Security,0
+4271,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,17000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+4272,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,4000000,Other,0,,3.25,Moderate Insecurity,1
+4273,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,4.0,Severe Insecurity,1
+4274,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.25,Moderate Insecurity,1
+4275,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,1,21000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+4276,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+4277,bolivar,el_carmen_de_bolivar,13244,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,3000000,Buy productive inputs,1,50000,2.5,Moderate Insecurity,1
+4628,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,500000,Buy food,1,300000,2.0,Marginal Security,0
+4629,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,100000,1,2000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4630,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,700000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+4631,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,700000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+4632,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+4633,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,300000,0,,,0,,2.25,Marginal Security,0
+5056,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,150000,2.5,Moderate Insecurity,1
+5057,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,1.75,Marginal Security,0
+5058,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+5059,bolivar,el_guamo,13248,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1200000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+5060,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+5061,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,240000,1.25,Secure,0
+5062,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,1,1100000,2.0,Marginal Security,0
+5063,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+5064,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+5065,bolivar,turbaco,13836,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,840000,0,,,0,,2.0,Marginal Security,0
+6090,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+6091,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,0,,,0,,2.25,Marginal Security,0
+6092,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Remittances from migrants or help from family/friends,230000,1,2406495,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+6093,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,100000,1.5,Marginal Security,0
+6094,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,300000,Buy food,0,,2.75,Moderate Insecurity,1
+6095,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+6096,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,1,300000,2.25,Marginal Security,0
+6097,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.25,Secure,0
+6098,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+6099,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,3000000,Other,0,,1.0,Secure,0
+6100,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,6000000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6101,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.75,Marginal Security,0
+6102,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,300000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+6103,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1800000,Other,0,,1.75,Marginal Security,0
+6104,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,20000000,Other,0,,1.0,Secure,0
+6105,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,1,150000,2.75,Moderate Insecurity,1
+6106,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+6107,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,240000,0,,,0,,2.75,Moderate Insecurity,1
+6108,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,0,,,1,1000000,1.0,Secure,0
+6109,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,600000,1.25,Secure,0
+6110,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,430000,"Cover basic services (water, electricity)",0,,1.0,Secure,0
+6111,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,1,400000,1.75,Marginal Security,0
+6112,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1700000,0,,,0,,1.0,Secure,0
+6113,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,2000000,1.5,Marginal Security,0
+6114,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,"Other (income, chance, inheritance...)",0,0,,,0,,2.25,Marginal Security,0
+6115,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,500000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+6116,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,100000,1,3000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+6117,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2600000,1,2750000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6118,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,800000,0,,,0,,1.75,Marginal Security,0
+6119,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,440000,1,1700000,Other,0,,1.5,Marginal Security,0
+6120,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,300000,2.0,Marginal Security,0
+6121,bolivar,cartagena_de_indias,13001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,0,,,1,350000,1.25,Secure,0
+6122,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,1,800000,2.5,Moderate Insecurity,1
+6123,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,420000,0,,,0,,2.5,Moderate Insecurity,1
+6124,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+6125,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,3.0,Moderate Insecurity,1
+6126,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,0,,1.5,Marginal Security,0
+6127,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,0,,,1,400000,1.5,Marginal Security,0
+6128,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,50000,0,,,0,,2.25,Marginal Security,0
+6129,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,8000000,Other,0,,1.75,Marginal Security,0
+6130,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+6131,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,360000,Buy productive inputs,0,,3.75,Severe Insecurity,1
+6132,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+6133,bolivar,el_carmen_de_bolivar,13244,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,230000,0,,,0,,3.0,Moderate Insecurity,1
+6497,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,3.75,Severe Insecurity,1
+6498,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,200000,0,,,0,,1.0,Secure,0
+6499,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,1000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+6500,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,0,,2.25,Marginal Security,0
+6501,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,740000,1,5000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6502,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,150000,0,,,0,,2.75,Moderate Insecurity,1
+6503,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,240000,0,,,0,,2.25,Marginal Security,0
+6504,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+6806,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,80000,1,600000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+6807,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,750000,0,,,1,700000,2.5,Moderate Insecurity,1
+6808,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,550000,1,180000,Other,0,,2.25,Marginal Security,0
+6809,bolivar,el_guamo,13248,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,1000000,Buy food,0,,2.75,Moderate Insecurity,1
+6810,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,500000,Pay rent or house rent,0,,1.75,Marginal Security,0
+6811,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,120000,0,,,0,,2.25,Marginal Security,0
+6812,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+6813,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+6814,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,2500000,Buy food,0,,2.75,Moderate Insecurity,1
+6815,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,400000,Other,0,,1.5,Marginal Security,0
+6816,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.25,Moderate Insecurity,1
+6817,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,50000,0,,,1,200000,2.25,Marginal Security,0
+6818,bolivar,turbaco,13836,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Other,1,500000,1.75,Marginal Security,0
+7666,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7667,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+7668,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,0,0,0,1,Pension,1500000,0,,,0,,1.25,Secure,0
+7669,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7670,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+7671,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,750000,1,800000,Other,0,,2.25,Marginal Security,0
+7672,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900500,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7673,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,0,,1.75,Marginal Security,0
+7674,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,1000000,1.5,Marginal Security,0
+7675,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,2.25,Marginal Security,0
+7676,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,0,,,0,,1.25,Secure,0
+7677,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,1500000,2.25,Marginal Security,0
+7678,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+7679,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+7680,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,300000,Buy food,0,,3.0,Moderate Insecurity,1
+7681,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,1,7000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+7682,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+7683,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,4.0,Severe Insecurity,1
+7684,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,1,200000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+7685,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+7686,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,400000,0,,,0,,2.0,Marginal Security,0
+7687,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,1000000,1.75,Marginal Security,0
+7688,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,99,2.5,Moderate Insecurity,1
+7689,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,1.5,Marginal Security,0
+7690,bolivar,cartagena_de_indias,13001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+7691,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+7692,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,5000000,Other,0,,2.75,Moderate Insecurity,1
+7693,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,53480,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+7694,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,1300000,Buy productive inputs,0,,2.0,Marginal Security,0
+7695,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,1,80000,3.0,Moderate Insecurity,1
+7696,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",50000,0,,,0,,3.5,Severe Insecurity,1
+7697,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,102000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+7698,bolivar,el_carmen_de_bolivar,13244,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,60000,0,,,0,,2.5,Moderate Insecurity,1
+7931,bolivar,el_guamo,13248,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,280000,0,,,0,,2.5,Moderate Insecurity,1
+7932,bolivar,turbaco,13836,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,330000,0,,,0,,2.5,Moderate Insecurity,1
+7933,bolivar,turbaco,13836,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,1,26000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+8088,bolivar,el_guamo,13248,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.25,Marginal Security,0
+8089,bolivar,turbaco,13836,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,1200000,0,,,0,,1.0,Secure,0
+8458,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,1.75,Marginal Security,0
+8459,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.5,Marginal Security,0
+8460,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind, ,0,,,0,,3.25,Moderate Insecurity,1
+8461,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,800000,1,17000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+8462,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,1.75,Marginal Security,0
+8463,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.0,Secure,0
+8464,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,1000000,0,,,0,,2.0,Marginal Security,0
+8465,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,"Other (income, chance, inheritance...)",2000000,0,,,0,,1.5,Marginal Security,0
+8466,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,8000000,1,3000000,"Buy clothes, shoes",1,99,1.25,Secure,0
+8467,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+8468,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.25,Secure,0
+8469,bolivar,cartagena_de_indias,13001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,80000,1,5000000,Other,0,,1.75,Marginal Security,0
+8470,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+8471,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",0,0,,,0,,2.75,Moderate Insecurity,1
+8472,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+8473,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,900000,Other,0,,2.0,Marginal Security,0
+8474,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,0,"Other (income, chance, inheritance...)",80000,0,,,0,,2.5,Moderate Insecurity,1
+8475,bolivar,el_carmen_de_bolivar,13244,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,400000,1,1000000,Cover health expenses,0,,2.75,Moderate Insecurity,1

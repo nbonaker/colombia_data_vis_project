@@ -1,0 +1,44 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+1,vichada,cumaribo,99773,16,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,1300000,0,,,1,300000,2.5,Moderate Insecurity,1
+74,vichada,cumaribo,99773,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,1000000,0,,,0,,2.5,Moderate Insecurity,1
+75,vichada,cumaribo,99773,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+141,vichada,cumaribo,99773,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,1,300000,2.25,Marginal Security,0
+142,vichada,cumaribo,99773,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,1,7000000,Buy productive inputs,1,300000,2.5,Moderate Insecurity,1
+143,vichada,cumaribo,99773,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1680000,0,,,0,,3.0,Moderate Insecurity,1
+281,vichada,cumaribo,99773,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+282,vichada,cumaribo,99773,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+283,vichada,cumaribo,99773,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1800000,0,,,0,,1.75,Marginal Security,0
+284,vichada,cumaribo,99773,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,1,300000,2.25,Marginal Security,0
+515,vichada,cumaribo,99773,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+516,vichada,cumaribo,99773,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Work,1100000,0,,,1,300000,2.5,Moderate Insecurity,1
+517,vichada,cumaribo,99773,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,1,300000,2.25,Marginal Security,0
+995,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,100000,1,30000,Buy food,0,,4.0,Severe Insecurity,1
+996,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,280000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+997,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,680000,0,,,0,,2.25,Marginal Security,0
+998,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.75,Marginal Security,0
+999,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.75,Moderate Insecurity,1
+1000,vichada,cumaribo,99773,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,0,,,0,,2.25,Marginal Security,0
+1858,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,6000000,Other,1,5000000,1.5,Marginal Security,0
+1859,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,1,100000,2.5,Moderate Insecurity,1
+1860,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+1861,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,300000,Pay school or education expenses,0,,2.25,Marginal Security,0
+1862,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.25,Marginal Security,0
+1863,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,850000,0,,,0,,2.75,Moderate Insecurity,1
+1864,vichada,cumaribo,99773,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,950000,0,,,0,,2.0,Marginal Security,0
+3287,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2230000,1,200000,Buy food,0,,1.75,Marginal Security,0
+3288,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,0,,,0,,2.25,Marginal Security,0
+3289,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,900000,Buy food,1,100000,3.5,Severe Insecurity,1
+3290,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,70000,2.25,Marginal Security,0
+3291,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+3292,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,750000,0,,,0,,2.75,Moderate Insecurity,1
+3293,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1000000,Buy food,0,,2.75,Moderate Insecurity,1
+3294,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.25,Secure,0
+3295,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+3296,vichada,cumaribo,99773,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+5188,vichada,cumaribo,99773,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3100000,1,10000000,pay trips,1,3000000,1.25,Secure,0
+5189,vichada,cumaribo,99773,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4500000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5190,vichada,cumaribo,99773,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,0,,,1,200000,1.75,Marginal Security,0
+5191,vichada,cumaribo,99773,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.0,Marginal Security,0
+6937,vichada,cumaribo,99773,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,1000000,Buy food,0,,2.0,Marginal Security,0
+6938,vichada,cumaribo,99773,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+8139,vichada,cumaribo,99773,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,5000000,Cover health expenses,0,,1.75,Marginal Security,0

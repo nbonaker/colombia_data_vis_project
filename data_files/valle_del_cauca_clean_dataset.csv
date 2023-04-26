@@ -1,0 +1,474 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+50,valle_del_cauca,cali,76001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work, ,0,,,1,99,2.0,Marginal Security,0
+66,valle_del_cauca,cali,76001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,2.75,Moderate Insecurity,1
+76,valle_del_cauca,guacari,76318,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+119,valle_del_cauca,cali,76001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,3000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+120,valle_del_cauca,cali,76001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3800000,1,56000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+145,valle_del_cauca,cartago,76147,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work, ,0,,,0,,3.0,Moderate Insecurity,1
+146,valle_del_cauca,guacari,76318,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+242,valle_del_cauca,cali,76001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,3.25,Moderate Insecurity,1
+243,valle_del_cauca,cali,76001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,400000,Other,0,,2.5,Moderate Insecurity,1
+244,valle_del_cauca,cali,76001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,700000,1,32000000,Other,1,300000,1.25,Secure,0
+286,valle_del_cauca,cartago,76147,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,8000000,0,,,0,,1.0,Secure,0
+376,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,80000,0,,,0,,3.75,Severe Insecurity,1
+377,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,4.0,Severe Insecurity,1
+378,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,0,,,0,,1.25,Secure,0
+379,valle_del_cauca,cartago,76147,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2500000,0,,,0,,1.5,Marginal Security,0
+450,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,1,500000,2.75,Moderate Insecurity,1
+451,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+452,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+453,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,7000000,1,24000000,Buy productive inputs,0,,1.0,Secure,0
+454,valle_del_cauca,cali,76001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1400000,1,6000000,Pay rent or house rent,0,,3.25,Moderate Insecurity,1
+520,valle_del_cauca,guacari,76318,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,0,,1.0,Secure,0
+521,valle_del_cauca,guacari,76318,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+522,valle_del_cauca,guacari,76318,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Pension,1200000,0,,,1,300000,1.0,Secure,0
+523,valle_del_cauca,guacari,76318,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,0,,,0,,1.75,Marginal Security,0
+698,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4800000,0,,,1,3200000,1.0,Secure,0
+699,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2400000,0,,,0,,2.5,Moderate Insecurity,1
+700,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2400000,0,,,0,,2.5,Moderate Insecurity,1
+701,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,1.5,Marginal Security,0
+702,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,5000000,Other,0,,4.0,Severe Insecurity,1
+703,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,5000000,Other,0,,4.0,Severe Insecurity,1
+704,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,7800000,Buy food,0,,3.0,Moderate Insecurity,1
+705,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,0,,1.75,Marginal Security,0
+706,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,2000000,0,,,0,,2.25,Marginal Security,0
+707,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,2000000,0,,,0,,2.25,Marginal Security,0
+708,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,2000000,0,,,0,,2.25,Marginal Security,0
+709,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,0,,1.5,Marginal Security,0
+710,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,4000000,1,200000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+711,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,1200000,0,,,0,,1.5,Marginal Security,0
+712,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,2.5,Moderate Insecurity,1
+713,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,2.5,Moderate Insecurity,1
+714,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,Other,0,,2.5,Moderate Insecurity,1
+715,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+861,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,Buy food,0,,2.75,Moderate Insecurity,1
+862,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,0,,,0,,3.75,Severe Insecurity,1
+863,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,0,,,0,,3.75,Severe Insecurity,1
+864,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,4000000,1,28000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.75,Marginal Security,0
+865,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3500000,0,,,0,,1.75,Marginal Security,0
+866,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+867,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,2.0,Marginal Security,0
+868,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,0,,,0,,1.0,Secure,0
+869,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1040000,1,2000000,Buy food,0,,2.5,Moderate Insecurity,1
+870,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+871,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,1,2500000,2.0,Marginal Security,0
+872,valle_del_cauca,cali,76001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+1009,valle_del_cauca,cartago,76147,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1800000,1,4500000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1010,valle_del_cauca,ginebra,76306,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+1011,valle_del_cauca,guacari,76318,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1012,valle_del_cauca,guacari,76318,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,400000,0,,,0,,2.25,Marginal Security,0
+1013,valle_del_cauca,guacari,76318,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,0,,,1,30000,2.25,Marginal Security,0
+1014,valle_del_cauca,guacari,76318,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,500000,0,,,0,,2.0,Marginal Security,0
+1369,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,420000,Other,0,,2.25,Marginal Security,0
+1370,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,700000,1,10000000,Other,0,,1.75,Marginal Security,0
+1371,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,2.5,Moderate Insecurity,1
+1372,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,50000,1.0,Secure,0
+1373,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,1000000,1.5,Marginal Security,0
+1374,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+1375,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,0,,1.5,Marginal Security,0
+1376,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+1377,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1800000,Other,0,,2.75,Moderate Insecurity,1
+1378,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,14000000,Other,0,,2.5,Moderate Insecurity,1
+1379,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,14000000,Other,0,,2.5,Moderate Insecurity,1
+1380,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work, ,0,,,1,99,1.5,Marginal Security,0
+1381,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1382,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1383,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+1384,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.0,Marginal Security,0
+1385,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work, ,0,,,0,,1.75,Marginal Security,0
+1386,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,2800000,0,,,0,,1.0,Secure,0
+1387,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1388,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1389,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension, ,0,,,0,,1.5,Marginal Security,0
+1390,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,0,,,0,,1.5,Marginal Security,0
+1391,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,400000,1.5,Marginal Security,0
+1392,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+1393,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,5,Work,2000000,1,4000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+1394,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+1395,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,1,300000,Buy food,0,,3.25,Moderate Insecurity,1
+1573,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,99,2.75,Moderate Insecurity,1
+1574,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,2500000,0,,,0,,1.0,Secure,0
+1575,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1140000,1,6700000,Other,0,,2.5,Moderate Insecurity,1
+1576,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1577,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,2000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2300000,2.25,Marginal Security,0
+1578,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.0,Marginal Security,0
+1579,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,11200000,1,15000000,Other,1,99,1.0,Secure,0
+1580,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,4000000,0,,,0,,1.25,Secure,0
+1581,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,52000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1582,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.5,Moderate Insecurity,1
+1583,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,4.0,Severe Insecurity,1
+1584,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1585,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,200000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1586,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+1587,valle_del_cauca,cali,76001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",2300000,0,,,0,,1.5,Marginal Security,0
+1869,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,2000000,0,,,0,,1.5,Marginal Security,0
+1870,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1036000,0,,,0,,2.5,Moderate Insecurity,1
+1871,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+1872,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,0,,3.5,Severe Insecurity,1
+1873,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,0,0,,,0,,1.5,Marginal Security,0
+1874,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1875,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+1876,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,0,,,0,,2.5,Moderate Insecurity,1
+1877,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.5,Marginal Security,0
+1878,valle_del_cauca,cartago,76147,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1879,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,2.25,Marginal Security,0
+1880,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.0,Marginal Security,0
+1881,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension, ,0,,,0,,1.5,Marginal Security,0
+1882,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.5,Marginal Security,0
+1883,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+1884,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,99,Buy productive inputs,0,,1.25,Secure,0
+1885,valle_del_cauca,ginebra,76306,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,3500000,Buy productive inputs,0,,1.75,Marginal Security,0
+1886,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,1,11000000,Other,0,,1.75,Marginal Security,0
+1887,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1117000,0,,,0,,2.5,Moderate Insecurity,1
+1888,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,3.5,Severe Insecurity,1
+1889,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+1890,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,1.5,Marginal Security,0
+1891,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1892,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+1893,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+1894,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,1,8000000,Pay rent or house rent,0,,1.5,Marginal Security,0
+1895,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1896,valle_del_cauca,guacari,76318,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+2535,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,5000000,Other,0,,1.5,Marginal Security,0
+2536,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,15000000,Other,0,,1.25,Secure,0
+2537,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+2538,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,200000,0,,,0,,3.5,Severe Insecurity,1
+2539,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,1800000,0,,,0,,1.0,Secure,0
+2540,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,99,Other,0,,2.25,Marginal Security,0
+2541,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1000000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2542,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+2543,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension, ,0,,,0,,1.75,Marginal Security,0
+2544,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,600000,0,,,0,,1.5,Marginal Security,0
+2545,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1400000,0,,,0,,1.0,Secure,0
+2546,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)", ,0,,,0,,1.5,Marginal Security,0
+2547,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,400000,0,,,0,,2.0,Marginal Security,0
+2548,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+2549,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+2550,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,1.5,Marginal Security,0
+2551,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+2792,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,5000000,0,,,0,,1.5,Marginal Security,0
+2793,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+2794,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,1,1,0,0,0,0,1,0.0,0,0,0,3,Work,2400000,1,1300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2795,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2796,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,1.5,Marginal Security,0
+2797,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2600000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,4000000,1.5,Marginal Security,0
+2798,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,6000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+2799,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2800,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,10000000,1.0,Secure,0
+2801,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,400000,1.75,Marginal Security,0
+2802,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+2803,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+2804,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Remittances from migrants or help from family/friends,300000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+2805,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4000000,0,,,0,,1.5,Marginal Security,0
+2806,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,1,2000000,Other,0,,1.5,Marginal Security,0
+2807,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,99,2.0,Marginal Security,0
+2808,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2809,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,2000000,Other,0,,1.75,Marginal Security,0
+2810,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,900000,0,,,1,500000,1.5,Marginal Security,0
+2811,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2812,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,3500000,Buy food,0,,2.75,Moderate Insecurity,1
+2813,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,7000000,Cover health expenses,0,,2.25,Marginal Security,0
+2814,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3800000,0,,,0,,2.0,Marginal Security,0
+2815,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,10000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+2816,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.0,Secure,0
+2817,valle_del_cauca,cali,76001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,Other,1,500000,1.75,Marginal Security,0
+3306,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",80000,0,,,0,,1.75,Marginal Security,0
+3307,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1800000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3308,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,10000000,Pay school or education expenses,0,,1.0,Secure,0
+3309,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,1,18000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+3310,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.0,Marginal Security,0
+3311,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,20000000,Other,0,,2.0,Marginal Security,0
+3312,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,0,,,0,,2.0,Marginal Security,0
+3313,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+3314,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+3315,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+3316,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+3317,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3318,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,500000,Other,0,,2.0,Marginal Security,0
+3319,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1050000,0,,,0,,2.25,Marginal Security,0
+3320,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,500000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3321,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1200000,1,40000000,Buy productive inputs,0,,2.0,Marginal Security,0
+3322,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3323,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,1.5,Marginal Security,0
+3324,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2400000,0,,,1,2500000,1.0,Secure,0
+3325,valle_del_cauca,cartago,76147,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,19000000,ns_nr__strong_e__no_leer__strong_,0,,2.0,Marginal Security,0
+3326,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,31000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3327,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+3328,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.0,Secure,0
+3329,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,750000,1,40000,Buy food,0,,3.25,Moderate Insecurity,1
+3330,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2250000,1,40000000,Cover health expenses,0,,1.5,Marginal Security,0
+3331,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+3332,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+3333,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+3334,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,4000000,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+3335,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,4000000,Other,1,200000,2.0,Marginal Security,0
+3336,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+3337,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,1,3000000,Other,0,,1.75,Marginal Security,0
+3338,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+3339,valle_del_cauca,ginebra,76306,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+3340,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+3341,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1050000,1,950000,Other,0,,2.5,Moderate Insecurity,1
+3342,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+3343,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,300000,Buy food,0,,3.25,Moderate Insecurity,1
+3344,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,1.75,Marginal Security,0
+3345,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,260000,Buy food,0,,2.5,Moderate Insecurity,1
+3346,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,270000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,2.0,Marginal Security,0
+3347,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,2300000,Buy productive inputs,1,100000,2.0,Marginal Security,0
+3348,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,99,Pay school or education expenses,0,,1.75,Marginal Security,0
+3349,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1200000,1,350000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,3.0,Moderate Insecurity,1
+3350,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.25,Secure,0
+3351,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+3352,valle_del_cauca,guacari,76318,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,350000,0,,,0,,2.5,Moderate Insecurity,1
+4446,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1080000,0,,,0,,1.0,Secure,0
+4447,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,5000000,ns_nr__strong_e__no_leer__strong_,0,,2.75,Moderate Insecurity,1
+4448,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1500000,0,,,0,,1.5,Marginal Security,0
+4449,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1200000,0,,,1,1000000,1.0,Secure,0
+4450,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,1.5,Marginal Security,0
+4451,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,800000,0,,,0,,2.0,Marginal Security,0
+4452,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+4453,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,800000,1,2000000,Buy food,0,,1.75,Marginal Security,0
+4454,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension, ,0,,,0,,1.0,Secure,0
+4455,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+4456,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+4457,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+4458,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+4459,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+4460,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+4461,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,1,800000,Cover health expenses,1,2000000,1.0,Secure,0
+4462,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+4463,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,1.25,Secure,0
+4464,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+4465,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,5000000,0,,,1,99,1.0,Secure,0
+4466,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension, ,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4467,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2200000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.25,Secure,0
+4468,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,850000,1,1000000,"Cover basic services (water, electricity)",0,,1.25,Secure,0
+4469,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1400000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4470,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1400000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4471,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1400000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4472,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,850000,0,,,0,,2.25,Marginal Security,0
+4473,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,2.75,Moderate Insecurity,1
+4746,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,3360000,1.5,Marginal Security,0
+4747,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,370000,Pay rent or house rent,0,,2.0,Marginal Security,0
+4748,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1400000,1,3000000,Buy food,0,,1.25,Secure,0
+4749,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4500000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.0,Secure,0
+4750,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,6000000,2.0,Marginal Security,0
+4751,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,26000000,Other,0,,2.25,Marginal Security,0
+4752,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,120000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+4753,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,4.0,Severe Insecurity,1
+4754,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Government assistance,500000,0,,,0,,2.0,Marginal Security,0
+4755,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,99,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+4756,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2000000,0,,,0,,1.0,Secure,0
+4757,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+4758,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,1,30000,2.25,Marginal Security,0
+4759,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1600000,Buy food,0,,2.75,Moderate Insecurity,1
+4760,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,300000,Buy food,0,,2.5,Moderate Insecurity,1
+4761,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2400000,1,34000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,60000,1.25,Secure,0
+4762,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,500000,Other,0,,2.0,Marginal Security,0
+4763,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1000000,1,5000000,Other,0,,1.75,Marginal Security,0
+4764,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,99,1.0,Secure,0
+4765,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,3000000,Other,1,2000000,1.75,Marginal Security,0
+4766,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4767,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1050000,0,,,0,,2.0,Marginal Security,0
+4768,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,500000,Pay school or education expenses,1,1200000,1.0,Secure,0
+4769,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,535000,0,,,0,,2.25,Marginal Security,0
+4770,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.0,Marginal Security,0
+4771,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+4772,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,4.0,Severe Insecurity,1
+4773,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,1,99,1.5,Marginal Security,0
+4774,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,2.25,Marginal Security,0
+4775,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,600000,Other,1,250000,3.75,Severe Insecurity,1
+4776,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,50000000,Cover health expenses,0,,1.5,Marginal Security,0
+4777,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,1,3000000,2.5,Moderate Insecurity,1
+4778,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,1,400000,1.0,Secure,0
+4779,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,20000000,Buy food,0,,2.75,Moderate Insecurity,1
+4780,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1800000,1,6000000,"Cover basic services (water, electricity)",1,600000,2.0,Marginal Security,0
+4781,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,11000000,1,120000000,Buy productive inputs,1,40000000,1.0,Secure,0
+4782,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,Buy food,0,,2.25,Marginal Security,0
+4783,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.25,Marginal Security,0
+4784,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+4785,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,11000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4786,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,1,99,1.0,Secure,0
+4787,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",850000,0,,,0,,2.5,Moderate Insecurity,1
+4788,valle_del_cauca,cali,76001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,750000,0,,,0,,2.25,Marginal Security,0
+5195,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,1,600000,1.25,Secure,0
+5196,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+5197,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+5198,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,230000,0,,,0,,2.0,Marginal Security,0
+5199,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3500000,0,,,0,,1.0,Secure,0
+5200,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,280000,0,,,1,20000,2.25,Marginal Security,0
+5201,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,500000,1.5,Marginal Security,0
+5202,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,99,Other,0,,1.5,Marginal Security,0
+5203,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,780000,1,7000000,Other,0,,2.5,Moderate Insecurity,1
+5204,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,1,300000,2.75,Moderate Insecurity,1
+5205,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+5206,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,940000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.5,Marginal Security,0
+5207,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5208,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+5209,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+5210,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,500000,1.0,Secure,0
+5211,valle_del_cauca,cartago,76147,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+5212,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,6000000,1.0,Secure,0
+5213,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,185000,1.75,Marginal Security,0
+5214,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,130000,Buy productive inputs,0,,1.5,Marginal Security,0
+5215,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Buy food,0,,3.25,Moderate Insecurity,1
+5216,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,800000,0,,,0,,2.25,Marginal Security,0
+5217,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+5218,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,840000,0,,,0,,2.25,Marginal Security,0
+5219,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,220000,0,,,0,,1.75,Marginal Security,0
+5220,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5221,valle_del_cauca,ginebra,76306,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5222,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5223,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,600000,0,,,0,,2.0,Marginal Security,0
+5224,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+5225,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends, ,0,,,0,,2.25,Marginal Security,0
+5226,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.0,Marginal Security,0
+5227,valle_del_cauca,guacari,76318,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3500000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6310,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+6311,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,0,,,0,,1.5,Marginal Security,0
+6312,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,400000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+6313,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,150000,0,,,0,,2.0,Marginal Security,0
+6314,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,200000,Other,0,,1.0,Secure,0
+6315,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,700000,0,,,0,,2.0,Marginal Security,0
+6316,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,300000,Buy food,0,,1.25,Secure,0
+6317,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3800000,0,,,0,,1.0,Secure,0
+6318,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,1,2000000,Buy productive inputs,0,,1.0,Secure,0
+6319,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,3.25,Moderate Insecurity,1
+6320,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,3.25,Moderate Insecurity,1
+6321,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+6322,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.0,Marginal Security,0
+6323,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,1200000,0,,,1,200000,1.0,Secure,0
+6324,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,792000,Other,0,,1.5,Marginal Security,0
+6325,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6326,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,1100000,Buy food,0,,1.75,Marginal Security,0
+6327,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+6328,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,0,,,0,,1.0,Secure,0
+6329,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.5,Marginal Security,0
+6330,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",2000000,0,,,0,,1.25,Secure,0
+6331,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+6332,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+6333,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+6334,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+6335,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+6336,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,2.0,Marginal Security,0
+6597,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,200000,1.5,Marginal Security,0
+6598,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.0,Secure,0
+6599,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,750000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+6600,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,0,,,1,50000,1.75,Marginal Security,0
+6601,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,10000000,Other,1,1500000,2.0,Marginal Security,0
+6602,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,99,Buy food,0,,1.75,Marginal Security,0
+6603,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,240000,0,,,0,,2.25,Marginal Security,0
+6604,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+6605,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6606,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6607,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1050000,0,,,1,480000,2.0,Marginal Security,0
+6608,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,3.75,Severe Insecurity,1
+6609,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,300000,1.75,Marginal Security,0
+6610,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,1,1950000,Other,0,,2.25,Marginal Security,0
+6611,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6612,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,10000000,0,,,0,,1.25,Secure,0
+6613,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,28000000,1,150000000,Other,1,99,1.0,Secure,0
+6614,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+6615,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,6500000,0,,,1,99,1.0,Secure,0
+6616,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2800000,0,,,0,,1.0,Secure,0
+6617,valle_del_cauca,cali,76001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+6945,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+6946,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,1200000,0,,,0,,1.5,Marginal Security,0
+6947,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,700000,0,,,0,,1.5,Marginal Security,0
+6948,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,500000,0,,,0,,1.5,Marginal Security,0
+6949,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,200000,Other,0,,1.0,Secure,0
+6950,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6951,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,1.5,Marginal Security,0
+6952,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.0,Secure,0
+6953,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+6954,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,90000,1,2000000,Buy food,0,,3.0,Moderate Insecurity,1
+6955,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,10000,0,,,0,,3.25,Moderate Insecurity,1
+6956,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,0,,,1,3000000,1.75,Marginal Security,0
+6957,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+6958,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,120000,0,,,0,,3.0,Moderate Insecurity,1
+6959,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,1.25,Secure,0
+6960,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,1,400000,2.25,Marginal Security,0
+6961,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1050000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6962,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6963,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,100000,0,,,0,,1.5,Marginal Security,0
+6964,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+6965,valle_del_cauca,cartago,76147,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,5000000,Cover health expenses,0,,1.5,Marginal Security,0
+6966,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance, ,0,,,0,,1.75,Marginal Security,0
+6967,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,1.75,Marginal Security,0
+6968,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6969,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,2000000,Buy productive inputs,0,,1.5,Marginal Security,0
+6970,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+6971,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,55000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+6972,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1200000,0,,,0,,2.0,Marginal Security,0
+6973,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+6974,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,800000,0,,,0,,2.5,Moderate Insecurity,1
+6975,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,99,Pay school or education expenses,0,,1.75,Marginal Security,0
+6976,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6977,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,14000000,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+6978,valle_del_cauca,ginebra,76306,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+6979,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,2000000,Other,0,,2.25,Marginal Security,0
+6980,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,1,500000,1.5,Marginal Security,0
+6981,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+6982,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+6983,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,230000,1,540000,Buy food,0,,1.5,Marginal Security,0
+6984,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+6985,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.25,Secure,0
+6986,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+6987,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,78000000,Other,0,,1.0,Secure,0
+6988,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.0,Secure,0
+6989,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+6990,valle_del_cauca,guacari,76318,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+7840,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,4.0,Severe Insecurity,1
+7841,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",130000,0,,,0,,1.75,Marginal Security,0
+7842,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,0,,3.0,Moderate Insecurity,1
+7843,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,3500000,Buy food,0,,2.0,Marginal Security,0
+7844,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension, ,1,2000000,Other,0,,1.75,Marginal Security,0
+7845,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,160000,0,,,0,,2.0,Marginal Security,0
+7846,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,0,,1.0,Secure,0
+7847,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+7848,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7849,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+7850,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,1.5,Marginal Security,0
+7851,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+7852,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,620000,1,15000000,Other,0,,1.75,Marginal Security,0
+7853,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.0,Secure,0
+7984,valle_del_cauca,cali,76001,1,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+7985,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,700000,2.0,Marginal Security,0
+7986,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,90000,0,,,0,,3.25,Moderate Insecurity,1
+7987,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,320000,0,,,0,,2.5,Moderate Insecurity,1
+7988,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,1,50000,1.75,Marginal Security,0
+7989,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7990,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2800000,1,500000,Buy productive inputs,0,,1.25,Secure,0
+7991,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2800000,1,30000000,Buy productive inputs,0,,1.25,Secure,0
+7992,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,500000,pay trips,0,,1.5,Marginal Security,0
+7993,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,2000000,1.25,Secure,0
+7994,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,15000000,0,,,1,7000000,1.0,Secure,0
+7995,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,15000000,0,,,1,2000000,1.0,Secure,0
+7996,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,200000,1.75,Marginal Security,0
+7997,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,2.0,Marginal Security,0
+7998,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,1.0,1,0,0,1,Work,600000,1,60000,"Buy clothes, shoes",0,,1.5,Marginal Security,0
+7999,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,1,99,1.0,Secure,0
+8000,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+8001,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,300000,1.0,Secure,0
+8002,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.0,Secure,0
+8003,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+8004,valle_del_cauca,cali,76001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.75,Marginal Security,0
+8140,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3500000,0,,,1,20000,1.0,Secure,0
+8141,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.25,Secure,0
+8142,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,1,26000000,Other,1,580000,1.0,Secure,0
+8143,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,0,,,0,,1.75,Marginal Security,0
+8144,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,200000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+8145,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,1,10000000,pay trips,0,,1.5,Marginal Security,0
+8146,valle_del_cauca,cartago,76147,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+8147,valle_del_cauca,ginebra,76306,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+8148,valle_del_cauca,ginebra,76306,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,100000,1.25,Secure,0
+8149,valle_del_cauca,ginebra,76306,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,140000,1,25000,Other,0,,1.75,Marginal Security,0
+8150,valle_del_cauca,ginebra,76306,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,700000,0,,,1,600000,1.25,Secure,0
+8151,valle_del_cauca,ginebra,76306,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,270000,0,,,0,,1.75,Marginal Security,0
+8152,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,0,0,,,0,,1.5,Marginal Security,0
+8153,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,1,30000,1.25,Secure,0
+8154,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,150000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+8155,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8156,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.5,Moderate Insecurity,1
+8157,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,10000,0,,,0,,2.25,Marginal Security,0
+8158,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,250000,0,,,0,,1.5,Marginal Security,0
+8159,valle_del_cauca,guacari,76318,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0

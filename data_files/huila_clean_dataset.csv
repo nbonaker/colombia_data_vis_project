@@ -1,0 +1,283 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+4,huila,neiva,41001,14,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,5330000,1,99,Other,0,,1.5,Marginal Security,0
+9,huila,saladoblanco,41660,13,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,2000000,0,,,0,,2.5,Moderate Insecurity,1
+39,huila,pitalito,41551,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,1,5000000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+58,huila,neiva,41001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+59,huila,neiva,41001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+60,huila,neiva,41001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+86,huila,saladoblanco,41660,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,300000,1,99,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+156,huila,garzon,41298,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,2500000,Cover health expenses,0,,2.25,Marginal Security,0
+322,huila,saladoblanco,41660,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+323,huila,saladoblanco,41660,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+409,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+410,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work, ,0,,,1,400000,2.5,Moderate Insecurity,1
+411,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work, ,0,,,1,400000,2.5,Moderate Insecurity,1
+412,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work, ,0,,,1,400000,2.5,Moderate Insecurity,1
+413,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,330000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,180000,2.5,Moderate Insecurity,1
+414,huila,pitalito,41551,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,460000,1,10000000,Other,0,,3.0,Moderate Insecurity,1
+470,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,16000000,Buy productive inputs,0,,2.25,Marginal Security,0
+471,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,7,Work, ,1,80000000,Buy productive inputs,1,99,1.0,Secure,0
+472,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,1,0.0,0,0,0,3,Work,1920000,1,2700000,Buy food,0,,2.25,Marginal Security,0
+473,huila,neiva,41001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.75,Moderate Insecurity,1
+589,huila,garzon,41298,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,1,200000,Buy food,0,,2.5,Moderate Insecurity,1
+590,huila,garzon,41298,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+591,huila,garzon,41298,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,4000000,Other,0,,2.25,Marginal Security,0
+592,huila,garzon,41298,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,630000,0,,,0,,2.75,Moderate Insecurity,1
+593,huila,saladoblanco,41660,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,1,300000,1.5,Marginal Security,0
+773,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,1,6500000,Other,0,,2.25,Marginal Security,0
+774,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1600000,0,,,0,,2.25,Marginal Security,0
+775,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,800000,0,,,0,,2.5,Moderate Insecurity,1
+776,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1800000,0,,,0,,1.5,Marginal Security,0
+777,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,1.75,Marginal Security,0
+778,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,1.75,Marginal Security,0
+779,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+780,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+781,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,4,Work,4000000,ns_nr,,,0,,1.5,Marginal Security,0
+782,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,69000000,Other,0,,2.75,Moderate Insecurity,1
+913,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,880000,0,,,0,,2.25,Marginal Security,0
+914,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,1200000,Pay rent or house rent,0,,2.25,Marginal Security,0
+915,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,60000000,Other,0,,2.0,Marginal Security,0
+916,huila,neiva,41001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+917,huila,pitalito,41551,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+918,huila,pitalito,41551,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",280000,1,3100000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+919,huila,pitalito,41551,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,650000,1,500000,Buy food,0,,3.0,Moderate Insecurity,1
+1140,huila,garzon,41298,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,1,2000000,Buy food,1,500000,2.25,Marginal Security,0
+1141,huila,garzon,41298,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1142,huila,garzon,41298,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,1,90000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1143,huila,garzon,41298,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.75,Moderate Insecurity,1
+1144,huila,saladoblanco,41660,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,40000000,Cover health expenses,0,,2.25,Marginal Security,0
+1461,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,9000000,Other,0,,2.0,Marginal Security,0
+1462,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,400000,1,3000000,Buy food,1,100000,2.25,Marginal Security,0
+1463,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Pension,7000000,0,,,1,12000000,1.0,Secure,0
+1464,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1580000,1,1000000,"Cover basic services (water, electricity)",1,30000,2.25,Marginal Security,0
+1465,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2800000,0,,,0,,1.0,Secure,0
+1466,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,3000000,1,2000000,Other,0,,2.25,Marginal Security,0
+1467,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,520000,0,,,0,,3.0,Moderate Insecurity,1
+1680,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,99,Other,1,99,1.0,Secure,0
+1681,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,99,1.0,Secure,0
+1682,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,150000,Buy food,0,,2.25,Marginal Security,0
+1683,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+1684,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1685,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1686,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1400000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3200000,1.5,Marginal Security,0
+1687,huila,neiva,41001,5,,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1688,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,700000,1,163000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,550000,2.75,Moderate Insecurity,1
+1689,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,1,10000000,Other,0,,2.75,Moderate Insecurity,1
+1690,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,2.75,Moderate Insecurity,1
+1691,huila,neiva,41001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,99,Other,0,,2.75,Moderate Insecurity,1
+1692,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,1,150000,3.75,Severe Insecurity,1
+1693,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+1694,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,1.5,Marginal Security,0
+1695,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,1400000,Buy food,0,,1.75,Marginal Security,0
+1696,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,3700000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1697,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.5,Marginal Security,0
+1698,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,300000,0,,,1,100000,2.25,Marginal Security,0
+1699,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,2.25,Marginal Security,0
+1700,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1701,huila,pitalito,41551,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,500000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2123,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+2124,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,5000000,Cover health expenses,0,,1.75,Marginal Security,0
+2125,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work,880000,1,3000000,Other,1,600000,1.0,Secure,0
+2126,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2127,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,980000,1,350000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2128,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,3.5,Severe Insecurity,1
+2129,huila,garzon,41298,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1120000,1,6000000,Other,0,,2.5,Moderate Insecurity,1
+2130,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,4.0,Severe Insecurity,1
+2131,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,660000,1,844000,Other,0,,2.25,Marginal Security,0
+2132,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,14000000,Other,0,,1.75,Marginal Security,0
+2133,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+2134,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+2135,huila,saladoblanco,41660,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,4000000,1.0,Secure,0
+2636,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1010000,0,,,0,,2.5,Moderate Insecurity,1
+2637,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1010000,0,,,0,,2.5,Moderate Insecurity,1
+2638,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1720000,0,,,1,550000,2.0,Marginal Security,0
+2639,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2640,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3100000,0,,,1,700000,1.0,Secure,0
+2641,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,1,400000,2.25,Marginal Security,0
+2642,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.0,Marginal Security,0
+2643,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,1,450000,Buy food,0,,2.25,Marginal Security,0
+2644,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,99,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+2645,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2968,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.25,Secure,0
+2969,huila,neiva,41001,4,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,730000,0,,,0,,2.75,Moderate Insecurity,1
+2970,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,1,3000000,1.75,Marginal Security,0
+2971,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,1,3500000,ns_nr__strong_e__no_leer__strong_,0,,1.25,Secure,0
+2972,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4500000,1,1000000,Other,0,,1.0,Secure,0
+2973,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,500000,ns_nr,,,0,,2.0,Marginal Security,0
+2974,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,800000,Buy productive inputs,0,,1.75,Marginal Security,0
+2975,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2976,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,2000000,1.0,Secure,0
+2977,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2978,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,7000000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.25,Secure,0
+2979,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3080000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+2980,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1800000,Other,0,,3.0,Moderate Insecurity,1
+2981,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,600000,1,280000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,2.25,Marginal Security,0
+2982,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,6000000,0,,,1,12000000,1.0,Secure,0
+2983,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4500000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2984,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2000000,1,68000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+2985,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.25,Marginal Security,0
+2986,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,99,1.25,Secure,0
+2987,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,0,,,1,1000000,1.5,Marginal Security,0
+2988,huila,neiva,41001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Pension,900000,0,,,0,,2.25,Marginal Security,0
+2989,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,1.75,Marginal Security,0
+2990,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,1,400000,1.75,Marginal Security,0
+2991,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+2992,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,2.75,Moderate Insecurity,1
+2993,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,4200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2994,huila,pitalito,41551,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3807,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+3808,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,1.25,Secure,0
+3809,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+3810,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3811,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,1,1500000,Buy productive inputs,0,,2.25,Marginal Security,0
+3812,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,630000,0,,,0,,1.25,Secure,0
+3813,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,10000000,Buy productive inputs,0,,2.25,Marginal Security,0
+3814,huila,garzon,41298,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,800000,2.25,Marginal Security,0
+3815,huila,saladoblanco,41660,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,800000,1,23000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+3816,huila,saladoblanco,41660,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,1500000,Other,0,,1.25,Secure,0
+3817,huila,saladoblanco,41660,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,2600000,"Cover basic services (water, electricity)",0,,1.25,Secure,0
+4552,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.25,Marginal Security,0
+4553,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,5000000,Other,0,,1.75,Marginal Security,0
+4554,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+4555,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1050000,0,,,0,,2.0,Marginal Security,0
+4556,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,3.0,Moderate Insecurity,1
+4557,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,4000000,Buy food,0,,1.25,Secure,0
+4558,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,4000000,Buy food,0,,1.25,Secure,0
+4559,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,1500000,Buy food,0,,2.5,Moderate Insecurity,1
+4560,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,14500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4561,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,260000,0,,,0,,3.25,Moderate Insecurity,1
+4562,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,0,,,0,,1.0,Secure,0
+4563,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3500000,0,,,1,800000,1.5,Marginal Security,0
+4564,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2800000,1,10000000,Other,0,,2.0,Marginal Security,0
+4565,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Pension,740000,0,,,0,,2.25,Marginal Security,0
+4566,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.5,Moderate Insecurity,1
+4567,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.5,Moderate Insecurity,1
+4568,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4569,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,210000,0,,,0,,2.25,Marginal Security,0
+4570,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,160000,0,,,0,,2.75,Moderate Insecurity,1
+4571,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,160000,0,,,0,,2.75,Moderate Insecurity,1
+4911,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+4912,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4000000,Other,1,400000,1.0,Secure,0
+4913,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,1500000,Pay rent or house rent,1,3000000,2.0,Marginal Security,0
+4914,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1160000,1,60000000,Other,0,,1.75,Marginal Security,0
+4915,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,600000,1.0,Secure,0
+4916,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,550000,1,650000,Other,0,,2.25,Marginal Security,0
+4917,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.25,Secure,0
+4918,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Work,4200000,1,15000000,Other,0,,1.75,Marginal Security,0
+4919,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2800000,0,,,1,400000,1.5,Marginal Security,0
+4920,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,ns_nr,,,1,200000,1.5,Marginal Security,0
+4921,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1150000,1,300000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4922,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,1000000,1.5,Marginal Security,0
+4923,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,4500000,0,,,1,4000000,1.0,Secure,0
+4924,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,18000000,1,50000000,Other,0,,1.0,Secure,0
+4925,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,400000,1.0,Secure,0
+4926,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,4150000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,3.0,Moderate Insecurity,1
+4927,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+4928,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,0,,2.25,Marginal Security,0
+4929,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,9000000,Other,0,,2.0,Marginal Security,0
+4930,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,200000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4931,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,4.0,Severe Insecurity,1
+4932,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,0,,,0,,1.5,Marginal Security,0
+4933,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,1900000,Cover health expenses,0,,1.5,Marginal Security,0
+4934,huila,neiva,41001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,4800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4935,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,550000,0,,,0,,2.75,Moderate Insecurity,1
+4936,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,5500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.25,Secure,0
+4937,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,755000,1,2000000,Other,0,,2.0,Marginal Security,0
+4938,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,6000000,Buy productive inputs,1,200000,2.0,Marginal Security,0
+4939,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+4940,huila,pitalito,41551,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1220000,0,,,0,,2.25,Marginal Security,0
+5697,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1800000,1,10000000,Buy productive inputs,0,,1.5,Marginal Security,0
+5698,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5699,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+5700,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Pay school or education expenses,0,,1.25,Secure,0
+5701,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+5702,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,800000,Buy food,1,900000,2.5,Moderate Insecurity,1
+5703,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+5704,huila,garzon,41298,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1370000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+5705,huila,saladoblanco,41660,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,7000000,Other,1,2000000,1.25,Secure,0
+5706,huila,saladoblanco,41660,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,12000000,Buy productive inputs,0,,1.25,Secure,0
+5707,huila,saladoblanco,41660,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+5708,huila,saladoblanco,41660,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,4000000,1.25,Secure,0
+6409,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,160000,1,500000,Other,0,,2.25,Marginal Security,0
+6410,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2200000,0,,,0,,1.0,Secure,0
+6411,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,310000,0,,,0,,2.25,Marginal Security,0
+6412,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1300000,0,,,1,99,1.0,Secure,0
+6413,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,1.25,Secure,0
+6414,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1955000,1,55000000,Other,0,,1.0,Secure,0
+6415,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1700000,1,40000000,ns_nr__strong_e__no_leer__strong_,0,,1.25,Secure,0
+6416,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,1,5000000,Other,0,,2.0,Marginal Security,0
+6417,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,1,5000000,Other,0,,2.0,Marginal Security,0
+6418,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.25,Moderate Insecurity,1
+6419,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,3.25,Moderate Insecurity,1
+6420,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.5,Moderate Insecurity,1
+6421,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension, ,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6422,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,300000,0,,,0,,2.5,Moderate Insecurity,1
+6423,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,1,7000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+6424,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work, ,0,,,0,,3.0,Moderate Insecurity,1
+6425,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+6426,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,330000,0,,,1,1700000,1.0,Secure,0
+6427,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,99,Buy productive inputs,0,,2.0,Marginal Security,0
+6428,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,23000000,Cover health expenses,0,,1.75,Marginal Security,0
+6429,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1920000,0,,,0,,1.0,Secure,0
+6430,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.0,Marginal Security,0
+6431,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,180000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+6432,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,980000,0,,,0,,1.5,Marginal Security,0
+6433,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,200000,0,,,0,,2.25,Marginal Security,0
+6434,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.25,Secure,0
+6706,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,1,40000000,1.0,Secure,0
+6707,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,12000000,Other,0,,1.0,Secure,0
+6708,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,1,99,2.25,Marginal Security,0
+6709,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.0,Marginal Security,0
+6710,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,15000000,Buy productive inputs,0,,1.0,Secure,0
+6711,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.0,Secure,0
+6712,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6713,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1800000,0,,,1,99,1.0,Secure,0
+6714,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4700000,1,203000000,Buy productive inputs,0,,1.75,Marginal Security,0
+6715,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,1,500000,1.5,Marginal Security,0
+6716,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,2.0,Marginal Security,0
+6717,huila,neiva,41001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1100000,0,,,1,450000,2.0,Marginal Security,0
+6718,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1055000,1,610000,Buy productive inputs,0,,2.0,Marginal Security,0
+6719,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+6720,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+6721,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,0,,,0,,2.0,Marginal Security,0
+6722,huila,pitalito,41551,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7346,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7347,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,0,,,0,,2.25,Marginal Security,0
+7348,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7349,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+7350,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,890000,0,,,0,,2.25,Marginal Security,0
+7351,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,620000,1,6000000,Other,0,,1.0,Secure,0
+7352,huila,garzon,41298,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,580000,0,,,0,,1.5,Marginal Security,0
+7353,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7354,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,0,1,3000000,Other,0,,3.25,Moderate Insecurity,1
+7355,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.25,Marginal Security,0
+7356,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7357,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,50000,0,,,0,,2.75,Moderate Insecurity,1
+7358,huila,saladoblanco,41660,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7889,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.75,Moderate Insecurity,1
+7890,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1700000,0,,,0,,1.5,Marginal Security,0
+7891,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,1100000,0,,,0,,2.0,Marginal Security,0
+7892,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1100000,1,3000000,Other,0,,1.0,Secure,0
+7893,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,800000,0,,,1,99,1.0,Secure,0
+7894,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,150000,0,,,0,,1.5,Marginal Security,0
+7895,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1500000,1,5000000,Other,0,,1.25,Secure,0
+7896,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,130000,0,,,0,,1.75,Marginal Security,0
+7897,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",550000,1,500000,Other,0,,2.25,Marginal Security,0
+7898,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7899,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,1000000,Buy productive inputs,1,1000000,1.75,Marginal Security,0
+7900,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,125000,1,2000000,Other,0,,2.25,Marginal Security,0
+8043,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+8044,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+8045,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,650000,1,350000,Other,0,,2.25,Marginal Security,0
+8046,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1300000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+8047,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,7800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+8048,huila,neiva,41001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,1,10000,1.25,Secure,0
+8049,huila,pitalito,41551,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,120000,0,,,0,,3.0,Moderate Insecurity,1
+8050,huila,pitalito,41551,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,1.5,Marginal Security,0
+8323,huila,garzon,41298,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,1,320000,2.25,Marginal Security,0
+8324,huila,garzon,41298,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,440000,0,,,0,,2.5,Moderate Insecurity,1
+8325,huila,garzon,41298,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,540000,1,300000,Other,0,,2.75,Moderate Insecurity,1
+8326,huila,saladoblanco,41660,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+8327,huila,saladoblanco,41660,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,320000,0,,,0,,1.75,Marginal Security,0
+8328,huila,saladoblanco,41660,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,700000,1.25,Secure,0
+8329,huila,saladoblanco,41660,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0

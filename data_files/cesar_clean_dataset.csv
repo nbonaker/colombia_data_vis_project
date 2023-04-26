@@ -1,0 +1,271 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+6,cesar,valledupar,20001,14,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+45,cesar,valledupar,20001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+90,cesar,bosconia,20060,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,800000,0,,,0,,3.25,Moderate Insecurity,1
+91,cesar,bosconia,20060,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,3,Work,700000,1,4000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+92,cesar,la_paz,20621,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+93,cesar,valledupar,20001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,1,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+161,cesar,la_paz,20621,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+162,cesar,la_paz,20621,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+163,cesar,la_paz,20621,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,3.75,Severe Insecurity,1
+164,cesar,valledupar,20001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,600000,0,,,0,,1.75,Marginal Security,0
+165,cesar,valledupar,20001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+166,cesar,valledupar,20001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,920000,0,,,0,,2.25,Marginal Security,0
+334,cesar,bosconia,20060,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+335,cesar,bosconia,20060,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,5000000,Pay school or education expenses,0,,3.5,Severe Insecurity,1
+336,cesar,la_paz,20621,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+337,cesar,la_paz,20621,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+338,cesar,valledupar,20001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,700000,1,5000000,Other,0,,3.25,Moderate Insecurity,1
+339,cesar,valledupar,20001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.75,Moderate Insecurity,1
+340,cesar,valledupar,20001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+341,cesar,valledupar,20001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,2,Pension,2000000,0,,,0,,2.75,Moderate Insecurity,1
+342,cesar,valledupar,20001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,400000,Other,0,,4.0,Severe Insecurity,1
+625,cesar,bosconia,20060,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,1,6000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+626,cesar,bosconia,20060,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+627,cesar,la_paz,20621,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,3,Work,700000,1,10000000,Other,0,,3.25,Moderate Insecurity,1
+628,cesar,la_paz,20621,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,1,150000,2.75,Moderate Insecurity,1
+629,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2000000,Buy food,0,,3.75,Severe Insecurity,1
+630,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,0,,,0,,2.25,Marginal Security,0
+631,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+632,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,ns_nr,,,0,,3.75,Severe Insecurity,1
+633,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,750000,1,400000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+634,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,99,Buy food,0,,2.5,Moderate Insecurity,1
+635,cesar,valledupar,20001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,600000,0,,,0,,2.25,Marginal Security,0
+1193,cesar,bosconia,20060,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+1194,cesar,bosconia,20060,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,1000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+1195,cesar,bosconia,20060,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,1,99,2.5,Moderate Insecurity,1
+1196,cesar,bosconia,20060,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,230000,0,,,0,,3.5,Severe Insecurity,1
+1197,cesar,la_paz,20621,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,2000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+1198,cesar,la_paz,20621,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1320000,0,,,0,,2.5,Moderate Insecurity,1
+1199,cesar,la_paz,20621,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,1,50000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+1200,cesar,pailitas,20517,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,Buy food,0,,1.75,Marginal Security,0
+1201,cesar,pailitas,20517,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,10000000,Buy productive inputs,0,,1.0,Secure,0
+1202,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,3000000,pay trips,0,,2.5,Moderate Insecurity,1
+1203,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,900000,0,,,0,,2.25,Marginal Security,0
+1204,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,26700000,Other,0,,2.75,Moderate Insecurity,1
+1205,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+1206,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,1,300000,3.25,Moderate Insecurity,1
+1207,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,0,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+1208,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension, ,0,,,0,,1.75,Marginal Security,0
+1209,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2100000,0,,,0,,1.5,Marginal Security,0
+1210,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,99,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+1211,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+1212,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3500000,1,15000000,Other,0,,1.25,Secure,0
+1213,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,320000,Other,0,,3.75,Severe Insecurity,1
+1214,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,1.5,Marginal Security,0
+1215,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,215000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1216,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,1,270000,3.0,Moderate Insecurity,1
+1217,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,5000000,Buy food,0,,2.75,Moderate Insecurity,1
+1218,cesar,valledupar,20001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,3000000,1,20000000,Other,0,,1.5,Marginal Security,0
+2234,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+2235,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2236,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,1,1350000,Other,0,,3.25,Moderate Insecurity,1
+2237,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.25,Marginal Security,0
+2238,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2239,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,630000,1,5000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+2240,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,99,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+2241,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,10000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+2242,cesar,bosconia,20060,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+2243,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+2244,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,2.0,Marginal Security,0
+2245,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1000000,Other,0,,2.75,Moderate Insecurity,1
+2246,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,716000,0,,,0,,2.25,Marginal Security,0
+2247,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+2248,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+2249,cesar,la_paz,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,1,600000,1.75,Marginal Security,0
+2250,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,2.25,Marginal Security,0
+2251,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,850000,Buy productive inputs,0,,2.25,Marginal Security,0
+2252,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,550000,0,,,0,,3.75,Severe Insecurity,1
+2253,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,1,2000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+2254,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+2255,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+2256,cesar,pailitas,20517,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1500000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+2257,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,900000,0,,,0,,3.0,Moderate Insecurity,1
+2258,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+2259,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,1,1500000,Pay rent or house rent,0,,1.75,Marginal Security,0
+2260,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+2261,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",100000,1,2500000,"Cover basic services (water, electricity)",1,200000,2.75,Moderate Insecurity,1
+2262,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4080000,0,,,1,1200000,2.0,Marginal Security,0
+2263,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,1,1000000,2.25,Marginal Security,0
+2264,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+2265,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.25,Marginal Security,0
+2266,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,4000000,Cover health expenses,0,,1.75,Marginal Security,0
+2267,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,250000,0,,,0,,2.75,Moderate Insecurity,1
+2268,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,1,1200000,Buy food,0,,3.5,Severe Insecurity,1
+2269,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,1200000,Buy food,1,300000,2.5,Moderate Insecurity,1
+2270,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+2271,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,127000,3.75,Severe Insecurity,1
+2272,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2273,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,35000000,ns_nr__strong_e__no_leer__strong_,0,,3.0,Moderate Insecurity,1
+2274,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+2275,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,3000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2276,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,36000,Buy productive inputs,0,,1.75,Marginal Security,0
+2277,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,760000,0,,,0,,2.5,Moderate Insecurity,1
+2278,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,99,1.5,Marginal Security,0
+2279,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1650000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2280,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+2281,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,15000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+2282,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,99,Other,0,,1.0,Secure,0
+2283,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,4.0,Severe Insecurity,1
+2284,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+2285,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,1800000,Buy productive inputs,0,,1.5,Marginal Security,0
+2286,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,1550000,"Buy clothes, shoes",0,,2.5,Moderate Insecurity,1
+2287,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,400000,1,1800000,Buy food,0,,3.25,Moderate Insecurity,1
+2288,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+2289,cesar,valledupar,20001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,2000000,Buy food,0,,2.75,Moderate Insecurity,1
+2290,cesar,valledupar,20621,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.5,Severe Insecurity,1
+3976,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+3977,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,600000,0,,,0,,3.25,Moderate Insecurity,1
+3978,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,5000000,Other,0,,3.25,Moderate Insecurity,1
+3979,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,600000,1,4000000,Other,0,,1.75,Marginal Security,0
+3980,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,7000000,Other,0,,4.0,Severe Insecurity,1
+3981,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,Other,0,,2.25,Marginal Security,0
+3982,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3983,cesar,bosconia,20060,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,0,,2.0,Marginal Security,0
+3984,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,2000000,"Cover basic services (water, electricity)",1,200000,2.5,Moderate Insecurity,1
+3985,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.75,Severe Insecurity,1
+3986,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,4000000,Buy food,0,,3.5,Severe Insecurity,1
+3987,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3800000,Buy food,0,,2.75,Moderate Insecurity,1
+3988,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,3.25,Moderate Insecurity,1
+3989,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+3990,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+3991,cesar,la_paz,20621,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,800000,Buy food,0,,2.75,Moderate Insecurity,1
+3992,cesar,pailitas,20517,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1400000,Other,0,,2.75,Moderate Insecurity,1
+3993,cesar,pailitas,20517,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,52000000,Other,0,,2.5,Moderate Insecurity,1
+3994,cesar,pailitas,20517,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,30000,0,,,0,,2.0,Marginal Security,0
+3995,cesar,pailitas,20517,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,0,,,0,,3.5,Severe Insecurity,1
+3996,cesar,pailitas,20517,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,1000000,"Cover basic services (water, electricity)",0,,3.0,Moderate Insecurity,1
+3997,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,28000000,Other,0,,2.5,Moderate Insecurity,1
+3998,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3999,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,300000,0,,,1,2000000,2.5,Moderate Insecurity,1
+4000,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+4001,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+4002,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,50000000,Buy food,0,,2.0,Marginal Security,0
+4003,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+4004,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1100000,0,,,0,,1.75,Marginal Security,0
+4005,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+4006,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,250000,0,,,0,,2.75,Moderate Insecurity,1
+4007,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,3000000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+4008,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,1,2000000,2.5,Moderate Insecurity,1
+4009,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2000000,Other,0,,2.75,Moderate Insecurity,1
+4010,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.5,Marginal Security,0
+4011,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,480000,0,,,0,,2.5,Moderate Insecurity,1
+4012,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,146000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+4013,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,300000,0,,,0,,3.25,Moderate Insecurity,1
+4014,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,1,200000,Buy productive inputs,1,400000,1.0,Secure,0
+4015,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,0,,,0,,2.25,Marginal Security,0
+4016,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,7000000,ns_nr,,,0,,1.25,Secure,0
+4017,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1200000,Other,1,200000,1.75,Marginal Security,0
+4018,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,5000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+4019,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,20000000,Other,0,,3.5,Severe Insecurity,1
+4020,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+4021,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,3.0,Moderate Insecurity,1
+4022,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,400000,1,10000000,Other,0,,2.0,Marginal Security,0
+4023,cesar,valledupar,20001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,0,,2.25,Marginal Security,0
+5831,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,385000,0,,,0,,3.25,Moderate Insecurity,1
+5832,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,20000000,Pay school or education expenses,0,,3.75,Severe Insecurity,1
+5833,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+5834,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,0,,2.5,Moderate Insecurity,1
+5835,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,1,1000000,Buy food,0,,3.0,Moderate Insecurity,1
+5836,cesar,bosconia,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+5837,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+5838,cesar,bosconia,20060,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,150000,2.75,Moderate Insecurity,1
+5839,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1080000,0,,,0,,1.25,Secure,0
+5840,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+5841,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5842,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,300000,Buy food,0,,3.0,Moderate Insecurity,1
+5843,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,6000000,Buy productive inputs,1,500000,2.0,Marginal Security,0
+5844,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,720000,0,,,0,,2.25,Marginal Security,0
+5845,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,300000,0,,,0,,2.0,Marginal Security,0
+5846,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,3000000,Other,0,,1.25,Secure,0
+5847,cesar,la_paz,20621,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,1,460000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+5848,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,760000,1,1000000,Cover health expenses,0,,2.25,Marginal Security,0
+5849,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+5850,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5851,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.25,Secure,0
+5852,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Other,0,,1.75,Marginal Security,0
+5853,cesar,pailitas,20517,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,300000,Other,0,,2.0,Marginal Security,0
+5854,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,2000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+5855,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,The household receives no income of any kind,500000,1,3000000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+5856,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,ns_nr,,,0,,3.5,Severe Insecurity,1
+5857,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,4.0,Severe Insecurity,1
+5858,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+5859,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5860,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,3.0,Moderate Insecurity,1
+5861,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+5862,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.0,Secure,0
+5863,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1500000,Buy food,0,,3.0,Moderate Insecurity,1
+5864,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,500000,1,600000,Buy food,0,,2.75,Moderate Insecurity,1
+5865,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+5866,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,928000,1,500000,Buy food,0,,1.75,Marginal Security,0
+5867,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,150000,1,63000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+5868,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.0,Marginal Security,0
+5869,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,1,200000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5870,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,2500000,Buy food,0,,1.5,Marginal Security,0
+5871,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,500000,1,3000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+5872,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,1,100000,1.5,Marginal Security,0
+5873,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1100000,0,,,0,,1.75,Marginal Security,0
+5874,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,5000000,1.0,Secure,0
+5875,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+5876,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1050000,0,,,0,,1.5,Marginal Security,0
+5877,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5878,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,2200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+5879,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+5880,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,37000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5881,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,30000000,Other,0,,2.25,Marginal Security,0
+5882,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,430000,0,,,0,,3.25,Moderate Insecurity,1
+5883,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+5884,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,1,10000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+5885,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,99,Buy food,0,,2.0,Marginal Security,0
+5886,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,4000000,Other,0,,2.25,Marginal Security,0
+5887,cesar,valledupar,20001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+5888,cesar,valledupar,20001,3,1.0,0,0,0,0,0,1,0,1,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,300000,0,,,1,900000,3.25,Moderate Insecurity,1
+7449,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,70000000,Other,0,,1.5,Marginal Security,0
+7450,cesar,bosconia,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,145000,1,3697900,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+7451,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+7452,cesar,bosconia,20621,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7453,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,3500000,Other,0,,2.25,Marginal Security,0
+7454,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.75,Moderate Insecurity,1
+7455,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,1000000,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+7456,cesar,bosconia,20060,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,500000,1,600000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+7457,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,120000,0,,,0,,3.0,Moderate Insecurity,1
+7458,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,1,100000,1.5,Marginal Security,0
+7459,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+7460,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,3000000,Other,0,,2.25,Marginal Security,0
+7461,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,380000,0,,,1,300000,2.0,Marginal Security,0
+7462,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+7463,cesar,la_paz,20621,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,190000,1,80000,Buy food,0,,3.75,Severe Insecurity,1
+7464,cesar,pailitas,20517,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,400000,0,,,0,,2.75,Moderate Insecurity,1
+7465,cesar,pailitas,20517,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,6900000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7466,cesar,pailitas,20517,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,2.0,Marginal Security,0
+7467,cesar,pailitas,20517,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+7468,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,7000000,Other,0,,2.25,Marginal Security,0
+7469,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,10000000,Pay school or education expenses,0,,1.0,Secure,0
+7470,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1250000,1,1300000,Buy productive inputs,1,400000,1.25,Secure,0
+7471,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,270000,Buy food,0,,2.25,Marginal Security,0
+7472,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+7473,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,70000,1,1500000,"Cover basic services (water, electricity)",1,50000,2.0,Marginal Security,0
+7474,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,1,1200000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+7475,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,930000,1,560000,Other,0,,2.75,Moderate Insecurity,1
+7476,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,20000,1,220000,Buy food,0,,3.75,Severe Insecurity,1
+7477,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,1000000,Buy food,0,,3.75,Severe Insecurity,1
+7478,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,9000000,Other,0,,2.75,Moderate Insecurity,1
+7479,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,634000,1,11000000,ns_nr__strong_e__no_leer__strong_,0,,1.25,Secure,0
+7480,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,300000,Cover health expenses,0,,2.0,Marginal Security,0
+7481,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,1,3000000,Buy food,0,,3.75,Severe Insecurity,1
+7482,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",80000,1,200000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+7483,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+7484,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,22000000,Other,0,,2.0,Marginal Security,0
+7485,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,2500000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+7486,cesar,valledupar,20001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,200000,1.0,Secure,0
+8372,cesar,bosconia,20060,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,290000,0,,,0,,2.25,Marginal Security,0
+8373,cesar,bosconia,20060,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,1,5000000,Pay rent or house rent,0,,2.0,Marginal Security,0
+8374,cesar,bosconia,20060,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,80000,0,,,0,,2.0,Marginal Security,0
+8375,cesar,la_paz,20621,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,40000,1,50000,Buy food,0,,1.5,Marginal Security,0
+8376,cesar,la_paz,20621,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,100000,0,,,0,,2.75,Moderate Insecurity,1
+8377,cesar,pailitas,20517,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,750000,1,10900000,Other,0,,1.75,Marginal Security,0
+8378,cesar,valledupar,20001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1600000,1,8000000,Buy food,0,,1.75,Marginal Security,0
+8379,cesar,valledupar,20001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,0,,,1,1200000,1.5,Marginal Security,0
+8380,cesar,valledupar,20001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,200000,Buy food,0,,2.5,Moderate Insecurity,1
+8381,cesar,valledupar,20001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,5000000,Other,0,,1.75,Marginal Security,0
+8382,cesar,valledupar,20001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,3.25,Moderate Insecurity,1

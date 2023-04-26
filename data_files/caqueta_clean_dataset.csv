@@ -1,0 +1,210 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+167,caqueta,cartagena_del_chaira,18150,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,1000000,Buy food,0,,3.0,Moderate Insecurity,1
+344,caqueta,cartagena_del_chaira,18150,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,140000,Cover health expenses,0,,2.0,Marginal Security,0
+345,caqueta,florencia,18001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,740000,0,,,0,,3.75,Severe Insecurity,1
+346,caqueta,florencia,18001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+644,caqueta,cartagena_del_chaira,18150,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1800000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+645,caqueta,florencia,18001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+646,caqueta,florencia,18001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,3.5,Severe Insecurity,1
+647,caqueta,florencia,18001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2100000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+648,caqueta,florencia,18001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,1.75,Marginal Security,0
+649,caqueta,morelia,18479,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,150000,0,,,0,,3.5,Severe Insecurity,1
+650,caqueta,san_vicente_del_caguan,18753,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,300000,Pay rent or house rent,0,,1.5,Marginal Security,0
+651,caqueta,san_vicente_del_caguan,18753,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,1,200000,2.5,Moderate Insecurity,1
+652,caqueta,san_vicente_del_caguan,18753,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1020000,1,1000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+1241,caqueta,cartagena_del_chaira,18150,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,200000,Other,0,,2.5,Moderate Insecurity,1
+1242,caqueta,cartagena_del_chaira,18150,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,0,,,0,,2.5,Moderate Insecurity,1
+1243,caqueta,cartagena_del_chaira,18150,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+1244,caqueta,cartagena_del_chaira,18150,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1240000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1245,caqueta,cartagena_del_chaira,18150,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,5000000,Other,0,,2.25,Marginal Security,0
+1246,caqueta,florencia,18001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,40000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+1247,caqueta,florencia,18001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1248,caqueta,florencia,18001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,560000,Other,0,,2.25,Marginal Security,0
+1249,caqueta,morelia,18479,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,850000,1,3000000,Buy food,0,,2.25,Marginal Security,0
+1250,caqueta,san_vicente_del_caguan,18753,6,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,99,Other,0,,2.5,Moderate Insecurity,1
+1251,caqueta,san_vicente_del_caguan,18753,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1500000,1,20000000,Other,1,300000,1.25,Secure,0
+2330,caqueta,cartagena_del_chaira,18150,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,2.0,Marginal Security,0
+2331,caqueta,cartagena_del_chaira,18150,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,500000,Buy food,0,,3.25,Moderate Insecurity,1
+2332,caqueta,cartagena_del_chaira,18150,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1050000,1,12000000,Other,0,,2.5,Moderate Insecurity,1
+2333,caqueta,cartagena_del_chaira,18150,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2334,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,435000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2335,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)", ,0,,,0,,2.75,Moderate Insecurity,1
+2336,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1015000,0,,,0,,2.75,Moderate Insecurity,1
+2337,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2338,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+2339,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+2340,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2341,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Government assistance,240000,0,,,0,,2.5,Moderate Insecurity,1
+2342,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+2343,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,150000,2.25,Marginal Security,0
+2344,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,3.0,Moderate Insecurity,1
+2345,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1140000,0,,,0,,2.25,Marginal Security,0
+2346,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",2300000,0,,,0,,2.25,Marginal Security,0
+2347,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,1,200000,3.25,Moderate Insecurity,1
+2348,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.75,Severe Insecurity,1
+2349,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+2350,caqueta,florencia,18001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,100000,0,,,0,,4.0,Severe Insecurity,1
+2351,caqueta,morelia,18479,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2352,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2353,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1280000,1,300000,Buy food,0,,2.0,Marginal Security,0
+2354,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2355,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,1,4500000,1.0,Secure,0
+2356,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1000000,1,4000000,Other,0,,1.0,Secure,0
+2357,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,2000000,Other,0,,3.0,Moderate Insecurity,1
+2358,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,20000000,Other,0,,2.75,Moderate Insecurity,1
+2359,caqueta,san_vicente_del_caguan,18753,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,810000,1,700000,Other,0,,2.25,Marginal Security,0
+4109,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,2.5,Moderate Insecurity,1
+4110,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1080000,0,,,0,,1.0,Secure,0
+4111,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,1.75,Marginal Security,0
+4112,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,4000000,Buy productive inputs,0,,2.0,Marginal Security,0
+4113,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,3200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+4114,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,200000,Other,0,,1.75,Marginal Security,0
+4115,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,960000,0,,,0,,2.0,Marginal Security,0
+4116,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1640000,1,6000000,Other,0,,2.25,Marginal Security,0
+4117,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,340000,1,2500000,Other,0,,3.25,Moderate Insecurity,1
+4118,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+4119,caqueta,cartagena_del_chaira,18150,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+4120,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,1000000,Buy food,0,,2.25,Marginal Security,0
+4121,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1300000,0,,,0,,2.0,Marginal Security,0
+4122,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,2200000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4123,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,52000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4124,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,900000,Other,1,500000,1.0,Secure,0
+4125,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,600000,Other,0,,2.25,Marginal Security,0
+4126,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,180000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+4127,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,2000000,1.25,Secure,0
+4128,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+4129,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,230000,Other,0,,2.25,Marginal Security,0
+4130,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,99,2.5,Moderate Insecurity,1
+4131,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,320000,0,,,0,,3.25,Moderate Insecurity,1
+4132,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,30000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+4133,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Remittances from migrants or help from family/friends,400000,0,,,0,,2.25,Marginal Security,0
+4134,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,640000,0,,,0,,2.25,Marginal Security,0
+4135,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4136,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,200000,2.0,Marginal Security,0
+4137,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,550000,0,,,0,,1.25,Secure,0
+4138,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+4139,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,900000,1,450000,Pay rent or house rent,0,,2.25,Marginal Security,0
+4140,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,300000,0,,,0,,1.75,Marginal Security,0
+4141,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,10000000,Other,1,200000,1.5,Marginal Security,0
+4142,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+4143,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,1,8000000,Buy productive inputs,0,,1.0,Secure,0
+4144,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1500000,0,,,0,,1.0,Secure,0
+4145,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4146,caqueta,florencia,18001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,510000,1,7000000,Other,0,,2.5,Moderate Insecurity,1
+4147,caqueta,morelia,18479,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+4148,caqueta,morelia,18479,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+4149,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+4150,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,8000000,Other,0,,1.25,Secure,0
+4151,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,190000,0,,,0,,2.75,Moderate Insecurity,1
+4152,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,9000000,1,2800000,Other,0,,2.75,Moderate Insecurity,1
+4153,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",9000000,1,300000,Other,0,,1.75,Marginal Security,0
+4154,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,0,,,0,,1.25,Secure,0
+4155,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,0,,,0,,1.25,Secure,0
+4156,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+4157,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4158,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,450000,0,,,0,,2.25,Marginal Security,0
+4159,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1500000,Other,0,,2.25,Marginal Security,0
+4160,caqueta,san_vicente_del_caguan,18753,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,1,35000000,Other,0,,1.25,Secure,0
+5976,caqueta,cartagena_del_chaira,18150,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,450000,0,,,0,,2.25,Marginal Security,0
+5977,caqueta,cartagena_del_chaira,18150,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,240000,0,,,0,,3.0,Moderate Insecurity,1
+5978,caqueta,cartagena_del_chaira,18150,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,540000,0,,,0,,3.25,Moderate Insecurity,1
+5979,caqueta,cartagena_del_chaira,18150,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,480000,1,4000000,Other,0,,3.75,Severe Insecurity,1
+5980,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1100000,1,350000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+5981,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,0,,,1,7000000,1.0,Secure,0
+5982,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,800000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+5983,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,700000,Pay rent or house rent,1,100000,1.75,Marginal Security,0
+5984,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+5985,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,180000,Buy food,0,,2.25,Marginal Security,0
+5986,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,10000000,Buy productive inputs,0,,1.75,Marginal Security,0
+5987,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1100000,0,,,0,,1.0,Secure,0
+5988,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,320000,Buy food,0,,2.0,Marginal Security,0
+5989,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,99,pay trips,1,400000,1.5,Marginal Security,0
+5990,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+5991,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,600000,Other,0,,2.25,Marginal Security,0
+5992,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,210000,0,,,0,,3.75,Severe Insecurity,1
+5993,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,620000,1,1000000,Buy food,0,,1.5,Marginal Security,0
+5994,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,300000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+5995,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.25,Marginal Security,0
+5996,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,600000,Buy productive inputs,0,,1.75,Marginal Security,0
+5997,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,480000,0,,,0,,2.5,Moderate Insecurity,1
+5998,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,120000,0,,,0,,4.0,Severe Insecurity,1
+5999,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,280000,1,30000,Buy food,0,,3.25,Moderate Insecurity,1
+6000,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,920000,1,200000,Pay school or education expenses,0,,1.75,Marginal Security,0
+6001,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,50000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+6002,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,500000,Pay rent or house rent,0,,1.75,Marginal Security,0
+6003,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,960000,0,,,1,1000,3.25,Moderate Insecurity,1
+6004,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,259000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,1.25,Secure,0
+6005,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,150000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6006,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,0,,,0,,4.0,Severe Insecurity,1
+6007,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,400000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6008,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,2.25,Marginal Security,0
+6009,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,0,,,0,,2.5,Moderate Insecurity,1
+6010,caqueta,florencia,18001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,2900000,1,52000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6011,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,800000,1,17000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6012,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,ns_nr,,,0,,1.75,Marginal Security,0
+6013,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,1,200000,1.5,Marginal Security,0
+6014,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,840000,1,2000000,Buy food,0,,2.75,Moderate Insecurity,1
+6015,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,110000,0,,,1,200000,2.75,Moderate Insecurity,1
+6016,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,760000,Other,0,,3.25,Moderate Insecurity,1
+6017,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.5,Severe Insecurity,1
+6018,caqueta,morelia,18479,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,250000,0,,,1,50000,3.5,Severe Insecurity,1
+6019,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,1,99,1.25,Secure,0
+6020,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+6021,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,3500000,Other,0,,2.5,Moderate Insecurity,1
+6022,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2300000,1,65000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.0,Secure,0
+6023,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,85000000,Pay school or education expenses,0,,1.25,Secure,0
+6024,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+6025,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6026,caqueta,san_vicente_del_caguan,18753,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,400000,Buy productive inputs,0,,1.0,Secure,0
+7558,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,480000,0,,,0,,2.5,Moderate Insecurity,1
+7559,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.0,Secure,0
+7560,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,750000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,190000,1.25,Secure,0
+7561,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,130000,0,,,0,,2.75,Moderate Insecurity,1
+7562,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.0,Marginal Security,0
+7563,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,6000000,Other,0,,2.25,Marginal Security,0
+7564,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,1,99,1.25,Secure,0
+7565,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,1,2000000,Other,0,,1.75,Marginal Security,0
+7566,caqueta,cartagena_del_chaira,18150,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,ns_nr,,,0,,1.75,Marginal Security,0
+7567,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+7568,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1400000,0,,,0,,1.75,Marginal Security,0
+7569,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1200000,1,15000000,Other,0,,1.5,Marginal Security,0
+7570,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,200000,Buy food,0,,2.75,Moderate Insecurity,1
+7571,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,210000,0,,,0,,1.5,Marginal Security,0
+7572,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7573,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,160000,0,,,0,,1.75,Marginal Security,0
+7574,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.0,Secure,0
+7575,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3300000,0,,,1,5000000,1.0,Secure,0
+7576,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+7577,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,160000,0,,,0,,3.25,Moderate Insecurity,1
+7578,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,1,170000,Other,0,,3.25,Moderate Insecurity,1
+7579,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,500000,"Buy clothes, shoes",0,,3.0,Moderate Insecurity,1
+7580,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+7581,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,4000000,Cover health expenses,0,,2.0,Marginal Security,0
+7582,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,1.75,Marginal Security,0
+7583,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+7584,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,420000,0,,,0,,3.0,Moderate Insecurity,1
+7585,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+7586,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,2000000,Other,0,,2.25,Marginal Security,0
+7587,caqueta,florencia,18001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,12500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,60000,2.0,Marginal Security,0
+7588,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,4000000,Buy productive inputs,0,,1.5,Marginal Security,0
+7589,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,700000,0,,,0,,2.0,Marginal Security,0
+7590,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,1500000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+7591,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,2000000,Cover health expenses,0,,2.0,Marginal Security,0
+7592,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,650000,0,,,0,,1.5,Marginal Security,0
+7593,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,1,300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7594,caqueta,morelia,18479,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.75,Moderate Insecurity,1
+7595,caqueta,san_vicente_del_caguan,18753,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,6000000,Cover health expenses,0,,1.0,Secure,0
+7596,caqueta,san_vicente_del_caguan,18753,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,1800000,Other,0,,2.5,Moderate Insecurity,1
+7597,caqueta,san_vicente_del_caguan,18753,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.25,Secure,0
+7598,caqueta,san_vicente_del_caguan,18753,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,120000,1,1000000,Other,0,,1.0,Secure,0
+8412,caqueta,cartagena_del_chaira,18150,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.5,Moderate Insecurity,1
+8413,caqueta,cartagena_del_chaira,18150,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,2.75,Moderate Insecurity,1
+8414,caqueta,cartagena_del_chaira,18150,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,90000,0,,,0,,1.75,Marginal Security,0
+8415,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,400000,0,,,0,,2.0,Marginal Security,0
+8416,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,4000000,Other,1,500000,1.0,Secure,0
+8417,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+8418,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4500000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+8419,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,3.0,Moderate Insecurity,1
+8420,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.0,Secure,0
+8421,caqueta,florencia,18001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,1.25,Secure,0
+8422,caqueta,morelia,18479,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.0,Secure,0

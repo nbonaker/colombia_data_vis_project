@@ -1,0 +1,411 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+33,cundinamarca,soacha,25754,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,7,Work,3000000,0,,,0,,3.25,Moderate Insecurity,1
+87,cundinamarca,suesca,25772,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,15000000,Other,0,,2.25,Marginal Security,0
+112,cundinamarca,soacha,25754,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,350000,0,,,0,,2.75,Moderate Insecurity,1
+207,cundinamarca,soacha,25754,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,1,1300000,Buy food,0,,1.25,Secure,0
+208,cundinamarca,soacha,25754,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,3,Work,1240000,0,,,0,,3.75,Severe Insecurity,1
+209,cundinamarca,soacha,25754,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,3,Work,1240000,0,,,0,,3.75,Severe Insecurity,1
+210,cundinamarca,soacha,25754,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,10000200,1,20000000,Other,0,,2.0,Marginal Security,0
+415,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,0,,,0,,2.75,Moderate Insecurity,1
+416,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,2000000,0,,,0,,3.0,Moderate Insecurity,1
+417,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+418,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+474,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,600000,1,876000,Buy food,0,,3.5,Severe Insecurity,1
+475,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,1,5000000,Buy productive inputs,1,200000,3.75,Severe Insecurity,1
+476,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,10000000,Other,0,,2.25,Marginal Security,0
+477,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+478,cundinamarca,soacha,25754,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5640000,0,,,0,,1.25,Secure,0
+594,cundinamarca,funza,25286,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,1,50000000,Other,0,,2.0,Marginal Security,0
+595,cundinamarca,funza,25286,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+596,cundinamarca,sesquile,25736,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+597,cundinamarca,sopo,25758,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,2.0,Marginal Security,0
+598,cundinamarca,sopo,25758,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,850000,Buy productive inputs,0,,1.5,Marginal Security,0
+783,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+784,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,200000,Cover health expenses,0,,2.25,Marginal Security,0
+920,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,1500000,0,,,0,,1.5,Marginal Security,0
+921,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+922,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,3.5,Severe Insecurity,1
+923,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,950000,0,,,0,,2.25,Marginal Security,0
+924,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,50000,Buy food,0,,2.5,Moderate Insecurity,1
+925,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+926,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,1,99,2.75,Moderate Insecurity,1
+927,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,3000000,1.0,Secure,0
+928,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,4000000,1.5,Marginal Security,0
+929,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,4000000,1.5,Marginal Security,0
+930,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,1,8000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+931,cundinamarca,soacha,25754,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,1,8000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+932,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1200000,0,,,0,,3.25,Moderate Insecurity,1
+1145,cundinamarca,funza,25286,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,4000000,1.0,Secure,0
+1146,cundinamarca,funza,25286,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,0,,,1,200000,1.0,Secure,0
+1147,cundinamarca,funza,25286,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,350000,0,,,0,,3.75,Severe Insecurity,1
+1148,cundinamarca,funza,25286,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,550000,0,,,0,,2.5,Moderate Insecurity,1
+1149,cundinamarca,gacheta,25297,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1400000,0,,,0,,2.25,Marginal Security,0
+1150,cundinamarca,gacheta,25297,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2000000,1,8000000,Other,0,,2.0,Marginal Security,0
+1151,cundinamarca,sesquile,25736,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,800000,Buy productive inputs,0,,1.75,Marginal Security,0
+1152,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,1,4500000,Buy productive inputs,0,,1.75,Marginal Security,0
+1153,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,700000,1,3500000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1154,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,99,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1155,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,10000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+1156,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",2700000,1,20000000,Other,0,,1.75,Marginal Security,0
+1157,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,600000,Other,0,,1.75,Marginal Security,0
+1158,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,1800000,Pay school or education expenses,0,,1.75,Marginal Security,0
+1159,cundinamarca,sopo,25758,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+1160,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,3,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.75,Marginal Security,0
+1161,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.25,Marginal Security,0
+1162,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2880000,0,,,0,,2.0,Marginal Security,0
+1163,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1200000,1,1450000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1164,cundinamarca,suesca,25772,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,1100000,0,,,0,,1.5,Marginal Security,0
+1468,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+1469,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1000000,Buy food,0,,3.25,Moderate Insecurity,1
+1470,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,960000,0,,,0,,2.25,Marginal Security,0
+1471,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,960000,0,,,0,,2.25,Marginal Security,0
+1472,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,0,,,0,,3.25,Moderate Insecurity,1
+1473,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Pension,2250000,0,,,1,500000,1.75,Marginal Security,0
+1474,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,2.0,Marginal Security,0
+1475,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,8000000,1,150000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.0,Secure,0
+1476,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,700000,ns_nr__strong_e__no_leer__strong_,0,,1.0,Secure,0
+1477,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,0,,1.0,Secure,0
+1478,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+1479,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+1480,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1300000,1,133000,Other,0,,1.5,Marginal Security,0
+1481,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,47000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1482,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4500000,1,17000000,Pay rent or house rent,1,2400000,1.75,Marginal Security,0
+1702,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1703,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,12000000,Other,0,,2.75,Moderate Insecurity,1
+1704,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1120000,1,6000000,Other,0,,3.25,Moderate Insecurity,1
+1705,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,1,500000,2.5,Moderate Insecurity,1
+1706,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,2.25,Marginal Security,0
+1707,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,525000,1,25000000,Other,0,,3.5,Severe Insecurity,1
+1708,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1709,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+1710,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1200000,0,,,1,1500000,1.5,Marginal Security,0
+1711,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+1712,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,13000000,Pay rent or house rent,0,,1.25,Secure,0
+1713,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,480000,1,8500000,Other,0,,2.25,Marginal Security,0
+1714,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,3000000,1.0,Secure,0
+1715,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5200000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+1716,cundinamarca,soacha,25754,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,1,10000000,1.0,Secure,0
+1717,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,10000000,0,,,1,6000000,1.5,Marginal Security,0
+2136,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,0,,2.25,Marginal Security,0
+2137,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.25,Secure,0
+2138,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,1,1200000,Other,1,600000,1.5,Marginal Security,0
+2139,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,8600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2140,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,2500000,1,360000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2141,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4000000,0,,,0,,1.0,Secure,0
+2142,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,1,1300000,Other,1,1000000,1.75,Marginal Security,0
+2143,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,3000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+2144,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4000000,0,,,0,,1.0,Secure,0
+2145,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1100000,1,2000000,Pay school or education expenses,0,,3.0,Moderate Insecurity,1
+2146,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2500000,1,400000,Other,0,,3.0,Moderate Insecurity,1
+2147,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,1,99,2.0,Marginal Security,0
+2148,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2080000,0,,,0,,1.75,Marginal Security,0
+2149,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,960000,0,,,0,,2.5,Moderate Insecurity,1
+2150,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1720000,0,,,0,,2.0,Marginal Security,0
+2151,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.5,Marginal Security,0
+2152,cundinamarca,funza,25286,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,0,0,,,0,,2.0,Marginal Security,0
+2153,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,60000000,Other,0,,1.75,Marginal Security,0
+2154,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.25,Marginal Security,0
+2155,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+2156,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+2157,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,200000,2.25,Marginal Security,0
+2158,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+2159,cundinamarca,gacheta,25297,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,570000,0,,,0,,2.25,Marginal Security,0
+2160,cundinamarca,sesquile,25736,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,3000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+2161,cundinamarca,sesquile,25736,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,1,13000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+2162,cundinamarca,sesquile,25736,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,800000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+2163,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,100000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2164,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,4800000,0,,,1,1200000,1.25,Secure,0
+2165,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,4000000,Cover health expenses,0,,2.0,Marginal Security,0
+2166,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,2000000,1.5,Marginal Security,0
+2167,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,3,Pension,2500000,0,,,0,,1.75,Marginal Security,0
+2168,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2169,cundinamarca,sopo,25758,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,2000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+2170,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.5,Moderate Insecurity,1
+2171,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Work,720000,1,800000,Other,0,,3.0,Moderate Insecurity,1
+2172,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,960000,0,,,0,,1.0,Secure,0
+2173,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+2174,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2175,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,2000000,Buy productive inputs,0,,1.75,Marginal Security,0
+2176,cundinamarca,suesca,25772,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,0,,2.75,Moderate Insecurity,1
+2646,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1200000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+2647,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1200000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+2648,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,1.75,Marginal Security,0
+2649,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,2.75,Moderate Insecurity,1
+2650,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,7000000,Other,0,,3.0,Moderate Insecurity,1
+2651,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2652,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1155000,0,,,0,,1.75,Marginal Security,0
+2653,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1155000,0,,,0,,1.75,Marginal Security,0
+2654,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1155000,0,,,0,,1.75,Marginal Security,0
+2655,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+2656,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2657,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,1,30000000,Other,0,,1.75,Marginal Security,0
+2658,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000000,1,4000000,Cover health expenses,0,,1.75,Marginal Security,0
+2659,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Pension,1500000,0,,,0,,1.5,Marginal Security,0
+2660,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2661,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,3000000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2662,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2200000,0,,,0,,2.25,Marginal Security,0
+2663,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1260000,0,,,0,,2.25,Marginal Security,0
+2664,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,48000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2995,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,650000,1,2500000,Buy food,0,,2.25,Marginal Security,0
+2996,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1600000,1,600000,Cover health expenses,0,,2.25,Marginal Security,0
+2997,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2400000,0,,,1,3000000,1.75,Marginal Security,0
+2998,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+2999,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,2.25,Marginal Security,0
+3000,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1500000,0,,,0,,1.5,Marginal Security,0
+3001,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+3002,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.5,Marginal Security,0
+3003,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,1000000,Buy productive inputs,0,,1.75,Marginal Security,0
+3004,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,16000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3005,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+3006,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,700000,Buy food,0,,2.5,Moderate Insecurity,1
+3007,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+3008,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,99,Other,0,,1.5,Marginal Security,0
+3009,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,1.25,Secure,0
+3010,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1100000,Other,0,,2.25,Marginal Security,0
+3011,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,14000000,Other,1,400000,1.25,Secure,0
+3012,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,1,134000000,Pay rent or house rent,1,450000,1.5,Marginal Security,0
+3013,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,10000000,Other,0,,2.75,Moderate Insecurity,1
+3014,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,4000000,1,2000000,Other,1,99,1.25,Secure,0
+3015,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,700000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+3016,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3017,cundinamarca,soacha,25754,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,500000,Pay rent or house rent,1,400000,1.5,Marginal Security,0
+3818,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,100000000,Other,0,,2.0,Marginal Security,0
+3819,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,0,,,0,,1.0,Secure,0
+3820,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1500000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3821,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,3000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+3822,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,950000,1,470000,Buy productive inputs,0,,2.25,Marginal Security,0
+3823,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,3.25,Moderate Insecurity,1
+3824,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,3000000,ns_nr__strong_e__no_leer__strong_,0,,2.0,Marginal Security,0
+3825,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3826,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension, ,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+3827,cundinamarca,funza,25286,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,4,Work,4000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,2.0,Marginal Security,0
+3828,cundinamarca,gacheta,25297,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,500000,2.25,Marginal Security,0
+3829,cundinamarca,gacheta,25297,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3830,cundinamarca,gacheta,25297,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.0,Secure,0
+3831,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+3832,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1150000,0,,,0,,2.0,Marginal Security,0
+3833,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,Buy food,0,,2.0,Marginal Security,0
+3834,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,120000,Cover health expenses,0,,3.75,Severe Insecurity,1
+3835,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3836,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,0,,1.5,Marginal Security,0
+3837,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,20000000,1,49000000,Cover health expenses,0,,1.0,Secure,0
+3838,cundinamarca,sesquile,25736,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,1.5,Marginal Security,0
+3839,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5000000,0,,,1,1600000,1.0,Secure,0
+3840,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,250000,0,,,0,,2.0,Marginal Security,0
+3841,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,0,,1.5,Marginal Security,0
+3842,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,12000000,Cover health expenses,0,,2.0,Marginal Security,0
+3843,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.0,Marginal Security,0
+3844,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,2500000,1,90000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3845,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,800000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3846,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,500000,0,,,1,400000,2.75,Moderate Insecurity,1
+3847,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+3848,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3849,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,1,700000,Buy food,0,,3.25,Moderate Insecurity,1
+3850,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,1000000,1,6400000,Pay rent or house rent,0,,1.0,Secure,0
+3851,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+3852,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3853,cundinamarca,sopo,25758,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+3854,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,15000000,Other,0,,1.5,Marginal Security,0
+3855,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3856,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3857,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1800000,0,,,0,,1.5,Marginal Security,0
+3858,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,250000,0,,,0,,1.0,Secure,0
+3859,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,800000,1,6000000,Pay rent or house rent,0,,2.75,Moderate Insecurity,1
+3860,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1450000,1,340000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3861,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.25,Marginal Security,0
+3862,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.25,Secure,0
+3863,cundinamarca,suesca,25772,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4572,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,150000,0,,,0,,1.75,Marginal Security,0
+4573,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.0,Marginal Security,0
+4574,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,800000,Other,0,,2.75,Moderate Insecurity,1
+4575,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+4576,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+4577,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+4578,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1250000,1,500000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+4579,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Government assistance,130000,0,,,0,,2.5,Moderate Insecurity,1
+4580,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+4581,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,2,Work,1800000,1,7000000,Buy food,1,700000,1.5,Marginal Security,0
+4582,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,43000000,Other,0,,1.5,Marginal Security,0
+4941,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,11000000,Buy food,0,,2.5,Moderate Insecurity,1
+4942,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3500000,1,23000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,6000000,1.75,Marginal Security,0
+4943,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,100000,0,,,0,,3.75,Severe Insecurity,1
+4944,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+4945,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.5,Marginal Security,0
+4946,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1030000,1,500000,Pay school or education expenses,0,,2.0,Marginal Security,0
+4947,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,0,,,0,,2.25,Marginal Security,0
+4948,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.5,Marginal Security,0
+4949,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+4950,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4951,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1000000,1,500000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+4952,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+4953,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4954,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,1,200000,1.75,Marginal Security,0
+4955,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work, ,1,3000000,"Buy clothes, shoes",1,99,1.5,Marginal Security,0
+4956,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2800000,1,10000000,Other,1,500000,1.25,Secure,0
+4957,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,35000000,Other,0,,2.5,Moderate Insecurity,1
+4958,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,0,,,1,240000,1.75,Marginal Security,0
+4959,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1200000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,350000,1.75,Marginal Security,0
+4960,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,253000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4961,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,450000,Pay rent or house rent,0,,2.25,Marginal Security,0
+4962,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1050000,1,3000000,Other,0,,1.5,Marginal Security,0
+4963,cundinamarca,soacha,25754,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,150000,1.75,Marginal Security,0
+4964,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,960000,0,,,0,,2.25,Marginal Security,0
+4965,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,150000,2.5,Moderate Insecurity,1
+5709,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5710,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+5711,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+5712,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+5713,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5714,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3200000,0,,,1,600000,1.75,Marginal Security,0
+5715,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,3300000,Other,0,,1.25,Secure,0
+5716,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+5717,cundinamarca,funza,25286,3,,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+5718,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,4000000,Other,0,,1.75,Marginal Security,0
+5719,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,99,"Buy clothes, shoes",0,,2.75,Moderate Insecurity,1
+5720,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,2.75,Moderate Insecurity,1
+5721,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1175000,0,,,0,,1.0,Secure,0
+5722,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1400000,0,,,0,,1.0,Secure,0
+5723,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.75,Marginal Security,0
+5724,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+5725,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.75,Severe Insecurity,1
+5726,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1150000,1,8000000,Other,1,600000,1.5,Marginal Security,0
+5727,cundinamarca,funza,25286,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.0,Moderate Insecurity,1
+5728,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,530000,0,,,1,20000,2.25,Marginal Security,0
+5729,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,1500000,1.0,Secure,0
+5730,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+5731,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,60000000,Other,0,,2.0,Marginal Security,0
+5732,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,840000,1,3000000,Other,0,,1.25,Secure,0
+5733,cundinamarca,gacheta,25297,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+5734,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,2.25,Marginal Security,0
+5735,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+5736,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5737,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.0,Secure,0
+5738,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,0,,1.5,Marginal Security,0
+5739,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,1000000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5740,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,2000000,Other,0,,2.0,Marginal Security,0
+5741,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,80000,2.0,Marginal Security,0
+5742,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+5743,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,400000,1,9000000,Pay school or education expenses,0,,3.0,Moderate Insecurity,1
+5744,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,740000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5745,cundinamarca,sesquile,25736,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,1850000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+5746,cundinamarca,sopo,25758,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.0,Secure,0
+5747,cundinamarca,sopo,25758,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+5748,cundinamarca,sopo,25758,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,11000000,Pay school or education expenses,0,,1.0,Secure,0
+5749,cundinamarca,sopo,25758,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,2.5,Moderate Insecurity,1
+5750,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,70000,Other,0,,3.0,Moderate Insecurity,1
+5751,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+5752,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1700000,0,,,0,,1.75,Marginal Security,0
+5753,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,450000,0,,,0,,2.5,Moderate Insecurity,1
+5754,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,960000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5755,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5756,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,960000,0,,,0,,1.25,Secure,0
+5757,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",200000,1,20000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+5758,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.5,Marginal Security,0
+5759,cundinamarca,suesca,25772,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+6435,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6436,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6437,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6438,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+6439,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,1,7000000,Other,0,,2.5,Moderate Insecurity,1
+6440,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,1000000,"Cover basic services (water, electricity)",0,,3.75,Severe Insecurity,1
+6441,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,80000,0,,,0,,3.0,Moderate Insecurity,1
+6442,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,2.5,Moderate Insecurity,1
+6443,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,1,255000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+6444,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,80000,0,,,0,,2.0,Marginal Security,0
+6445,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,120000000,Buy food,1,40000000,1.75,Marginal Security,0
+6446,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,1,200000,1.5,Marginal Security,0
+6447,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,600000,0,,,0,,2.5,Moderate Insecurity,1
+6448,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+6449,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.0,Secure,0
+6450,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,1.0,Secure,0
+6451,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,1,50000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+6452,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,1,687000,Other,0,,2.25,Marginal Security,0
+6723,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,0,,,0,,1.5,Marginal Security,0
+6724,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,1500000,Buy productive inputs,0,,1.0,Secure,0
+6725,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,1,300000,2.0,Marginal Security,0
+6726,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1230000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6727,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,550000,0,,,0,,1.75,Marginal Security,0
+6728,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,0,,,0,,1.5,Marginal Security,0
+6729,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",550000,1,1000000,Cover health expenses,1,150000,2.0,Marginal Security,0
+6730,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,400000,Other,0,,2.0,Marginal Security,0
+6731,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,15000000,Pay rent or house rent,0,,2.0,Marginal Security,0
+6732,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,12000000,1,950000,Other,0,,1.75,Marginal Security,0
+6733,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.5,Marginal Security,0
+6734,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",4000000,1,700000,Other,1,7000000,1.75,Marginal Security,0
+6735,cundinamarca,soacha,25754,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+7359,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+7360,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,31000000,Buy food,0,,2.75,Moderate Insecurity,1
+7361,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,1500000,1.0,Secure,0
+7362,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1700000,0,,,1,3000000,1.0,Secure,0
+7363,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7364,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,6000000,Other,0,,1.75,Marginal Security,0
+7365,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7366,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,0,,,0,,2.75,Moderate Insecurity,1
+7367,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1220000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+7368,cundinamarca,funza,25286,2,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,1,1,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+7369,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,1.0,Secure,0
+7370,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,6000000,Other,0,,2.0,Marginal Security,0
+7371,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,16000000,Other,0,,3.0,Moderate Insecurity,1
+7372,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+7373,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,4500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7374,cundinamarca,funza,25286,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+7375,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.0,Secure,0
+7376,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,0,1,120000,Cover health expenses,0,,3.5,Severe Insecurity,1
+7377,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,1.0,Secure,0
+7378,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3500000,Other,0,,3.5,Severe Insecurity,1
+7379,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,1.75,Marginal Security,0
+7380,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,0,,,1,500000,1.0,Secure,0
+7381,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,480000,1,600000,Other,0,,1.75,Marginal Security,0
+7382,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,0,,,0,,2.0,Marginal Security,0
+7383,cundinamarca,gacheta,25297,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,200000,1.0,Secure,0
+7384,cundinamarca,sesquile,25736,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+7385,cundinamarca,sesquile,25736,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.5,Marginal Security,0
+7386,cundinamarca,sesquile,25736,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,0,,1.0,Secure,0
+7387,cundinamarca,sopo,25758,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,1800000,0,,,1,400000,2.0,Marginal Security,0
+7388,cundinamarca,sopo,25758,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,"Cover basic services (water, electricity)",1,1500000,1.75,Marginal Security,0
+7389,cundinamarca,sopo,25758,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,ns_nr,,,1,1900000,1.0,Secure,0
+7390,cundinamarca,sopo,25758,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.5,Marginal Security,0
+7391,cundinamarca,sopo,25758,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,1903000,Buy food,1,600000,1.25,Secure,0
+7392,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,220000,Other,0,,1.75,Marginal Security,0
+7393,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,600000,0,,,0,,1.75,Marginal Security,0
+7394,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7395,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.25,Secure,0
+7396,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+7397,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,2000000,Other,1,120000,1.0,Secure,0
+7398,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,1500000,Cover health expenses,0,,1.0,Secure,0
+7399,cundinamarca,suesca,25772,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,0,,,0,,1.0,Secure,0
+7901,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,0,1,1500000,Other,0,,2.0,Marginal Security,0
+7902,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.25,Marginal Security,0
+7903,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7904,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,160000,1,1800000,Other,0,,3.25,Moderate Insecurity,1
+7905,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,940000,0,,,0,,2.25,Marginal Security,0
+7906,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+8051,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8052,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,0,,1.0,Secure,0
+8053,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1840000,0,,,1,3000000,1.0,Secure,0
+8054,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,200000,1,250000,Other,0,,2.0,Marginal Security,0
+8055,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,1000000,Other,0,,2.25,Marginal Security,0
+8056,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",600000,0,,,0,,1.5,Marginal Security,0
+8057,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+8058,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,500000,"Buy clothes, shoes",0,,1.25,Secure,0
+8059,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+8060,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.5,Marginal Security,0
+8061,cundinamarca,soacha,25754,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,960000,0,,,1,150000,3.25,Moderate Insecurity,1
+8330,cundinamarca,funza,25286,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,300000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+8331,cundinamarca,funza,25286,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,1.75,Marginal Security,0
+8332,cundinamarca,funza,25286,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+8333,cundinamarca,funza,25286,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,0,,1.0,Secure,0
+8334,cundinamarca,gacheta,25297,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,230000,1,16000000,Buy food,0,,2.75,Moderate Insecurity,1
+8335,cundinamarca,gacheta,25297,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,1.0,Secure,0
+8336,cundinamarca,gacheta,25297,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+8337,cundinamarca,sesquile,25736,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,900000,0,,,0,,1.5,Marginal Security,0
+8338,cundinamarca,sesquile,25736,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+8339,cundinamarca,sesquile,25736,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,1200000,1,21000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+8340,cundinamarca,sopo,25758,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,"Other (income, chance, inheritance...)", ,0,,,0,,2.5,Moderate Insecurity,1
+8341,cundinamarca,sopo,25758,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.75,Moderate Insecurity,1
+8342,cundinamarca,sopo,25758,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+8343,cundinamarca,sopo,25758,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+8344,cundinamarca,sopo,25758,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,0,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,400000,1.75,Marginal Security,0
+8345,cundinamarca,suesca,25772,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,1.75,Marginal Security,0
+8346,cundinamarca,suesca,25772,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,200000,1.0,Secure,0
+8347,cundinamarca,suesca,25772,1,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,960000,0,,,0,,1.75,Marginal Security,0

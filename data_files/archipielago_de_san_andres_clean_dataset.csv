@@ -1,0 +1,205 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+174,archipielago_de_san_andres,san_andres,88001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+175,archipielago_de_san_andres,san_andres,88001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3900000,0,,,0,,1.0,Secure,0
+176,archipielago_de_san_andres,san_andres,88001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,7000000,0,,,1,500000,1.0,Secure,0
+366,archipielago_de_san_andres,san_andres,88001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,7000000,1,35000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+367,archipielago_de_san_andres,san_andres,88001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2360000,0,,,0,,2.25,Marginal Security,0
+368,archipielago_de_san_andres,san_andres,88001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,3,Work,2600000,1,130000,Other,0,,2.25,Marginal Security,0
+369,archipielago_de_san_andres,san_andres,88001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,5000000,Buy productive inputs,0,,2.0,Marginal Security,0
+674,archipielago_de_san_andres,san_andres,88001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,350000,Buy food,0,,2.25,Marginal Security,0
+675,archipielago_de_san_andres,san_andres,88001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,5560000,0,,,1,2000000,1.75,Marginal Security,0
+676,archipielago_de_san_andres,san_andres,88001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+677,archipielago_de_san_andres,san_andres,88001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2800000,0,,,1,1000000,1.25,Secure,0
+678,archipielago_de_san_andres,san_andres,88001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,7000000,Other,0,,1.75,Marginal Security,0
+1313,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3400000,1,99,Other,1,300000,1.0,Secure,0
+1314,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+1315,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,1,1400000,Buy productive inputs,0,,1.5,Marginal Security,0
+1316,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3000000,1,15000000,Other,0,,1.75,Marginal Security,0
+1317,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,0,,2.25,Marginal Security,0
+1318,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,1,8000000,Cover health expenses,0,,1.25,Secure,0
+1319,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,5600000,1,3600000,Pay school or education expenses,0,,1.75,Marginal Security,0
+1320,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Work,9000000,0,,,0,,1.0,Secure,0
+1321,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+1322,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,5,Work,6700000,1,10000000,Other,1,2000000,1.75,Marginal Security,0
+1323,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,0,,,1,500000,2.5,Moderate Insecurity,1
+1324,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,12000000,Other,0,,2.5,Moderate Insecurity,1
+1325,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+1326,archipielago_de_san_andres,san_andres,88001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5860000,0,,,0,,1.5,Marginal Security,0
+2445,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,4810000,0,,,1,1800000,2.0,Marginal Security,0
+2446,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,3,Work,2500000,1,9000000,Other,1,100000,1.75,Marginal Security,0
+2447,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2600000,1,99,Other,1,99,1.75,Marginal Security,0
+2448,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,800000,Pay school or education expenses,0,,2.0,Marginal Security,0
+2449,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,11000000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2450,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.0,Secure,0
+2451,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,1620000,1,3788000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+2452,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1700000,1,15000000,Cover health expenses,0,,1.25,Secure,0
+2453,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,6190000,1,5000000,Other,0,,1.0,Secure,0
+2454,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,1,100000000,Other,0,,2.0,Marginal Security,0
+2455,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1200000,1,700000,Buy food,0,,1.75,Marginal Security,0
+2456,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,2600000,Pay school or education expenses,0,,2.0,Marginal Security,0
+2457,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,4000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+2458,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,6000000,1,145000000,Cover health expenses,0,,1.5,Marginal Security,0
+2459,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.75,Marginal Security,0
+2460,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,16000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+2461,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,8000000,1,10000000,Other,1,4000000,1.0,Secure,0
+2462,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,1,2000000,1.0,Secure,0
+2463,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,0,,2.75,Moderate Insecurity,1
+2464,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,600000,2.0,Marginal Security,0
+2465,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,1000000,1.0,Secure,0
+2466,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,1,200000,2.0,Marginal Security,0
+2467,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2700000,1.75,Marginal Security,0
+2468,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,1,0.0,0,0,0,1,Work,4530000,0,,,0,,1.0,Secure,0
+2469,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,1000000,Cover health expenses,0,,1.75,Marginal Security,0
+2470,archipielago_de_san_andres,san_andres,88001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,5000000,0,,,1,500000,1.25,Secure,0
+4306,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,900000,0,,,1,1000000,1.5,Marginal Security,0
+4307,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.75,Moderate Insecurity,1
+4308,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2550000,0,,,0,,1.75,Marginal Security,0
+4309,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,2000000,pay trips,0,,2.5,Moderate Insecurity,1
+4310,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4620000,0,,,1,400000,1.5,Marginal Security,0
+4311,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4312,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,3500000,0,,,1,5000000,1.0,Secure,0
+4313,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,4000000,0,,,1,99,1.0,Secure,0
+4314,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,7000000,0,,,0,,1.0,Secure,0
+4315,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,500000,1.0,Secure,0
+4316,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+4317,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4318,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,2600000,0,,,0,,2.0,Marginal Security,0
+4319,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4320,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,0,,2.25,Marginal Security,0
+4321,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3850000,0,,,0,,1.5,Marginal Security,0
+4322,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,600000,Other,0,,2.0,Marginal Security,0
+4323,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,35000000,Buy food,0,,1.75,Marginal Security,0
+4324,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1037000,1,120000,Cover health expenses,0,,1.75,Marginal Security,0
+4325,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2700000,1,45000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4326,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,ns_nr,,,0,,2.25,Marginal Security,0
+4327,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,4000000,"Cover basic services (water, electricity)",1,3000000,1.75,Marginal Security,0
+4328,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,1,1149700,ns_nr__strong_e__no_leer__strong_,0,,1.75,Marginal Security,0
+4329,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2500000,1,62000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4330,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,13000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.0,Secure,0
+4331,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1420000,0,,,0,,2.0,Marginal Security,0
+4332,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5600000,0,,,1,1500000,1.0,Secure,0
+4333,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,1,1000000,Other,0,,2.5,Moderate Insecurity,1
+4334,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+4335,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,99,Other,1,99,1.0,Secure,0
+4336,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2600000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1800000,1.0,Secure,0
+4337,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2800000,0,,,0,,1.5,Marginal Security,0
+4338,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,128000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,1.5,Marginal Security,0
+4339,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,2.0,Marginal Security,0
+4340,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1800000,1,17000000,Other,0,,1.75,Marginal Security,0
+4341,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1600000,ns_nr,,,0,,2.5,Moderate Insecurity,1
+4342,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1600000,1,2500000,Other,0,,2.5,Moderate Insecurity,1
+4343,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,7000000,0,,,1,15000000,1.5,Marginal Security,0
+4344,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1850000,1,12000000,Other,0,,2.0,Marginal Security,0
+4345,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3500000,0,,,0,,1.0,Secure,0
+4346,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+4347,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2070000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4348,archipielago_de_san_andres,san_andres,88001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,2000000,0,,,0,,2.75,Moderate Insecurity,1
+6159,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+6160,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,99,ns_nr__strong_e__no_leer__strong_,0,,1.0,Secure,0
+6161,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+6162,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2900000,0,,,1,2500000,1.0,Secure,0
+6163,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,25000000,Other,0,,2.0,Marginal Security,0
+6164,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,2.0,Marginal Security,0
+6165,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,6200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6166,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1200000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6167,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.75,Marginal Security,0
+6168,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Pension,1500000,0,,,0,,1.0,Secure,0
+6169,archipielago_de_san_andres,san_andres,88001,3,1.0,0,0,0,0,0,0,1,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1700000,1,540000,Buy food,0,,2.0,Marginal Security,0
+6170,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,0,0,,,0,,1.5,Marginal Security,0
+6171,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,600000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+6172,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1000000,1,20000000,Buy productive inputs,0,,2.25,Marginal Security,0
+6173,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,1,25000000,Other,0,,1.5,Marginal Security,0
+6174,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4500000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,1.0,Secure,0
+6175,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,4000000,0,,,0,,2.5,Moderate Insecurity,1
+6176,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,6000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,1.25,Secure,0
+6177,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.25,Marginal Security,0
+6178,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1410000,0,,,1,300000,2.0,Marginal Security,0
+6179,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6180,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.75,Marginal Security,0
+6181,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Work,900000,1,20000000,Other,0,,1.75,Marginal Security,0
+6182,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,1,2000000,1.0,Secure,0
+6183,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,300000,1.75,Marginal Security,0
+6184,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,0,,,0,,1.0,Secure,0
+6185,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,0,,1.0,Secure,0
+6186,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+6187,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,0,,1.25,Secure,0
+6188,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3500000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.75,Marginal Security,0
+6189,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,1.0,Secure,0
+6190,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,70000000,Other,0,,1.0,Secure,0
+6191,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2580000,0,,,1,150000,1.0,Secure,0
+6192,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,2000000,Other,0,,1.75,Marginal Security,0
+6193,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6194,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+6195,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,0,,,0,,1.5,Marginal Security,0
+6196,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1700000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6197,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3800000,0,,,0,,1.5,Marginal Security,0
+6198,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,1500000,2.25,Marginal Security,0
+6199,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,0,,,0,,1.0,Secure,0
+6200,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2900000,ns_nr,,,0,,1.0,Secure,0
+6201,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,0,,,1,500000,1.0,Secure,0
+6202,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,7000000,1,40000000,Other,0,,1.0,Secure,0
+6203,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,800000,1.0,Secure,0
+6204,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3500000,1,4000000,Other,0,,1.0,Secure,0
+6205,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,1,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.25,Secure,0
+6206,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,22000000,Other,1,2000000,1.0,Secure,0
+6207,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,9000000,0,,,1,2000000,1.0,Secure,0
+6208,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,4500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6209,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+6210,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,1,12000000,Other,0,,1.5,Marginal Security,0
+6211,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2200000,1,10000000,Other,0,,1.5,Marginal Security,0
+6212,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2700000,0,,,1,100000,1.75,Marginal Security,0
+6213,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3200000,0,,,1,2000000,1.0,Secure,0
+6214,archipielago_de_san_andres,san_andres,88001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,30000000,Other,0,,2.25,Marginal Security,0
+7716,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+7717,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1180000,0,,,0,,2.0,Marginal Security,0
+7718,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,20000000,Other,0,,1.0,Secure,0
+7719,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7720,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,1500000,1.25,Secure,0
+7721,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Pension,1640000,0,,,0,,2.0,Marginal Security,0
+7722,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,600000,1.75,Marginal Security,0
+7723,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,0,,,0,,1.25,Secure,0
+7724,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,4000000,1,15000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+7725,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,3600000,0,,,0,,1.0,Secure,0
+7726,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1600000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7727,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1500000,0,,,0,,1.25,Secure,0
+7728,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2650000,1,11200000,Other,0,,1.75,Marginal Security,0
+7729,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,20000000,Pay school or education expenses,1,50000000,1.0,Secure,0
+7730,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1300000,0,,,1,300000,1.0,Secure,0
+7731,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,ns_nr,,,0,,1.0,Secure,0
+7732,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,7000000,Pay rent or house rent,0,,2.0,Marginal Security,0
+7733,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7734,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1200000,1,10000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+7735,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,7000000,1,87000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7736,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2400000,1,17000000,Cover health expenses,0,,1.75,Marginal Security,0
+7737,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,ns_nr,,,1,2800000,1.0,Secure,0
+7738,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,0,,,1,2000000,1.5,Marginal Security,0
+7739,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+7740,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,3500000,"Cover basic services (water, electricity)",0,,1.25,Secure,0
+7741,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",3000000,0,,,1,10000000,1.0,Secure,0
+7742,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,14000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+7743,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7744,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,14000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7745,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,0,,,1,600000,1.5,Marginal Security,0
+7746,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,1,20000000,Other,0,,2.25,Marginal Security,0
+7747,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,1,13000000,Pay school or education expenses,1,4000000,1.5,Marginal Security,0
+7748,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",2500000,1,20000000,Cover health expenses,0,,1.0,Secure,0
+7749,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.5,Marginal Security,0
+7750,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,0,,,0,,1.75,Marginal Security,0
+7751,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,10000000,Other,0,,1.5,Marginal Security,0
+7752,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,3000000,1.75,Marginal Security,0
+7753,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",960000,0,,,0,,2.25,Marginal Security,0
+7754,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1000000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+7755,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.0,Marginal Security,0
+7756,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2600000,1,64000000,Other,0,,1.75,Marginal Security,0
+7757,archipielago_de_san_andres,san_andres,88001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2800000,1,20000000,Other,0,,1.0,Secure,0
+8479,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+8480,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1150000,0,,,1,1000000,1.75,Marginal Security,0
+8481,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1197000,0,,,1,2000000,1.5,Marginal Security,0
+8482,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,8000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+8483,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,950000,0,,,0,,1.75,Marginal Security,0
+8484,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+8485,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1100000,0,,,0,,1.5,Marginal Security,0
+8486,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1700000,1,25000000,"Buy clothes, shoes",0,,1.0,Secure,0
+8487,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+8488,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,19000000,Other,0,,1.75,Marginal Security,0
+8489,archipielago_de_san_andres,san_andres,88001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,1,100000,1.0,Secure,0

@@ -1,0 +1,220 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+126,choco,quibdo,27001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,1.0,0,0,1,4,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+127,choco,quibdo,27001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,4.0,Severe Insecurity,1
+128,choco,quibdo,27001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,4.0,Severe Insecurity,1
+259,choco,quibdo,27001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,2000000,Other,0,,3.0,Moderate Insecurity,1
+260,choco,quibdo,27001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+261,choco,quibdo,27001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+419,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,1.75,Marginal Security,0
+420,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,1.75,Marginal Security,0
+421,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,1.75,Marginal Security,0
+479,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,2000000,Other,0,,3.0,Moderate Insecurity,1
+480,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,3480000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+481,choco,istmina,27361,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",450000,1,500000,Buy food,0,,2.25,Marginal Security,0
+482,choco,quibdo,27001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,600000,Other,1,145000,3.5,Severe Insecurity,1
+624,choco,medio_atrato,27425,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,19000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+785,choco,istmina,27361,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,0,,3.5,Severe Insecurity,1
+786,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+787,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+788,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+789,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+790,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,100000,1,200000,Buy food,0,,3.0,Moderate Insecurity,1
+791,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,100000,1,200000,Buy food,0,,3.0,Moderate Insecurity,1
+792,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,100000,1,200000,Buy food,0,,3.0,Moderate Insecurity,1
+793,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,1,150000,3.0,Moderate Insecurity,1
+794,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,220000,0,,,1,95000,2.75,Moderate Insecurity,1
+933,choco,istmina,27361,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,0,,,0,,2.25,Marginal Security,0
+934,choco,istmina,27361,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,1,1600000,Buy food,0,,3.0,Moderate Insecurity,1
+935,choco,istmina,27361,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",200000,1,500000,Buy food,0,,2.5,Moderate Insecurity,1
+936,choco,istmina,27361,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,600000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+937,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+938,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+939,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+940,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,250000,1,140000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+941,choco,quibdo,27001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2500000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1189,choco,medio_atrato,27425,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,100000,0,,,0,,3.0,Moderate Insecurity,1
+1190,choco,medio_atrato,27425,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1191,choco,riosucio,27615,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+1192,choco,riosucio,27615,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1483,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.5,Marginal Security,0
+1484,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,100000,1,400000,Buy food,0,,3.0,Moderate Insecurity,1
+1485,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+1486,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,350000,Other,0,,3.0,Moderate Insecurity,1
+1718,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,350000,0,,,0,,3.25,Moderate Insecurity,1
+1719,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work, ,0,,,0,,2.75,Moderate Insecurity,1
+1720,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work, ,0,,,0,,2.75,Moderate Insecurity,1
+1721,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+1722,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,Buy food,0,,2.75,Moderate Insecurity,1
+1723,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",4000000,0,,,1,300000,1.75,Marginal Security,0
+1724,choco,istmina,27361,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1725,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.5,Marginal Security,0
+1726,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+1727,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,300000,Other,0,,3.25,Moderate Insecurity,1
+1728,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+1729,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,250000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1730,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,1,99,Other,0,,2.5,Moderate Insecurity,1
+1731,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,1.0,0,1,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+1732,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,1.0,0,1,0,1,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+1733,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2800000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1734,choco,quibdo,27001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,800000,ns_nr__strong_e__no_leer__strong_,1,600000,1.75,Marginal Security,0
+2226,choco,medio_atrato,27425,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",0,0,,,0,,4.0,Severe Insecurity,1
+2227,choco,medio_atrato,27425,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,580000,0,,,0,,3.0,Moderate Insecurity,1
+2228,choco,medio_atrato,27425,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,230000,Buy food,0,,3.0,Moderate Insecurity,1
+2229,choco,medio_atrato,27425,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,3000000,Buy food,0,,3.0,Moderate Insecurity,1
+2230,choco,medio_atrato,27425,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+2231,choco,riosucio,27615,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+2232,choco,riosucio,27615,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.25,Marginal Security,0
+2233,choco,riosucio,27615,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,0,,,0,,1.75,Marginal Security,0
+2665,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+2666,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,100000,0,,,0,,2.0,Marginal Security,0
+2667,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2100000,0,,,0,,1.25,Secure,0
+2668,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+2669,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.5,Marginal Security,0
+2670,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,1.75,Marginal Security,0
+3018,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,3.5,Severe Insecurity,1
+3019,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,200000000,Buy food,0,,2.25,Marginal Security,0
+3020,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,0,,2.25,Marginal Security,0
+3021,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,2.25,Marginal Security,0
+3022,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,0,,,1,600000,3.0,Moderate Insecurity,1
+3023,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,1,300000,1.5,Marginal Security,0
+3024,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+3025,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+3026,choco,istmina,27361,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,1.75,Marginal Security,0
+3027,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+3028,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+3029,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,1000000,Other,0,,2.25,Marginal Security,0
+3030,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3031,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,6000000,"Cover basic services (water, electricity)",0,,3.5,Severe Insecurity,1
+3032,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,3.0,Moderate Insecurity,1
+3033,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,3.5,Severe Insecurity,1
+3034,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,2000000,Buy food,0,,3.0,Moderate Insecurity,1
+3035,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,600000,Other,0,,2.75,Moderate Insecurity,1
+3036,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,250000,Other,0,,3.0,Moderate Insecurity,1
+3037,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,1,325000,Other,0,,2.75,Moderate Insecurity,1
+3038,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1500000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3039,choco,quibdo,27001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,2000000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,400000,1.0,Secure,0
+3964,choco,medio_atrato,27425,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+3965,choco,medio_atrato,27425,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+3966,choco,medio_atrato,27425,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,2000000,Buy food,0,,3.75,Severe Insecurity,1
+3967,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+3968,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,180000,Buy food,0,,2.0,Marginal Security,0
+3969,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,7000000,Other,0,,1.75,Marginal Security,0
+3970,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",400000,0,,,0,,2.75,Moderate Insecurity,1
+3971,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,3000000,Other,1,500000,2.5,Moderate Insecurity,1
+3972,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,4700000,"Buy clothes, shoes",0,,2.0,Marginal Security,0
+3973,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,650000,1,400000,Buy food,0,,2.75,Moderate Insecurity,1
+3974,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,150000,"Buy clothes, shoes",1,100000,2.75,Moderate Insecurity,1
+3975,choco,riosucio,27615,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+4583,choco,istmina,27361,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1030000,0,,,1,50000,1.75,Marginal Security,0
+4584,choco,istmina,27361,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,3000000,Buy productive inputs,0,,2.25,Marginal Security,0
+4585,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,400000,0,,,1,100000,2.75,Moderate Insecurity,1
+4586,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Assistance from United Nations / NGOs / charitable organizations,200000,1,150000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+4587,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,500000,1.0,Secure,0
+4588,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+4589,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.0,Secure,0
+4590,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,0,,,0,,2.25,Marginal Security,0
+4966,choco,istmina,27361,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,2.25,Marginal Security,0
+4967,choco,istmina,27361,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+4968,choco,istmina,27361,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4969,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+4970,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Pension,420000,0,,,0,,1.75,Marginal Security,0
+4971,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1500000,0,,,1,12000000,2.0,Marginal Security,0
+4972,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",750000,0,,,0,,2.75,Moderate Insecurity,1
+4973,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,1,230000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4974,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1100000,1,800000,Cover health expenses,0,,2.25,Marginal Security,0
+4975,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,2.75,Moderate Insecurity,1
+4976,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,1,300000,2.5,Moderate Insecurity,1
+4977,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,1000000,Cover health expenses,0,,3.5,Severe Insecurity,1
+4978,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,1,400000,Other,0,,2.25,Marginal Security,0
+4979,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,4.0,Severe Insecurity,1
+4980,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,4.0,Severe Insecurity,1
+4981,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1420000,0,,,1,99,2.25,Marginal Security,0
+4982,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,1150000,0,,,1,1000000,1.75,Marginal Security,0
+4983,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)", ,0,,,0,,1.75,Marginal Security,0
+4984,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,0,,,1,2000000,1.25,Secure,0
+4985,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,50000,Buy food,0,,2.0,Marginal Security,0
+4986,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,50000,Buy food,0,,2.0,Marginal Security,0
+4987,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4988,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,500000,0,,,1,100000,2.5,Moderate Insecurity,1
+4989,choco,quibdo,27001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2800000,1,8000000,Other,0,,1.5,Marginal Security,0
+5815,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,2.25,Marginal Security,0
+5816,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+5817,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+5818,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,50000,0,,,0,,4.0,Severe Insecurity,1
+5819,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2000000,Other,0,,3.0,Moderate Insecurity,1
+5820,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,0,0,,,0,,2.0,Marginal Security,0
+5821,choco,medio_atrato,27425,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",150000,1,400000,Buy food,0,,3.0,Moderate Insecurity,1
+5822,choco,riosucio,27615,3,,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",300000,1,3000000,Buy food,0,,2.5,Moderate Insecurity,1
+5823,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,950000,0,,,0,,3.0,Moderate Insecurity,1
+5824,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,10000000,Cover health expenses,0,,1.75,Marginal Security,0
+5825,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5826,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+5827,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,10000000,Buy productive inputs,1,500000,1.25,Secure,0
+5828,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5829,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+5830,choco,riosucio,27615,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+6453,choco,istmina,27361,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,0,,3.75,Severe Insecurity,1
+6454,choco,istmina,27361,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",500000,0,,,0,,2.25,Marginal Security,0
+6455,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+6456,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,1,6000,Other,0,,4.0,Severe Insecurity,1
+6457,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,2.75,Moderate Insecurity,1
+6458,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,0,,,0,,1.5,Marginal Security,0
+6736,choco,istmina,27361,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,700000,Other,0,,3.0,Moderate Insecurity,1
+6737,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,160000,0,,,0,,1.5,Marginal Security,0
+6738,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.25,Secure,0
+6739,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,7000000,Other,0,,2.0,Marginal Security,0
+6740,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6741,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,400000,2.0,Marginal Security,0
+6742,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+6743,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6744,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,150000,Pay rent or house rent,0,,2.5,Moderate Insecurity,1
+6745,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",550000,0,,,0,,2.25,Marginal Security,0
+6746,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,2000000,Other,1,4000000,1.0,Secure,0
+6747,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,31000000,Other,0,,2.75,Moderate Insecurity,1
+6748,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,660000,0,,,0,,1.25,Secure,0
+6749,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,0,,,0,,2.25,Marginal Security,0
+6750,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,200000,Buy food,0,,1.75,Marginal Security,0
+6751,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,1,1500000,1.25,Secure,0
+6752,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+6753,choco,quibdo,27001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,650000,Other,0,,2.25,Marginal Security,0
+6754,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+7437,choco,medio_atrato,27425,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",30000,0,,,0,,2.75,Moderate Insecurity,1
+7438,choco,medio_atrato,27425,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,100000,0,,,0,,2.75,Moderate Insecurity,1
+7439,choco,medio_atrato,27425,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,30000,0,,,0,,3.5,Severe Insecurity,1
+7440,choco,medio_atrato,27425,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,1,50000,2.25,Marginal Security,0
+7441,choco,medio_atrato,27425,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,0,,2.0,Marginal Security,0
+7442,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,6800000,Buy productive inputs,0,,1.75,Marginal Security,0
+7443,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",250000,0,,,0,,2.25,Marginal Security,0
+7444,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",0,1,17000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+7445,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,200000,0,,,0,,2.25,Marginal Security,0
+7446,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,100000,0,,,0,,2.25,Marginal Security,0
+7447,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7448,choco,riosucio,27615,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,210000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+7907,choco,istmina,27361,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,The household receives no income of any kind,80000,0,,,0,,2.5,Moderate Insecurity,1
+7908,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,1.0,Secure,0
+8062,choco,istmina,27361,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,4000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+8063,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,1,1000000,1.5,Marginal Security,0
+8064,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1100000,0,,,0,,2.25,Marginal Security,0
+8065,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+8066,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",350000,1,20000,Buy food,0,,1.25,Secure,0
+8067,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,1.75,Marginal Security,0
+8068,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,1,100000,1.25,Secure,0
+8069,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,70000,1,2000000,Pay rent or house rent,0,,3.25,Moderate Insecurity,1
+8070,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,0,,,0,,2.25,Marginal Security,0
+8071,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,200000,0,,,0,,2.25,Marginal Security,0
+8072,choco,quibdo,27001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,50000000,Other,0,,2.0,Marginal Security,0
+8357,choco,medio_atrato,27425,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+8358,choco,medio_atrato,27425,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,1.75,Marginal Security,0
+8359,choco,medio_atrato,27425,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+8360,choco,medio_atrato,27425,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,800000,0,,,0,,2.0,Marginal Security,0
+8361,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1140000,0,,,0,,1.75,Marginal Security,0
+8362,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,2.25,Marginal Security,0
+8363,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1200000,0,,,0,,2.75,Moderate Insecurity,1
+8364,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,600000,Buy food,0,,2.0,Marginal Security,0
+8365,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+8366,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+8367,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,3000000,Buy productive inputs,0,,1.0,Secure,0
+8368,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,1.5,Marginal Security,0
+8369,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,1,30000000,Buy productive inputs,0,,1.75,Marginal Security,0
+8370,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,1,350000,2.0,Marginal Security,0
+8371,choco,riosucio,27615,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,10000000,Other,0,,1.25,Secure,0

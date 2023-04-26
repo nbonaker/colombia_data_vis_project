@@ -1,0 +1,240 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+113,caldas,manizales,17001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,1,400000,1.75,Marginal Security,0
+114,caldas,manizales,17001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,0,,,1,400000,1.75,Marginal Security,0
+212,caldas,manizales,17001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,1,390000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+213,caldas,manizales,17001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,2500000,1,1200000,Pay school or education expenses,0,,1.75,Marginal Security,0
+214,caldas,manizales,17001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1600000,0,,,0,,2.25,Marginal Security,0
+215,caldas,manizales,17001,8,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension, ,1,250000,Other,1,300000,1.5,Marginal Security,0
+216,caldas,riosucio,17614,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,1000000,Buy food,0,,3.25,Moderate Insecurity,1
+263,caldas,aranzazu,17050,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,ns_nr,,,0,,1.0,Secure,0
+264,caldas,manizales,17001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3500000,0,,,1,500000,2.0,Marginal Security,0
+423,caldas,manizales,17001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2000000,1,100000000,Other,0,,2.25,Marginal Security,0
+486,caldas,manizales,17001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3300000,0,,,1,500000,1.75,Marginal Security,0
+795,caldas,aranzazu,17050,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,3500000,1,20000000,Pay school or education expenses,1,1000000,1.25,Secure,0
+796,caldas,aranzazu,17050,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,130000,0,,,0,,3.25,Moderate Insecurity,1
+797,caldas,aranzazu,17050,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,3000000,Other,0,,1.75,Marginal Security,0
+798,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+799,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,200000,0,,,0,,3.5,Severe Insecurity,1
+800,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,20000,3.5,Severe Insecurity,1
+801,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,20000,3.5,Severe Insecurity,1
+802,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,1,15000,2.0,Marginal Security,0
+803,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,2000000,0,,,0,,1.5,Marginal Security,0
+804,caldas,riosucio,17614,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Work,600000,0,,,0,,1.0,Secure,0
+948,caldas,manizales,17001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,0,,1.75,Marginal Security,0
+949,caldas,riosucio,17614,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+1252,caldas,villamaria,17873,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,4,Pension,2000000,0,,,0,,1.0,Secure,0
+1253,caldas,villamaria,17873,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,"Other (income, chance, inheritance...)",4000000,0,,,0,,1.5,Marginal Security,0
+1490,caldas,aranzazu,17050,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+1491,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,1000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+1492,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,20000000,Other,0,,1.5,Marginal Security,0
+1493,caldas,riosucio,17614,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1070000,0,,,0,,2.5,Moderate Insecurity,1
+1747,caldas,aranzazu,17050,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+1748,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+1749,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1800000,1,10000000,Buy productive inputs,0,,2.0,Marginal Security,0
+1750,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,99,2.75,Moderate Insecurity,1
+1751,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,ns_nr,,,0,,2.0,Marginal Security,0
+1752,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1200000,1,12000000,Other,0,,1.0,Secure,0
+1753,caldas,manizales,17001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,1,600000,Other,0,,1.25,Secure,0
+1754,caldas,riosucio,17614,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,1,80000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2360,caldas,villamaria,17873,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,2,Pension,1800000,1,10000000,Other,0,,1.0,Secure,0
+2361,caldas,villamaria,17873,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+2362,caldas,villamaria,17873,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1600000,1,320000,Other,0,,2.0,Marginal Security,0
+2363,caldas,villamaria,17873,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+2677,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,120000,ns_nr,,,0,,2.25,Marginal Security,0
+2678,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1500000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+2679,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1850000,0,,,1,1000000,1.75,Marginal Security,0
+2680,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Pension,3000000,1,4000000,Other,0,,1.5,Marginal Security,0
+2681,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,0,,,1,50000,1.75,Marginal Security,0
+2682,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,0,,,1,50000,1.75,Marginal Security,0
+2683,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1000000,0,,,1,50000,1.75,Marginal Security,0
+2684,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Pension,700000,0,,,0,,2.75,Moderate Insecurity,1
+2685,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Remittances from migrants or help from family/friends,1200000,1,350000,"Buy clothes, shoes",0,,2.25,Marginal Security,0
+2686,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2687,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,2.0,Marginal Security,0
+2688,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3500000,1,800000,Other,0,,1.0,Secure,0
+2689,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1350000,0,,,0,,1.0,Secure,0
+2690,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1500000,0,,,1,99,1.5,Marginal Security,0
+3062,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,0,,,0,,1.75,Marginal Security,0
+3063,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,14000000,Buy productive inputs,0,,1.5,Marginal Security,0
+3064,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,950000,1,3000000,Cover health expenses,0,,2.25,Marginal Security,0
+3065,caldas,aranzazu,17050,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,180000,1,120000,Buy food,0,,2.75,Moderate Insecurity,1
+3066,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,0,,1.0,Secure,0
+3067,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,4000000,0,,,1,3000000,1.0,Secure,0
+3068,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.75,Moderate Insecurity,1
+3069,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,500000,1,99,Buy food,0,,3.25,Moderate Insecurity,1
+3070,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,1900000,0,,,0,,1.25,Secure,0
+3071,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,1,20000000,"Cover basic services (water, electricity)",0,,4.0,Severe Insecurity,1
+3072,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+3073,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,"Other (income, chance, inheritance...)",6800000,0,,,1,3600000,1.0,Secure,0
+3074,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1700000,1,10000000,Other,0,,1.5,Marginal Security,0
+3075,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,15000000,Other,0,,1.5,Marginal Security,0
+3076,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,0,,,1,2000000,1.5,Marginal Security,0
+3077,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2300000,1,99,ns_nr__strong_e__no_leer__strong_,1,1000000,1.0,Secure,0
+3078,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.25,Marginal Security,0
+3079,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+3080,caldas,manizales,17001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,0,,,0,,1.0,Secure,0
+3081,caldas,riosucio,17614,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,4000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+3082,caldas,riosucio,17614,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+3083,caldas,riosucio,17614,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,180000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+3084,caldas,riosucio,17614,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,1.25,Secure,0
+4161,caldas,villamaria,17873,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,700000,0,,,0,,2.25,Marginal Security,0
+4162,caldas,villamaria,17873,4,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4163,caldas,villamaria,17873,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+4164,caldas,villamaria,17873,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,0,,,0,,1.25,Secure,0
+4601,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,400000,0,,,1,99,1.75,Marginal Security,0
+4602,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,1.75,Marginal Security,0
+4603,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",300000,0,,,0,,3.5,Severe Insecurity,1
+4604,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,0,,,0,,1.75,Marginal Security,0
+4605,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3800000,0,,,0,,1.5,Marginal Security,0
+4606,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+4607,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,700000,1,30000000,Other,0,,3.5,Severe Insecurity,1
+4608,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,700000,1,30000000,Other,0,,3.5,Severe Insecurity,1
+4609,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,960000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4610,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,1,4500000,Other,0,,1.5,Marginal Security,0
+4611,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,0,,,0,,1.0,Secure,0
+4612,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+4613,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+4614,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,0,,,0,,1.5,Marginal Security,0
+4615,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,2000000,"Buy clothes, shoes",0,,2.0,Marginal Security,0
+4616,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2800000,0,,,0,,1.0,Secure,0
+4617,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,500000,Other,0,,1.0,Secure,0
+4618,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,1,30000000,Other,0,,2.0,Marginal Security,0
+4619,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,2.25,Marginal Security,0
+4620,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",250000,0,,,0,,2.75,Moderate Insecurity,1
+4621,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",250000,0,,,0,,2.75,Moderate Insecurity,1
+4622,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+4623,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3500000,0,,,0,,1.0,Secure,0
+4624,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2400000,0,,,0,,1.25,Secure,0
+4625,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+4626,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.25,Marginal Security,0
+4627,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,1,100000,3.75,Severe Insecurity,1
+5013,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+5014,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1400000,0,,,0,,1.5,Marginal Security,0
+5015,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5016,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,1,500000,Other,0,,3.25,Moderate Insecurity,1
+5017,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1700000,Buy food,0,,1.25,Secure,0
+5018,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.0,Secure,0
+5019,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+5020,caldas,aranzazu,17050,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,5000000,Other,0,,1.0,Secure,0
+5021,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,1000000,Other,0,,4.0,Severe Insecurity,1
+5022,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,0,,,0,,1.0,Secure,0
+5023,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,0,,,1,1000000,1.0,Secure,0
+5024,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,3.75,Severe Insecurity,1
+5025,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,210000,Pay rent or house rent,0,,1.5,Marginal Security,0
+5026,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3500000,0,,,0,,1.0,Secure,0
+5027,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,0,,1.0,Secure,0
+5028,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,99,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+5029,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,3,Work,600000,1,117000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5030,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,1.5,Marginal Security,0
+5031,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,3.0,Moderate Insecurity,1
+5032,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1000000,Other,0,,1.75,Marginal Security,0
+5033,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,1,46000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5034,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,0,,,0,,2.5,Moderate Insecurity,1
+5035,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,1600000,0,,,0,,1.5,Marginal Security,0
+5036,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3000000,1,38000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+5037,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,1.0,Secure,0
+5038,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,0,,,1,99,1.0,Secure,0
+5039,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+5040,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,30000000,Other,0,,2.25,Marginal Security,0
+5041,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,500000,Other,1,99,1.0,Secure,0
+5042,caldas,manizales,17001,3,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+5043,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Work,200000,1,714000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+5044,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+5045,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,7500000,Buy productive inputs,0,,1.5,Marginal Security,0
+5046,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,436000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5047,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5048,caldas,riosucio,17614,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1400000,1,30000000,Buy productive inputs,0,,1.5,Marginal Security,0
+6027,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1880000,1,379000,Buy food,1,200000,1.75,Marginal Security,0
+6028,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,1.0,Secure,0
+6029,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,0,,,1,420000,1.0,Secure,0
+6030,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,1.5,Marginal Security,0
+6031,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+6032,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2800000,1,82000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,700000,1.0,Secure,0
+6033,caldas,villamaria,17873,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,6000000,0,,,1,3000000,1.25,Secure,0
+6471,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,,0,0,0,1,Government assistance,0,0,,,0,,1.5,Marginal Security,0
+6472,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,0,,,0,,1.0,Secure,0
+6473,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1500000,0,,,1,500000,1.0,Secure,0
+6474,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,0,,,0,,1.75,Marginal Security,0
+6475,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,1,1,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,0,,,0,,1.5,Marginal Security,0
+6476,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1250000,0,,,0,,1.5,Marginal Security,0
+6477,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1250000,0,,,0,,1.5,Marginal Security,0
+6478,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+6479,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.25,Secure,0
+6480,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,1,900000,pay trips,0,,1.0,Secure,0
+6481,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,0,,,0,,2.25,Marginal Security,0
+6482,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1000000,0,,,0,,1.0,Secure,0
+6483,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",200000,0,,,0,,2.0,Marginal Security,0
+6484,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,800000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+6485,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,0,,,0,,3.75,Severe Insecurity,1
+6486,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,800000,2.5,Moderate Insecurity,1
+6487,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,350000,0,,,0,,2.25,Marginal Security,0
+6488,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1700000,0,,,0,,1.0,Secure,0
+6489,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,1,5000000,1.0,Secure,0
+6490,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+6772,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.0,Secure,0
+6773,caldas,aranzazu,17050,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+6774,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+6775,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,600000,"Cover basic services (water, electricity)",1,400000,2.5,Moderate Insecurity,1
+6776,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+6777,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3500000,0,,,0,,1.75,Marginal Security,0
+6778,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+6779,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,4000000,0,,,0,,1.0,Secure,0
+6780,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,0,,,1,1000000,1.0,Secure,0
+6781,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,900000,1,200000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+6782,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Government assistance,500000,0,,,0,,2.25,Marginal Security,0
+6783,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",400000,0,,,0,,2.25,Marginal Security,0
+6784,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,2.0,Marginal Security,0
+6785,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,4.0,Severe Insecurity,1
+6786,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+6787,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,1,400000,1.75,Marginal Security,0
+6788,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,1500000,1.0,Secure,0
+6789,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,1.75,Marginal Security,0
+6790,caldas,manizales,17001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,Buy productive inputs,0,,2.25,Marginal Security,0
+6791,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,0,,,1,600000,1.0,Secure,0
+6792,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,1,200000,1.5,Marginal Security,0
+6793,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,250000,0,,,0,,1.5,Marginal Security,0
+6794,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+6795,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2100000,0,,,0,,1.75,Marginal Security,0
+6796,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.5,Marginal Security,0
+6797,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,30000,0,,,0,,1.5,Marginal Security,0
+6798,caldas,riosucio,17614,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+7599,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,220000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7600,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,150000,1,100000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+7601,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,100000,1,50000,Buy food,0,,2.0,Marginal Security,0
+7602,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+7603,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,5000000,Other,0,,1.5,Marginal Security,0
+7604,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+7605,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.75,Marginal Security,0
+7606,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,0,,,1,600000,1.0,Secure,0
+7607,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,500000,1.75,Marginal Security,0
+7608,caldas,villamaria,17873,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,1.0,Secure,0
+7913,caldas,aranzazu,17050,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",500000,0,,,0,,1.5,Marginal Security,0
+7914,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,5000000,0,,,0,,1.0,Secure,0
+7915,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,2000000,1,5000000,Other,0,,1.0,Secure,0
+7916,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,1.75,Marginal Security,0
+7917,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,80000,1,1000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+7918,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,350000,0,,,0,,2.5,Moderate Insecurity,1
+7919,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,800000,0,,,0,,1.5,Marginal Security,0
+7920,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.0,Secure,0
+7921,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1000000,0,,,0,,1.75,Marginal Security,0
+7922,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,1,298000,Other,0,,1.5,Marginal Security,0
+7923,caldas,riosucio,17614,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,1,50000,Buy food,0,,1.5,Marginal Security,0
+7924,caldas,riosucio,17614,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.0,Marginal Security,0
+7925,caldas,riosucio,17614,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,80000,0,,,0,,2.75,Moderate Insecurity,1
+7926,caldas,riosucio,17614,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,0,,,0,,1.75,Marginal Security,0
+8076,caldas,aranzazu,17050,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.25,Marginal Security,0
+8077,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.75,Moderate Insecurity,1
+8078,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,2000000,1.25,Secure,0
+8079,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8080,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.0,Secure,0
+8081,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,1300000,Other,0,,2.25,Marginal Security,0
+8082,caldas,manizales,17001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+8083,caldas,riosucio,17614,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,50000,0,,,0,,3.5,Severe Insecurity,1
+8084,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,0,,2.0,Marginal Security,0
+8423,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,400000,Other,0,,2.75,Moderate Insecurity,1
+8424,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,0,,,1,500000,2.0,Marginal Security,0
+8425,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,1,500000,2.0,Marginal Security,0
+8426,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,1,5000000,pay trips,0,,1.0,Secure,0
+8427,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.0,Secure,0
+8428,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,Remittances from migrants or help from family/friends,300000,1,150000,"Cover basic services (water, electricity)",0,,2.25,Marginal Security,0
+8429,caldas,villamaria,17873,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.0,Marginal Security,0

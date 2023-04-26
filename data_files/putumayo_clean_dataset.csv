@@ -1,0 +1,209 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+7,putumayo,puerto_leguizamo,86573,13,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,200000,0,,,0,,3.0,Moderate Insecurity,1
+19,putumayo,santiago,86760,12,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2250000,0,,,0,,4.0,Severe Insecurity,1
+42,putumayo,mocoa,86001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,8,Work,1800000,1,1000000,Other,1,500000,2.25,Marginal Security,0
+83,putumayo,mocoa,86001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+103,putumayo,puerto_leguizamo,86573,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,350000,0,,,0,,3.0,Moderate Insecurity,1
+185,putumayo,puerto_leguizamo,86573,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,555000,0,,,0,,3.0,Moderate Insecurity,1
+186,putumayo,puerto_leguizamo,86573,8,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Assistance from United Nations / NGOs / charitable organizations,400000,0,,,0,,3.0,Moderate Insecurity,1
+187,putumayo,puerto_leguizamo,86573,8,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Assistance from United Nations / NGOs / charitable organizations,400000,0,,,0,,3.0,Moderate Insecurity,1
+188,putumayo,puerto_leguizamo,86573,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+189,putumayo,puerto_leguizamo,86573,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+246,putumayo,puerto_leguizamo,86573,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,2400000,"Cover basic services (water, electricity)",1,2000000,2.25,Marginal Security,0
+247,putumayo,puerto_leguizamo,86573,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,2400000,"Cover basic services (water, electricity)",1,2000000,2.25,Marginal Security,0
+312,putumayo,mocoa,86001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,9000000,Other,0,,3.25,Moderate Insecurity,1
+459,putumayo,puerto_leguizamo,86573,7,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,2000000,Other,0,,2.25,Marginal Security,0
+460,putumayo,puerto_leguizamo,86573,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+554,putumayo,mocoa,86001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+555,putumayo,mocoa,86001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,660000,1,4000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+556,putumayo,mocoa,86001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+557,putumayo,mocoa,86001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,1,500000,2.25,Marginal Security,0
+558,putumayo,mocoa,86001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,"Other (income, chance, inheritance...)",4000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+559,putumayo,santiago,86760,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+560,putumayo,santiago,86760,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,3500000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+730,putumayo,puerto_leguizamo,86573,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,2,Work,700000,1,11000000,Other,0,,2.25,Marginal Security,0
+885,putumayo,puerto_leguizamo,86573,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,500000,3.25,Moderate Insecurity,1
+886,putumayo,puerto_leguizamo,86573,6,1.0,0,0,0,0,0,0,1,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,0,,2.25,Marginal Security,0
+1071,putumayo,mocoa,86001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,300000,2.75,Moderate Insecurity,1
+1072,putumayo,mocoa,86001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,20000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+1073,putumayo,mocoa,86001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+1074,putumayo,mocoa,86001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,1,1,0.0,0,0,0,1,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,30000,3.75,Severe Insecurity,1
+1075,putumayo,mocoa,86001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2000000,1,1500000,Other,0,,2.75,Moderate Insecurity,1
+1076,putumayo,puerto_guzman,86571,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3200000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.75,Marginal Security,0
+1077,putumayo,puerto_guzman,86571,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,3500000,Buy food,0,,3.75,Severe Insecurity,1
+1078,putumayo,puerto_guzman,86571,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2100000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1079,putumayo,santiago,86760,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.25,Moderate Insecurity,1
+1080,putumayo,santiago,86760,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,300000,2.0,Marginal Security,0
+1406,putumayo,puerto_leguizamo,86573,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,99,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1616,putumayo,puerto_leguizamo,86573,5,1.0,0,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,3.0,Moderate Insecurity,1
+1617,putumayo,puerto_leguizamo,86573,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+1618,putumayo,puerto_leguizamo,86573,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+1619,putumayo,puerto_leguizamo,86573,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1000000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2011,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,500000,Other,0,,1.0,Secure,0
+2012,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,500000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+2013,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,910000,0,,,1,200000,3.75,Severe Insecurity,1
+2014,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,300000,1.5,Marginal Security,0
+2015,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,1.75,Marginal Security,0
+2016,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+2017,putumayo,mocoa,86001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+2018,putumayo,puerto_guzman,86571,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,48000000,Other,0,,4.0,Severe Insecurity,1
+2019,putumayo,puerto_guzman,86571,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,1,3000000,Other,1,400000,3.5,Severe Insecurity,1
+2020,putumayo,santiago,86760,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+2571,putumayo,puerto_leguizamo,86573,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,280000,0,,,0,,2.5,Moderate Insecurity,1
+2852,putumayo,puerto_leguizamo,86573,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2853,putumayo,puerto_leguizamo,86573,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3560,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,450000,1,23000000,Other,1,200000,1.75,Marginal Security,0
+3561,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3562,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,35000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+3563,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1500000,0,,,0,,2.0,Marginal Security,0
+3564,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+3565,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,200000,Other,0,,3.0,Moderate Insecurity,1
+3566,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,32000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.0,Secure,0
+3567,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,17800000,Buy productive inputs,0,,2.25,Marginal Security,0
+3568,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,0,,,1,53000,2.0,Marginal Security,0
+3569,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,500000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3570,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,1,2000000,Other,0,,1.75,Marginal Security,0
+3571,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,1,800000,Cover health expenses,0,,2.25,Marginal Security,0
+3572,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,500000,2.0,Marginal Security,0
+3573,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,800000,2.75,Moderate Insecurity,1
+3574,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3575,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work, ,0,,,1,99,1.0,Secure,0
+3576,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3000000,0,,,1,300000,1.5,Marginal Security,0
+3577,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+3578,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,50000000,Other,0,,1.5,Marginal Security,0
+3579,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,8000000,Other,1,2000000,2.0,Marginal Security,0
+3580,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,9000000,1,40000000,Pay rent or house rent,0,,1.25,Secure,0
+3581,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,17500000,Other,0,,2.5,Moderate Insecurity,1
+3582,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+3583,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+3584,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,30000000,pay trips,0,,1.0,Secure,0
+3585,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,1,600000,Other,0,,1.0,Secure,0
+3586,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,0,0,,,0,,3.25,Moderate Insecurity,1
+3587,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2770000,0,,,1,50000,1.75,Marginal Security,0
+3588,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1100000,Cover health expenses,0,,3.25,Moderate Insecurity,1
+3589,putumayo,mocoa,86001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,1,3000000,1.5,Marginal Security,0
+3590,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,800000,0,,,0,,2.0,Marginal Security,0
+3591,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1400000,1,300000,Buy food,0,,2.5,Moderate Insecurity,1
+3592,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,1,20000,3.75,Severe Insecurity,1
+3593,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,2.25,Marginal Security,0
+3594,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+3595,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,ns_nr,,,0,,1.75,Marginal Security,0
+3596,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,1,3500000,Other,0,,2.75,Moderate Insecurity,1
+3597,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,2100000,1.25,Secure,0
+3598,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.75,Marginal Security,0
+3599,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,650000,1,350000,Buy productive inputs,1,70000,2.75,Moderate Insecurity,1
+3600,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,0,,,0,,1.5,Marginal Security,0
+3601,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,1,1000000,Buy food,0,,3.5,Severe Insecurity,1
+3602,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,1,4000000,"Cover basic services (water, electricity)",1,500000,1.5,Marginal Security,0
+3603,putumayo,puerto_guzman,86571,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.25,Moderate Insecurity,1
+3604,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,0,,,1,180000,3.5,Severe Insecurity,1
+3605,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+3606,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,1,15000000,Other,0,,3.0,Moderate Insecurity,1
+3607,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2000000,Buy productive inputs,0,,1.5,Marginal Security,0
+3608,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,450000,0,,,0,,3.0,Moderate Insecurity,1
+3609,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,3.25,Moderate Insecurity,1
+3610,putumayo,santiago,86760,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,100000,0,,,0,,2.75,Moderate Insecurity,1
+4500,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+4501,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,2.0,Marginal Security,0
+4502,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,30000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+4503,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,30000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+4504,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,0,,,1,2200000,1.0,Secure,0
+4505,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.5,Severe Insecurity,1
+4831,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,1,600000,3.25,Moderate Insecurity,1
+4832,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,2.25,Marginal Security,0
+4833,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,980000,1,5000000,Buy productive inputs,1,100000,1.75,Marginal Security,0
+4834,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,3.0,Moderate Insecurity,1
+4835,putumayo,puerto_leguizamo,86573,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,1,3000000,2.75,Moderate Insecurity,1
+5466,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+5467,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,430500,2.75,Moderate Insecurity,1
+5468,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,7000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+5469,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+5470,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,ns_nr,,,0,,2.25,Marginal Security,0
+5471,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,17000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1500000,1.5,Marginal Security,0
+5472,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2500000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.75,Marginal Security,0
+5473,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,3500000,Other,0,,1.5,Marginal Security,0
+5474,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,8000000,Other,0,,2.25,Marginal Security,0
+5475,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+5476,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,850000,0,,,0,,3.25,Moderate Insecurity,1
+5477,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+5478,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,600000,1.5,Marginal Security,0
+5479,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,0,,,1,500000,2.25,Marginal Security,0
+5480,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1700000,1,700000,Other,0,,1.75,Marginal Security,0
+5481,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,3100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+5482,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1500000,1,20000000,Buy productive inputs,1,1000000,2.25,Marginal Security,0
+5483,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2800000,Other,0,,1.0,Secure,0
+5484,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.25,Marginal Security,0
+5485,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,478000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5486,putumayo,mocoa,86001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1000000,0,,,0,,1.0,Secure,0
+5487,putumayo,puerto_guzman,86571,3,1.0,1,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,980000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5488,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+5489,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,2.5,Moderate Insecurity,1
+5490,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,60000,2.25,Marginal Security,0
+5491,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,100000,2.75,Moderate Insecurity,1
+5492,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,700000,Pay school or education expenses,0,,2.25,Marginal Security,0
+5493,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,1,13000000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+5494,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,4.0,Severe Insecurity,1
+5495,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.5,Moderate Insecurity,1
+5496,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,7000000,Buy productive inputs,1,6000000,1.0,Secure,0
+5497,putumayo,puerto_guzman,86571,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,3500000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2500000,1.25,Secure,0
+5498,putumayo,santiago,86760,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,5000000,Buy food,0,,3.75,Severe Insecurity,1
+5499,putumayo,santiago,86760,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,400000,0,,,1,500000,2.5,Moderate Insecurity,1
+5500,putumayo,santiago,86760,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,1,140000,Buy food,0,,3.25,Moderate Insecurity,1
+5501,putumayo,santiago,86760,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+5502,putumayo,santiago,86760,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+6361,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,320000,0,,,1,600000,1.75,Marginal Security,0
+6362,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Pension,500000,0,,,0,,3.0,Moderate Insecurity,1
+6363,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,100000,pay trips,0,,2.75,Moderate Insecurity,1
+6658,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,60000,0,,,0,,4.0,Severe Insecurity,1
+6659,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,1,10000000,1.0,Secure,0
+6660,putumayo,puerto_leguizamo,86573,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.25,Secure,0
+7179,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,8500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7180,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,160000,0,,,0,,4.0,Severe Insecurity,1
+7181,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+7182,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,5000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+7183,putumayo,mocoa,86001,2,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,120000,0,,,0,,3.0,Moderate Insecurity,1
+7184,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,80000,0,,,0,,3.5,Severe Insecurity,1
+7185,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,0,,,0,,1.75,Marginal Security,0
+7186,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+7187,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,500000,0,,,0,,3.25,Moderate Insecurity,1
+7188,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,3.75,Severe Insecurity,1
+7189,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work, ,0,,,0,,1.5,Marginal Security,0
+7190,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,0,,,0,,2.75,Moderate Insecurity,1
+7191,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,0,,1.5,Marginal Security,0
+7192,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+7193,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.0,Secure,0
+7194,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+7195,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,0,,,0,,1.75,Marginal Security,0
+7196,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,3000000,Other,0,,1.25,Secure,0
+7197,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7198,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,820000,0,,,0,,2.25,Marginal Security,0
+7199,putumayo,mocoa,86001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1900000,1,1600000,Other,0,,2.5,Moderate Insecurity,1
+7200,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",400000,1,400000,Pay school or education expenses,0,,1.0,Secure,0
+7201,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,160000,0,,,0,,3.75,Severe Insecurity,1
+7202,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,320000,1,75000,Other,0,,2.75,Moderate Insecurity,1
+7203,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.25,Marginal Security,0
+7204,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",200000,0,,,1,100000,2.25,Marginal Security,0
+7205,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+7206,putumayo,puerto_guzman,86571,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,3000000,Other,0,,3.25,Moderate Insecurity,1
+7207,putumayo,santiago,86760,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,9000000,Other,1,99,1.5,Marginal Security,0
+7865,putumayo,puerto_leguizamo,86573,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,1,0.0,0,0,0,1,Government assistance,160000,0,,,0,,1.5,Marginal Security,0
+7866,putumayo,puerto_leguizamo,86573,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.0,Moderate Insecurity,1
+7867,putumayo,puerto_leguizamo,86573,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+8022,putumayo,puerto_leguizamo,86573,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,960000,1,1180000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+8023,putumayo,puerto_leguizamo,86573,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,0,,,0,,2.0,Marginal Security,0
+8255,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,640000,0,,,0,,1.5,Marginal Security,0
+8256,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,80000,0,,,0,,1.75,Marginal Security,0
+8257,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,3000000,Buy productive inputs,0,,1.75,Marginal Security,0
+8258,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2300000,1,79000000,Other,0,,1.5,Marginal Security,0
+8259,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,200000,0,,,0,,2.75,Moderate Insecurity,1
+8260,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,140000,1,30000,Cover health expenses,0,,3.0,Moderate Insecurity,1
+8261,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,1,3300000,Buy productive inputs,0,,2.0,Marginal Security,0
+8262,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Buy productive inputs,0,,1.25,Secure,0
+8263,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+8264,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.0,Secure,0
+8265,putumayo,mocoa,86001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,310000,Other,0,,2.75,Moderate Insecurity,1
+8266,putumayo,puerto_guzman,86571,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,6000000,0,,,1,99,1.5,Marginal Security,0
+8267,putumayo,puerto_guzman,86571,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.5,Marginal Security,0
+8268,putumayo,puerto_guzman,86571,1,1.0,0,0,0,0,0,1,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,260000,0,,,0,,2.0,Marginal Security,0
+8269,putumayo,santiago,86760,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Pension,1000000,1,557000,Other,0,,2.5,Moderate Insecurity,1
+8270,putumayo,santiago,86760,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,820000,1,1800000,Buy productive inputs,0,,3.75,Severe Insecurity,1

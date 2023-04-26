@@ -1,0 +1,270 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+21,meta,puerto_gaitan,50568,12,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+22,meta,villavicencio,50001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,250000,3.25,Moderate Insecurity,1
+38,meta,acacias,50006,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1700000,0,,,1,1500000,2.0,Marginal Security,0
+43,meta,villavicencio,50001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2800000,0,,,0,,2.5,Moderate Insecurity,1
+153,meta,villavicencio,50001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+248,meta,acacias,50006,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,3000000,Other,0,,2.5,Moderate Insecurity,1
+249,meta,acacias,50006,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,2.5,Moderate Insecurity,1
+320,meta,puerto_gaitan,50568,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2700000,1,3000000,Buy productive inputs,0,,2.25,Marginal Security,0
+321,meta,villavicencio,50001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,5500000,0,,,0,,1.0,Secure,0
+394,meta,acacias,50006,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1900000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+462,meta,acacias,50006,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+578,meta,puerto_gaitan,50568,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,1.0,Secure,0
+579,meta,villavicencio,50001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2800000,1,15000000,Pay rent or house rent,0,,1.75,Marginal Security,0
+580,meta,villavicencio,50001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,2500000,"Buy clothes, shoes",0,,1.5,Marginal Security,0
+581,meta,villavicencio,50001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,3360000,1,1500000,Other,0,,1.5,Marginal Security,0
+582,meta,villavicencio,50001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,750000,0,,,0,,3.75,Severe Insecurity,1
+583,meta,villavicencio,50001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,2000000,Buy food,0,,2.5,Moderate Insecurity,1
+748,meta,acacias,50006,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1600000,0,,,0,,2.25,Marginal Security,0
+891,meta,acacias,50006,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,30000000,Other,0,,2.5,Moderate Insecurity,1
+1112,meta,puerto_gaitan,50568,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,0,,,0,,3.0,Moderate Insecurity,1
+1113,meta,puerto_gaitan,50568,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+1114,meta,puerto_gaitan,50568,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,60000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1115,meta,san_martin,50689,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1600000,0,,,0,,1.75,Marginal Security,0
+1116,meta,san_martin,50689,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,20000000,Buy food,0,,1.5,Marginal Security,0
+1117,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,15000000,Pay rent or house rent,0,,1.75,Marginal Security,0
+1118,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,1000000,0,,,0,,1.75,Marginal Security,0
+1119,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3500000,0,,,1,1100000,1.0,Secure,0
+1120,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3600000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,800000,2.0,Marginal Security,0
+1121,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2100000,1,15000000,Other,0,,2.25,Marginal Security,0
+1122,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,850000,0,,,0,,2.25,Marginal Security,0
+1123,meta,villavicencio,50001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,2,Work,1200000,0,,,1,300000,2.25,Marginal Security,0
+1425,meta,acacias,50006,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+1426,meta,acacias,50006,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1080000,1,5000000,Buy food,0,,2.75,Moderate Insecurity,1
+1637,meta,acacias,50006,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4200000,0,,,1,2000000,1.5,Marginal Security,0
+1638,meta,acacias,50006,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3200000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+1639,meta,acacias,50006,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,3000000,Buy productive inputs,1,800000,1.75,Marginal Security,0
+2075,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2000000,0,,,0,,1.75,Marginal Security,0
+2076,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,880000,0,,,0,,2.5,Moderate Insecurity,1
+2077,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.0,Marginal Security,0
+2078,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+2079,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.25,Marginal Security,0
+2080,meta,puerto_gaitan,50568,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2081,meta,san_martin,50689,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,3000000,Buy productive inputs,0,,2.25,Marginal Security,0
+2082,meta,san_martin,50689,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,300000,2.0,Marginal Security,0
+2083,meta,san_martin,50689,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",3500000,1,20000000,Buy productive inputs,0,,1.25,Secure,0
+2084,meta,san_martin,50689,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,20000,2.5,Moderate Insecurity,1
+2085,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,1,300000,1.5,Marginal Security,0
+2086,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,72000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+2087,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+2088,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+2089,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1700000,0,,,0,,2.5,Moderate Insecurity,1
+2090,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+2091,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,120000,Buy food,0,,2.75,Moderate Insecurity,1
+2092,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,10000000,Other,0,,2.0,Marginal Security,0
+2093,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2094,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,1,13000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2095,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2800000,0,,,0,,2.0,Marginal Security,0
+2096,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2500000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+2097,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,1,327000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2098,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,110000,Buy food,0,,3.75,Severe Insecurity,1
+2099,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,99,Other,0,,3.25,Moderate Insecurity,1
+2100,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+2101,meta,villavicencio,50001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2895,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Government assistance,6300000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.0,Secure,0
+2896,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,2000000,Other,0,,2.25,Marginal Security,0
+2897,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1150000,0,,,0,,2.5,Moderate Insecurity,1
+2898,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,3000000,Other,0,,1.0,Secure,0
+2899,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1700000,Buy food,0,,2.0,Marginal Security,0
+2900,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.25,Marginal Security,0
+2901,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1340000,1,6000000,Other,0,,1.25,Secure,0
+2902,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,5000000,Other,0,,1.25,Secure,0
+2903,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2904,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,2.25,Marginal Security,0
+2905,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,2.0,Marginal Security,0
+2906,meta,acacias,50006,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,700000,Pay rent or house rent,0,,2.25,Marginal Security,0
+3722,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2800000,0,,,1,2800000,2.0,Marginal Security,0
+3723,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2050000,0,,,0,,1.0,Secure,0
+3724,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+3725,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,1,500000,2.25,Marginal Security,0
+3726,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3727,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,817500,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3728,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1650000,1,300000,Buy food,0,,2.5,Moderate Insecurity,1
+3729,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2300000,0,,,0,,2.25,Marginal Security,0
+3730,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2200000,1,780000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,1.0,Secure,0
+3731,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,1,30000000,Other,0,,1.0,Secure,0
+3732,meta,puerto_gaitan,50568,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1700000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3733,meta,san_martin,50689,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,1,10000000,Buy productive inputs,1,300000,1.5,Marginal Security,0
+3734,meta,san_martin,50689,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,700000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+3735,meta,san_martin,50689,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,592000,1,500000,Other,0,,2.5,Moderate Insecurity,1
+3736,meta,san_martin,50689,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1000000,1,2000000,Buy food,0,,2.25,Marginal Security,0
+3737,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.75,Moderate Insecurity,1
+3738,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,1.75,Marginal Security,0
+3739,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,8000000,Other,1,1000000,1.0,Secure,0
+3740,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,1,1,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",600000,0,,,0,,2.5,Moderate Insecurity,1
+3741,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,800000,1,10000000,Buy food,0,,3.5,Severe Insecurity,1
+3742,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,4000000,Other,0,,2.25,Marginal Security,0
+3743,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,5000000,1,30000000,Other,1,800000,1.0,Secure,0
+3744,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,4000000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3745,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,2000000,1,10800000,Other,0,,1.75,Marginal Security,0
+3746,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1460000,1,11000000,Other,1,720000,1.5,Marginal Security,0
+3747,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,600000,Buy food,0,,1.75,Marginal Security,0
+3748,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,3000000,Other,1,420000,1.0,Secure,0
+3749,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1600000,0,,,0,,2.0,Marginal Security,0
+3750,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+3751,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,0,,,0,,2.0,Marginal Security,0
+3752,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,1800000,Pay rent or house rent,0,,3.0,Moderate Insecurity,1
+3753,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+3754,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,0,,,0,,2.25,Marginal Security,0
+3755,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,800000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+3756,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.0,Marginal Security,0
+3757,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,1030000,1,70000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+3758,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,1,1000000,Buy food,0,,2.0,Marginal Security,0
+3759,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,3.75,Severe Insecurity,1
+3760,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1200000,1,4000000,Other,0,,2.5,Moderate Insecurity,1
+3761,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,0,,,0,,2.25,Marginal Security,0
+3762,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,7000000,Cover health expenses,0,,2.75,Moderate Insecurity,1
+3763,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,2800000,Buy productive inputs,1,600000,2.5,Moderate Insecurity,1
+3764,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,200000,2.25,Marginal Security,0
+3765,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1500000,1,1600000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1400000,1.25,Secure,0
+3766,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,3.0,Moderate Insecurity,1
+3767,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.75,Moderate Insecurity,1
+3768,meta,villavicencio,50001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,7000000,Buy productive inputs,0,,1.75,Marginal Security,0
+4529,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1600000,0,,,0,,2.0,Marginal Security,0
+4530,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+4859,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,945000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4860,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,15000000,Other,0,,1.5,Marginal Security,0
+4861,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1600000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4862,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4863,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1800000,1,70000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4864,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+4865,meta,acacias,50006,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,1800000,Buy productive inputs,0,,2.25,Marginal Security,0
+5602,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,400000,Other,0,,2.0,Marginal Security,0
+5603,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1110000,0,,,0,,2.25,Marginal Security,0
+5604,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,5000000,0,,,0,,1.0,Secure,0
+5605,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,2000000,1,18000000,Other,1,300000,2.25,Marginal Security,0
+5606,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3800000,1,2000000,Other,0,,1.0,Secure,0
+5607,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5608,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,2000000,Other,0,,2.75,Moderate Insecurity,1
+5609,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,45000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+5610,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,700000,Buy food,0,,2.75,Moderate Insecurity,1
+5611,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,2035000,1,1300000,Other,0,,1.5,Marginal Security,0
+5612,meta,puerto_gaitan,50568,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2200000,1,14000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5613,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1030000,1,2000000,Other,0,,1.75,Marginal Security,0
+5614,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,670000,0,,,0,,2.25,Marginal Security,0
+5615,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,9000000,Buy productive inputs,0,,2.0,Marginal Security,0
+5616,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,320000,0,,,0,,2.25,Marginal Security,0
+5617,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,450000,0,,,0,,2.5,Moderate Insecurity,1
+5618,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,Buy food,0,,1.75,Marginal Security,0
+5619,meta,san_martin,50689,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,25000000,Cover health expenses,0,,2.5,Moderate Insecurity,1
+5620,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,1,1,0.0,0,0,0,1,Pension,1200000,0,,,0,,1.5,Marginal Security,0
+5621,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,0,,,0,,1.5,Marginal Security,0
+5622,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+5623,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,75000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,1.5,Marginal Security,0
+5624,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,800000,1,6000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+5625,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,1,800000,2.5,Moderate Insecurity,1
+5626,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+5627,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,4000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5628,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,0,,,0,,1.5,Marginal Security,0
+5629,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2500000,1,700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.5,Marginal Security,0
+5630,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,0,,,0,,2.0,Marginal Security,0
+5631,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,2.0,Marginal Security,0
+5632,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,1,250000,1.0,Secure,0
+5633,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,30000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2000000,2.0,Marginal Security,0
+5634,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,0,,,0,,1.0,Secure,0
+5635,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.0,Marginal Security,0
+5636,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,1,400000,1.5,Marginal Security,0
+5637,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",5000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+5638,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,5000000,1,99,Pay school or education expenses,0,,1.0,Secure,0
+5639,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,1,300000,Buy productive inputs,0,,1.75,Marginal Security,0
+5640,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1900000,1,2900000,Buy food,0,,1.75,Marginal Security,0
+5641,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2300000,1,7000000,Other,0,,1.5,Marginal Security,0
+5642,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,300000,2.0,Marginal Security,0
+5643,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,850000,1,2500000,Other,1,120000,1.5,Marginal Security,0
+5644,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,2000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+5645,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1300000,1,19000000,Other,0,,1.75,Marginal Security,0
+5646,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,800000,Pay rent or house rent,0,,2.25,Marginal Security,0
+5647,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,1600000,Other,0,,2.0,Marginal Security,0
+5648,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,1,800000,"Cover basic services (water, electricity)",1,320000,1.0,Secure,0
+5649,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,2.5,Moderate Insecurity,1
+5650,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,1.75,Marginal Security,0
+5651,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,150000,Buy food,0,,2.25,Marginal Security,0
+5652,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,1,10000000,Other,1,900000,1.0,Secure,0
+5653,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+5654,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,3600000,Other,0,,2.0,Marginal Security,0
+5655,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,35000000,Other,0,,2.0,Marginal Security,0
+5656,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,400000,0,,,0,,1.75,Marginal Security,0
+5657,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,980000,0,,,0,,2.75,Moderate Insecurity,1
+5658,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,300000,2.0,Marginal Security,0
+5659,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,1200000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+5660,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,900000,Pay rent or house rent,1,600000,1.75,Marginal Security,0
+5661,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,1,0,1,0.0,0,0,0,2,Government assistance,700000,1,200000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+5662,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1560000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+5663,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,1000000,1,1000000,Other,0,,2.0,Marginal Security,0
+5664,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,500000,1,250000,Buy food,0,,2.25,Marginal Security,0
+5665,meta,villavicencio,50001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Buy productive inputs,1,200000,1.75,Marginal Security,0
+6383,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+6384,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+6385,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,480000,0,,,0,,2.75,Moderate Insecurity,1
+6386,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,300000,0,,,0,,2.0,Marginal Security,0
+6387,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,880000,1,2000000,Other,1,1000000,1.5,Marginal Security,0
+6388,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.25,Marginal Security,0
+6677,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,210000,Buy productive inputs,0,,1.75,Marginal Security,0
+6678,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,870000,1,4000000,Other,0,,1.75,Marginal Security,0
+6679,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1600000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2500000,1.0,Secure,0
+6680,meta,acacias,50006,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,800000,0,,,0,,1.5,Marginal Security,0
+7273,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,900000,1.5,Marginal Security,0
+7274,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,1,600000,1.5,Marginal Security,0
+7275,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,6000000,0,,,0,,2.0,Marginal Security,0
+7276,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+7277,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,0,,,0,,1.0,Secure,0
+7278,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,500000,Buy food,0,,2.5,Moderate Insecurity,1
+7279,meta,puerto_gaitan,50568,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,1,400000,1.25,Secure,0
+7280,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,900000,0,,,0,,1.5,Marginal Security,0
+7281,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.5,Marginal Security,0
+7282,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,460000,0,,,0,,1.5,Marginal Security,0
+7283,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,1,150000,2.25,Marginal Security,0
+7284,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,2.0,Marginal Security,0
+7285,meta,san_martin,50689,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,0,,,1,400000,3.0,Moderate Insecurity,1
+7286,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,850000,0,,,0,,3.0,Moderate Insecurity,1
+7287,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,1.5,Marginal Security,0
+7288,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,980000,0,,,0,,1.75,Marginal Security,0
+7289,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1030000,0,,,0,,1.5,Marginal Security,0
+7290,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1500000,1,18000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7291,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,1500000,0,,,0,,1.0,Secure,0
+7292,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,2.0,Marginal Security,0
+7293,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2500000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+7294,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,2400000,1,70000000,Buy productive inputs,0,,1.5,Marginal Security,0
+7295,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,5200000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7296,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1600000,0,,,0,,1.0,Secure,0
+7297,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,4500000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,2400000,1.0,Secure,0
+7298,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,18000000,1,100000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+7299,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,1,2000000,1.0,Secure,0
+7300,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,200000,1,400000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+7301,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2000000,0,,,0,,2.0,Marginal Security,0
+7302,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.5,Moderate Insecurity,1
+7303,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,0,,,0,,2.25,Marginal Security,0
+7304,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,2.5,Moderate Insecurity,1
+7305,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,1700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+7306,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,5000000,Other,0,,2.5,Moderate Insecurity,1
+7307,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,800000,2.0,Marginal Security,0
+7308,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,700000,Buy food,1,150000,1.75,Marginal Security,0
+7309,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.5,Moderate Insecurity,1
+7310,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1500000,"Buy clothes, shoes",0,,2.25,Marginal Security,0
+7311,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2200000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,1000000,2.0,Marginal Security,0
+7312,meta,villavicencio,50001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,300000,Pay rent or house rent,0,,1.75,Marginal Security,0
+7876,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2500000,0,,,0,,1.5,Marginal Security,0
+7877,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,40000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7878,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,260000,1,60000,Buy food,0,,1.75,Marginal Security,0
+8034,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,1620000,Other,0,,1.75,Marginal Security,0
+8035,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,0,,,0,,1.75,Marginal Security,0
+8036,meta,acacias,50006,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,2.0,Marginal Security,0
+8296,meta,puerto_gaitan,50568,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,300000,1,5000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+8297,meta,puerto_gaitan,50568,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1245000,0,,,1,600000,1.75,Marginal Security,0
+8298,meta,san_martin,50689,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,80000,0,,,0,,2.0,Marginal Security,0
+8299,meta,san_martin,50689,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1250000,0,,,0,,2.0,Marginal Security,0
+8300,meta,san_martin,50689,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,180000,0,,,0,,1.75,Marginal Security,0
+8301,meta,san_martin,50689,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,1.75,Marginal Security,0
+8302,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,1,0.0,0,0,0,1,Work,900000,0,,,1,4000000,1.75,Marginal Security,0
+8303,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,80000,0,,,0,,2.0,Marginal Security,0
+8304,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+8305,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,0,,,0,,2.0,Marginal Security,0
+8306,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Work,800000,1,800000,Cover health expenses,0,,2.25,Marginal Security,0
+8307,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,1000000,0,,,1,20000,1.75,Marginal Security,0
+8308,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3600000,1,54000000,Other,1,1500000,1.0,Secure,0
+8309,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+8310,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,0,,,0,,2.0,Marginal Security,0
+8311,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4000000,0,,,1,600000,1.5,Marginal Security,0
+8312,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1030000,1,2000000,Buy productive inputs,0,,1.75,Marginal Security,0
+8313,meta,villavicencio,50001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,658000,1,2000000,Other,0,,1.25,Secure,0

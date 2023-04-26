@@ -1,0 +1,296 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+30,magdalena,santa_marta,47001,11,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,8,Pension,1030000,0,,,0,,1.75,Marginal Security,0
+31,magdalena,santa_marta,47001,11,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,8,Pension,1030000,0,,,0,,1.75,Marginal Security,0
+53,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Pension,2500000,1,1500000,Buy food,0,,2.5,Moderate Insecurity,1
+54,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,6,Pension,2500000,1,1500000,Buy food,0,,2.5,Moderate Insecurity,1
+55,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Pension,1000000,1,99,Other,0,,2.25,Marginal Security,0
+56,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1200000,1,1200000,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+57,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1200000,1,1200000,ns_nr__strong_e__no_leer__strong_,0,,2.25,Marginal Security,0
+69,magdalena,santa_marta,47001,10,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,6,Work,1000000,1,1000000,Buy food,0,,3.75,Severe Insecurity,1
+105,magdalena,fundacion,47288,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.5,Severe Insecurity,1
+106,magdalena,santa_marta,47001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,680000,1,105000,Other,0,,2.75,Moderate Insecurity,1
+154,magdalena,pedraza,47541,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,804000,1,40000000,Other,0,,2.75,Moderate Insecurity,1
+194,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,180000,0,,,0,,3.5,Severe Insecurity,1
+195,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+196,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+197,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,750000,0,,,0,,3.25,Moderate Insecurity,1
+198,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+199,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work, ,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+200,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,1000000,0,,,0,,3.0,Moderate Insecurity,1
+201,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,5000000,1,5000000,Buy productive inputs,0,,1.5,Marginal Security,0
+250,magdalena,santa_marta,47001,8,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+395,magdalena,fundacion,47288,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+396,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,1,2000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+397,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,1,2000000,Pay rent or house rent,0,,2.25,Marginal Security,0
+398,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,4000000,0,,,0,,2.75,Moderate Insecurity,1
+399,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,5,Pension,4000000,0,,,0,,2.75,Moderate Insecurity,1
+400,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,1000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+401,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1120000,0,,,0,,3.0,Moderate Insecurity,1
+402,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1120000,0,,,0,,3.0,Moderate Insecurity,1
+403,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,600000,0,,,0,,3.25,Moderate Insecurity,1
+463,magdalena,fundacion,47288,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.25,Moderate Insecurity,1
+464,magdalena,fundacion,47288,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,3,Work,500000,0,,,1,400000,1.75,Marginal Security,0
+465,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,3.25,Moderate Insecurity,1
+466,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,3.75,Severe Insecurity,1
+467,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,2800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+468,magdalena,santa_marta,47001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,650000,0,,,0,,3.75,Severe Insecurity,1
+584,magdalena,ariguani,47058,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,1400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+749,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,200000,1,235000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+750,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,1,40000000,Other,0,,2.75,Moderate Insecurity,1
+751,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,600000,1,40000000,Other,0,,2.75,Moderate Insecurity,1
+752,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+753,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+754,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+755,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+756,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,700000,1,24000000,Pay school or education expenses,0,,2.75,Moderate Insecurity,1
+757,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,1450000,1,2000000,Other,0,,2.75,Moderate Insecurity,1
+892,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,800000,1,120000000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+893,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,600000,0,,,0,,1.5,Marginal Security,0
+894,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,3.5,Severe Insecurity,1
+895,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,1,1100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+896,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,180000,1,400000,Buy food,0,,3.75,Severe Insecurity,1
+897,magdalena,fundacion,47288,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1200000,1,3500000,Other,0,,1.5,Marginal Security,0
+898,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,860000,1,140000,"Buy clothes, shoes",0,,3.75,Severe Insecurity,1
+899,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1300000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+900,magdalena,santa_marta,47001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,2000000,Buy productive inputs,0,,2.25,Marginal Security,0
+1124,magdalena,ariguani,47058,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+1125,magdalena,ariguani,47058,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,840000,1,2000000,Other,0,,1.5,Marginal Security,0
+1126,magdalena,pedraza,47541,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+1127,magdalena,pedraza,47541,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Pension,1590000,0,,,1,200000,1.5,Marginal Security,0
+1128,magdalena,pedraza,47541,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,910000,1,10200000,ns_nr__strong_e__no_leer__strong_,0,,2.5,Moderate Insecurity,1
+1427,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.5,Moderate Insecurity,1
+1428,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,1.75,Marginal Security,0
+1429,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,350000,1,7000000,Other,0,,1.75,Marginal Security,0
+1430,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,2.25,Marginal Security,0
+1431,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+1432,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2400000,0,,,0,,2.25,Marginal Security,0
+1433,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,4000000,1,20000000,Other,0,,3.25,Moderate Insecurity,1
+1434,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1435,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,1800000,1,15000000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+1436,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,20000000,"Cover basic services (water, electricity)",0,,1.5,Marginal Security,0
+1437,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Remittances from migrants or help from family/friends,600000,0,,,0,,3.25,Moderate Insecurity,1
+1438,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1300000,0,,,0,,2.0,Marginal Security,0
+1439,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,1400000,0,,,0,,1.75,Marginal Security,0
+1440,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,2.0,Marginal Security,0
+1441,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,2.0,Marginal Security,0
+1442,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1443,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+1444,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,3000000,ns_nr,,,1,99,1.0,Secure,0
+1445,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1460000,1,25000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.5,Marginal Security,0
+1446,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Pension,2500000,1,6000000,Other,0,,1.5,Marginal Security,0
+1640,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,2.25,Marginal Security,0
+1641,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,530000,0,,,0,,2.25,Marginal Security,0
+1642,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1643,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1000000,Buy food,1,300000,2.5,Moderate Insecurity,1
+1644,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,10000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+1645,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,500000,1,4000000,Buy productive inputs,0,,2.0,Marginal Security,0
+1646,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.75,Moderate Insecurity,1
+1647,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.5,Marginal Security,0
+1648,magdalena,fundacion,47288,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1649,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2500000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,2.5,Moderate Insecurity,1
+1650,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,700000,2.5,Moderate Insecurity,1
+1651,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",700000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,2.75,Moderate Insecurity,1
+1652,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,2000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+1653,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,540000,1,2500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1654,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+1655,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,2.0,Marginal Security,0
+1656,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,0,,3.75,Severe Insecurity,1
+1657,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,2.25,Marginal Security,0
+1658,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.25,Marginal Security,0
+1659,magdalena,santa_marta,47001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,480000,1,600000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2102,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,1500000,0,,,0,,1.5,Marginal Security,0
+2103,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,300000,0,,,0,,3.25,Moderate Insecurity,1
+2104,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,625000,0,,,0,,2.75,Moderate Insecurity,1
+2105,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,500000,Other,0,,1.75,Marginal Security,0
+2106,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+2107,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,500000,Buy food,0,,4.0,Severe Insecurity,1
+2108,magdalena,ariguani,47058,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2109,magdalena,pedraza,47541,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,2000000,Other,0,,3.0,Moderate Insecurity,1
+2110,magdalena,pedraza,47541,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1250000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+2600,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,4.0,Severe Insecurity,1
+2601,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,4.0,Severe Insecurity,1
+2602,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,3.5,Severe Insecurity,1
+2603,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,1,120000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+2604,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,930000,0,,,0,,2.0,Marginal Security,0
+2605,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",450000,1,1500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+2606,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,450000,0,,,0,,3.5,Severe Insecurity,1
+2607,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,0,,,0,,3.25,Moderate Insecurity,1
+2608,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+2609,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,150000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+2610,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,150000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.75,Severe Insecurity,1
+2611,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,3000000,1,15000000,Other,0,,2.0,Marginal Security,0
+2612,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,950000,0,,,0,,2.75,Moderate Insecurity,1
+2613,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,950000,0,,,0,,2.75,Moderate Insecurity,1
+2614,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,2200000,1,6000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2615,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,200000,1,99,"Cover basic services (water, electricity)",1,200000,3.0,Moderate Insecurity,1
+2616,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,4,Work,1500000,0,,,0,,2.25,Marginal Security,0
+2617,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,385000,1,99,Buy food,0,,3.5,Severe Insecurity,1
+2618,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1300000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+2907,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,1080000,pay trips,0,,2.75,Moderate Insecurity,1
+2908,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,1,5000000,Buy food,0,,2.5,Moderate Insecurity,1
+2909,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,200000,1,6000000,Buy productive inputs,0,,4.0,Severe Insecurity,1
+2910,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,100000,0,,,0,,3.0,Moderate Insecurity,1
+2911,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1250000,1,6500000,Buy productive inputs,0,,1.75,Marginal Security,0
+2912,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3200000,0,,,0,,1.5,Marginal Security,0
+2913,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.75,Marginal Security,0
+2914,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,950000,0,,,0,,2.0,Marginal Security,0
+2915,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,1800000,1,17000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+2916,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1425000,0,,,1,500000,1.25,Secure,0
+2917,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,700000,1,50000000,Buy productive inputs,0,,2.75,Moderate Insecurity,1
+2918,magdalena,fundacion,47288,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,300000,1.0,Secure,0
+2919,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1650000,1,2300000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2920,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+2921,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,15000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+2922,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,1,0,0,0.0,0,0,0,1,Work,500000,1,3000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,150000,3.5,Severe Insecurity,1
+2923,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,"Other (income, chance, inheritance...)",1500000,1,6000000,Other,0,,1.75,Marginal Security,0
+2924,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,1,3000000,Other,0,,1.5,Marginal Security,0
+2925,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,900000,1,75000,Buy food,0,,3.0,Moderate Insecurity,1
+2926,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,700000,Buy food,0,,3.0,Moderate Insecurity,1
+2927,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,480000,1,7000000,"Cover basic services (water, electricity)",0,,3.75,Severe Insecurity,1
+2928,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,3.25,Moderate Insecurity,1
+2929,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,0,,,0,,1.5,Marginal Security,0
+2930,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,9000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+2931,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,350000,1,200000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+2932,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,1,20000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+2933,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,0,,2.25,Marginal Security,0
+2934,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.5,Marginal Security,0
+2935,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,1,1000000,Pay school or education expenses,0,,2.5,Moderate Insecurity,1
+2936,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,1,1000000,Cover health expenses,0,,2.25,Marginal Security,0
+2937,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,840000,1,350000,Buy food,0,,1.75,Marginal Security,0
+2938,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1400000,1,12000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+2939,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.0,Marginal Security,0
+2940,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,200000,Pay school or education expenses,0,,2.25,Marginal Security,0
+2941,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1018000,1,1800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.25,Moderate Insecurity,1
+2942,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+2943,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,4000000,1,10000000,Other,0,,1.0,Secure,0
+2944,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1400000,0,,,0,,3.0,Moderate Insecurity,1
+2945,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,200000,1.25,Secure,0
+2946,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+2947,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1000000,0,,,0,,1.5,Marginal Security,0
+2948,magdalena,santa_marta,47001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,700000,0,,,0,,2.75,Moderate Insecurity,1
+3769,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,1,500000,1.5,Marginal Security,0
+3770,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+3771,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.75,Moderate Insecurity,1
+3772,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,1,800000,Other,0,,2.5,Moderate Insecurity,1
+3773,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,1.75,Marginal Security,0
+3774,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,3000000,Buy food,0,,2.25,Marginal Security,0
+3775,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,1.0,Secure,0
+3776,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,0,,2.25,Marginal Security,0
+3777,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+3778,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.5,Severe Insecurity,1
+3779,magdalena,ariguani,47058,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1350000,1,350000,Other,0,,1.75,Marginal Security,0
+3780,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1200000,1,500000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+3781,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+3782,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,640000,1,11000000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+3783,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+3784,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2800000,1,7000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+3785,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,1,280000,Other,0,,3.25,Moderate Insecurity,1
+3786,magdalena,pedraza,47541,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,640000,1,200000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4531,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,"Other (income, chance, inheritance...)",900000,0,,,0,,3.5,Severe Insecurity,1
+4532,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,720000,1,330000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+4533,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,750000,1,2500000,Cover health expenses,1,95000,2.25,Marginal Security,0
+4534,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,4000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4535,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2000000,1,1100000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+4536,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,200000,1,2000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+4537,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,200000,1,2000000,"Cover basic services (water, electricity)",0,,2.0,Marginal Security,0
+4538,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1100000,0,,,0,,2.25,Marginal Security,0
+4539,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,0,,,0,,1.25,Secure,0
+4540,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1800000,0,,,0,,1.25,Secure,0
+4541,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1500000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+4542,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,900000,1,385000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.5,Severe Insecurity,1
+4543,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,1,300000,2.5,Moderate Insecurity,1
+4866,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,700000,0,,,0,,2.25,Marginal Security,0
+4867,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,250000,0,,,0,,2.75,Moderate Insecurity,1
+4868,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,600000,1.5,Marginal Security,0
+4869,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,0,,,0,,2.0,Marginal Security,0
+4870,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,900000,0,,,0,,2.25,Marginal Security,0
+4871,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,1,820000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.25,Secure,0
+4872,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1800000,Buy food,0,,2.25,Marginal Security,0
+4873,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,1200000,Buy food,0,,2.0,Marginal Security,0
+4874,magdalena,fundacion,47288,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,800000,Buy productive inputs,0,,3.25,Moderate Insecurity,1
+4875,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,200000,Buy food,0,,3.0,Moderate Insecurity,1
+4876,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1100000,1,99,Pay rent or house rent,1,99,1.25,Secure,0
+4877,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,540000,1,544000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,400000,2.5,Moderate Insecurity,1
+4878,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,200000,Buy food,1,99,3.25,Moderate Insecurity,1
+4879,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,0,,2.75,Moderate Insecurity,1
+4880,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,500000,Other,0,,2.25,Marginal Security,0
+4881,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,2.0,Marginal Security,0
+4882,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,2200000,0,,,0,,1.75,Marginal Security,0
+4883,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+4884,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,200000,1,6000000,"Cover basic services (water, electricity)",0,,3.25,Moderate Insecurity,1
+4885,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3800000,0,,,1,3000000,1.0,Secure,0
+4886,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,0,,2.5,Moderate Insecurity,1
+4887,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+4888,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,650000,0,,,0,,2.5,Moderate Insecurity,1
+4889,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,1200000,Buy productive inputs,0,,2.0,Marginal Security,0
+4890,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1200000,1,150000,Buy productive inputs,1,150000,2.25,Marginal Security,0
+4891,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+4892,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,1,10000000,Other,0,,1.5,Marginal Security,0
+4893,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,160000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+4894,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,1,10000000,"Cover basic services (water, electricity)",0,,2.75,Moderate Insecurity,1
+4895,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,2000000,Pay school or education expenses,0,,1.25,Secure,0
+4896,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,850000,0,,,0,,1.5,Marginal Security,0
+4897,magdalena,santa_marta,47001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,1700000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,300000,1.0,Secure,0
+5666,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,30000000,Buy productive inputs,0,,1.5,Marginal Security,0
+5667,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,500000,Other,0,,2.0,Marginal Security,0
+5668,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,1,5000000,"Cover basic services (water, electricity)",0,,3.75,Severe Insecurity,1
+5669,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,220000,0,,,0,,3.75,Severe Insecurity,1
+5670,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1100000,0,,,0,,2.25,Marginal Security,0
+5671,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,1,1000000,1.75,Marginal Security,0
+5672,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.0,Marginal Security,0
+5673,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,1,3000000,3.25,Moderate Insecurity,1
+5674,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,500000,0,,,0,,3.75,Severe Insecurity,1
+5675,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+5676,magdalena,ariguani,47058,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,0,,,0,,1.5,Marginal Security,0
+5677,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1000000,1,61000000,Buy productive inputs,0,,2.25,Marginal Security,0
+5678,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,600000,0,,,0,,3.75,Severe Insecurity,1
+5679,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,1.75,Marginal Security,0
+5680,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,500000,1,1200000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+5681,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,1,450000,Buy food,0,,3.0,Moderate Insecurity,1
+5682,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,600000,1,60000,Cover health expenses,0,,2.0,Marginal Security,0
+5683,magdalena,pedraza,47541,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,1,2500000,Other,0,,2.0,Marginal Security,0
+6389,magdalena,fundacion,47288,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Remittances from migrants or help from family/friends,600000,0,,,1,420000,1.5,Marginal Security,0
+6390,magdalena,fundacion,47288,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,150000,0,,,0,,3.25,Moderate Insecurity,1
+6391,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,0,,,0,,2.25,Marginal Security,0
+6392,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,500000,Pay rent or house rent,0,,1.75,Marginal Security,0
+6393,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,0,,,0,,1.0,Secure,0
+6394,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,1,500000,"Cover basic services (water, electricity)",0,,1.75,Marginal Security,0
+6395,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,300000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+6396,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work, ,1,300000,Buy productive inputs,0,,3.0,Moderate Insecurity,1
+6397,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2500000,1,5000000,Other,0,,1.0,Secure,0
+6398,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,900000,0,,,0,,3.25,Moderate Insecurity,1
+6399,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,700000,1,2000000,Other,0,,1.25,Secure,0
+6400,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,460000,0,,,0,,2.25,Marginal Security,0
+6401,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Government assistance,460000,0,,,0,,2.25,Marginal Security,0
+6681,magdalena,fundacion,47288,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,750000,1,600000,Other,0,,2.0,Marginal Security,0
+6682,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,960000,1,9000000,Buy productive inputs,0,,2.25,Marginal Security,0
+6683,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1369600,1,13000000,Other,0,,2.25,Marginal Security,0
+6684,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2300000,0,,,1,2000000,1.0,Secure,0
+6685,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+6686,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,0,,,1,3000000,1.0,Secure,0
+6687,magdalena,santa_marta,47001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,400000,0,,,0,,1.0,Secure,0
+7313,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3000000,0,,,0,,1.5,Marginal Security,0
+7314,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,920000,1,900000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+7315,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.25,Marginal Security,0
+7316,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",400000,0,,,0,,2.5,Moderate Insecurity,1
+7317,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,2800000,Buy productive inputs,0,,2.5,Moderate Insecurity,1
+7318,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,2.5,Moderate Insecurity,1
+7319,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,0,,2.75,Moderate Insecurity,1
+7320,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+7321,magdalena,ariguani,47058,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1350000,0,,,0,,1.5,Marginal Security,0
+7322,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,600000,0,,,0,,1.75,Marginal Security,0
+7323,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,0,,,1,300000,2.25,Marginal Security,0
+7324,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,750000,1,17000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,3000000,2.25,Marginal Security,0
+7325,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,160000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+7326,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,200000,1,2000000,Buy productive inputs,0,,1.75,Marginal Security,0
+7327,magdalena,pedraza,47541,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,1,1300000,"Buy clothes, shoes",0,,2.25,Marginal Security,0
+7879,magdalena,fundacion,47288,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,4800000,1,200000,Buy food,0,,2.0,Marginal Security,0
+7880,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,200000,0,,,0,,2.5,Moderate Insecurity,1
+7881,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,380000,0,,,0,,2.5,Moderate Insecurity,1
+7882,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Remittances from migrants or help from family/friends,980000,1,13550000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+7883,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,120000,0,,,0,,4.0,Severe Insecurity,1
+8037,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,1,10000,2.75,Moderate Insecurity,1
+8038,magdalena,santa_marta,47001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+8314,magdalena,ariguani,47058,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,240000,0,,,0,,2.0,Marginal Security,0
+8315,magdalena,ariguani,47058,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,400000,0,,,0,,2.0,Marginal Security,0
+8316,magdalena,pedraza,47541,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,245000,0,,,0,,2.25,Marginal Security,0

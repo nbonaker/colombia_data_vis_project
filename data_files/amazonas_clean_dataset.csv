@@ -1,0 +1,127 @@
+,department,municipality,postal_code,household_size,organization_assistance,org__other,org__productive_support _social_program,org__education,org__non_food_products,org__health_benefits,org__basket_bonus_cupon_for_food,org__in_kind_food,org__money,government_assistance,gov__other,gov__productive_support _social_program,gov__education,gov__non_food_products,gov__health_benefits,gov__basket_bonus_cupon_for_food,gov__in_kind_food,gov__money,wfp_assistance,wfp__cash,wfp__bonus_coupon,wfp__in_species,num_person_income,income_source,total_income,has_debt,debt_amount,debt_reason,has_saved_money,ammount_saved,cari,cari_category,cari_insecurity
+3,amazonas,leticia,91001,15,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,3,Work,2420000,0,,,0,,1.75,Marginal Security,0
+25,amazonas,leticia,91001,12,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,5,Work,8100000,0,,,1,200000,2.5,Moderate Insecurity,1
+49,amazonas,leticia,91001,11,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,900000,0,,,0,,2.75,Moderate Insecurity,1
+102,amazonas,leticia,91001,10,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,2,Work,1200000,1,700000,Other,0,,2.5,Moderate Insecurity,1
+179,amazonas,leticia,91001,9,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,3,Work,6000000,0,,,1,3000000,1.25,Secure,0
+180,amazonas,leticia,91001,9,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,2400000,1,5000000,"Buy clothes, shoes",1,1500000,2.25,Marginal Security,0
+375,amazonas,puerto_narino,91540,8,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,2500000,0,,,1,2000000,2.25,Marginal Security,0
+689,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,1000000,0,,,0,,2.5,Moderate Insecurity,1
+690,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Pension,1800000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.75,Moderate Insecurity,1
+691,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2100000,1,2000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+692,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,1,Work,600000,0,,,0,,3.0,Moderate Insecurity,1
+693,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,Work,500000,1,400000,Buy food,0,,3.0,Moderate Insecurity,1
+694,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,300000,1,30000,Buy food,0,,3.75,Severe Insecurity,1
+695,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,800000,1,300000,Buy food,1,500000,3.5,Severe Insecurity,1
+696,amazonas,leticia,91001,7,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,2000000,0,,,1,3000000,1.5,Marginal Security,0
+697,amazonas,puerto_narino,91540,7,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,950000,0,,,0,,2.75,Moderate Insecurity,1
+1350,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,2,Work,4660000,1,300000,Other,0,,2.5,Moderate Insecurity,1
+1351,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,4,Work,3000000,0,,,0,,1.75,Marginal Security,0
+1352,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,1,1000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+1353,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,600000,1,1050000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.0,Marginal Security,0
+1354,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,800000,0,,,1,200000,3.25,Moderate Insecurity,1
+1355,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,0,,,0,,2.25,Marginal Security,0
+1356,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,1,250000,3.0,Moderate Insecurity,1
+1357,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1320000,1,8000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+1358,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,1,0,0,1,0.0,0,0,0,1,Work,400000,1,1000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+1359,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,250000,0,,,0,,2.75,Moderate Insecurity,1
+1360,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Government assistance,1000000,0,,,0,,2.0,Marginal Security,0
+1361,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+1362,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,800000,0,,,0,,3.25,Moderate Insecurity,1
+1363,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,3,Work,1750000,1,970000,"Cover basic services (water, electricity)",0,,2.5,Moderate Insecurity,1
+1364,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,4000000,0,,,0,,1.75,Marginal Security,0
+1365,amazonas,leticia,91001,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2500000,1,2000000,Other,0,,2.5,Moderate Insecurity,1
+1366,amazonas,puerto_narino,91540,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,1,0.0,0,0,0,1,Work,800000,0,,,1,2000000,2.25,Marginal Security,0
+1367,amazonas,puerto_narino,91540,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,3,Pension,3000000,1,1000000,Pay school or education expenses,1,600000,1.25,Secure,0
+1368,amazonas,puerto_narino,91540,6,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,400000,0,,,0,,2.75,Moderate Insecurity,1
+2512,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,1,600000,1.75,Marginal Security,0
+2513,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.5,Marginal Security,0
+2514,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,1,32000000,Other,1,4000000,1.5,Marginal Security,0
+2515,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1800000,0,,,0,,2.0,Marginal Security,0
+2516,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,1,Work,700000,0,,,0,,2.5,Moderate Insecurity,1
+2517,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+2518,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,125000,1,5000000,Other,0,,2.75,Moderate Insecurity,1
+2519,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,"Other (income, chance, inheritance...)",900000,0,,,0,,2.25,Marginal Security,0
+2520,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,400000,0,,,0,,3.0,Moderate Insecurity,1
+2521,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,3000000,0,,,0,,2.0,Marginal Security,0
+2522,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,2000000,0,,,0,,1.0,Secure,0
+2523,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,0,,,0,,2.0,Marginal Security,0
+2524,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,1300000,0,,,0,,2.25,Marginal Security,0
+2525,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,1000000,0,,,0,,1.5,Marginal Security,0
+2526,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,6000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+2527,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,1850000,1,1350000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.5,Moderate Insecurity,1
+2528,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,980000,1,2000000,Other,0,,2.75,Moderate Insecurity,1
+2529,amazonas,leticia,91001,5,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,0,,,1,8000000,1.0,Secure,0
+2530,amazonas,puerto_narino,91540,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1300000,0,,,0,,3.25,Moderate Insecurity,1
+2531,amazonas,puerto_narino,91540,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,800000,0,,,1,12000,1.75,Marginal Security,0
+2532,amazonas,puerto_narino,91540,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,3.5,Severe Insecurity,1
+2533,amazonas,puerto_narino,91540,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,150000,0,,,0,,2.0,Marginal Security,0
+2534,amazonas,puerto_narino,91540,5,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4419,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+4420,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,"Other (income, chance, inheritance...)",1200000,1,500000,Buy productive inputs,0,,1.5,Marginal Security,0
+4421,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1273000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,200000,2.0,Marginal Security,0
+4422,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1700000,0,,,1,600000,3.0,Moderate Insecurity,1
+4423,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,960000,0,,,0,,2.25,Marginal Security,0
+4424,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,500000,0,,,0,,2.75,Moderate Insecurity,1
+4425,amazonas,leticia,91001,4,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Government assistance,3200000,1,22000000,Other,0,,2.25,Marginal Security,0
+4426,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,2900000,0,,,1,500000,1.5,Marginal Security,0
+4427,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,2000000,1,400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+4428,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1600000,1,12000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.5,Moderate Insecurity,1
+4429,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1140000,0,,,0,,1.75,Marginal Security,0
+4430,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,150000,0,,,0,,2.25,Marginal Security,0
+4431,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,2.0,Marginal Security,0
+4432,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,300000,0,,,0,,2.0,Marginal Security,0
+4433,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,1,Work,900000,1,1200000,Other,0,,2.5,Moderate Insecurity,1
+4434,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,3,Work,6000000,1,10000000,Pay school or education expenses,0,,2.0,Marginal Security,0
+4435,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1500000,1,5000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.0,Marginal Security,0
+4436,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,680000,1,1150000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,3.0,Moderate Insecurity,1
+4437,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,1,800000,1.75,Marginal Security,0
+4438,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,2300000,0,,,0,,1.5,Marginal Security,0
+4439,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,350000,0,,,0,,2.5,Moderate Insecurity,1
+4440,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2450000,1,1200000,Buy food,0,,2.25,Marginal Security,0
+4441,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,1,0,0,0.0,0,0,0,1,Work,700000,0,,,1,3800000,2.25,Marginal Security,0
+4442,amazonas,leticia,91001,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,480000,1,40000000,Other,0,,2.25,Marginal Security,0
+4443,amazonas,puerto_narino,91540,4,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,2.0,Marginal Security,0
+4444,amazonas,puerto_narino,91540,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Government assistance,1200000,1,10000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,500000,2.25,Marginal Security,0
+4445,amazonas,puerto_narino,91540,4,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,1,Work,930000,0,,,1,100000,2.5,Moderate Insecurity,1
+6288,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,600000,0,,,0,,1.75,Marginal Security,0
+6289,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1400000,1,800000,Buy food,0,,2.25,Marginal Security,0
+6290,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1500000,1,350000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",1,5000000,1.5,Marginal Security,0
+6291,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,0,,,0,,1.75,Marginal Security,0
+6292,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1400000,1,800000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+6293,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,1,0,0,0,0,0,0.0,0,0,0,2,Work,500000,0,,,0,,1.5,Marginal Security,0
+6294,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,1,0,0,0,1,0.0,0,0,0,2,Work,700000,0,,,0,,2.0,Marginal Security,0
+6295,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,1,0,0.0,0,0,0,2,Work,2100000,1,2000000,Other,0,,1.25,Secure,0
+6296,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,5000000,1,90000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,2.25,Marginal Security,0
+6297,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,1,0,0,0,0,0,0,0.0,0,0,0,2,Remittances from migrants or help from family/friends,750000,0,,,0,,2.25,Marginal Security,0
+6298,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1800000,0,,,0,,2.25,Marginal Security,0
+6299,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1800000,1,1500000,Other,0,,1.75,Marginal Security,0
+6300,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1200000,0,,,0,,1.75,Marginal Security,0
+6301,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1600000,1,7000000,Other,0,,2.0,Marginal Security,0
+6302,amazonas,leticia,91001,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1040000,1,800000,Pay school or education expenses,0,,1.75,Marginal Security,0
+6303,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,3,Work,580000,0,,,1,2000000,1.75,Marginal Security,0
+6304,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,2000000,1,50000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+6305,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1500000,1,4000000,Pay school or education expenses,0,,1.75,Marginal Security,0
+6306,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1000000,0,,,0,,1.25,Secure,0
+6307,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,300000,0,,,1,3000000,2.5,Moderate Insecurity,1
+6308,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,1500000,0,,,0,,2.5,Moderate Insecurity,1
+6309,amazonas,puerto_narino,91540,3,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Work,1000000,0,,,0,,1.75,Marginal Security,0
+7827,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Government assistance,400000,0,,,0,,3.0,Moderate Insecurity,1
+7828,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,1060000,0,,,0,,1.25,Secure,0
+7829,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,5000000,1,2000000,Pay school or education expenses,1,2500000,1.0,Secure,0
+7830,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,1,2431000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.75,Marginal Security,0
+7831,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,2,Government assistance,780000,0,,,0,,2.25,Marginal Security,0
+7832,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1800000,0,,,0,,2.5,Moderate Insecurity,1
+7833,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,800000,1,5000000,Pay school or education expenses,0,,1.5,Marginal Security,0
+7834,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,2400000,1,2400000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+7835,amazonas,leticia,91001,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Pension,3800000,1,1500000,Other,1,2000000,1.0,Secure,0
+7836,amazonas,puerto_narino,91540,2,0.0,0,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,4500000,Pay school or education expenses,1,1200000,1.75,Marginal Security,0
+7837,amazonas,puerto_narino,91540,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,Work,3000000,0,,,0,,1.0,Secure,0
+7838,amazonas,puerto_narino,91540,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,200000,0,,,1,100000,3.0,Moderate Insecurity,1
+7839,amazonas,puerto_narino,91540,2,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,"Other (income, chance, inheritance...)",1100000,1,48000000,Other,0,,1.75,Marginal Security,0
+8507,amazonas,leticia,91001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,The household receives no income of any kind,0,1,50000,ns_nr__strong_e__no_leer__strong_,0,,3.25,Moderate Insecurity,1
+8508,amazonas,leticia,91001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,3300000,1,75000000,"Purchase of assets (house, apartment, car, motorcycle, household appliances, etc.)",0,,1.0,Secure,0
+8509,amazonas,leticia,91001,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,Work,2300000,0,,,1,800000,1.0,Secure,0
+8510,amazonas,leticia,91001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Work,1000000,1,30000000,Pay school or education expenses,0,,2.25,Marginal Security,0
+8511,amazonas,leticia,91001,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,Pension,1000000,1,3000000,pay trips,0,,1.5,Marginal Security,0
+8512,amazonas,puerto_narino,91540,1,0.0,0,0,0,0,0,0,0,0,1.0,0,0,0,0,1,0,0,0,0.0,0,0,0,1,Work,300000,0,,,1,400000,2.5,Moderate Insecurity,1
