@@ -37,7 +37,7 @@
   }
   .description-box-text{
     display: block;
-    width: 95%;
+    width: 90%;
     height: 95%;
     padding-left: 5%;
     padding-top: 5%;
@@ -56,6 +56,10 @@
       </div>
       <div class="description-box">
         <div class="description-box-text">
+          <p><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags denote cites where food insecurity
+          is higher than the national average.</p>
+          <p><img src = "deep_red_flag_icon.svg" width="20" height="20"/> Darker red flags denote cites where BOTH food insecurity
+            is higher than the national average AND governemnt aid is below the national average.</p>
           <p>40% of the population are food insecure</p>
           <p>60% of population receiving aid</p>
           <p>x% of aid comes from the  government</p>
@@ -84,17 +88,17 @@
   // disable map zoom when using scroll
   map.scrollZoom.disable();
 
-  function create_station_markers(station_data) {
+  function create_flag_markers(station_data, icon_file) {
     console.log(station_data)
     station_markers = marker_container
             .selectAll("image")
             .data(station_data)
             .enter()
             .append("svg:image")
-            .attr('width', 20)
-            .attr('height', 20)
+            .attr('width', 25)
+            .attr('height', 25)
             .attr("fill-opacity", 0.4)
-            .attr("xlink:href","./flag_svg.svg")
+            .attr("xlink:href", icon_file)
             .attr("name", function (d) {
               return d.city;
             });
@@ -104,23 +108,30 @@
 
   function position_station_markers() {
     station_markers
-            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-20) + ")";});
+            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
   }
   function project(d) {
     return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
   }
 
 
-  let stationsFile = "./data_files/filtered_mun_coords.json";
-  let station_data = [];
+  let redFlagsFile = "./data_files/red_flags_city_coords.json";
   let station_markers;
 
+  let yellowFlagsFile = "./data_files/yellow_flags_city_coords.json";
+
   map.on("load", () => {
-    fetch(stationsFile)
+    fetch(yellowFlagsFile)
             .then((response) => response.json())
             .then((d) => (station_data = d))
-            .then((d) => create_station_markers(d));
+            .then((d) => create_flag_markers(d, './red_flag_icon.svg'));
+
+    fetch(redFlagsFile)
+            .then((response) => response.json())
+            .then((d) => (station_data = d))
+            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg'));
   });
+
 
   const marker_container = d3
           .select(map.getCanvasContainer() )
