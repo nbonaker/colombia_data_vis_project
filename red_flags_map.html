@@ -2,7 +2,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>🚩s of Colombia</title>
   <!-- Load d3.js -->
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
@@ -87,26 +87,27 @@
   // disable map zoom when using scroll
   map.scrollZoom.disable();
 
-  function create_flag_markers(station_data, icon_file) {
+  function create_flag_markers(station_data, icon_file, markers) {
     console.log(station_data)
-    station_markers = marker_container
-            .selectAll("image")
+    markers = marker_container
+            .selectAll("circle")
             .data(station_data)
             .enter()
             .append("svg:image")
             .attr('width', 25)
             .attr('height', 25)
             .attr("fill-opacity", 0.4)
-            .attr("xlink:href", icon_file)
+            .attr("xlink:href",
+                    icon_file)
             .attr("name", function (d) {
               return d.city;
             });
 
-    position_station_markers();
+    position_station_markers(markers);
   }
 
-  function position_station_markers() {
-    station_markers
+  function position_station_markers(markers) {
+    markers
             .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
   }
   function project(d) {
@@ -115,20 +116,21 @@
 
 
   let redFlagsFile = "./data_files/red_flags_city_coords.json";
-  let station_markers;
+  let red_markers;
 
   let yellowFlagsFile = "./data_files/yellow_flags_city_coords.json";
+  let yellow_markers;
 
   map.on("load", () => {
     fetch(yellowFlagsFile)
             .then((response) => response.json())
             .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './red_flag_icon.svg'));
+            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers));
 
     fetch(redFlagsFile)
             .then((response) => response.json())
             .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg'));
+            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg', yellow_markers));
   });
 
 
@@ -141,9 +143,10 @@
           .style("z-index", 2);
 
   // resizes the map when resizing event finishes (prevents jittering)
-  window.onresize = function() {
-    position_station_markers()
-  }
+  // window.onresize = function() {
+  //   position_station_markers(red_markers)
+  //   // position_station_markers()
+  // }
 </script>
 </body>
 </html>

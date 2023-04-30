@@ -56,7 +56,7 @@
 
     function update_bubble_chart(dpt_name) {
         var plot_data = [];
-        d3.csv("data_files/"+ dpt_name + "_clean_dataset.csv", function (data) {
+        d3.csv("data_files/by_department/"+ dpt_name + "_clean_dataset.csv", function (data) {
             for (var i = 0; i < data.length; i++) {
                 plot_data.push({"size": data[i].household_size, "aid": data[i].government_assistance, "group": Math.round(data[i].cari)})
             }

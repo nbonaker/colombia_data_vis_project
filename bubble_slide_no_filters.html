@@ -2,8 +2,9 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+  <title>🚩s of Colombia</title>
   <!-- Load d3.js -->
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v4.js"></script>
   <script type="module" src="./bubbles_simple.js"></script>
   <link rel="stylesheet" href="main_stylesheet.css">
@@ -53,13 +54,12 @@
     </div>
   </div>
 
-  <div class="timeline-box">
-    <div><a href="./red_flags_map.html" target="_self" style="display: table-cell;">Previous</a></div>
-    <div class="timeline-box-text" style="display: table-cell; width: 90%">timeline goes here</div>
-    <div><a href="./bubble_slide_no_filters.html" target="_self" style="display: table-cell;">Next</a></div>
-  </div>
+  <div id="includeHtml" class="timeline-box"></div>
 
-<script type="module">
+  <script type="module">
+    $(function() {
+      $("#includeHtml").load("timeline.html");
+    });
     import {BubbleChart} from "./bubbles_simple.js";
     // load the data
     update_bubble_chart()

@@ -2,8 +2,9 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+  <title>🚩s of Colombia</title>
   <!-- Load d3.js -->
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
   <link rel="stylesheet" href="main_stylesheet.css">
 </head>
@@ -156,13 +157,12 @@
     </div>
   </div>
 
-  <div class="timeline-box">
-    <div><a href="./red_flags_images.html" target="_self" style="display: table-cell;">Previous</a></div>
-    <div class="timeline-box-text" style="display: table-cell; width: 90%">timeline goes here</div>
-    <div><a href="./red_flags_map.html" target="_self" style="display: table-cell;">Next</a></div>
-  </div>
+  <div id="includeHtml" class="timeline-box"></div>
 
   <script>
+    $(function() {
+      $("#includeHtml").load("timeline.html");
+    });
     let slideIndex = 0;
     showSlides();
 
