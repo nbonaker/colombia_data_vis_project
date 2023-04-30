@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
   <!-- Load d3.js -->
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
@@ -67,14 +68,12 @@
       </div>
     </div>
   </div>
-
-  <div class="timeline-box">
-    <div><a href="./red_flags_images.html" target="_self" style="display: table-cell;">Previous</a></div>
-    <div class="timeline-box-text" style="display: table-cell; width: 90%">timeline goes here</div>
-    <div><a href="./bubble_slide_no_filters.html" target="_self" style="display: table-cell;">Next</a></div>
-  </div>
+  <div id="includeHtml" class="timeline-box"></div>
 
 <script>
+  $(function() {
+    $("#includeHtml").load("timeline.html");
+  });
   // load mabbox map
   mapboxgl.accessToken = "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
   const map = new mapboxgl.Map({
