@@ -1,79 +1,256 @@
-<!-- Code from d3-graph-gallery.com -->
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>🚩s of Colombia</title>
+    <!-- Load d3.js -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<!--    <script src="https://d3js.org/d3.v4.js"></script>-->
+    <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
 
-<!-- Load d3.js -->
-<script src="https://d3js.org/d3.v4.js"></script>
-<script type="module" src="./bubbles.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
+    <script type="module" src="./bubbles.js"></script>
+    <link rel="stylesheet" href="main_stylesheet.css">
+</head>
+<style>
+    .map-box{
+        background-color:white;
+        background-clip: content-box;
+        border-radius: 20px;
+        width: 50%;
+        height: 100%;
+        display: table-cell;
 
-<!-- Create a div where the graph will take place -->
-<div>
-<label for="dpt_select">Select a Department: </label>
-<select name="department" id="dpt_select">
-    <option value="bolivar">Bolivar</option>
-    <option value="vichada">Vichada</option>
-    <option value="sucre">Sucre</option>
-    <option value="amazonas">Amazonas</option>
-    <option value="huila">Huila</option>
-    <option value="cordoba">Cordoba</option>
-    <option value="cesar">Cesar</option>
-    <option value="putumayo">Putymayo</option>
-    <option value="norte_de_santander">Norte de Santander</option>
-    <option value="cauca">Cauca</option>
-    <option value="bogota_dc">Bogota DC</option>
-    <option value="la_guajira">La Guajira</option>
-    <option value="antioquia">Antioquia</option>
-    <option value="narino">Narino</option>
-    <option value="meta">Meta</option>
-    <option value="magdalena">Magdalena</option>
-    <option value="cundinamarca">Cundinamarca</option>
-    <option value="vaupes">Vaupes</option>
-    <option value="atlantico">Atlantico</option>
-    <option value="valle_del_cauca">Valle del Cauca</option>
-    <option value="boyaca">Boyaca</option>
-    <option value="tolima">Tolima</option>
-    <option value="risaralda">Risaralda</option>
-    <option value="quindio">Quindio</option>
-    <option value="casanare">Casanare</option>
-    <option value="arauca">Arauca</option>
-    <option value="caldas">Caldas</option>
-    <option value="choco">Choco</option>
-    <option value="santander">Santander</option>
-    <option value="caqueta">Caqueta</option>
-    <option value="archipielago_de_san_andres">Archipielago de San Andres</option>
-</select>
-    <label for="color_select">Select a Hue Variable: </label>
-    <select name="hue" id="color_select">
-        <option value="cari">CARI Score</option>
-        <option value="gov_aid">Governemnt Aid</option>
-    </select>
+    }
+    #map {
+        border-radius: 20px;
+        background-clip: content-box;
+        width: 100%;
+        height: 100%;
+    }
+
+    .bubble-box{
+        background-color:white;
+        background-clip: content-box;
+        border-radius: 20px;
+        width: 50%;
+        height: 100%;
+        display: table-cell;
+        vertical-align: top;
+
+    }
+    .description-box{
+        background-color:white;
+        background-clip: content-box;
+        border-radius: 20px;
+        width: 100%;
+        height: 14%;
+        /*display: table-row;*/
+        padding-left: 5px;
+        padding-bottom: 5px;
+        vertical-align: top;
+    }
+    .description-box-text{
+        display: block;
+        width: 95%;
+        height: 95%;
+        padding-left: 15px;
+        padding-top: 15px;
+    }
+
+    .content-container{
+        width: 100%;
+        height: 66%;
+        display: table;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+</style>
+<body>
+
+<div class="title-box">
+    <div class="title-box-text">Food Security By Department</div>
 </div>
-<div id="my_dataviz"></div>
+
+<div class="content-container">
+    <div style="display: table-row; padding: 10px;">
+        <div class="map-box">
+            <div id="map" ></div>
+        </div>
+        <div class="bubble-box">
+            <!-- Create a div where the graph will take place -->
+            <div style="padding-left: 15px; padding-top: 15px;">
+                <label for="dpt_select">Select a Department: </label>
+                <select name="department" id="dpt_select">
+                    <option value="bolivar">Bolivar</option>
+                    <option value="vichada">Vichada</option>
+                    <option value="sucre">Sucre</option>
+                    <option value="amazonas">Amazonas</option>
+                    <option value="huila">Huila</option>
+                    <option value="cordoba">Cordoba</option>
+                    <option value="cesar">Cesar</option>
+                    <option value="putumayo">Putymayo</option>
+                    <option value="norte_de_santander">Norte de Santander</option>
+                    <option value="cauca">Cauca</option>
+                    <option value="bogota_dc">Bogota DC</option>
+                    <option value="la_guajira">La Guajira</option>
+                    <option value="antioquia">Antioquia</option>
+                    <option value="narino">Narino</option>
+                    <option value="meta">Meta</option>
+                    <option value="magdalena">Magdalena</option>
+                    <option value="cundinamarca">Cundinamarca</option>
+                    <option value="vaupes">Vaupes</option>
+                    <option value="atlantico">Atlantico</option>
+                    <option value="valle_del_cauca">Valle del Cauca</option>
+                    <option value="boyaca">Boyaca</option>
+                    <option value="tolima">Tolima</option>
+                    <option value="risaralda">Risaralda</option>
+                    <option value="quindio">Quindio</option>
+                    <option value="casanare">Casanare</option>
+                    <option value="arauca">Arauca</option>
+                    <option value="caldas">Caldas</option>
+                    <option value="choco">Choco</option>
+                    <option value="santander">Santander</option>
+                    <option value="caqueta">Caqueta</option>
+                    <option value="archipielago_de_san_andres">Archipielago de San Andres</option>
+                </select>
+<!--                <label for="color_select">Select a Hue Variable: </label>-->
+<!--                <select name="hue" id="color_select">-->
+<!--                    <option value="cari">CARI Score</option>-->
+<!--                    <option value="gov_aid">Governemnt Aid</option>-->
+<!--                </select>-->
+            </div>
+            <div id="my_dataviz"></div>
+        </div>
+
+    </div>
+</div>
+<div class="description-box">
+    <div class="description-box-text">Here you can put some info about the graph :)</div>
+</div>
+
+<div id="includeHtml" class="timeline-box"></div>
+
 <script type="module">
+    $(function() {
+        $("#includeHtml").load("timeline.html");
+    });
+
+    /////////////////////////////////////Map stuff
+    // load mabbox map
+    mapboxgl.accessToken = "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
+    const map = new mapboxgl.Map({
+        container: "map",
+        style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
+        center: [-73.2973, 3.9],
+        zoom: 4.2, // starting zoom level
+        dragPan: false,
+        interactive: false
+    });
+    // disable map zoom when using scroll
+    map.scrollZoom.disable();
+
+    function create_flag_markers(station_data, icon_file, markers) {
+        console.log(station_data)
+        markers = marker_container
+            .selectAll("circle")
+            .data(station_data)
+            .enter()
+            .append("svg:image")
+            .attr('width', 25)
+            .attr('height', 25)
+            .attr("fill-opacity", 0.4)
+            .attr("xlink:href",
+                icon_file)
+            .attr("id", function (d) {
+                return d.department;
+            });
+
+        position_station_markers(markers);
+    }
+
+    function position_station_markers(markers) {
+        markers
+            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
+    }
+    function project(d) {
+        return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
+    }
+
+
+    let redFlagsFile = "./data_files/dept_coords.json";
+    let red_markers;
+
+    let station_data;
+
+    map.on("load", () => {
+        fetch(redFlagsFile)
+            .then((response) => response.json())
+            .then((d) => (station_data = d))
+            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers))
+            .then(function (d){
+                    update_bubble_chart("bolivar")
+                    var dept_flag_svg = document.getElementById("bolivar");
+                    dept_flag_svg.setAttribute("href", "./deep_red_flag_icon.svg");
+              });
+
+    });
+
+
+    const marker_container = d3
+        .select(map.getCanvasContainer() )
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .style("position", "absolute")
+        .style("z-index", 2);
+
+
+    ////////////////////////////////////// bubble stuff
     import {BubbleChart} from "./bubbles.js";
     // load the data
-    update_bubble_chart("bolivar")
 
     function update_bubble_chart(dpt_name) {
         var plot_data = [];
-        d3.csv("data_files/by_department/"+ dpt_name + "_clean_dataset.csv", function (data) {
+
+        d3.csv("data_files/by_department/"+ dpt_name + "_clean_dataset.csv").then((data) => {
             for (var i = 0; i < data.length; i++) {
                 plot_data.push({"size": data[i].household_size, "aid": data[i].government_assistance, "group": Math.round(data[i].cari)})
             }
             console.log(plot_data)
             document.getElementById("my_dataviz").innerHTML = "";
-            var svg = d3.select("svg");
-            svg.selectAll("*").remove();
-            let BC = new BubbleChart("#my_dataviz", 1000, 700)
+            // var svg = d3.select("svg");
+            // svg.selectAll("*").remove();
+
+            let box = document.querySelector('.bubble-box');
+            let width = box.clientWidth;
+            let height = box.clientHeight;
+            let BC = new BubbleChart("#my_dataviz", width, height)
             BC.initialize_nodes(plot_data)
         });
+
     }
 
     document.getElementById('dpt_select').addEventListener('change', function() {
         update_bubble_chart(this.value)
+
+        var dept_names = ['amazonas', 'antioquia', 'arauca', 'archipielago_de_san_andres',
+        'atlantico', 'bogota_dc', 'bolivar', 'boyaca', 'caldas', 'caqueta',
+        'casanare', 'cauca', 'cesar', 'choco', 'cordoba', 'cundinamarca',
+        'huila', 'la_guajira', 'magdalena', 'meta', 'narino',
+        'norte_de_santander', 'putumayo', 'quindio', 'risaralda',
+        'santander', 'sucre', 'tolima', 'valle_del_cauca', 'vaupes',
+        'vichada'];
+        for (var i = 0; i < dept_names.length; i++) {
+            var cur_name = dept_names[i];
+            var flag_svg = document.getElementById(cur_name);
+            flag_svg.setAttribute("href", "./red_flag_icon.svg");
+        }
+
+        var dept_flag_svg = document.getElementById(this.value);
+        dept_flag_svg.setAttribute("href", "./deep_red_flag_icon.svg");
+
     });
 
-    document.getElementById('color_select').addEventListener('change', function() {
-        update_bubble_chart(document.getElementById('dpt_select').value)
-    });
 </script>

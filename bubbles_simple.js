@@ -16,6 +16,19 @@ export class BubbleChart {
             .domain([4, 3, 2, 1])
             .range([this.width/10, this.width*3.5/10, this.width*6.5/10, this.width*9/10])
 
+        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
+
+        let xScale = d3
+            .scaleBand()
+            .domain(sectors)
+            .range([0, this.width]);
+        var x_axis = d3.axisBottom()
+            .scale(xScale);
+        var xAxisTranslate = this.height-100;
+        this.svg.append("g")
+            .attr("transform", "translate(0, " + xAxisTranslate  +")")
+            .call(x_axis)
+
     // A color scale
         var color_cari = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
@@ -25,7 +38,7 @@ export class BubbleChart {
             .domain([0, 1])
             .range(["#d52719", "#0443a6"])
 
-        var bubble_stroke_width = 4
+        var bubble_stroke_width = 1.5
 
         function radius_size(d){
             return Math.max(5, Math.sqrt(d.size))

@@ -10,23 +10,35 @@ export class BubbleChart {
             .attr("width", this.width)
             .attr("height", this.height)
 
+        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
+
+        let xScale = d3
+            .scaleBand()
+            .domain(sectors)
+            .range([0, this.width]);
+        var x_axis = d3.axisBottom()
+            .scale(xScale);
+        var xAxisTranslate = this.height-100;
+        this.svg.append("g")
+            .attr("transform", "translate(0, " + xAxisTranslate  +")")
+            .call(x_axis)
+
     }
     initialize_nodes(data) {
     // A scale that gives a X target position for each group
         var x_centers = d3.scaleOrdinal()
-            .domain([1, 2, 3, 4])
+            .domain([4, 3, 2, 1])
             .range([this.width/10, this.width*3.5/10, this.width*6.5/10, this.width*9/10])
 
     // A color scale
         var color_cari = d3.scaleOrdinal()
-            .domain([1, 2, 3, 4])
-            .range(["#d52719", "#ffd813", "#0443a6", "#5bc4e7"])
+            .domain([4, 3, 2, 1])
+            .range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"])
 
-        var color_aid = d3.scaleOrdinal()
-            .domain([0, 1])
-            .range(["#d52719", "#0443a6"])
+        let householdSize = d3.extent(data.map((d) => +d["size"]));
+        let size = d3.scaleSqrt().domain(householdSize).range([3, 15]);
 
-        var bubble_stroke_width = 4
+        var bubble_stroke_width = 1.5
 
         function radius_size(d){
             return Math.max(5, Math.sqrt(d.size)*4)
@@ -38,16 +50,11 @@ export class BubbleChart {
             .data(data)
             .enter()
             .append("circle")
-            .attr("r", radius_size)
+            .attr("r", (d) => size(d["size"]))
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
-                if (document.getElementById('color_select').value == "cari"){
                     return color_cari(d.group)
-                } else {
-                    return color_aid(d.aid == 1)
-                }
-
             })
             .style("fill-opacity", 0.8)
             .attr("stroke", "black")
@@ -63,20 +70,13 @@ export class BubbleChart {
                 return x_centers(d.group)
             }.bind(this)))
             .force("y", d3.forceY().strength(0.1).y(function (d) {
-                if (document.getElementById('color_select').value == "cari") {
                     return this.height / 2
-                } else {
-                    if (d.aid == 1) {
-                        return this.height * 4 / 9
-                    } else {
-                        return this.height * 5 / 9
-                    }
-                }
+
             }.bind(this)))
             // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
             .force("charge", d3.forceManyBody().strength(0.5)) // Nodes are attracted one each other of value is > 0
             .force("collide", d3.forceCollide().strength(0.5).radius(function (d){
-                return radius_size(d) + bubble_stroke_width/2
+                return size(d["size"]) + bubble_stroke_width/2;
             }).iterations(2)) // Force that avoids circle overlapping
 
 // Apply these forces to the nodes and update their positions.
