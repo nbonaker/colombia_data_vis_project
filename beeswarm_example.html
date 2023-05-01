@@ -43,7 +43,7 @@
 <body>
 
 <div class="title-box">
-    <div class="title-box-text">Food Security and Food Expenditures</div>
+    <div class="title-box-text">The Cost of Food Insecurity</div>
 </div>
 
 <div class="content-container">
@@ -52,7 +52,22 @@
             <div id="bubble-graph"></div>
         </div>
         <div class="description-box">
-            <div class="description-box-text">Here you can put some info about the graph :)</div>
+            <div class="description-box-text">
+                <h3>The same amount of aid could make a bigger impact on lifting people out of severe food insecurity.</h3>
+                    <p>The difference in median food expenditures between "Severe" and "Marginal" food insecurity is <b>just
+                        $40USD per month. </b>
+                    </p>
+                    <p>The difference in median food expenditures between "Marginal Food Insecurity"  and
+                        "Marginal Food Security" is  slightly higher at <b>
+                        $70USD per month. </b>
+                    </p>
+                <h3>Legend:</h3>
+                    <p>The <b>x-axis</b> groups members by food insecurity level </p>
+                    <p>The <b>y-axis</b> shows the median monthly expendature on food in USD </p>
+                    <p>Each <b>bubble</b> represents a locality in our dataset. The relative size of each bubble shows
+                    the ammount of people in each locality.</p> Localities are split into each food security group.
+
+            </div>
         </div>
     </div>
 </div>
@@ -96,11 +111,19 @@
         let yScale = d3
             .scaleLinear()
             .domain(d3.extent(data.map((d) => +d["cost_food_total"])))
-            .domain([0, 1600000])
+            .domain([0, 1600000*0.00021])
                 .range([height - margin[2], margin[0]]);
         var y_axis = d3.axisLeft()
             .scale(yScale);
         svg.append("g").attr("transform", "translate(75, 10)").call(y_axis)
+
+        svg.append("text")
+            .attr("class", "y label")
+            .attr("text-anchor", "middle")
+            .attr("y", 6)
+            .attr("dy", ".75em")
+            .attr("transform", "rotate(-90), translate(-"+height/2+", 10)")
+            .text("Total Amount Spent on Food Each Month (USD)");
 
         const yAxisGrid = d3.axisLeft(yScale).tickSize(-width+margin[3]+margin[1]).tickFormat('').ticks(10);
         svg.append('g')
@@ -123,7 +146,7 @@
             .attr("fill", (d) => color(d.cari_category))
             .attr("r", (d) => size(d["household_size"]))
             .attr("cx", (d) => xScale(d.cari_category))
-            .attr("cy", (d) => yScale(d.cost_food_total));
+            .attr("cy", (d) => yScale(d.cost_food_total*0.00021));
 
         let simulation = d3
             .forceSimulation(data)
@@ -139,7 +162,7 @@
                 "y",
                 d3
                     .forceY(function (d) {
-                        return yScale(d.cost_food_total);
+                        return yScale(d.cost_food_total*0.00021);
                     })
                     .strength(1)
             )
