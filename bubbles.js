@@ -34,6 +34,9 @@ export class BubbleChart {
         var color_cari = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
             .range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"])
+        var color_aid = d3.scaleOrdinal()
+            .domain([0, 1])
+            .range(["#d52719", "#0443a6"])
 
         let householdSize = d3.extent(data.map((d) => +d["size"]));
         let size = d3.scaleSqrt().domain(householdSize).range([3, 15]);
@@ -54,7 +57,12 @@ export class BubbleChart {
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
+                if (document.getElementById('color_select').value == "cari"){
                     return color_cari(d.group)
+                } else {
+                    return color_aid(d.aid == 1)
+                }
+
             })
             .style("fill-opacity", 0.8)
             .attr("stroke", "black")
@@ -70,8 +78,15 @@ export class BubbleChart {
                 return x_centers(d.group)
             }.bind(this)))
             .force("y", d3.forceY().strength(0.1).y(function (d) {
+                if (document.getElementById('color_select').value == "cari") {
                     return this.height / 2
-
+                } else {
+                    if (d.aid == 1) {
+                        return this.height * 4 / 9
+                    } else {
+                        return this.height * 5 / 9
+                    }
+                }
             }.bind(this)))
             // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
             .force("charge", d3.forceManyBody().strength(0.5)) // Nodes are attracted one each other of value is > 0

@@ -115,11 +115,11 @@
                     <option value="caqueta">Caqueta</option>
                     <option value="archipielago_de_san_andres">Archipielago de San Andres</option>
                 </select>
-<!--                <label for="color_select">Select a Hue Variable: </label>-->
-<!--                <select name="hue" id="color_select">-->
-<!--                    <option value="cari">CARI Score</option>-->
-<!--                    <option value="gov_aid">Governemnt Aid</option>-->
-<!--                </select>-->
+                <label for="color_select">Select a Hue Variable: </label>
+                <select name="hue" id="color_select">
+                    <option value="cari">Food Security Level</option>
+                    <option value="gov_aid">Receives Aid</option>
+                </select>
             </div>
             <div id="my_dataviz"></div>
         </div>
@@ -236,12 +236,12 @@
         update_bubble_chart(this.value)
 
         var dept_names = ['amazonas', 'antioquia', 'arauca', 'archipielago_de_san_andres',
-        'atlantico', 'bogota_dc', 'bolivar', 'boyaca', 'caldas', 'caqueta',
-        'casanare', 'cauca', 'cesar', 'choco', 'cordoba', 'cundinamarca',
-        'huila', 'la_guajira', 'magdalena', 'meta', 'narino',
-        'norte_de_santander', 'putumayo', 'quindio', 'risaralda',
-        'santander', 'sucre', 'tolima', 'valle_del_cauca', 'vaupes',
-        'vichada'];
+            'atlantico', 'bogota_dc', 'bolivar', 'boyaca', 'caldas', 'caqueta',
+            'casanare', 'cauca', 'cesar', 'choco', 'cordoba', 'cundinamarca',
+            'huila', 'la_guajira', 'magdalena', 'meta', 'narino',
+            'norte_de_santander', 'putumayo', 'quindio', 'risaralda',
+            'santander', 'sucre', 'tolima', 'valle_del_cauca', 'vaupes',
+            'vichada'];
         for (var i = 0; i < dept_names.length; i++) {
             var cur_name = dept_names[i];
             var flag_svg = document.getElementById(cur_name);
@@ -250,7 +250,10 @@
 
         var dept_flag_svg = document.getElementById(this.value);
         dept_flag_svg.setAttribute("href", "./deep_red_flag_icon.svg");
+    });
 
+    document.getElementById('color_select').addEventListener('change', function() {
+        update_bubble_chart(document.getElementById('dpt_select').value)
     });
 
 </script>
