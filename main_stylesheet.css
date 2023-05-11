@@ -39,8 +39,9 @@ html, body {
 .timeline-button{
     background-color:white;
     border-radius: 20px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 1%;
 }
 .timeline-box-text{
     display: table-row;
