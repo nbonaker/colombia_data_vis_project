@@ -43,6 +43,18 @@
     padding-left: 5%;
     padding-top: 5%;
   }
+  .tooltip-donut {
+    position: absolute;
+    text-align: center;
+    padding: .5rem;
+    background: #FFFFFF;
+    color: #313639;
+    border: 1px solid #313639;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 1.0rem;
+    z-index: 2;
+  }
 </style>
 <body>
 
@@ -106,10 +118,36 @@
                     icon_file)
             .attr("name", function (d) {
               return d.city;
-            });
+            })
+            .on('mouseover', function (data, i) {
+              d3.select(this).transition()
+                      .duration('50')
+                      .attr('opacity', '.85');
+              div.transition()
+                      .duration(50)
+                      .style("opacity", 1);
+              div.html(i.city)
+                      .style("left", (data.pageX + 10) + "px")
+                      .style("top", (data.pageY - 15) + "px");
+            })
+            .on('mouseout', function (data, i) {
+                      d3.select(this).transition()
+                              .duration('100')
+                              .attr('opacity', '1');
+                      //Makes the new div disappear:
+                      div.transition()
+                              .duration('100')
+                              .style("opacity", 0);
+                    }
+            );
+
 
     position_station_markers(markers);
   }
+
+  var div = d3.select("body").append("div")
+          .attr("class", "tooltip-donut")
+          .style("opacity", 0);
 
   function position_station_markers(markers) {
     markers

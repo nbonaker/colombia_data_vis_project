@@ -1,0 +1,124 @@
+,department,cari_category,household_size,pop_count
+0,amazonas,Marginal Security,307,510k
+1,amazonas,Moderate Insecurity,200,330k
+2,amazonas,Secure,46,77.0k
+3,amazonas,Severe Insecurity,19,32.0k
+4,antioquia,Marginal Security,834,1.4M
+5,antioquia,Moderate Insecurity,446,740k
+6,antioquia,Secure,297,490k
+7,antioquia,Severe Insecurity,29,48.0k
+8,arauca,Marginal Security,243,400k
+9,arauca,Moderate Insecurity,447,740k
+10,arauca,Secure,47,78.0k
+11,arauca,Severe Insecurity,136,230k
+12,archipielago_de_san_andres,Marginal Security,421,700k
+13,archipielago_de_san_andres,Moderate Insecurity,67,110k
+14,archipielago_de_san_andres,Secure,255,420k
+15,atlantico,Marginal Security,809,1.3M
+16,atlantico,Moderate Insecurity,461,770k
+17,atlantico,Secure,285,470k
+18,atlantico,Severe Insecurity,85,140k
+19,bogota_dc,Marginal Security,739,1.2M
+20,bogota_dc,Moderate Insecurity,292,490k
+21,bogota_dc,Secure,397,660k
+22,bogota_dc,Severe Insecurity,29,48.0k
+23,bolivar,Marginal Security,643,1.1M
+24,bolivar,Moderate Insecurity,719,1.2M
+25,bolivar,Secure,101,170k
+26,bolivar,Severe Insecurity,169,280k
+27,boyaca,Marginal Security,477,790k
+28,boyaca,Moderate Insecurity,164,270k
+29,boyaca,Secure,233,390k
+30,boyaca,Severe Insecurity,25,42.0k
+31,caldas,Marginal Security,363,600k
+32,caldas,Moderate Insecurity,128,210k
+33,caldas,Secure,203,340k
+34,caldas,Severe Insecurity,36,60.0k
+35,caqueta,Marginal Security,336,560k
+36,caqueta,Moderate Insecurity,261,430k
+37,caqueta,Secure,119,200k
+38,caqueta,Severe Insecurity,50,83.0k
+39,casanare,Marginal Security,384,640k
+40,casanare,Moderate Insecurity,213,350k
+41,casanare,Secure,78,130k
+42,casanare,Severe Insecurity,30,50.0k
+43,cauca,Marginal Security,465,770k
+44,cauca,Moderate Insecurity,320,530k
+45,cauca,Secure,123,200k
+46,cauca,Severe Insecurity,28,47.0k
+47,cesar,Marginal Security,409,680k
+48,cesar,Moderate Insecurity,553,920k
+49,cesar,Secure,61,100k
+50,cesar,Severe Insecurity,139,230k
+51,choco,Marginal Security,272,450k
+52,choco,Moderate Insecurity,340,570k
+53,choco,Secure,44,73.0k
+54,choco,Severe Insecurity,68,110k
+55,cordoba,Marginal Security,400,670k
+56,cordoba,Moderate Insecurity,747,1.2M
+57,cordoba,Secure,45,75.0k
+58,cordoba,Severe Insecurity,181,300k
+59,cundinamarca,Marginal Security,777,1.3M
+60,cundinamarca,Moderate Insecurity,388,650k
+61,cundinamarca,Secure,248,410k
+62,cundinamarca,Severe Insecurity,55,92.0k
+63,huila,Marginal Security,519,860k
+64,huila,Moderate Insecurity,285,470k
+65,huila,Secure,169,280k
+66,huila,Severe Insecurity,26,43.0k
+67,la_guajira,Marginal Security,363,600k
+68,la_guajira,Moderate Insecurity,446,740k
+69,la_guajira,Secure,71,120k
+70,la_guajira,Severe Insecurity,110,180k
+71,magdalena,Marginal Security,478,800k
+72,magdalena,Moderate Insecurity,459,760k
+73,magdalena,Secure,66,110k
+74,magdalena,Severe Insecurity,140,230k
+75,meta,Marginal Security,558,930k
+76,meta,Moderate Insecurity,267,440k
+77,meta,Secure,121,200k
+78,meta,Severe Insecurity,20,33.0k
+79,narino,Marginal Security,579,960k
+80,narino,Moderate Insecurity,388,650k
+81,narino,Secure,91,150k
+82,narino,Severe Insecurity,128,210k
+83,norte_de_santander,Marginal Security,612,1.0M
+84,norte_de_santander,Moderate Insecurity,383,640k
+85,norte_de_santander,Secure,119,200k
+86,norte_de_santander,Severe Insecurity,129,210k
+87,putumayo,Marginal Security,290,480k
+88,putumayo,Moderate Insecurity,316,530k
+89,putumayo,Secure,73,120k
+90,putumayo,Severe Insecurity,80,130k
+91,quindio,Marginal Security,367,610k
+92,quindio,Moderate Insecurity,179,300k
+93,quindio,Secure,108,180k
+94,quindio,Severe Insecurity,23,38.0k
+95,risaralda,Marginal Security,349,580k
+96,risaralda,Moderate Insecurity,168,280k
+97,risaralda,Secure,102,170k
+98,risaralda,Severe Insecurity,35,58.0k
+99,santander,Marginal Security,700,1.2M
+100,santander,Moderate Insecurity,329,550k
+101,santander,Secure,255,420k
+102,santander,Severe Insecurity,9,15.0k
+103,sucre,Marginal Security,222,370k
+104,sucre,Moderate Insecurity,472,790k
+105,sucre,Secure,35,58.0k
+106,sucre,Severe Insecurity,134,220k
+107,tolima,Marginal Security,465,770k
+108,tolima,Moderate Insecurity,204,340k
+109,tolima,Secure,218,360k
+110,tolima,Severe Insecurity,5,8.3k
+111,valle_del_cauca,Marginal Security,887,1.5M
+112,valle_del_cauca,Moderate Insecurity,351,580k
+113,valle_del_cauca,Secure,291,480k
+114,valle_del_cauca,Severe Insecurity,70,120k
+115,vaupes,Marginal Security,90,150k
+116,vaupes,Moderate Insecurity,68,110k
+117,vaupes,Secure,5,8.3k
+118,vaupes,Severe Insecurity,4,6.7k
+119,vichada,Marginal Security,130,220k
+120,vichada,Moderate Insecurity,94,160k
+121,vichada,Secure,10,17.0k
+122,vichada,Severe Insecurity,10,17.0k

@@ -1,8 +1,9 @@
 export class BubbleChart {
-    constructor(svg_id, width, height) {
+    constructor(svg_id, width, height, dpt_name) {
         // set the dimensions and margins of the graph
         this.width = width
         this.height = height
+        this.dpt_name = dpt_name
 
 // append the svg object to the body of the page
         this.svg = d3.select(svg_id)
@@ -12,16 +13,47 @@ export class BubbleChart {
 
         let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
 
+        // x axis labels
         let xScale = d3
             .scaleBand()
             .domain(sectors)
             .range([0, this.width]);
         var x_axis = d3.axisBottom()
-            .scale(xScale);
-        var xAxisTranslate = this.height-100;
+            .scale(xScale)
+
+        var xAxisTranslate = this.height-50;
         this.svg.append("g")
             .attr("transform", "translate(0, " + xAxisTranslate  +")")
             .call(x_axis)
+            .append("text")
+            .attr("fill", "black")
+            .attr("x", (this.width / 2))
+            .attr("y", 40) //set your y attribute here
+            .style("text-anchor", "middle")
+            .text("Food Security Category");
+
+        // bubble count labels
+        d3.json("data_files/department_cari_pop_counts.json").then((data) => {
+            console.log(data[this.dpt_name])
+            let bubble_counts = data[this.dpt_name]
+            let lScale = d3
+                .scaleBand()
+                .domain(bubble_counts)
+                .range([0, this.width]);
+            var l_axis = d3.axisBottom()
+                .scale(lScale)
+            var lAxisTranslate = 20;
+            this.svg.append("g")
+                .attr("transform", "translate(0, " + lAxisTranslate  +")")
+                .call(l_axis)
+                .append("text")
+                .attr("fill", "black")
+                .attr("x", (this.width / 2))
+                .attr("y", -10) //set your y attribute here
+                .style("text-anchor", "middle")
+                .text("Total Population in Category");
+        });
+
 
     }
     initialize_nodes(data) {
@@ -33,13 +65,16 @@ export class BubbleChart {
     // A color scale
         var color_cari = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
-            .range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"])
+            .range(["#cb0f00", "#ff746c", "#24c6f3", "#0443a6"])
         var color_aid = d3.scaleOrdinal()
-            .domain([0, 1])
+            .domain([false, true])
             .range(["#d52719", "#0443a6"])
 
         let householdSize = d3.extent(data.map((d) => +d["size"]));
-        let size = d3.scaleSqrt().domain(householdSize).range([3, 15]);
+
+        var size_constaint = Math.min(this.width/50, this.height/30)
+        console.log(this.width/45, this.height/30)
+        let size = d3.scaleSqrt().domain(householdSize).range([size_constaint/13*3, size_constaint]);
 
         var bubble_stroke_width = 1.5
 
@@ -60,7 +95,7 @@ export class BubbleChart {
                 if (document.getElementById('color_select').value == "cari"){
                     return color_cari(d.group)
                 } else {
-                    return color_aid(d.aid == 1)
+                    return color_aid(d.aid == 1.0)
                 }
 
             })
@@ -81,10 +116,10 @@ export class BubbleChart {
                 if (document.getElementById('color_select').value == "cari") {
                     return this.height / 2
                 } else {
-                    if (d.aid == 1) {
-                        return this.height * 4 / 9
+                    if (d.aid == 1.0) {
+                        return this.height * 3.5 / 9
                     } else {
-                        return this.height * 5 / 9
+                        return this.height * 5.5 / 9
                     }
                 }
             }.bind(this)))
