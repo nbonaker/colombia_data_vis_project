@@ -18,21 +18,52 @@ export class BubbleChart {
 
         let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
 
+        // x axis labels
         let xScale = d3
             .scaleBand()
             .domain(sectors)
             .range([0, this.width]);
-        var x_axis = d3.axisBottom()
+
+        var x_axis = d3.axisTop()
             .scale(xScale);
-        var xAxisTranslate = this.height-100;
+
+        var xAxisTranslate = this.height-50;
         this.svg.append("g")
             .attr("transform", "translate(0, " + xAxisTranslate  +")")
             .call(x_axis)
+            .append("text")
+            .attr("fill", "black")
+            .attr("x", (this.width / 2))
+            .attr("y", 20) //set your y attribute here
+            .style("text-anchor", "middle")
+            .text("Food Security Category");
 
-    // A color scale
+
+        // bubble count labels
+        let bubble_counts = [ "3.3M", "10.7M", "30.3M", "7.2M"]
+        let lScale = d3
+            .scaleBand()
+            .domain(bubble_counts)
+            .range([0, this.width]);
+        var l_axis = d3.axisBottom()
+            .scale(lScale)
+        var lAxisTranslate = 50;
+        this.svg.append("g")
+            .attr("transform", "translate(0, " + lAxisTranslate  +")")
+            .call(l_axis)
+            .append("text")
+            .attr("fill", "black")
+            .attr("x", (this.width / 2))
+            .attr("y", -10) //set your y attribute here
+            .style("text-anchor", "middle")
+            .text("Total Population in Category");
+
+
+
+        // A color scale
         var color_cari = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
-            .range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"])
+            .range(["#cb0f00", "#ff746c", "#24c6f3", "#0443a6"])
 
         var color_aid = d3.scaleOrdinal()
             .domain([0, 1])
@@ -40,9 +71,7 @@ export class BubbleChart {
 
         var bubble_stroke_width = 1.5
 
-        function radius_size(d){
-            return Math.max(5, Math.sqrt(d.size))
-        }
+        this.radius_size = this.width/130;
 
         // Initialize the circle: located at the center of each group area
         var node = this.svg.append("g")
@@ -50,7 +79,7 @@ export class BubbleChart {
             .data(data)
             .enter()
             .append("circle")
-            .attr("r", radius_size)
+            .attr("r", this.radius_size)
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
@@ -59,10 +88,10 @@ export class BubbleChart {
             .style("fill-opacity", 0.8)
             .attr("stroke", "black")
             .style("stroke-width", bubble_stroke_width)
-        .call(d3.drag() // call specific function when circle is dragged
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended));
+        // .call(d3.drag() // call specific function when circle is dragged
+        //     .on("start", dragstarted)
+        //     .on("drag", dragged)
+        //     .on("end", dragended));
 
 // Features of the forces applied to the nodes:
         this.simulation = d3.forceSimulation()
@@ -77,8 +106,8 @@ export class BubbleChart {
             // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
             .force("charge", d3.forceManyBody().strength(0.5)) // Nodes are attracted one each other of value is > 0
             .force("collide", d3.forceCollide().strength(0.5).radius(function (d){
-                return radius_size(d) + bubble_stroke_width/2
-            }).iterations(2)) // Force that avoids circle overlapping
+                return this.radius_size + bubble_stroke_width/2
+            }.bind(this)).iterations(2)) // Force that avoids circle overlapping
 
 // Apply these forces to the nodes and update their positions.
 // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
