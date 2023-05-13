@@ -134,7 +134,8 @@ export class BubbleChart {
             .force("charge", d3.forceManyBody().strength(0.1)) // Nodes are attracted one each other of value is > 0
             .force("collide", d3.forceCollide().strength(1.0).radius(function (d){
                 return this.radius_size + this.bubble_stroke_width/2
-            }.bind(this)).iterations(5)) // Force that avoids circle overlapping
+            }.bind(this)).iterations(2))
+            .alpha(0.6)// Force that avoids circle overlapping
 
 
 // Apply these forces to the nodes and update their positions.
