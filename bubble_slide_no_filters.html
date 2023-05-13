@@ -62,7 +62,7 @@
           </p>
 
           <h2>Legend:</h2>
-          <p>Each bubble represents approximately 250,000 people in Colombia. Bubbles are split to show the relative
+          <p>Each bubble represents approximately 100,000 people in Colombia. Bubbles are split to show the relative
             proportion of the total Colombian population in each food security category.</p>
         </div>
       </div>
@@ -100,7 +100,7 @@
         let box = document.querySelector('.bubble-box');
         let width = box.clientWidth;
         let height = box.clientHeight;
-        let BC = new BubbleChart("#bubble-graph", width, height)
+        let BC = new BubbleChart("#bubble-graph", width, height, "cari")
         BC.initialize_nodes(plot_data)
       });
     }

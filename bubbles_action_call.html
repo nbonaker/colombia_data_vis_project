@@ -6,7 +6,7 @@
   <!-- Load d3.js -->
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v4.js"></script>
-  <script type="module" src="./bubbles_simple.js"></script>
+  <script type="module" src="./bubbles_action_call.js"></script>
   <link rel="stylesheet" href="main_stylesheet.css">
 </head>
 <style>
@@ -61,7 +61,7 @@
           </p>
 
           <h2>Legend:</h2>
-          <p>Each bubble represents approximately 250,000 people in Colombia. Bubbles are split to show the relative
+          <p>Each bubble represents approximately 100,000 people in Colombia. Bubbles are split to show the relative
             proportion of the total Colombian population in each food security category.</p>
         </div>
       </div>
@@ -74,7 +74,7 @@
     $(function() {
       $("#includeHtml").load("timeline.html");
     });
-    import {BubbleChart} from "./bubbles_simple.js";
+    import {BubbleChart} from "./bubbles_action_call.js";
     // load the data
     update_bubble_chart()
 
@@ -87,9 +87,9 @@
 
     function update_bubble_chart() {
       var plot_data = [];
-      d3.csv("data_files/food_insecurity_bubble_data.csv", function (data) {
+      d3.csv("data_files/aid_bubble_data.csv", function (data) {
         for (var i = 0; i < data.length; i++) {
-          plot_data.push({"size": 100, "group": Math.round(data[i].cari)})
+          plot_data.push({"size": 100, "group": Math.round(data[i].cari), "aid": data[i].aid == 1 })
         }
         console.log(plot_data)
         document.getElementById("bubble-graph").innerHTML = "";
@@ -101,6 +101,9 @@
         let height = box.clientHeight;
         let BC = new BubbleChart("#bubble-graph", width, height)
         BC.initialize_nodes(plot_data)
+
+        setTimeout(function() { BC.move_nodes(plot_data) }, 6000);
+
       });
     }
 </script>

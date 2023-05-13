@@ -54,14 +54,14 @@
         <div class="description-box">
             <div class="description-box-text">
                 <h3 style="font-size: 2em;">Many of those most in need aren't getting help</h3>
-                    <p style="font-size: 1.5em;">Those who are food insecure are not able to meet their basic requirements for sustenance. These
+                    <p style="font-size: 1.0em;">Those who are food insecure are not able to meet their basic requirements for sustenance. These
                         are the ones who are most in need of a helping hand to live at a basic human level.
                     </p>
-                    <p style="font-size: 1.5em;"> <b>30% of the food insecure</b> are not receiving any government aid whatsoever. If a program could
+                    <p style="font-size: 1.0em;"> <b>30% of the food insecure</b> are not receiving any government aid whatsoever. If a program could
                         be enacted that meets these people where they are and supports their needs, these families may be able to rise to a level of 
                         food security.
                     </p>
-                    <p style="font-size: 1.5em;"> <b>45% of the marginally food secure</b> are not receiving any government aid as well. If the program
+                    <p style="font-size: 1.0em;"> <b>45% of the marginally food secure</b> are not receiving any government aid as well. If the program
                         that was enacted helped these people, they would be able to avoid being pushed into food insecurity by a financial shock. This
                         would also prevent them from becoming a greater burden on the government's finances in the future. 
                     </p>
@@ -135,7 +135,15 @@
             .attr("transform", "translate(75, 10)")
             .call(yAxisGrid);
 
-        let color = d3.scaleOrdinal().domain(sectors).range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"]);
+        // let color = d3.scaleOrdinal().domain(sectors).range(["#910b00", "#ff1200", "#24c6f3", "#e3e3e3"]);
+        function color(cari, aid) {
+            if (aid > 0.6){
+                return "#e3e3e3"
+            } else {
+                cari_colors = ["#910b00", "#ff1200", "#24c6f3", "#e3e3e3"];
+                return cari_colors[sectors.indexOf(cari)];
+            }
+        }
 
         let marketcapDomain = d3.extent(data.map((d) => +d["household_size"]));
         let size = d3.scaleSqrt().domain(marketcapDomain).range([3, 15]);
@@ -147,7 +155,7 @@
             .append("circle")
             .attr("class", "circ")
             .attr("stroke", "black")
-            .attr("fill", (d) => color(d.cari_category))
+            .attr("fill", (d) => color(d.cari_category, d.government_assistance))
             .attr("r", (d) => size(d["household_size"]))
             .attr("cx", (d) => xScale(d.cari_category))
             .attr("cy", (d) => yScale(d.cost_food_total*0.00021));

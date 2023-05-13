@@ -57,7 +57,7 @@
           <p>Both the level of food insecurity and the distribution of aid varies significantly by locality. </p>
 
           <h2>Legend:</h2>
-          <p>Each bubble represents approximately 250,000 people in Colombia. Bubbles are split to show the relative
+          <p>Each bubble represents approximately 100,000 people in Colombia. Bubbles are split to show the relative
             proportion of the total Colombian population in each food security category.</p>
         </div>
       </div>
@@ -83,9 +83,9 @@
 
     function update_bubble_chart() {
       var plot_data = [];
-      d3.csv("data_files/food_insecurity_bubble_data.csv", function (data) {
+      d3.csv("data_files/aid_bubble_data.csv", function (data) {
         for (var i = 0; i < data.length; i++) {
-          plot_data.push({"size": 100, "group": Math.round(data[i].cari)})
+          plot_data.push({"size": 100, "group": Math.round(data[i].cari), "aid": data[i].aid == 1 })
         }
         console.log(plot_data)
         document.getElementById("bubble-graph").innerHTML = "";
@@ -95,7 +95,7 @@
         let box = document.querySelector('.bubble-box');
         let width = box.clientWidth;
         let height = box.clientHeight;
-        let BC = new BubbleChart("#bubble-graph", width, height)
+        let BC = new BubbleChart("#bubble-graph", width, height, "aid")
         BC.initialize_nodes(plot_data)
       });
     }
