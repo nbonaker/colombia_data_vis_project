@@ -26,7 +26,7 @@ export class BubbleChart {
             .attr("transform", "translate(0, " + xAxisTranslate  +")")
             .call(x_axis)
             .append("text")
-            .attr("font-size","18")
+            .attr("font-size","15")
             .attr("fill", "black")
             .attr("x", (this.width / 2))
             .attr("y", 40) //set your y attribute here
@@ -48,10 +48,10 @@ export class BubbleChart {
                 .attr("transform", "translate(0, " + lAxisTranslate  +")")
                 .call(l_axis)
                 .append("text")
-                .attr("font-size","18")
+                .attr("font-size","15")
                 .attr("fill", "black")
                 .attr("x", (this.width / 2))
-                .attr("y", -10) //set your y attribute here
+                .attr("y", -7) //set your y attribute here
                 .style("text-anchor", "middle")
                 .text("Total Population in Category");
 
