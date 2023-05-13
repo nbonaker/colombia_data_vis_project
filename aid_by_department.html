@@ -312,9 +312,7 @@
             for (var i = 0; i < data.length; i++) {
                 var has_aid = parseFloat(data[i].government_assistance) == 1.0;
                 aid_counter += has_aid * parseFloat(data[i].household_size)
-                // if (!isNaN(parseFloat(data[i].household_size))) {
                     pop_counter += parseFloat(data[i].household_size)
-                // }
                 plot_data.push({"size": data[i].household_size, "aid": has_aid, "group": Math.round(data[i].cari)})
             }
             document.getElementById("aid_percentage_label").innerHTML = Math.round(aid_counter/pop_counter*100);

@@ -35,7 +35,7 @@ export class BubbleChart {
         // bubble count labels
         d3.json("data_files/department_cari_pop_counts.json").then((data) => {
             console.log(data[this.dpt_name])
-            let bubble_counts = data[this.dpt_name]
+            let bubble_counts = data[this.dpt_name].labels
             let lScale = d3
                 .scaleBand()
                 .domain(bubble_counts)
@@ -52,6 +52,14 @@ export class BubbleChart {
                 .attr("y", -10) //set your y attribute here
                 .style("text-anchor", "middle")
                 .text("Total Population in Category");
+
+            let household_sizes = data[this.dpt_name].values
+            var insecure_percentage = parseFloat(household_sizes[0])+parseFloat(household_sizes[1])
+            insecure_percentage = insecure_percentage/(parseFloat(household_sizes[0])+parseFloat(household_sizes[1])+
+                parseFloat(household_sizes[2])+parseFloat(household_sizes[3]))*100
+            document.getElementById("aid_percentage_label").innerHTML =
+                Math.round(insecure_percentage);
+
         });
 
 

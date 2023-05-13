@@ -13,13 +13,142 @@ export class BubbleChart {
     }
     initialize_nodes(data) {
     // A scale that gives a X target position for each group
-        var x_centers = d3.scaleOrdinal()
+        this.x_centers = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
             .range([this.width/10, this.width*3.5/10, this.width*6.5/10, this.width*9/10])
 
-        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
+
+        // A color scale
+        var color_cari = d3.scaleOrdinal()
+            .domain([4, 3, 2, 1])
+            .range(["#cb0f00", "#ff746c", "#24c6f3", "#0443a6"])
+
+        var color_aid = d3.scaleOrdinal()
+            .domain([false, true])
+            .range(["#d52719", "#0443a6"])
+
+        this.bubble_stroke_width = 1.5
+
+        this.radius_size = this.width/130;
+
+        // Initialize the circle: located at the center of each group area
+        this.node = this.svg.append("g")
+            .selectAll("circle")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("r", this.radius_size)
+            .attr("cx", this.width / 2)
+            .attr("cy", this.height / 2)
+            .style("fill", function (d) {
+                if (this.type == "cari"){
+                    return color_cari(d.group)
+                } else {
+                    return color_aid(d.aid)
+                }
+            }.bind(this))
+            .style("fill-opacity", 0.8)
+            .attr("stroke", "black")
+            .style("stroke-width", this.bubble_stroke_width)
+        // .call(d3.drag() // call specific function when circle is dragged
+        //     .on("start", dragstarted)
+        //     .on("drag", dragged)
+        //     .on("end", dragended));
+
+// Features of the forces applied to the nodes:
+        this.simulation = d3.forceSimulation()
+            .force("x", d3.forceX().strength(0.15).x(function (d) {
+                return this.width/2
+            }.bind(this)))
+            .force("y", d3.forceY().strength(0.1).y(function(d){
+                if (this.type == "cari") {
+                    return this.height / 2
+                } else {
+                    if (d.aid) {
+                        return this.height * 3.9 / 9
+                    } else {
+                        return this.height * 5.1 / 9
+                    }
+                }
+            }.bind(this)))
+            // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
+            .force("charge", d3.forceManyBody().strength(0.5)) // Nodes are attracted one each other of value is > 0
+            .force("collide", d3.forceCollide().strength(0.5).radius(function (d){
+                return this.radius_size + this.bubble_stroke_width/2
+            }.bind(this)).iterations(2)) // Force that avoids circle overlapping
+
+// Apply these forces to the nodes and update their positions.
+// Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
+        this.simulation
+            .nodes(data)
+            .on("tick", function (d) {
+                this.node
+                    .attr("cx", function (d) {
+                        return d.x;
+                    })
+                    .attr("cy", function (d) {
+                        return d.y;
+                    })
+            }.bind(this));
+
+        function dragstarted(d) {
+            if (!d3.event.active) simulation.alphaTarget(.03).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(d) {
+            d.fx = d3.event.x;
+            d.fy = d3.event.y;
+        }
+
+        function dragended(d) {
+            if (!d3.event.active) simulation.alphaTarget(.03);
+            d.fx = null;
+            d.fy = null;
+        }
+    }
+
+    move_nodes(data) {
+        // Features of the forces applied to the nodes:
+        this.simulation = d3.forceSimulation()
+            .force("x", d3.forceX().strength(0.1).x(function (d) {
+                    return this.x_centers(d.group)
+            }.bind(this)))
+            .force("y", d3.forceY().strength(0.06).y(function(d){
+                if (this.type == "cari") {
+                    return this.height / 2
+                } else {
+                    if (d.aid) {
+                        return this.height * 3.5 / 9
+                    } else {
+                        return this.height * 5.5 / 9
+                    }
+                }
+            }.bind(this)))
+            // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
+            .force("charge", d3.forceManyBody().strength(0.1)) // Nodes are attracted one each other of value is > 0
+            .force("collide", d3.forceCollide().strength(1.0).radius(function (d){
+                return this.radius_size + this.bubble_stroke_width/2
+            }.bind(this)).iterations(5)) // Force that avoids circle overlapping
+
+
+// Apply these forces to the nodes and update their positions.
+// Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
+        this.simulation
+            .nodes(data)
+            .on("tick", function (d) {
+                this.node
+                    .attr("cx", function (d) {
+                        return d.x;
+                    })
+                    .attr("cy", function (d) {
+                        return d.y;
+                    })
+            }.bind(this));
 
         // x axis labels
+        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
         let xScale = d3
             .scaleBand()
             .domain(sectors)
@@ -59,97 +188,6 @@ export class BubbleChart {
             .style("text-anchor", "middle")
             .text("Total Population in Category");
 
-
-
-        // A color scale
-        var color_cari = d3.scaleOrdinal()
-            .domain([4, 3, 2, 1])
-            .range(["#cb0f00", "#ff746c", "#24c6f3", "#0443a6"])
-
-        var color_aid = d3.scaleOrdinal()
-            .domain([false, true])
-            .range(["#d52719", "#0443a6"])
-
-        var bubble_stroke_width = 1.5
-
-        this.radius_size = this.width/130;
-
-        // Initialize the circle: located at the center of each group area
-        var node = this.svg.append("g")
-            .selectAll("circle")
-            .data(data)
-            .enter()
-            .append("circle")
-            .attr("r", this.radius_size)
-            .attr("cx", this.width / 2)
-            .attr("cy", this.height / 2)
-            .style("fill", function (d) {
-                if (this.type == "cari"){
-                    return color_cari(d.group)
-                } else {
-                    return color_aid(d.aid)
-                }
-            }.bind(this))
-            .style("fill-opacity", 0.8)
-            .attr("stroke", "black")
-            .style("stroke-width", bubble_stroke_width)
-        // .call(d3.drag() // call specific function when circle is dragged
-        //     .on("start", dragstarted)
-        //     .on("drag", dragged)
-        //     .on("end", dragended));
-
-// Features of the forces applied to the nodes:
-        this.simulation = d3.forceSimulation()
-            .force("x", d3.forceX().strength(0.15).x(function (d) {
-                return x_centers(d.group)
-            }.bind(this)))
-            .force("y", d3.forceY().strength(0.1).y(function(d){
-                if (this.type == "cari") {
-                    return this.height / 2
-                } else {
-                    if (d.aid) {
-                        return this.height * 3.9 / 9
-                    } else {
-                        return this.height * 5.1 / 9
-                    }
-                }
-            }.bind(this)))
-            // .force("center", d3.forceCenter().x(this.width / 2).y(this.height / 2)) // Attraction to the center of the svg area
-            .force("charge", d3.forceManyBody().strength(0.5)) // Nodes are attracted one each other of value is > 0
-            .force("collide", d3.forceCollide().strength(0.5).radius(function (d){
-                return this.radius_size + bubble_stroke_width/2
-            }.bind(this)).iterations(2)) // Force that avoids circle overlapping
-
-// Apply these forces to the nodes and update their positions.
-// Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
-        this.simulation
-            .nodes(data)
-            .on("tick", function (d) {
-                node
-                    .attr("cx", function (d) {
-                        return d.x;
-                    })
-                    .attr("cy", function (d) {
-                        return d.y;
-                    })
-            });
-
-        function dragstarted(d) {
-            if (!d3.event.active) simulation.alphaTarget(.03).restart();
-            d.fx = d.x;
-            d.fy = d.y;
-        }
-
-        function dragged(d) {
-            d.fx = d3.event.x;
-            d.fy = d3.event.y;
-        }
-
-        function dragended(d) {
-            if (!d3.event.active) simulation.alphaTarget(.03);
-            d.fx = null;
-            d.fy = null;
-        }
     }
 
 }

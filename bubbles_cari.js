@@ -12,56 +12,10 @@ export class BubbleChart {
             .attr("height", this.height)
     }
     initialize_nodes(data) {
-    // A scale that gives a X target position for each group
+        // A scale that gives a X target position for each group
         this.x_centers = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
             .range([this.width/10, this.width*3.5/10, this.width*6.5/10, this.width*9/10])
-
-        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
-
-        // x axis labels
-        let xScale = d3
-            .scaleBand()
-            .domain(sectors)
-            .range([0, this.width]);
-
-        var x_axis = d3.axisTop()
-            .scale(xScale);
-
-        var xAxisTranslate = this.height-50;
-        this.svg.append("g")
-            .attr("transform", "translate(0, " + xAxisTranslate  +")")
-            .call(x_axis)
-            .append("text")
-            .attr("font-size","18")
-            .attr("fill", "black")
-            .attr("x", (this.width / 2))
-            .attr("y", 20) //set your y attribute here
-            .style("text-anchor", "middle")
-            .text("Food Security Category");
-
-
-        // bubble count labels
-        let bubble_counts = [ "3.3M", "10.7M", "30.3M", "7.2M"]
-        let lScale = d3
-            .scaleBand()
-            .domain(bubble_counts)
-            .range([0, this.width]);
-        var l_axis = d3.axisBottom()
-            .scale(lScale)
-        var lAxisTranslate = 50;
-        this.svg.append("g")
-            .attr("transform", "translate(0, " + lAxisTranslate  +")")
-            .attr("class", "label-axis")
-            .call(l_axis)
-            .append("text")
-            .attr("font-size","18")
-            .attr("fill", "black")
-            .attr("x", (this.width / 2))
-            .attr("y", -10) //set your y attribute here
-            .style("text-anchor", "middle")
-            .text("Total Population in Category");
-
 
 
         // A color scale
@@ -72,15 +26,6 @@ export class BubbleChart {
         var color_aid = d3.scaleOrdinal()
             .domain([false, true])
             .range(["#d52719", "#0443a6"])
-
-        function color(cari, aid) {
-            // if (aid) {
-            //     return "#e3e3e3"
-            // } else {
-                var cari_colors = ["#910b00", "#ff746c", "#24c6f3", "#0443a6"];
-                return cari_colors[4 - cari];
-            // }
-        }
 
         this.bubble_stroke_width = 1.5
 
@@ -96,9 +41,13 @@ export class BubbleChart {
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
-                    return color(d.group, d.aid)
+                if (this.type == "cari"){
+                    return color_cari(d.group)
+                } else {
+                    return color_aid(d.aid)
+                }
             }.bind(this))
-            .style("fill-opacity", 1.0)
+            .style("fill-opacity", 0.8)
             .attr("stroke", "black")
             .style("stroke-width", this.bubble_stroke_width)
         // .call(d3.drag() // call specific function when circle is dragged
@@ -106,11 +55,14 @@ export class BubbleChart {
         //     .on("drag", dragged)
         //     .on("end", dragended));
 
-
 // Features of the forces applied to the nodes:
         this.simulation = d3.forceSimulation()
-            .force("x", d3.forceX().strength(0.2).x(function (d) {
-                return this.x_centers(d.group)
+            .force("x", d3.forceX().strength(0.15).x(function (d) {
+                if (d.group <3){
+                    return this.width*0.57
+                } else {
+                    return this.width *0.42
+                }
             }.bind(this)))
             .force("y", d3.forceY().strength(0.1).y(function(d){
                 if (this.type == "cari") {
@@ -160,25 +112,21 @@ export class BubbleChart {
             d.fy = null;
         }
     }
+
     move_nodes(data) {
         // Features of the forces applied to the nodes:
         this.simulation = d3.forceSimulation()
-            .force("x", d3.forceX().strength(0.05).x(function (d) {
-                if (!d.aid && d.group > 2){
-                    return this.x_centers(d.group-1)
-                } else {
-                    return this.x_centers(d.group)
-                }
-
+            .force("x", d3.forceX().strength(0.1).x(function (d) {
+                return this.x_centers(d.group)
             }.bind(this)))
-            .force("y", d3.forceY().strength(0.015).y(function(d){
+            .force("y", d3.forceY().strength(0.06).y(function(d){
                 if (this.type == "cari") {
                     return this.height / 2
                 } else {
                     if (d.aid) {
-                        return this.height * 3.9 / 9
+                        return this.height * 3.5 / 9
                     } else {
-                        return this.height * 5.1 / 9
+                        return this.height * 5.5 / 9
                     }
                 }
             }.bind(this)))
@@ -203,8 +151,30 @@ export class BubbleChart {
                     })
             }.bind(this));
 
+        // x axis labels
+        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
+        let xScale = d3
+            .scaleBand()
+            .domain(sectors)
+            .range([0, this.width]);
+
+        var x_axis = d3.axisTop()
+            .scale(xScale);
+
+        var xAxisTranslate = this.height-50;
+        this.svg.append("g")
+            .attr("transform", "translate(0, " + xAxisTranslate  +")")
+            .call(x_axis)
+            .append("text")
+            .attr("fill", "black")
+            .attr("x", (this.width / 2))
+            .attr("y", 20) //set your y attribute here
+            .style("text-anchor", "middle")
+            .text("Food Security Category");
+
+
         // bubble count labels
-        let bubble_counts = [ "2.6M", "8.6M", "33.1M", "7.2M"]
+        let bubble_counts = [ "3.3M", "10.7M", "30.3M", "7.2M"]
         let lScale = d3
             .scaleBand()
             .domain(bubble_counts)
@@ -212,20 +182,16 @@ export class BubbleChart {
         var l_axis = d3.axisBottom()
             .scale(lScale)
         var lAxisTranslate = 50;
-
-        this.svg.selectAll("g.label-axis")
-            .remove();
-
         this.svg.append("g")
             .attr("transform", "translate(0, " + lAxisTranslate  +")")
             .call(l_axis)
             .append("text")
-            .attr("font-size","18")
             .attr("fill", "black")
             .attr("x", (this.width / 2))
             .attr("y", -10) //set your y attribute here
             .style("text-anchor", "middle")
             .text("Total Population in Category");
+
     }
 
 }

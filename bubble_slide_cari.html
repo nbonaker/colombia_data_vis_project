@@ -6,7 +6,7 @@
   <!-- Load d3.js -->
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://d3js.org/d3.v4.js"></script>
-  <script type="module" src="./bubbles_simple.js"></script>
+  <script type="module" src="bubbles_cari.js"></script>
   <link rel="stylesheet" href="main_stylesheet.css">
 </head>
 <style>
@@ -75,7 +75,7 @@
     $(function() {
       $("#includeHtml").load("timeline.html");
     });
-    import {BubbleChart} from "./bubbles_simple.js";
+    import {BubbleChart} from "./bubbles_cari.js";
     // load the data
     update_bubble_chart()
 
@@ -102,6 +102,8 @@
         let height = box.clientHeight;
         let BC = new BubbleChart("#bubble-graph", width, height, "cari")
         BC.initialize_nodes(plot_data)
+        setTimeout(function() { BC.move_nodes(plot_data) }, 8000);
+
       });
     }
 </script>

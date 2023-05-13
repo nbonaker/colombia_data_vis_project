@@ -102,7 +102,9 @@
                     in the center.
                 </p>
                 <h3>Click on a flag to display data for the corresponding department.</h3>
-                    <p>Currently selected department: <b><span id="department_label">None</span></b></p>
+                <p><b><span id="aid_percentage_label">None</span>%</b> of people live with food insecurity in
+                    <b><span id="department_label">None</span></b>
+                </p>
                     <select name="hue" id="color_select" style="display: none">
                     <option value="cari">Food Security Level</option>
                     <option value="gov_aid">Receives Aid</option>
@@ -310,10 +312,16 @@
         var plot_data = [];
 
         d3.csv("data_files/by_department/"+ dpt_name + "_clean_dataset.csv").then((data) => {
+            var insecure_counter = 0;
+            var pop_counter = 0;
             for (var i = 0; i < data.length; i++) {
+                var is_insecure = parseFloat(data[i].cari) > 2.0;
+                insecure_counter += is_insecure * parseFloat(data[i].household_size)
+                pop_counter += parseFloat(data[i].household_size)
                 plot_data.push({"size": data[i].household_size, "aid": data[i].government_assistance, "group": Math.round(data[i].cari)})
             }
             console.log(plot_data)
+
             document.getElementById("my_dataviz").innerHTML = "";
             // var svg = d3.select("svg");
             // svg.selectAll("*").remove();
