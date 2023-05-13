@@ -12,6 +12,7 @@ export class BubbleChart {
             .attr("height", this.height)
     }
     initialize_nodes(data) {
+        this.data = data
     // A scale that gives a X target position for each group
         this.x_centers = d3.scaleOrdinal()
             .domain([4, 3, 2, 1])
@@ -89,6 +90,10 @@ export class BubbleChart {
                     .attr("cy", function (d) {
                         return d.y;
                     })
+            }.bind(this))
+            .on("end", function (){
+                console.log("finished")
+                this.move_nodes(this.data)
             }.bind(this));
 
         function dragstarted(d) {
@@ -131,7 +136,8 @@ export class BubbleChart {
             .force("collide", d3.forceCollide().strength(1.0).radius(function (d){
                 return this.radius_size + this.bubble_stroke_width/2
             }.bind(this)).iterations(2))
-            .alpha(0.6)// Force that avoids circle overlapping
+            .alpha(0.6)
+            // Force that avoids circle overlapping
 
 
 // Apply these forces to the nodes and update their positions.
@@ -163,6 +169,7 @@ export class BubbleChart {
             .attr("transform", "translate(0, " + xAxisTranslate  +")")
             .call(x_axis)
             .append("text")
+            .attr("font-size","18")
             .attr("fill", "black")
             .attr("x", (this.width / 2))
             .attr("y", 20) //set your y attribute here
@@ -183,6 +190,7 @@ export class BubbleChart {
             .attr("transform", "translate(0, " + lAxisTranslate  +")")
             .call(l_axis)
             .append("text")
+            .attr("font-size","18")
             .attr("fill", "black")
             .attr("x", (this.width / 2))
             .attr("y", -10) //set your y attribute here
