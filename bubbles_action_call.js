@@ -73,6 +73,15 @@ export class BubbleChart {
             .domain([false, true])
             .range(["#d52719", "#0443a6"])
 
+        function color(cari, aid) {
+            if (aid) {
+                return "#e3e3e3"
+            } else {
+                var cari_colors = ["#910b00", "#ff1200", "#24c6f3", "#e3e3e3"];
+                return cari_colors[4 - cari];
+            }
+        }
+
         this.bubble_stroke_width = 1.5
 
         this.radius_size = this.width/130;
@@ -87,13 +96,9 @@ export class BubbleChart {
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
-                if (this.type == "cari"){
-                    return color_cari(d.group)
-                } else {
-                    return color_aid(d.aid)
-                }
+                    return color(d.group, d.aid)
             }.bind(this))
-            .style("fill-opacity", 0.8)
+            .style("fill-opacity", 1.0)
             .attr("stroke", "black")
             .style("stroke-width", this.bubble_stroke_width)
         // .call(d3.drag() // call specific function when circle is dragged
