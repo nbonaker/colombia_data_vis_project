@@ -59,7 +59,7 @@
 <body>
 
   <div class="title-box">
-    <div class="title-box-text">Some People are Slipping Through the Cracks</div>
+    <div class="title-box-text">The problem is so big, where do we begin?</div>
   </div>
 
   <div class="content-container">
@@ -70,17 +70,15 @@
       <div class="description-box">
         <div class="description-box-text">
 
-          <h2>Overview: The Situation in Colombia</h2>
-          <p>40% of the population are food insecure</p>
-          <p>60% of population is receiving aid of some form</p>
-          <p>Almost all aid comes from the Colombian Government</p>
-          <h3>Both the level of food insecurity and the distribution of aid varies significantly by locality. </h3>
-
-          <h2>Where are People Falling Through the Cracks?</h2>
-          <p><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags denote cites where food insecurity
-          is higher than the national average.</p>
-          <p><img src = "deep_red_flag_icon.svg" width="20" height="20"/> Darker red flags denote cites where BOTH food insecurity
+          <h2>Opportunities to focus efforts for new programs</h2>
+          <!--<p><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags denote cites where food insecurity
+          is higher than the national average.</p>-->
+          <p><img src = "deep_red_flag_icon.svg" width="20" height="20"/> Darker red flags denote municipalities where food insecurity
             is higher than the national average AND governemnt aid is below the national average.</p>
+          <p>If new programs are started in these areas, they have the greatest chance of helping people who are food insecure and have
+            not had access to government aid programs so far.             
+          </p>
+          <h3>Mouse over the red flags to see the names of the municipalities most in need.</h3>
         </div>
       </div>
     </div>
@@ -165,10 +163,10 @@
   let yellow_markers;
 
   map.on("load", () => {
-    fetch(yellowFlagsFile)
-            .then((response) => response.json())
-            .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers));
+//    fetch(yellowFlagsFile)
+//            .then((response) => response.json())
+//            .then((d) => (station_data = d))
+//            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers));
 
     fetch(redFlagsFile)
             .then((response) => response.json())
