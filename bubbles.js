@@ -1,6 +1,7 @@
 export class BubbleChart {
-    constructor(svg_id, width, height, dpt_name) {
+    constructor(svg_id, width, height, dpt_name, type) {
         // set the dimensions and margins of the graph
+        this.type = type;
         this.width = width
         this.height = height
         this.dpt_name = dpt_name
@@ -55,12 +56,14 @@ export class BubbleChart {
                 .style("text-anchor", "middle")
                 .text("Total Population in Category");
 
-            let household_sizes = data[this.dpt_name].values
-            var insecure_percentage = parseFloat(household_sizes[0])+parseFloat(household_sizes[1])
-            insecure_percentage = insecure_percentage/(parseFloat(household_sizes[0])+parseFloat(household_sizes[1])+
-                parseFloat(household_sizes[2])+parseFloat(household_sizes[3]))*100
-            document.getElementById("aid_percentage_label").innerHTML =
-                Math.round(insecure_percentage);
+            if (this.type == "cari") {
+                let household_sizes = data[this.dpt_name].values
+                var insecure_percentage = parseFloat(household_sizes[0]) + parseFloat(household_sizes[1])
+                insecure_percentage = insecure_percentage / (parseFloat(household_sizes[0]) + parseFloat(household_sizes[1]) +
+                    parseFloat(household_sizes[2]) + parseFloat(household_sizes[3])) * 100
+                document.getElementById("aid_percentage_label").innerHTML =
+                    Math.round(insecure_percentage);
+            }
 
         });
 
@@ -102,13 +105,13 @@ export class BubbleChart {
             .attr("cx", this.width / 2)
             .attr("cy", this.height / 2)
             .style("fill", function (d) {
-                if (document.getElementById('color_select').value == "cari"){
+                if (this.type == "cari"){
                     return color_cari(d.group)
                 } else {
                     return color_aid(d.aid == 1.0)
                 }
 
-            })
+            }.bind(this))
             .style("fill-opacity", 0.8)
             .attr("stroke", "black")
             .style("stroke-width", bubble_stroke_width)
@@ -123,7 +126,7 @@ export class BubbleChart {
                 return x_centers(d.group)
             }.bind(this)))
             .force("y", d3.forceY().strength(0.1).y(function (d) {
-                if (document.getElementById('color_select').value == "cari") {
+                if (this.type == "cari") {
                     return this.height / 2
                 } else {
                     if (d.aid == 1.0) {

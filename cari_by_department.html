@@ -110,10 +110,6 @@
                 <p><b><span id="aid_percentage_label">None</span>%</b> of people live with food insecurity in
                     <b><span id="department_label">None</span></b>
                 </p>
-                    <select name="hue" id="color_select" style="display: none">
-                    <option value="cari">Food Security Level</option>
-                    <option value="gov_aid">Receives Aid</option>
-                </select>
             </div>
             <div class="bubble-box">
                 <div id="my_dataviz"></div>
@@ -124,12 +120,12 @@
 </div>
 <div class="description-box">
     <div class="description-box-text">
-        <p style="margin-top: 0"><b>How to Explore the Data:</b><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags show the locations of departments
-            with available data. <img src = "deep_red_flag_icon.svg" width="20" height="20"/> The darker red flag denotes the currently
-            selected department. You can change between departments with the dropdown menu above the bubble chart.
-            You can also choose between coloring the bubbles by food security level or whether they receive government aid.
+        <p style="margin-top: 0">
+            <img src = "red_flag_icons/red_outline.svg" width="20" height="20"/> Departments with <b>much higher</b> rates of food insecurity<br>
+            <img src = "red_flag_icons/light_red_outline.svg" width="20" height="20"/> Departments with <b>higher</b> rates of food insecurity<br>
+            <img src = "red_flag_icons/light_blue_outline.svg" width="20" height="20"/> Departments with <b>lower</b> rates of food insecurity<br>
+            <img src = "red_flag_icons/blue_outline.svg" width="20" height="20"/> Departments with <b>much lower</b> rates of food insecurity
         </p>
-        <p>Each bubble represents a household in the selected department. Relative size of the bubbles shows the number of people in the household.</p>
     </div>
 </div>
 
@@ -334,7 +330,7 @@
             let box = document.querySelector('.bubble-box');
             let width = box.clientWidth;
             let height = box.clientHeight;
-            let BC = new BubbleChart("#my_dataviz", width, height, dpt_name)
+            let BC = new BubbleChart("#my_dataviz", width, height, dpt_name, "cari")
             BC.initialize_nodes(plot_data)
         });
 

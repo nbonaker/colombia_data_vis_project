@@ -100,10 +100,7 @@
                     <p><b><span id="aid_percentage_label">None</span>%</b> of people receive aid from the government in
                         <b><span id="department_label">None</span></b>
                     </p>
-                    <select name="hue" id="color_select" style="display: none">
-                        <option value="gov_aid">Receives Aid</option>
-                        <option value="cari">Food Security Level</option>
-                </select>
+
             </div>
             <div class="bubble-box">
                 <div id="my_dataviz"></div>
@@ -324,7 +321,7 @@
             let box = document.querySelector('.bubble-box');
             let width = box.clientWidth;
             let height = box.clientHeight;
-            let BC = new BubbleChart("#my_dataviz", width, height, dpt_name)
+            let BC = new BubbleChart("#my_dataviz", width, height, dpt_name, "aid")
             BC.initialize_nodes(plot_data)
         });
 
