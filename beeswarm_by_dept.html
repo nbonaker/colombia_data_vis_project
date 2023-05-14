@@ -98,7 +98,7 @@
             .attr("transform", "translate(-105, " + xAxisTranslate  +")")
             .call(x_axis)
 
-        let color = d3.scaleOrdinal().domain(sectors).range(["#910b00", "#ff1200", "#24c6f3", "#0443a6"]);
+        let color = d3.scaleOrdinal().domain(sectors).range(["#910b00", "#ff746c", "#24c6f3", "#0443a6"]);
 
         let marketcapDomain = d3.extent(data.map((d) => +d[size_var]));
         let size = d3.scaleSqrt().domain(marketcapDomain).range([3, 15]);

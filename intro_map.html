@@ -76,9 +76,7 @@
           <p>The above quotations come from the Washington Post article <a href=">https://www.washingtonpost.com/world/2020/05/10/locked-down-colombians-running-out-food-fly-red-flags-help/">"The red flags of Colombia"</a></p>
 
           <h3>Click on a flag
-            <img src = "red_flag_icons/red_outline.svg" width="20" height="20"/>
-            <img src = "red_flag_icons/yellow_outline.svg" width="20" height="20"/>
-            <img src = "red_flag_icons/blue_outline.svg" width="20" height="20"/>to select a department of particular intrest to you.</h3>
+            <img src = "red_flag_icons/red_outline.svg" width="20" height="20"/> to select a department of particular intrest to you.</h3>
           <p>Selected Department: <b><span id="department_selected">None</span></b></p>
         </div>
       </div>
@@ -122,13 +120,7 @@
             .attr('height', 30)
             .attr("fill-opacity", 0.4)
             .attr("xlink:href", function(d){
-              if (d.color_num == 1) {
-                return './red_flag_icons/red_outline.svg'
-              } else if (d.color_num == 2) {
-                return './red_flag_icons/yellow_outline.svg'
-              } else if (d.color_num == 3) {
-                return './red_flag_icons/blue_outline.svg'
-              }
+                return './red_flag_icons/black_outline.svg'
             })
             .attr("id", function (d) {
               return d.department;
@@ -137,13 +129,9 @@
               d3.select(this).raise();
 
               d3.select(this).attr("xlink:href", function(i){
-                if (i.color_num == 1) {
+
                   return './red_flag_icons/red.svg'
-                } else if (i.color_num == 2) {
-                  return './red_flag_icons/yellow.svg'
-                } else if (i.color_num == 3) {
-                  return './red_flag_icons/blue.svg'
-                }
+
               });
 
               div.transition()
@@ -156,13 +144,7 @@
             .on('mouseout', function (data, i) {
                       if (i.selected != '1') {
                         d3.select(this).attr("xlink:href", function (i) {
-                          if (i.color_num == 1) {
-                            return './red_flag_icons/red_outline.svg'
-                          } else if (i.color_num == 2) {
-                            return './red_flag_icons/yellow_outline.svg'
-                          } else if (i.color_num == 3) {
-                            return './red_flag_icons/blue_outline.svg'
-                          }
+                            return './red_flag_icons/black_outline.svg'
                         });
                       }
 
@@ -183,25 +165,15 @@
                 var cur_name = dept_names[index];
                 var flag_svg = document.getElementById(cur_name);
 
-                if (flag_svg.__data__.color_num == 1) {
-                  flag_svg.setAttribute("href", './red_flag_icons/red_outline.svg');
-                } else if (flag_svg.__data__.color_num == 2) {
-                  flag_svg.setAttribute("href", './red_flag_icons/yellow_outline.svg');
-                } else if (flag_svg.__data__.color_num == 3) {
-                  flag_svg.setAttribute("href", './red_flag_icons/blue_outline.svg');
-                }
+                  flag_svg.setAttribute("href", './red_flag_icons/black_outline.svg');
+
                 flag_svg.__data__.selected = "0";
               }
 
               var dept_flag_svg = document.getElementById(i.department);
 
-              if (dept_flag_svg.__data__.color_num == 1) {
                 dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
-              } else if (dept_flag_svg.__data__.color_num == 2) {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/yellow.svg');
-              } else if (dept_flag_svg.__data__.color_num == 3) {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/blue.svg');
-              }
+              
               dept_flag_svg.__data__.selected = "1";
               document.getElementById("department_selected").innerText=i.department_name;
             });
