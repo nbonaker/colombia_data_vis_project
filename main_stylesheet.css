@@ -43,7 +43,7 @@ body {
 }
 .timeline-contain {
   height: 6vh;
-  width: 98%;
+  width: 100%;
   display: flex;
   align-self: center;
   margin-top: 12px;
