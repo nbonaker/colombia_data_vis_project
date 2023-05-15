@@ -220,10 +220,8 @@
     const urlParams = new URLSearchParams(queryString);
     const dpt_select = urlParams.get('dpt')
 
-    var back_url = "./bubble_slide_cari.html";
-    var next_url = "./beeswarm_example.html";
+    var next_url = "./bubble_slide_cari.html";
     if (!!dpt_select) {
-      back_url = back_url + "?dpt=" + dpt_select
       next_url = next_url + "?dpt=" + dpt_select
       var dept_flag_svg = document.getElementById(dpt_select);
 
@@ -233,7 +231,6 @@
       document.getElementById("department_selected").innerText=dept_flag_svg.__data__.department_name;
     }
 
-    document.getElementById("back_button").href = back_url;
     document.getElementById("next_button").href = next_url;
   }
 
