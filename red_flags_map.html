@@ -1,226 +1,273 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>🚩s of Colombia</title>
-  <!-- Load d3.js -->
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
-  <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
-  <link rel="stylesheet" href="main_stylesheet.css">
-</head>
-<style>
-  .map-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 20px;
-    width: 63%;
-    height: 100%;
-    display: table-cell;
+    <!-- Load d3.js -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
+    <link rel="stylesheet" href="main_stylesheet.css" />
+  </head>
+  <style>
+    .map-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 63%;
+      height: 100%;
+      display: table-cell;
+    }
+    #map {
+      border-radius: 20px;
+      background-clip: content-box;
+      width: 100%;
+      height: 100%;
+    }
+    .description-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 30%;
+      height: 100%;
+      display: table-cell;
+      padding-left: 5px;
+      vertical-align: top;
+    }
+    .description-box-text {
+      display: block;
+      width: 90%;
+      height: 95%;
+      padding-left: 5%;
+      padding-top: 5%;
+    }
+    .tooltip-donut {
+      position: absolute;
+      text-align: center;
+      padding: 0.5rem;
+      background: #ffffff;
+      color: #313639;
+      border: 1px solid #313639;
+      border-radius: 8px;
+      pointer-events: none;
+      font-size: 1rem;
+      z-index: 2;
+    }
+  </style>
+  <body>
+    <div class="title-box">
+      <div class="title-box-text">
+        The problem is so big, where do we begin?
+      </div>
+    </div>
 
-  }
-  #map {
-    border-radius: 20px;
-    background-clip: content-box;
-    width: 100%;
-    height: 100%;
-  }
-  .description-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 20px;
-    width: 30%;
-    height: 100%;
-    display: table-cell;
-    padding-left: 5px;
-    vertical-align: top;
-  }
-  .description-box-text{
-    display: block;
-    width: 90%;
-    height: 95%;
-    padding-left: 5%;
-    padding-top: 5%;
-  }
-  .tooltip-donut {
-    position: absolute;
-    text-align: center;
-    padding: .5rem;
-    background: #FFFFFF;
-    color: #313639;
-    border: 1px solid #313639;
-    border-radius: 8px;
-    pointer-events: none;
-    font-size: 1.0rem;
-    z-index: 2;
-  }
-</style>
-<body>
-
-  <div class="title-box">
-    <div class="title-box-text">The problem is so big, where do we begin?</div>
-  </div>
-
-  <div class="content-container">
-    <div style="display: table-row; padding: 10px;">
-      <div style="height: 100%; display: table-cell;">
-        <div class="vertical-center">
-          <a id="back_button" href="" target="_self">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-left" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"/>
-            </svg>
-          </a>
+    <div class="content-container">
+      <div style="display: table-row; padding: 10px">
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="back_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-left"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
-      </div>
-      <div class="map-box">
-        <div id="map" ></div>
-      </div>
-      <div class="description-box">
-        <div class="description-box-text">
-
-          <h2>Opportunities to focus efforts for new programs</h2>
-          <!--<p><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags denote cites where food insecurity
+        <div class="map-box">
+          <div id="map"></div>
+        </div>
+        <div class="description-box">
+          <div class="description-box-text">
+            <h2>Opportunities to focus efforts for new programs</h2>
+            <!--<p><img src = "red_flag_icon.svg" width="20" height="20"/> Lighter red flags denote cites where food insecurity
           is higher than the national average.</p>-->
-          <p><img src = "deep_red_flag_icon.svg" width="20" height="20"/> Darker red flags denote municipalities where food insecurity
-            is higher than the national average AND governemnt aid is below the national average.</p>
-          <p>If new programs are started in these areas, they have the greatest chance of helping people who are food insecure and have
-            not had access to government aid programs so far.             
-          </p>
-          <h3>Mouse over the red flags to see the names of the municipalities most in need.</h3>
+            <p>
+              <img src="deep_red_flag_icon.svg" width="20" height="20" /> Darker
+              red flags denote municipalities where food insecurity is higher
+              than the national average AND governemnt aid is below the national
+              average.
+            </p>
+            <p>
+              If new programs are started in these areas, they have the greatest
+              chance of helping people who are food insecure and have not had
+              access to government aid programs so far.
+            </p>
+            <h3>
+              Mouse over the red flags to see the names of the municipalities
+              most in need.
+            </h3>
+          </div>
         </div>
-      </div>
-      <div style="height: 100%; display: table-cell;">
-        <div class="vertical-center">
-          <a id="next_button" href="" target="_self">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
-            </svg>
-          </a>
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="next_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-right"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div id="includeHtml" class="timeline-box"></div>
+    <div class="timeline-contain">
+      <a href="./intro_map.html" target="_self" class="bb">Introduction</a>
+      <a href="./bubble_slide_cari.html" target="_self" class="bb"
+        >Food Insecurity</a
+      >
+      <a href="./cari_by_department.html" target="_self" class="bb"
+        >Department CARI</a
+      >
+      <a href="./beeswarm_example.html" target="_self" class="bb"
+        >Food Expenditures</a
+      >
+      <a href="./beeswarm_example_noaid.html" target="_self" class="bb"
+        >Aid for Insecure</a
+      >
+      <a href="./bubble_slide_gov_aid.html" target="_self" class="bb"
+        >Government Aid</a
+      >
+      <a href="aid_by_department.html" target="_self" class="bb"
+        >Department Aid</a
+      >
+      <a href="./red_flags_map.html" target="_self" class="bb">Red Flags Map</a>
+      <a href="./bubbles_action_call.html" target="_self" class="bb"
+        >Call to Action</a
+      >
+    </div>
 
-<script>
-  $(function() {
-    $("#includeHtml").load("timeline.html");
-  });
-  // load mabbox map
-  mapboxgl.accessToken = "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
-  const map = new mapboxgl.Map({
-    container: "map",
-    style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
-    center: [-73.2973, 3.9],
-    zoom: 4.8, // starting zoom level
-    dragPan: false,
-    interactive: false
-  });
-  // disable map zoom when using scroll
-  map.scrollZoom.disable();
+    <script>
+      // $(function() {
+      //   $("#includeHtml").load("timeline.html");
+      // });
+      // load mabbox map
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
+      const map = new mapboxgl.Map({
+        container: "map",
+        style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
+        center: [-73.2973, 3.9],
+        zoom: 4.8, // starting zoom level
+        dragPan: false,
+        interactive: false,
+      });
+      // disable map zoom when using scroll
+      map.scrollZoom.disable();
 
-  function create_flag_markers(station_data, icon_file, markers) {
-    console.log(station_data)
-    markers = marker_container
-            .selectAll("circle")
-            .data(station_data)
-            .enter()
-            .append("svg:image")
-            .attr('width', 25)
-            .attr('height', 25)
-            .attr("fill-opacity", 0.4)
-            .attr("xlink:href",
-                    icon_file)
-            .attr("name", function (d) {
-              return d.city;
-            })
-            .on('mouseover', function (data, i) {
-              d3.select(this).transition()
-                      .duration('50')
-                      .attr('opacity', '.85');
-              div.transition()
-                      .duration(50)
-                      .style("opacity", 1);
-              div.html(i.city)
-                      .style("left", (data.pageX + 10) + "px")
-                      .style("top", (data.pageY - 15) + "px");
-            })
-            .on('mouseout', function (data, i) {
-                      d3.select(this).transition()
-                              .duration('100')
-                              .attr('opacity', '1');
-                      //Makes the new div disappear:
-                      div.transition()
-                              .duration('100')
-                              .style("opacity", 0);
-                    }
-            );
+      function create_flag_markers(station_data, icon_file, markers) {
+        console.log(station_data);
+        markers = marker_container
+          .selectAll("circle")
+          .data(station_data)
+          .enter()
+          .append("svg:image")
+          .attr("width", 25)
+          .attr("height", 25)
+          .attr("fill-opacity", 0.4)
+          .attr("xlink:href", icon_file)
+          .attr("name", function (d) {
+            return d.city;
+          })
+          .on("mouseover", function (data, i) {
+            d3.select(this).transition().duration("50").attr("opacity", ".85");
+            div.transition().duration(50).style("opacity", 1);
+            div
+              .html(i.city)
+              .style("left", data.pageX + 10 + "px")
+              .style("top", data.pageY - 15 + "px");
+          })
+          .on("mouseout", function (data, i) {
+            d3.select(this).transition().duration("100").attr("opacity", "1");
+            //Makes the new div disappear:
+            div.transition().duration("100").style("opacity", 0);
+          });
 
+        position_station_markers(markers);
+      }
 
-    position_station_markers(markers);
-  }
+      var div = d3
+        .select("body")
+        .append("div")
+        .attr("class", "tooltip-donut")
+        .style("opacity", 0);
 
-  var div = d3.select("body").append("div")
-          .attr("class", "tooltip-donut")
-          .style("opacity", 0);
+      function position_station_markers(markers) {
+        markers.attr("transform", function (d) {
+          return "translate(" + project(d).x + "," + (project(d).y - 25) + ")";
+        });
+      }
+      function project(d) {
+        return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
+      }
 
-  function position_station_markers(markers) {
-    markers
-            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
-  }
-  function project(d) {
-    return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
-  }
+      let redFlagsFile = "./data_files/red_flags_city_coords.json";
+      let red_markers;
 
+      let yellowFlagsFile = "./data_files/yellow_flags_city_coords.json";
+      let yellow_markers;
 
-  let redFlagsFile = "./data_files/red_flags_city_coords.json";
-  let red_markers;
+      map.on("load", () => {
+        //    fetch(yellowFlagsFile)
+        //            .then((response) => response.json())
+        //            .then((d) => (station_data = d))
+        //            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers));
 
-  let yellowFlagsFile = "./data_files/yellow_flags_city_coords.json";
-  let yellow_markers;
+        fetch(redFlagsFile)
+          .then((response) => response.json())
+          .then((d) => (station_data = d))
+          .then((d) =>
+            create_flag_markers(d, "./deep_red_flag_icon.svg", yellow_markers)
+          );
+      });
 
-  map.on("load", () => {
-//    fetch(yellowFlagsFile)
-//            .then((response) => response.json())
-//            .then((d) => (station_data = d))
-//            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers));
+      const marker_container = d3
+        .select(map.getCanvasContainer())
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .style("position", "absolute")
+        .style("z-index", 2);
 
-    fetch(redFlagsFile)
-            .then((response) => response.json())
-            .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg', yellow_markers));
-  });
+      // resizes the map when resizing event finishes (prevents jittering)
+      // window.onresize = function() {
+      //   position_station_markers(red_markers)
+      //   // position_station_markers()
+      // }
 
+      // URL PARAMETERS
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const dpt_select = urlParams.get("dpt");
 
-  const marker_container = d3
-          .select(map.getCanvasContainer() )
-          .append("svg")
-          .attr("width", "100%")
-          .attr("height", "100%")
-          .style("position", "absolute")
-          .style("z-index", 2);
+      var back_url = "./aid_by_department.html";
+      var next_url = "./bubbles_action_call.html";
+      if (!!dpt_select) {
+        back_url = back_url + "?dpt=" + dpt_select;
+        next_url = next_url + "?dpt=" + dpt_select;
+      }
 
-  // resizes the map when resizing event finishes (prevents jittering)
-  // window.onresize = function() {
-  //   position_station_markers(red_markers)
-  //   // position_station_markers()
-  // }
-
-  // URL PARAMETERS
-  const queryString = window.location.search;
-  const urlParams = new URLSearchParams(queryString);
-  const dpt_select = urlParams.get('dpt')
-
-  var back_url = "./aid_by_department.html";
-  var next_url = "./bubbles_action_call.html";
-  if (!!dpt_select) {
-    back_url = back_url + "?dpt=" + dpt_select
-    next_url = next_url + "?dpt=" + dpt_select
-  }
-
-  document.getElementById("back_button").href = back_url;
-  document.getElementById("next_button").href = next_url;
-</script>
-</body>
+      document.getElementById("back_button").href = back_url;
+      document.getElementById("next_button").href = next_url;
+    </script>
+  </body>
 </html>

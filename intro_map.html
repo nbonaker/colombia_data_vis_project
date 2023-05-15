@@ -1,269 +1,346 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>🚩s of Colombia</title>
-  <!-- Load d3.js -->
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
-  <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
-  <link rel="stylesheet" href="main_stylesheet.css">
-</head>
-<style>
-  .map-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 0px;
-    width: 63%;
-    height: 100%;
-    display: table-cell;
+    <!-- Load d3.js -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
+    <link rel="stylesheet" href="main_stylesheet.css" />
+  </head>
+  <style>
+    .map-box {
+      background-clip: content-box;
+      width: 75%;
+      height: 100%;
+      display: table-cell;
+      border-right: 1px solid #b6b6b6;
+      margin-right: 5px;
+      padding-right: 5px;
+    }
 
-    border-right: 1px solid;
-    border-right-color: #b6b6b6;
-    margin-right: 5px;
-    padding-right: 5px;
-  }
+    #map {
+      border-radius: 20px;
+      background-clip: content-box;
+      width: 100%;
+      height: 100%;
+    }
+    .description-box {
+      /* background-color: white; */
+      background-clip: content-box;
+      /* border-radius: 20px; */
+      width: 25%;
+      height: 100%;
+      display: table-cell;
+      padding-left: 5px;
+      vertical-align: top;
+    }
+    .description-box-text {
+      display: block;
+      width: 90%;
+      height: 95%;
+      padding-left: 5%;
+      padding-top: 5%;
+    }
+    .tooltip-donut {
+      position: absolute;
+      text-align: center;
+      padding: 0.5rem;
+      background: #ffffff;
+      color: #313639;
+      border: 1px solid #313639;
+      border-radius: 8px;
+      pointer-events: none;
+      font-size: 1rem;
+      z-index: 2;
+    }
+  </style>
+  <body>
+    <div class="title-box">
+      <div class="title-box-text">Red Flags of Colombia</div>
+    </div>
 
-  #map {
-    border-radius: 20px;
-    background-clip: content-box;
-    width: 100%;
-    height: 100%;
-  }
-  .description-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 20px;
-    width: 33%;
-    height: 100%;
-    display: table-cell;
-    padding-left: 5px;
-    vertical-align: top;
-  }
-  .description-box-text{
-    display: block;
-    width: 90%;
-    height: 95%;
-    padding-left: 5%;
-    padding-top: 5%;
-  }
-  .tooltip-donut {
-    position: absolute;
-    text-align: center;
-    padding: .5rem;
-    background: #FFFFFF;
-    color: #313639;
-    border: 1px solid #313639;
-    border-radius: 8px;
-    pointer-events: none;
-    font-size: 1.0rem;
-    z-index: 2;
-  }
-
-</style>
-<body>
-
-  <div class="title-box">
-    <div class="title-box-text">Red Flags of Colombia</div>
-  </div>
-
-  <div class="content-container">
-    <div style="display: table-row; padding: 10px;">
-      <div class="map-box">
-        <div id="map" ></div>
-      </div>
-      <div class="description-box">
-        <div class="description-box-text">
-
-          <h2>Food Insecurity has taken a toll on the Colombian population</h2>
-          <p>“Across Colombia, the red flag — or scarf, or towel, or T-shirt — has come to symbolize an urgent need for assistance. It’s a cry for help.”</p>
-          <p>“We have nothing to eat. We depend on good-hearted people who pass by and see the flags. That is how they know we are hungry.”</p>
-          <p>The above quotations come from the Washington Post article <a href=">https://www.washingtonpost.com/world/2020/05/10/locked-down-colombians-running-out-food-fly-red-flags-help/">"The red flags of Colombia"</a></p>
-
-          <h3>Click on a flag
-            <img src = "red_flag_icons/black_outline.svg" width="20" height="20"/> to select a department of particular interest to you.</h3>
-
-          <p>Selected Department: <b><span id="department_selected">None</span></b></p>
+    <div class="content-container">
+      <div style="display: table-row; padding: 10px">
+        <div class="map-box">
+          <div id="map"></div>
         </div>
-      </div>
-      <div style="height: 100%; display: table-cell;">
-        <div class="vertical-center">
-          <a id="next_button" href="./bubble_slide_cari.html" target="_self">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
-            </svg>
-          </a>
+        <div class="description-box">
+          <div class="description-box-text">
+            <h2>
+              Food Insecurity has taken a toll on the Colombian population
+            </h2>
+            <p>
+              “Across Colombia, the red flag — or scarf, or towel, or T-shirt —
+              has come to symbolize an urgent need for assistance. It’s a cry
+              for help.”
+            </p>
+            <p>
+              “We have nothing to eat. We depend on good-hearted people who pass
+              by and see the flags. That is how they know we are hungry.”
+            </p>
+            <p>
+              The above quotations come from the Washington Post article
+              <a
+                href=">https://www.washingtonpost.com/world/2020/05/10/locked-down-colombians-running-out-food-fly-red-flags-help/"
+                >"The red flags of Colombia"</a
+              >
+            </p>
+
+            <h3>
+              Click on a flag
+              <img
+                src="red_flag_icons/black_outline.svg"
+                width="20"
+                height="20"
+              />
+              to select a department of particular interest to you.
+            </h3>
+
+            <p>
+              Selected Department:
+              <b><span id="department_selected">None</span></b>
+            </p>
+          </div>
+        </div>
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="next_button" href="./bubble_slide_cari.html" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-right"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div id="includeHtml" class="timeline-box"></div>
+    <div class="timeline-contain">
+      <a href="./intro_map.html" target="_self" class="bb">Introduction</a>
+      <a href="./bubble_slide_cari.html" target="_self" class="bb"
+        >Food Insecurity</a
+      >
+      <a href="./cari_by_department.html" target="_self" class="bb"
+        >Department CARI</a
+      >
+      <a href="./beeswarm_example.html" target="_self" class="bb"
+        >Food Expenditures</a
+      >
+      <a href="./beeswarm_example_noaid.html" target="_self" class="bb"
+        >Aid for Insecure</a
+      >
+      <a href="./bubble_slide_gov_aid.html" target="_self" class="bb"
+        >Government Aid</a
+      >
+      <a href="aid_by_department.html" target="_self" class="bb"
+        >Department Aid</a
+      >
+      <a href="./red_flags_map.html" target="_self" class="bb">Red Flags Map</a>
+      <a href="./bubbles_action_call.html" target="_self" class="bb"
+        >Call to Action</a
+      >
+    </div>
 
-<script>
-  $(function() {
-    $("#includeHtml").load("timeline.html");
-  });
-  // load mabbox map
-  mapboxgl.accessToken = "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
-  const map = new mapboxgl.Map({
-    container: "map",
-    style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
-    center: [-73.2973, 3.9],
-    zoom: 4.8, // starting zoom level
-    dragPan: false,
-    interactive: false
-  });
-  // disable map zoom when using scroll
-  map.scrollZoom.disable();
+    <script>
+      // load mabbox map
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
+      const map = new mapboxgl.Map({
+        container: "map",
+        style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
+        center: [-73.2973, 3.9],
+        zoom: 4.8, // starting zoom level
+        dragPan: false,
+        interactive: false,
+      });
+      // disable map zoom when using scroll
+      map.scrollZoom.disable();
 
-  function create_flag_markers(station_data, icon_file, markers) {
+      function create_flag_markers(station_data, icon_file, markers) {
+        for (var i = 0; i < station_data.length; i++) {
+          var color_num = Math.round(Math.random() * 3 + 0.5);
+          station_data[i]["color_num"] = color_num;
+          //Do something
+        }
 
-    for (var i = 0; i < station_data.length; i++) {
-      var color_num = Math.round(Math.random()*3+0.5)
-      station_data[i]["color_num"] = color_num
-      //Do something
-    }
+        console.log(station_data);
 
-    console.log(station_data)
+        markers = marker_container
+          .selectAll("circle")
+          .data(station_data)
+          .enter()
+          .append("svg:image")
+          .attr("width", 30)
+          .attr("height", 30)
+          .attr("fill-opacity", 0.4)
+          .attr("xlink:href", function (d) {
+            return "./red_flag_icons/black_outline.svg";
+          })
+          .attr("id", function (d) {
+            return d.department;
+          })
+          .on("mouseover", function (data, i) {
+            d3.select(this).raise();
 
-    markers = marker_container
-            .selectAll("circle")
-            .data(station_data)
-            .enter()
-            .append("svg:image")
-            .attr('width', 30)
-            .attr('height', 30)
-            .attr("fill-opacity", 0.4)
-            .attr("xlink:href", function(d){
-                return './red_flag_icons/black_outline.svg'
-            })
-            .attr("id", function (d) {
-              return d.department;
-            })
-            .on('mouseover', function (data, i) {
-              d3.select(this).raise();
-
-              d3.select(this).attr("xlink:href", function(i){
-
-                  return './red_flag_icons/red.svg'
-
-              });
-
-              div.transition()
-                      .duration(50)
-                      .style("opacity", 1);
-              div.html(i.department_name)
-                      .style("left", (data.pageX + 10) + "px")
-                      .style("top", (data.pageY - 15) + "px");
-            })
-            .on('mouseout', function (data, i) {
-                      if (i.selected != '1') {
-                        d3.select(this).attr("xlink:href", function (i) {
-                            return './red_flag_icons/black_outline.svg'
-                        });
-                      }
-
-                      //Makes the new div disappear:
-                      div.transition()
-                              .duration('100')
-                              .style("opacity", 0);
-                    }
-            ).on('click', function(d,i) {
-              var dept_names = ['amazonas', 'antioquia', 'arauca', 'archipielago_de_san_andres',
-                'atlantico', 'bogota_dc', 'bolivar', 'boyaca', 'caldas', 'caqueta',
-                'casanare', 'cauca', 'cesar', 'choco', 'cordoba', 'cundinamarca',
-                'huila', 'la_guajira', 'magdalena', 'meta', 'narino',
-                'norte_de_santander', 'putumayo', 'quindio', 'risaralda',
-                'santander', 'sucre', 'tolima', 'valle_del_cauca', 'vaupes',
-                'vichada'];
-              for (var index = 0; index < dept_names.length; index++) {
-                var cur_name = dept_names[index];
-                var flag_svg = document.getElementById(cur_name);
-
-                  flag_svg.setAttribute("href", './red_flag_icons/black_outline.svg');
-
-                flag_svg.__data__.selected = "0";
-              }
-
-              var dept_flag_svg = document.getElementById(i.department);
-
-                dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
-
-              dept_flag_svg.__data__.selected = "1";
-              document.getElementById("department_selected").innerText=i.department_name;
-
-              var url = "./bubble_slide_cari.html?dpt=" + i.department;
-              document.getElementById("next_button").href=url;
-              //
+            d3.select(this).attr("xlink:href", function (i) {
+              return "./red_flag_icons/red.svg";
             });
 
+            div.transition().duration(50).style("opacity", 1);
+            div
+              .html(i.department_name)
+              .style("left", data.pageX + 10 + "px")
+              .style("top", data.pageY - 15 + "px");
+          })
+          .on("mouseout", function (data, i) {
+            if (i.selected != "1") {
+              d3.select(this).attr("xlink:href", function (i) {
+                return "./red_flag_icons/black_outline.svg";
+              });
+            }
 
-    position_station_markers(markers);
-    connect_back_buttons();
-  }
+            //Makes the new div disappear:
+            div.transition().duration("100").style("opacity", 0);
+          })
+          .on("click", function (d, i) {
+            var dept_names = [
+              "amazonas",
+              "antioquia",
+              "arauca",
+              "archipielago_de_san_andres",
+              "atlantico",
+              "bogota_dc",
+              "bolivar",
+              "boyaca",
+              "caldas",
+              "caqueta",
+              "casanare",
+              "cauca",
+              "cesar",
+              "choco",
+              "cordoba",
+              "cundinamarca",
+              "huila",
+              "la_guajira",
+              "magdalena",
+              "meta",
+              "narino",
+              "norte_de_santander",
+              "putumayo",
+              "quindio",
+              "risaralda",
+              "santander",
+              "sucre",
+              "tolima",
+              "valle_del_cauca",
+              "vaupes",
+              "vichada",
+            ];
+            for (var index = 0; index < dept_names.length; index++) {
+              var cur_name = dept_names[index];
+              var flag_svg = document.getElementById(cur_name);
 
-  var div = d3.select("body").append("div")
-          .attr("class", "tooltip-donut")
-          .style("opacity", 0);
+              flag_svg.setAttribute(
+                "href",
+                "./red_flag_icons/black_outline.svg"
+              );
 
-  function position_station_markers(markers) {
-    markers
-            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
-  }
-  function project(d) {
-    return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
-  }
+              flag_svg.__data__.selected = "0";
+            }
 
-  function connect_back_buttons() {
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const dpt_select = urlParams.get('dpt')
+            var dept_flag_svg = document.getElementById(i.department);
 
-    var back_url = "./bubble_slide_cari.html";
-    var next_url = "./beeswarm_example.html";
-    if (!!dpt_select) {
-      back_url = back_url + "?dpt=" + dpt_select
-      next_url = next_url + "?dpt=" + dpt_select
-      var dept_flag_svg = document.getElementById(dpt_select);
+            dept_flag_svg.setAttribute("href", "./red_flag_icons/red.svg");
 
-      dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
+            dept_flag_svg.__data__.selected = "1";
+            document.getElementById("department_selected").innerText =
+              i.department_name;
 
-      dept_flag_svg.__data__.selected = "1";
-      document.getElementById("department_selected").innerText=dept_flag_svg.__data__.department_name;
-    }
+            var url = "./bubble_slide_cari.html?dpt=" + i.department;
+            document.getElementById("next_button").href = url;
+            //
+          });
 
-    document.getElementById("back_button").href = back_url;
-    document.getElementById("next_button").href = next_url;
-  }
+        position_station_markers(markers);
+        connect_back_buttons();
+      }
 
+      var div = d3
+        .select("body")
+        .append("div")
+        .attr("class", "tooltip-donut")
+        .style("opacity", 0);
 
+      function position_station_markers(markers) {
+        markers.attr("transform", function (d) {
+          return "translate(" + project(d).x + "," + (project(d).y - 25) + ")";
+        });
+      }
+      function project(d) {
+        return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
+      }
 
-  let redFlagsFile = "./data_files/dept_coords.json";
-  let red_markers;
+      function connect_back_buttons() {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const dpt_select = urlParams.get("dpt");
 
-  map.on("load", () => {
+        var back_url = "./bubble_slide_cari.html";
+        var next_url = "./beeswarm_example.html";
+        if (!!dpt_select) {
+          back_url = back_url + "?dpt=" + dpt_select;
+          next_url = next_url + "?dpt=" + dpt_select;
+          var dept_flag_svg = document.getElementById(dpt_select);
 
-    fetch(redFlagsFile)
-            .then((response) => response.json())
-            .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg', red_markers));
-  });
+          dept_flag_svg.setAttribute("href", "./red_flag_icons/red.svg");
 
+          dept_flag_svg.__data__.selected = "1";
+          document.getElementById("department_selected").innerText =
+            dept_flag_svg.__data__.department_name;
+        }
 
-  const marker_container = d3
-          .select(map.getCanvasContainer() )
-          .append("svg")
-          .attr("width", "100%")
-          .attr("height", "100%")
-          .style("position", "absolute")
-          .style("z-index", 2);
+        document.getElementById("back_button").href = back_url;
+        document.getElementById("next_button").href = next_url;
+      }
 
-  // resizes the map when resizing event finishes (prevents jittering)
-  // window.onresize = function() {
-  //   position_station_markers(red_markers)
-  //   // position_station_markers()
-  // }
-</script>
-</body>
+      let redFlagsFile = "./data_files/dept_coords.json";
+      let red_markers;
+
+      map.on("load", () => {
+        fetch(redFlagsFile)
+          .then((response) => response.json())
+          .then((d) => (station_data = d))
+          .then((d) =>
+            create_flag_markers(d, "./deep_red_flag_icon.svg", red_markers)
+          );
+      });
+
+      const marker_container = d3
+        .select(map.getCanvasContainer())
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .style("position", "absolute")
+        .style("z-index", 2);
+
+      // resizes the map when resizing event finishes (prevents jittering)
+      // window.onresize = function() {
+      //   position_station_markers(red_markers)
+      //   // position_station_markers()
+      // }
+    </script>
+  </body>
 </html>

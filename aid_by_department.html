@@ -1,383 +1,498 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>🚩s of Colombia</title>
     <!-- Load d3.js -->
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<!--    <script src="https://d3js.org/d3.v4.js"></script>-->
+    <!--    <script src="https://d3js.org/d3.v4.js"></script>-->
     <script src="https://d3js.org/d3.v6.js" charset="utf-8"></script>
 
-    <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
     <script type="module" src="./bubbles.js"></script>
-    <link rel="stylesheet" href="main_stylesheet.css">
-</head>
-<style>
-    .map-box{
-        background-color:white;
-        background-clip: content-box;
-        border-radius: 20px;
-        width: 47%;
-        height: 100%;
-        display: table-cell;
-
+    <link rel="stylesheet" href="main_stylesheet.css" />
+  </head>
+  <style>
+    .map-box {
+      /* background-color: white; */
+      background-clip: content-box;
+      /* border-radius: 20px; */
+      width: 47%;
+      height: 100%;
+      display: table-cell;
+      border-right: 1px solid rgb(170, 176, 182);
     }
     #map {
-        border-radius: 20px;
-        background-clip: content-box;
-        width: 100%;
-        height: 100%;
+      border-radius: 20px;
+      background-clip: content-box;
+      width: 100%;
+      height: 100%;
     }
 
-    .data-box{
-        background-color:white;
-        background-clip: content-box;
-        border-radius: 20px;
-        width: 47%;
-        height: 50%;
-        display: table-cell;
-        vertical-align: top;
+    .data-box {
+      /* background-color: white; */
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 47%;
+      height: 50%;
+      display: table-cell;
+      vertical-align: top;
     }
-    .bubble-box{
-        width: 100%;
-        height: 75%;
-        /*vertical-align: top;*/
+    .bubble-box {
+      width: 100%;
+      height: 75%;
+      /*vertical-align: top;*/
     }
-    .description-box{
-        background-color:white;
-        background-clip: content-box;
-        border-radius: 20px;
-        width: 100%;
-        height: 14%;
-        /*display: table-row;*/
-        padding-left: 5px;
-        padding-bottom: 5px;
-        vertical-align: top;
+    .description-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 100%;
+      height: 14%;
+      /*display: table-row;*/
+      padding-left: 5px;
+      padding-bottom: 5px;
+      vertical-align: top;
     }
-    .description-box-text{
-        display: block;
-        width: 95%;
-        height: 100%;
-        padding-left: 1rem;
-        padding-top: 0.5rem;
+    .description-box-text {
+      display: block;
+      width: 95%;
+      height: 100%;
+      padding-left: 1rem;
+      padding-top: 0.5rem;
     }
     .tooltip-donut {
-        position: absolute;
-        text-align: center;
-        padding: .5rem;
-        background: #FFFFFF;
-        color: #313639;
-        border: 1px solid #313639;
-        border-radius: 8px;
-        pointer-events: none;
-        font-size: 1.0rem;
-        z-index: 2;
+      position: absolute;
+      text-align: center;
+      padding: 0.5rem;
+      background: #ffffff;
+      color: #313639;
+      border: 1px solid #313639;
+      border-radius: 8px;
+      pointer-events: none;
+      font-size: 1rem;
+      z-index: 2;
     }
-    .content-container{
-        width: 100%;
-        height: 66%;
-        display: table;
-        padding-top: 5px;
-        padding-bottom: 5px;
+    .content-container {
+      width: 100%;
+      height: 66%;
+      display: table;
+      padding-top: 5px;
+      padding-bottom: 5px;
     }
-</style>
-<body>
+  </style>
+  <body>
+    <div class="title-box">
+      <div class="title-box-text">Where in Colombia is aid being sent?</div>
+    </div>
 
-<div class="title-box">
-    <div class="title-box-text">Where in Colombia is aid being sent?</div>
-</div>
-
-<div class="content-container">
-    <div style="display: table-row; padding: 10px;">
-        <div style="height: 100%; display: table-cell;">
-            <div class="vertical-center">
-                <a id="back_button" href="" target="_self">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-left" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"/>
-                    </svg>
-                </a>
-            </div>
+    <div class="content-container">
+      <div style="display: table-row; padding: 10px">
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="back_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-left"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
         <div class="map-box">
-            <div id="map" ></div>
+          <div id="map"></div>
         </div>
         <div class="data-box">
-            <!-- Create a div where the graph will take place -->
-            <div style="padding-left: 15px; padding-top: 15px;">
-                <h3>Click on a flag to display data for the corresponding department.</h3>
-                    <p><b><span id="aid_percentage_label">None</span>%</b> of people receive aid from the government in
-                        <b><span id="department_label">None</span></b>
-                    </p>
-
-            </div>
-            <div class="bubble-box">
-                <div id="my_dataviz"></div>
-            </div>
+          <!-- Create a div where the graph will take place -->
+          <div style="padding-left: 15px; padding-top: 15px">
+            <h3>
+              Click on a flag to display data for the corresponding department.
+            </h3>
+            <p>
+              <b><span id="aid_percentage_label">None</span>%</b> of people
+              receive aid from the government in
+              <b><span id="department_label">None</span></b>
+            </p>
+          </div>
+          <div class="bubble-box">
+            <div id="my_dataviz"></div>
+          </div>
         </div>
-        <div style="height: 100%; display: table-cell;">
-            <div class="vertical-center">
-                <a id="next_button" href="" target="_self">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
-                    </svg>
-                </a>
-            </div>
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="next_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-right"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
-
+      </div>
     </div>
-</div>
-<div class="description-box">
-    <div class="description-box-text">
-        <p>The map at left shows the level of government aid in each department relative to the national average.
-            Red flags denote areas receiving less aid than the national average, and blue flags denote areas
-            with more aid. More aid appears to be provided in the northern and southwestern portions of the country
-            and less aid is provided in the central portion of the country.
+    <div class="description-box">
+      <div class="description-box-text">
+        <p>
+          The map at left shows the level of government aid in each department
+          relative to the national average. Red flags denote areas receiving
+          less aid than the national average, and blue flags denote areas with
+          more aid. More aid appears to be provided in the northern and
+          southwestern portions of the country and less aid is provided in the
+          central portion of the country.
         </p>
-        <p style="bottom: 0">Each bubble represents a household in the selected department. Relative size of the bubbles shows the number of people in the household.</p>
+        <p style="bottom: 0">
+          Each bubble represents a household in the selected department.
+          Relative size of the bubbles shows the number of people in the
+          household.
+        </p>
+      </div>
     </div>
-</div>
 
-<div id="includeHtml" class="timeline-box"></div>
+    <div class="timeline-contain">
+      <a href="./intro_map.html" target="_self" class="bb">Introduction</a>
+      <a href="./bubble_slide_cari.html" target="_self" class="bb"
+        >Food Insecurity</a
+      >
+      <a href="./cari_by_department.html" target="_self" class="bb"
+        >Department CARI</a
+      >
+      <a href="./beeswarm_example.html" target="_self" class="bb"
+        >Food Expenditures</a
+      >
+      <a href="./beeswarm_example_noaid.html" target="_self" class="bb"
+        >Aid for Insecure</a
+      >
+      <a href="./bubble_slide_gov_aid.html" target="_self" class="bb"
+        >Government Aid</a
+      >
+      <a href="aid_by_department.html" target="_self" class="bb"
+        >Department Aid</a
+      >
+      <a href="./red_flags_map.html" target="_self" class="bb">Red Flags Map</a>
+      <a href="./bubbles_action_call.html" target="_self" class="bb"
+        >Call to Action</a
+      >
+    </div>
 
-<script type="module">
-    $(function() {
-        $("#includeHtml").load("timeline.html");
-    });
+    <script type="module">
+      // $(function() {
+      //     $("#includeHtml").load("timeline.html");
+      // });
 
-    /////////////////////////////////////Map stuff
-    // load mabbox map
-    mapboxgl.accessToken = "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
-    const map = new mapboxgl.Map({
+      /////////////////////////////////////Map stuff
+      // load mabbox map
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoibmJvbmFrZXIiLCJhIjoiY2p0bmRkNmdtMDloZzQ0cXBpM2trb2owYyJ9.WthQbtkv3vaXA8rrVoo-hg";
+      const map = new mapboxgl.Map({
         container: "map",
         style: "mapbox://styles/nbonaker/clgvf3qjv00d701pi6xyafcbq",
         center: [-73.2973, 3.9],
         zoom: 4.2, // starting zoom level
         dragPan: false,
-        interactive: false
-    });
-    // disable map zoom when using scroll
-    map.scrollZoom.disable();
+        interactive: false,
+      });
+      // disable map zoom when using scroll
+      map.scrollZoom.disable();
 
-    function create_flag_markers(station_data, icon_file, markers) {
-
-        console.log(station_data)
+      function create_flag_markers(station_data, icon_file, markers) {
+        console.log(station_data);
         markers = marker_container
-            .selectAll("circle")
-            .data(station_data)
-            .enter()
-            .append("svg:image")
-            .attr('width', 25)
-            .attr('height', 25)
-            .attr('opacity', '1')
-            .attr('selected', '0')
-            .attr('position', 'relative')
-            .attr("xlink:href", function (d){
-                if (d.aid_quantile == 3) {
-                    return './red_flag_icons/blue_outline.svg'
-                } else if (d.aid_quantile == 2) {
-                    return './red_flag_icons/light_blue_outline.svg'
-                } else if (d.aid_quantile == 1) {
-                    return './red_flag_icons/light_red_outline.svg'
-                } else {
-                    return './red_flag_icons/red_outline.svg'
-                }
-            })
-            .attr("id", function (d) {
-                return d.department;
-            })
-            .on('mouseover', function (data, i) {
-                d3.select(this).raise();
+          .selectAll("circle")
+          .data(station_data)
+          .enter()
+          .append("svg:image")
+          .attr("width", 25)
+          .attr("height", 25)
+          .attr("opacity", "1")
+          .attr("selected", "0")
+          .attr("position", "relative")
+          .attr("xlink:href", function (d) {
+            if (d.aid_quantile == 3) {
+              return "./red_flag_icons/blue_outline.svg";
+            } else if (d.aid_quantile == 2) {
+              return "./red_flag_icons/light_blue_outline.svg";
+            } else if (d.aid_quantile == 1) {
+              return "./red_flag_icons/light_red_outline.svg";
+            } else {
+              return "./red_flag_icons/red_outline.svg";
+            }
+          })
+          .attr("id", function (d) {
+            return d.department;
+          })
+          .on("mouseover", function (data, i) {
+            d3.select(this).raise();
 
-                d3.select(this).attr("xlink:href", function(i){
-                        if (i.aid_quantile == 3) {
-                            return './red_flag_icons/blue.svg'
-                        } else if (i.aid_quantile == 2) {
-                            return './red_flag_icons/light_blue.svg'
-                        } else if (i.aid_quantile == 1) {
-                            return './red_flag_icons/light_red.svg'
-                        } else {
-                            return './red_flag_icons/red.svg'
-                        }
-                });
-
-                div.transition()
-                    .duration(50)
-                    .style("opacity", 1);
-                div.html(i.department_name)
-                    .style("left", (data.pageX + 10) + "px")
-                    .style("top", (data.pageY - 15) + "px");
-            })
-            .on('mouseout', function (data, i) {
-                    if (i.selected != '1') {
-                        d3.select(this).attr("xlink:href", function (i) {
-                            if (i.aid_quantile == 3) {
-                                return './red_flag_icons/blue_outline.svg'
-                            } else if (i.aid_quantile == 2) {
-                                return './red_flag_icons/light_blue_outline.svg'
-                            } else if (i.aid_quantile == 1) {
-                                return './red_flag_icons/light_red_outline.svg'
-                            } else {
-                                return './red_flag_icons/red_outline.svg'
-                            }
-                        });
-                    }
-
-                    //Makes the new div disappear:
-                    div.transition()
-                        .duration('100')
-                        .style("opacity", 0);
-                }
-            )
-            .on('click', function(d,i) {
-                update_bubble_chart(i.department)
-
-                var dept_names = ['amazonas', 'antioquia', 'arauca', 'archipielago_de_san_andres',
-                    'atlantico', 'bogota_dc', 'bolivar', 'boyaca', 'caldas', 'caqueta',
-                    'casanare', 'cauca', 'cesar', 'choco', 'cordoba', 'cundinamarca',
-                    'huila', 'la_guajira', 'magdalena', 'meta', 'narino',
-                    'norte_de_santander', 'putumayo', 'quindio', 'risaralda',
-                    'santander', 'sucre', 'tolima', 'valle_del_cauca', 'vaupes',
-                    'vichada'];
-                for (var index = 0; index < dept_names.length; index++) {
-                    var cur_name = dept_names[index];
-                    var flag_svg = document.getElementById(cur_name);
-
-                    if (flag_svg.__data__.aid_quantile == 3) {
-                        flag_svg.setAttribute("href", './red_flag_icons/blue_outline.svg');
-                    } else if (flag_svg.__data__.aid_quantile == 2) {
-                        flag_svg.setAttribute("href", './red_flag_icons/light_blue_outline.svg');
-                    } else if (flag_svg.__data__.aid_quantile == 1) {
-                        flag_svg.setAttribute("href", './red_flag_icons/light_red_outline.svg');
-                    } else {
-                        flag_svg.setAttribute("href", './red_flag_icons/red_outline.svg');
-                    }
-                    flag_svg.__data__.selected = "0";
-                }
-
-                var dept_flag_svg = document.getElementById(i.department);
-
-                if (dept_flag_svg.__data__.aid_quantile == 3) {
-                    dept_flag_svg.setAttribute("href", './red_flag_icons/blue.svg');
-                } else if (dept_flag_svg.__data__.aid_quantile == 2) {
-                    dept_flag_svg.setAttribute("href", './red_flag_icons/light_blue.svg');
-                } else if (dept_flag_svg.__data__.aid_quantile == 1) {
-                    dept_flag_svg.setAttribute("href", './red_flag_icons/light_red.svg');
-                } else {
-                    dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
-                }
-                dept_flag_svg.__data__.selected = "1";
-                document.getElementById("department_label").innerText=i.department_name;
+            d3.select(this).attr("xlink:href", function (i) {
+              if (i.aid_quantile == 3) {
+                return "./red_flag_icons/blue.svg";
+              } else if (i.aid_quantile == 2) {
+                return "./red_flag_icons/light_blue.svg";
+              } else if (i.aid_quantile == 1) {
+                return "./red_flag_icons/light_red.svg";
+              } else {
+                return "./red_flag_icons/red.svg";
+              }
             });
+
+            div.transition().duration(50).style("opacity", 1);
+            div
+              .html(i.department_name)
+              .style("left", data.pageX + 10 + "px")
+              .style("top", data.pageY - 15 + "px");
+          })
+          .on("mouseout", function (data, i) {
+            if (i.selected != "1") {
+              d3.select(this).attr("xlink:href", function (i) {
+                if (i.aid_quantile == 3) {
+                  return "./red_flag_icons/blue_outline.svg";
+                } else if (i.aid_quantile == 2) {
+                  return "./red_flag_icons/light_blue_outline.svg";
+                } else if (i.aid_quantile == 1) {
+                  return "./red_flag_icons/light_red_outline.svg";
+                } else {
+                  return "./red_flag_icons/red_outline.svg";
+                }
+              });
+            }
+
+            //Makes the new div disappear:
+            div.transition().duration("100").style("opacity", 0);
+          })
+          .on("click", function (d, i) {
+            update_bubble_chart(i.department);
+
+            var dept_names = [
+              "amazonas",
+              "antioquia",
+              "arauca",
+              "archipielago_de_san_andres",
+              "atlantico",
+              "bogota_dc",
+              "bolivar",
+              "boyaca",
+              "caldas",
+              "caqueta",
+              "casanare",
+              "cauca",
+              "cesar",
+              "choco",
+              "cordoba",
+              "cundinamarca",
+              "huila",
+              "la_guajira",
+              "magdalena",
+              "meta",
+              "narino",
+              "norte_de_santander",
+              "putumayo",
+              "quindio",
+              "risaralda",
+              "santander",
+              "sucre",
+              "tolima",
+              "valle_del_cauca",
+              "vaupes",
+              "vichada",
+            ];
+            for (var index = 0; index < dept_names.length; index++) {
+              var cur_name = dept_names[index];
+              var flag_svg = document.getElementById(cur_name);
+
+              if (flag_svg.__data__.aid_quantile == 3) {
+                flag_svg.setAttribute(
+                  "href",
+                  "./red_flag_icons/blue_outline.svg"
+                );
+              } else if (flag_svg.__data__.aid_quantile == 2) {
+                flag_svg.setAttribute(
+                  "href",
+                  "./red_flag_icons/light_blue_outline.svg"
+                );
+              } else if (flag_svg.__data__.aid_quantile == 1) {
+                flag_svg.setAttribute(
+                  "href",
+                  "./red_flag_icons/light_red_outline.svg"
+                );
+              } else {
+                flag_svg.setAttribute(
+                  "href",
+                  "./red_flag_icons/red_outline.svg"
+                );
+              }
+              flag_svg.__data__.selected = "0";
+            }
+
+            var dept_flag_svg = document.getElementById(i.department);
+
+            if (dept_flag_svg.__data__.aid_quantile == 3) {
+              dept_flag_svg.setAttribute("href", "./red_flag_icons/blue.svg");
+            } else if (dept_flag_svg.__data__.aid_quantile == 2) {
+              dept_flag_svg.setAttribute(
+                "href",
+                "./red_flag_icons/light_blue.svg"
+              );
+            } else if (dept_flag_svg.__data__.aid_quantile == 1) {
+              dept_flag_svg.setAttribute(
+                "href",
+                "./red_flag_icons/light_red.svg"
+              );
+            } else {
+              dept_flag_svg.setAttribute("href", "./red_flag_icons/red.svg");
+            }
+            dept_flag_svg.__data__.selected = "1";
+            document.getElementById("department_label").innerText =
+              i.department_name;
+          });
 
         position_station_markers(markers);
         connect_back_buttons();
-    }
+      }
 
-    var div = d3.select("body").append("div")
+      var div = d3
+        .select("body")
+        .append("div")
         .attr("class", "tooltip-donut")
         .style("opacity", 0);
 
-    function position_station_markers(markers) {
-        markers
-            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
-    }
-    function project(d) {
+      function position_station_markers(markers) {
+        markers.attr("transform", function (d) {
+          return "translate(" + project(d).x + "," + (project(d).y - 25) + ")";
+        });
+      }
+      function project(d) {
         return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
-    }
+      }
 
-    function connect_back_buttons() {
+      function connect_back_buttons() {
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
-        const dpt_select = urlParams.get('dpt')
+        const dpt_select = urlParams.get("dpt");
 
         var back_url = "./bubble_slide_gov_aid.html";
         var next_url = "./red_flags_map.html";
         if (!!dpt_select) {
-            back_url = back_url + "?dpt=" + dpt_select
-            next_url = next_url + "?dpt=" + dpt_select
-            update_bubble_chart(dpt_select)
-            var dept_flag_svg = document.getElementById(dpt_select);
-            var dept_pretty_name = dept_flag_svg.__data__.department_name
-            document.getElementById("department_label").innerText = dept_pretty_name;
-            if (dept_flag_svg.__data__.cari_quantiles == 0) {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/blue.svg');
-            } else if (dept_flag_svg.__data__.cari_quantiles == 1) {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/light_blue.svg');
-            } else if (dept_flag_svg.__data__.cari_quantiles == 2) {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/light_red.svg');
-            } else {
-                dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
-            }
-            dept_flag_svg.__data__.selected = "1";
+          back_url = back_url + "?dpt=" + dpt_select;
+          next_url = next_url + "?dpt=" + dpt_select;
+          update_bubble_chart(dpt_select);
+          var dept_flag_svg = document.getElementById(dpt_select);
+          var dept_pretty_name = dept_flag_svg.__data__.department_name;
+          document.getElementById("department_label").innerText =
+            dept_pretty_name;
+          if (dept_flag_svg.__data__.cari_quantiles == 0) {
+            dept_flag_svg.setAttribute("href", "./red_flag_icons/blue.svg");
+          } else if (dept_flag_svg.__data__.cari_quantiles == 1) {
+            dept_flag_svg.setAttribute(
+              "href",
+              "./red_flag_icons/light_blue.svg"
+            );
+          } else if (dept_flag_svg.__data__.cari_quantiles == 2) {
+            dept_flag_svg.setAttribute(
+              "href",
+              "./red_flag_icons/light_red.svg"
+            );
+          } else {
+            dept_flag_svg.setAttribute("href", "./red_flag_icons/red.svg");
+          }
+          dept_flag_svg.__data__.selected = "1";
         }
 
         document.getElementById("back_button").href = back_url;
         document.getElementById("next_button").href = next_url;
-    }
+      }
 
+      let redFlagsFile = "./data_files/dept_coords.json";
+      let red_markers;
 
-    let redFlagsFile = "./data_files/dept_coords.json";
-    let red_markers;
+      let station_data;
 
-    let station_data;
-
-    map.on("load", () => {
+      map.on("load", () => {
         fetch(redFlagsFile)
-            .then((response) => response.json())
-            .then((d) => (station_data = d))
-            .then((d) => create_flag_markers(d, './red_flag_icon.svg', red_markers))
-            // .then(function (d){
-            //         update_bubble_chart("bolivar")
-            //         var dept_flag_svg = document.getElementById("bolivar");
-            //         dept_flag_svg.setAttribute("href", "./deep_red_flag_icon.svg");
-            //   });
+          .then((response) => response.json())
+          .then((d) => (station_data = d))
+          .then((d) =>
+            create_flag_markers(d, "./red_flag_icon.svg", red_markers)
+          );
+        // .then(function (d){
+        //         update_bubble_chart("bolivar")
+        //         var dept_flag_svg = document.getElementById("bolivar");
+        //         dept_flag_svg.setAttribute("href", "./deep_red_flag_icon.svg");
+        //   });
+      });
 
-    });
-
-
-    const marker_container = d3
-        .select(map.getCanvasContainer() )
+      const marker_container = d3
+        .select(map.getCanvasContainer())
         .append("svg")
         .attr("width", "100%")
         .attr("height", "100%")
         .style("position", "absolute")
         .style("z-index", 2);
 
+      ////////////////////////////////////// bubble stuff
+      import { BubbleChart } from "./bubbles.js";
+      // load the data
 
-    ////////////////////////////////////// bubble stuff
-    import {BubbleChart} from "./bubbles.js";
-    // load the data
-
-    function update_bubble_chart(dpt_name) {
+      function update_bubble_chart(dpt_name) {
         var plot_data = [];
 
-        d3.csv("data_files/by_department/"+ dpt_name + "_clean_dataset.csv").then((data) => {
-            var aid_counter = 0;
-            var pop_counter = 0;
-            for (var i = 0; i < data.length; i++) {
-                var has_aid = parseFloat(data[i].government_assistance) == 1.0;
-                aid_counter += has_aid * parseFloat(data[i].household_size)
-                    pop_counter += parseFloat(data[i].household_size)
-                plot_data.push({"size": data[i].household_size, "aid": has_aid, "group": Math.round(data[i].cari)})
-            }
-            document.getElementById("aid_percentage_label").innerHTML = Math.round(aid_counter/pop_counter*100);
+        d3.csv(
+          "data_files/by_department/" + dpt_name + "_clean_dataset.csv"
+        ).then((data) => {
+          var aid_counter = 0;
+          var pop_counter = 0;
+          for (var i = 0; i < data.length; i++) {
+            var has_aid = parseFloat(data[i].government_assistance) == 1.0;
+            aid_counter += has_aid * parseFloat(data[i].household_size);
+            pop_counter += parseFloat(data[i].household_size);
+            plot_data.push({
+              size: data[i].household_size,
+              aid: has_aid,
+              group: Math.round(data[i].cari),
+            });
+          }
+          document.getElementById("aid_percentage_label").innerHTML =
+            Math.round((aid_counter / pop_counter) * 100);
 
-            document.getElementById("my_dataviz").innerHTML = "";
-            // var svg = d3.select("svg");
-            // svg.selectAll("*").remove();
+          document.getElementById("my_dataviz").innerHTML = "";
+          // var svg = d3.select("svg");
+          // svg.selectAll("*").remove();
 
-            let box = document.querySelector('.bubble-box');
-            let width = box.clientWidth;
-            let height = box.clientHeight;
-            let BC = new BubbleChart("#my_dataviz", width, height, dpt_name, "aid")
-            BC.initialize_nodes(plot_data)
+          let box = document.querySelector(".bubble-box");
+          let width = box.clientWidth;
+          let height = box.clientHeight;
+          let BC = new BubbleChart(
+            "#my_dataviz",
+            width,
+            height,
+            dpt_name,
+            "aid"
+          );
+          BC.initialize_nodes(plot_data);
         });
+      }
 
-    }
-
-    // document.getElementById('color_select').addEventListener('change', function() {
-    //     update_bubble_chart(document.getElementById('dpt_select').value)
-    // });
-
-</script>
+      // document.getElementById('color_select').addEventListener('change', function() {
+      //     update_bubble_chart(document.getElementById('dpt_select').value)
+      // });
+    </script>
+  </body>
+</html>
