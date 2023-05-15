@@ -200,8 +200,10 @@
         }
 
         let marketcapDomain = d3.extent(data.map((d) => +d["household_size"]));
-        let size = d3.scaleSqrt().domain(marketcapDomain).range([3, 15]);
 
+        var size_constaint = Math.min(width/50, height/30)
+        console.log(width/45, height/30)
+        let size = d3.scaleSqrt().domain(marketcapDomain).range([size_constaint/13*3, size_constaint]);
         svg
             .selectAll(".circ")
             .data(data)
