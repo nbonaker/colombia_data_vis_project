@@ -39,6 +39,7 @@
       background-color: white;
       background-clip: content-box;
       border-radius: 20px;
+      padding-left: 8px;
       width: 47%;
       height: 50%;
       display: table-cell;
@@ -53,19 +54,21 @@
       background-color: white;
       background-clip: content-box;
       border-radius: 20px;
-      width: 100%;
+      width: 80%;
       height: 14%;
+      /*border: solid 5px red;*/
       /*display: table-row;*/
-      padding-left: 5px;
+      padding-left: 3vw;
       padding-bottom: 5px;
-      vertical-align: top;
+      vertical-align: center;
     }
     .description-box-text {
       display: block;
       width: 95%;
       height: 100%;
+      vertical-align: center;
       padding-left: 1rem;
-      padding-top: 0.5rem;
+      padding-top: 2rem;
     }
     .tooltip-donut {
       position: absolute;
@@ -204,13 +207,13 @@
     </div>
 
     <div class="timeline-contain">
-      <a href="./intro_map.html" target="_self" class="timeline-button"
+      <a href="./intro_map.html" target="_self" class="timeline-button-before"
         >Introduction</a
       >
-      <a href="./bubble_slide_cari.html" target="_self" class="timeline-button"
+      <a href="./bubble_slide_cari.html" target="_self" class="timeline-button-before"
         >Food Insecurity</a
       >
-      <a href="./cari_by_department.html" target="_self" class="timeline-button"
+      <a href="./cari_by_department.html" target="_self" class="timeline-button-before"
         >Insecurity by Department</a
       >
       <a href="./beeswarm_example.html" target="_self" class="timeline-button"
@@ -525,7 +528,7 @@
 
           let box = document.querySelector(".bubble-box");
           let width = box.clientWidth;
-          let height = box.clientHeight;
+          let height = box.clientHeight*0.85;
           let BC = new BubbleChart(
             "#my_dataviz",
             width,
