@@ -1,109 +1,118 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>🚩s of Colombia</title>
     <!-- Load d3.js -->
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script type="module" src="bubbles_cari.js"></script>
-    <link rel="stylesheet" href="main_stylesheet.css">
-</head>
-<style>
-    .bubble-box{
-        background-color:white;
-        background-clip: content-box;
-        border-radius: 20px;
-        width: 60%;
-        height: 100%;
-        display: table-cell;
-
+    <link rel="stylesheet" href="main_stylesheet.css" />
+  </head>
+  <style>
+    .bubble-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 63%;
+      height: 100%;
+      display: table-cell;
     }
-    .description-box{
-        background-color:white;
-        background-clip: content-box;
-        border-radius: 20px;
-        width: 33%;
-        height: 100%;
-        display: table-cell;
-        padding-left: 5px;
-        vertical-align: top;
+    .description-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 30%;
+      height: 100%;
+      display: table-cell;
+      padding-left: 5px;
+      vertical-align: top;
     }
-    .description-box-text{
-        display: block;
-        width: 95%;
-        height: 95%;
-        padding-left: 5%;
-        padding-top: 5%;
+    .description-box-text {
+      display: block;
+      width: 95%;
+      height: 95%;
+      padding-left: 5%;
+      padding-top: 5%;
     }
     .axis-grid line {
-        stroke: #d5d5d5;
+      stroke: #d5d5d5;
     }
-</style>
-<body>
+  </style>
+  <body>
+    <div class="title-box">
+      <div class="title-box-text">Food Security and Food Expenditures</div>
+    </div>
 
-<div class="title-box">
-    <div class="title-box-text">Food Security and Food Expenditures</div>
-</div>
-
-<div class="content-container">
-    <div style="display: table-row; padding: 10px;">
+    <div class="content-container">
+      <div style="display: table-row; padding: 10px">
         <div class="bubble-box">
-            <div id="bubble-graph"></div>
+          <div id="bubble-graph"></div>
         </div>
         <div class="description-box">
-            <div class="description-box-text">Here you can put some info about the graph :)</div>
+          <div class="description-box-text">
+            Here you can put some info about the graph :)
+          </div>
         </div>
+      </div>
     </div>
-</div>
 
-<div id="includeHtml" class="timeline-box"></div>
-<script>
-    $(function() {
+    <div id="includeHtml" class="timeline-box"></div>
+    <script>
+      $(function () {
         $("#includeHtml").load("timeline.html");
-    });
+      });
 
-    let box = document.querySelector('.bubble-box');
-    let width = box.clientWidth;
-    let height = box.clientHeight;
-    console.log(width)
-    console.log(height)
-    const margin = [0, 0, 50, 100];
+      let box = document.querySelector(".bubble-box");
+      let width = box.clientWidth;
+      let height = box.clientHeight;
+      console.log(width);
+      console.log(height);
+      const margin = [0, 0, 50, 100];
 
-    let svg = d3
+      let svg = d3
         .select(".bubble-box")
         .append("svg")
         .attr("height", height)
         .attr("width", width);
 
-    const x_var = "cari_category";
-    const y_var = "government_assistance";
-    const size_var = "household_size";
-    const color_var = "cari_category"
+      const x_var = "cari_category";
+      const y_var = "government_assistance";
+      const size_var = "household_size";
+      const color_var = "cari_category";
 
-    d3.csv("./data_files/by_department/bogota_dc_clean_dataset.csv").then((data) => {
-        console.log(data)
-        // let sectors = Array.from(new Set(data.map((d) => d.cari_category)));
-        // console.log(sectors)
-        let sectors = ["Severe Insecurity", "Moderate Insecurity",  "Marginal Security", "Secure"]
+      d3.csv("./data_files/by_department/bogota_dc_clean_dataset.csv").then(
+        (data) => {
+          console.log(data);
+          // let sectors = Array.from(new Set(data.map((d) => d.cari_category)));
+          // console.log(sectors)
+          let sectors = [
+            "Severe Insecurity",
+            "Moderate Insecurity",
+            "Marginal Security",
+            "Secure",
+          ];
 
-        let xScale = d3
+          let xScale = d3
             .scaleBand()
             .domain(sectors)
             .range([margin[3], width - margin[1]]);
-        var x_axis = d3.axisBottom()
-            .scale(xScale);
-        var xAxisTranslate = height - margin[2]+10;
-        svg.append("g")
-            .attr("transform", "translate(-105, " + xAxisTranslate  +")")
-            .call(x_axis)
+          var x_axis = d3.axisBottom().scale(xScale);
+          var xAxisTranslate = height - margin[2] + 10;
+          svg
+            .append("g")
+            .attr("transform", "translate(-105, " + xAxisTranslate + ")")
+            .call(x_axis);
 
-        let color = d3.scaleOrdinal().domain(sectors).range(["#910b00", "#ff746c", "#24c6f3", "#0443a6"]);
+          let color = d3
+            .scaleOrdinal()
+            .domain(sectors)
+            .range(["#910b00", "#ff746c", "#24c6f3", "#0443a6"]);
 
-        let marketcapDomain = d3.extent(data.map((d) => +d[size_var]));
-        let size = d3.scaleSqrt().domain(marketcapDomain).range([3, 15]);
+          let marketcapDomain = d3.extent(data.map((d) => +d[size_var]));
+          let size = d3.scaleSqrt().domain(marketcapDomain).range([3, 15]);
 
-        svg
+          svg
             .selectAll(".circ")
             .data(data)
             .enter()
@@ -113,47 +122,48 @@
             .attr("fill", (d) => color(d[color_var]))
             .attr("r", (d) => size(d[size_var]))
             .attr("cx", (d) => xScale(d[x_var]))
-            .attr("cy", (d) => height/2);
+            .attr("cy", (d) => height / 2);
 
-        let simulation = d3
+          let simulation = d3
             .forceSimulation(data)
             .force(
-                "x",
-                d3
-                    .forceX((d) => {
-                        return xScale(d[x_var])-5;
-                    })
-                    .strength(1)
-            )
-            .force(
-                "y",
-                d3
-                    .forceY(function (d) {
-                        return height/2;
-                    })
-                    .strength(0.2)
-            )
-            .force(
-                "collide",
-                d3.forceCollide((d) => {
-                    return size(d[size_var]);
+              "x",
+              d3
+                .forceX((d) => {
+                  return xScale(d[x_var]) - 5;
                 })
+                .strength(1)
+            )
+            .force(
+              "y",
+              d3
+                .forceY(function (d) {
+                  return height / 2;
+                })
+                .strength(0.2)
+            )
+            .force(
+              "collide",
+              d3.forceCollide((d) => {
+                return size(d[size_var]);
+              })
             )
             .alphaDecay(0)
             .alpha(0.3)
             .on("tick", tick);
 
-        function tick() {
+          function tick() {
             d3.selectAll(".circ")
-                .attr("cx", (d) => d.x)
-                .attr("cy", (d) => d.y);
-        }
+              .attr("cx", (d) => d.x)
+              .attr("cy", (d) => d.y);
+          }
 
-        let init_decay = setTimeout(function () {
+          let init_decay = setTimeout(function () {
             console.log("start alpha decay");
             simulation.alphaDecay(0.05);
-        }, 100);
-
-
-    });
-</script>
+          }, 100);
+        }
+      );
+    </script>
+  </body>
+</html>

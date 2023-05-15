@@ -11,18 +11,21 @@
   </head>
   <style>
     .bubble-box {
-      background-color: white;
+      /* background-color: white; */
       background-clip: content-box;
-      border-radius: 20px;
-      width: 60%;
+      /* border-radius: 20px; */
+      width: 63%;
       height: 100%;
       display: table-cell;
+      border-right: 1px solid #b6b6b6;
+      margin-right: 5px;
+      padding-right: 5px;
     }
     .description-box {
       background-color: white;
       background-clip: content-box;
       border-radius: 20px;
-      width: 33%;
+      width: 30%;
       height: 100%;
       display: table-cell;
       padding-left: 5px;
@@ -174,29 +177,43 @@
     </div>
 
     <div class="timeline-contain">
-      <a href="./intro_map.html" target="_self" class="bb">Introduction</a>
-      <a href="./bubble_slide_cari.html" target="_self" class="bb"
+      <a href="./intro_map.html" target="_self" class="timeline-button"
+        >Introduction</a
+      >
+      <a href="./bubble_slide_cari.html" target="_self" class="timeline-button"
         >Food Insecurity</a
       >
-      <a href="./cari_by_department.html" target="_self" class="bb"
-        >Department CARI</a
+      <a href="./cari_by_department.html" target="_self" class="timeline-button"
+        >Insecurity by Department</a
       >
-      <a href="./beeswarm_example.html" target="_self" class="bb"
+      <a href="./beeswarm_example.html" target="_self" class="timeline-button"
         >Food Expenditures</a
       >
-      <a href="./beeswarm_example_noaid.html" target="_self" class="bb"
-        >Aid for Insecure</a
+      <a
+        href="./beeswarm_example_noaid.html"
+        target="_self"
+        class="timeline-button"
+        >Insecurity and Aid</a
       >
-      <a href="./bubble_slide_gov_aid.html" target="_self" class="bb"
+      <a
+        href="./bubble_slide_gov_aid.html"
+        target="_self"
+        class="timeline-button"
         >Government Aid</a
       >
-      <a href="aid_by_department.html" target="_self" class="bb"
+      <a href="aid_by_department.html" target="_self" class="timeline-button"
         >Department Aid</a
       >
-      <a href="./red_flags_map.html" target="_self" class="bb">Red Flags Map</a>
-      <a href="./bubbles_action_call.html" target="_self" class="bb"
-        >Call to Action</a
+      <a href="./red_flags_map.html" target="_self" class="timeline-button"
+        >Red Flags Map</a
       >
+      <a
+        href="./bubbles_action_call.html"
+        target="_self"
+        class="timeline-button"
+      >
+        Future Step
+      </a>
     </div>
     <script>
       let box = document.querySelector(".bubble-box");
@@ -274,9 +291,12 @@
 
         let marketcapDomain = d3.extent(data.map((d) => +d["household_size"]));
 
-        var size_constaint = Math.min(width/50, height/30)
-        console.log(width/45, height/30)
-        let size = d3.scaleSqrt().domain(marketcapDomain).range([size_constaint/13*3, size_constaint]);
+        var size_constaint = Math.min(width / 50, height / 30);
+        console.log(width / 45, height / 30);
+        let size = d3
+          .scaleSqrt()
+          .domain(marketcapDomain)
+          .range([(size_constaint / 13) * 3, size_constaint]);
         svg
           .selectAll(".circ")
           .data(data)
