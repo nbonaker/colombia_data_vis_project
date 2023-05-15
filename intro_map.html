@@ -199,6 +199,7 @@
               return "./red_flag_icons/red.svg";
             });
 
+<<<<<<< HEAD
             div.transition().duration(50).style("opacity", 1);
             div
               .html(i.department_name)
@@ -344,3 +345,71 @@
     </script>
   </body>
 </html>
+=======
+
+    position_station_markers(markers);
+    connect_back_buttons();
+  }
+
+  var div = d3.select("body").append("div")
+          .attr("class", "tooltip-donut")
+          .style("opacity", 0);
+
+  function position_station_markers(markers) {
+    markers
+            .attr("transform", function(d) {return "translate(" + (project(d).x)+","+ (project(d).y-25) + ")";});
+  }
+  function project(d) {
+    return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
+  }
+
+  function connect_back_buttons() {
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const dpt_select = urlParams.get('dpt')
+
+    var next_url = "./bubble_slide_cari.html";
+    if (!!dpt_select) {
+      next_url = next_url + "?dpt=" + dpt_select
+      var dept_flag_svg = document.getElementById(dpt_select);
+
+      dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
+
+      dept_flag_svg.__data__.selected = "1";
+      document.getElementById("department_selected").innerText=dept_flag_svg.__data__.department_name;
+    }
+
+    document.getElementById("next_button").href = next_url;
+  }
+
+
+
+  let redFlagsFile = "./data_files/dept_coords.json";
+  let red_markers;
+
+  map.on("load", () => {
+
+    fetch(redFlagsFile)
+            .then((response) => response.json())
+            .then((d) => (station_data = d))
+            .then((d) => create_flag_markers(d, './deep_red_flag_icon.svg', red_markers));
+  });
+
+
+  const marker_container = d3
+          .select(map.getCanvasContainer() )
+          .append("svg")
+          .attr("width", "100%")
+          .attr("height", "100%")
+          .style("position", "absolute")
+          .style("z-index", 2);
+
+  // resizes the map when resizing event finishes (prevents jittering)
+  // window.onresize = function() {
+  //   position_station_markers(red_markers)
+  //   // position_station_markers()
+  // }
+</script>
+</body>
+</html>
+>>>>>>> b62c28debd89788186ea88fd795900560d6b3132
