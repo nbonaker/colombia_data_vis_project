@@ -69,17 +69,17 @@
         </div>
         <div class="description-box">
           <div class="description-box-text">
-            <p style="font-size: 1.5em">
+            <p>
               If we can find some way to bridge the gap for those that are not
               receiving any aid, we would relieve the hunger and anxiety that
               many deal with today.
             </p>
-            <p style="font-size: 1.5em">
+            <p>
               If we only were able to move the food insecure not receiving aid
               up by one food security level, we would
               <b>reduce food insecurity by 9%.</b>
             </p>
-            <p style="font-size: 1.5em">
+            <p>
               That means a significantly better life for
               <b>4.4 million people</b> They could put away their red flags and
               instead fly the tricolor of Colombia.
@@ -90,6 +90,66 @@
               Each bubble represents approximately 100,000 people in Colombia.
               Bubbles are split to show the relative proportion of the total
               Colombian population in each food security category.
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                        cx="10"
+                        cy="10"
+                        r="9"
+                        stroke="black"
+                        stroke-width="2"
+                        fill="#cb0f00"
+                />
+              </svg>
+              <b>Severe Food Insecurity:</b> Has extreme food consumption gaps
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                        cx="10"
+                        cy="10"
+                        r="9"
+                        stroke="black"
+                        stroke-width="2"
+                        fill="#ff746c"
+                />
+              </svg>
+              <b>Moderate Food Insecurity:</b> Has food consumption gaps and are
+              unable to meet required food needs
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                        cx="10"
+                        cy="10"
+                        r="9"
+                        stroke="black"
+                        stroke-width="2"
+                        fill="#24c6f3"
+                />
+              </svg>
+              <b>Marginal Food Security</b> Has minimally inadequate food
+              consumption
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                        cx="10"
+                        cy="10"
+                        r="9"
+                        stroke="black"
+                        stroke-width="2"
+                        fill="#0443a6"
+                />
+              </svg>
+              <b>Food Security:</b> Able to meet food needs
+            </p>
+            <p>
+              <a style="color: #064a7a; font-style: italic"
+                      href="https://docs.wfp.org/api/documents/WFP-0000134704/download/">
+                Learn more about how the WFP categorizes food security
+              </a>
             </p>
           </div>
         </div>
@@ -176,6 +236,22 @@
       }
 
       // URL PARAMETERS
+      function updateTimelinelinks(param_str) {
+        var buttons_before = document.querySelectorAll(".timeline-button-before");
+        var buttons_after = document.querySelectorAll(".timeline-button");
+
+        for (var i = 0; i < buttons_before.length; i++) {
+          var button = buttons_before[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+
+        for (var i = 0; i < buttons_after.length; i++) {
+          var button = buttons_after[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+      }
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const dpt_select = urlParams.get("dpt");
@@ -183,6 +259,8 @@
       var back_url = "./red_flags_map.html";
       if (!!dpt_select) {
         back_url = back_url + "?dpt=" + dpt_select;
+        updateTimelinelinks("?dpt=" + dpt_select);
+
       }
 
       document.getElementById("back_button").href = back_url;

@@ -77,20 +77,22 @@
             <h2>
               Food Insecurity has taken a toll on the Colombian population
             </h2>
-            <p>
+            <p style=" font-style: italic">
               “Across Colombia, the red flag — or scarf, or towel, or T-shirt —
               has come to symbolize an urgent need for assistance. It’s a cry
               for help.”
             </p>
-            <p>
+            <p style=" font-style: italic">
               “We have nothing to eat. We depend on good-hearted people who pass
               by and see the flags. That is how they know we are hungry.”
             </p>
+            <br>
             <p>
               The above quotations come from the Washington Post article
-              <a
+              <br>
+              <a style="color: #064a7a; font-style: italic"
                 href=">https://www.washingtonpost.com/world/2020/05/10/locked-down-colombians-running-out-food-fly-red-flags-help/"
-                >"The red flags of Colombia"</a
+                >"The red flags of Colombia."</a
               >
             </p>
 
@@ -301,6 +303,7 @@
 
             var url = "./bubble_slide_cari.html?dpt=" + i.department;
             document.getElementById("next_button").href = url;
+            updateTimelinelinks("?dpt="+ i.department)
             //
           });
 
@@ -338,9 +341,30 @@
           dept_flag_svg.__data__.selected = "1";
           document.getElementById("department_selected").innerText =
             dept_flag_svg.__data__.department_name;
+
+          updateTimelinelinks("?dpt="+dpt_select)
         }
 
         document.getElementById("next_button").href = next_url;
+
+
+      }
+
+      function updateTimelinelinks(param_str) {
+        var buttons_before = document.querySelectorAll(".timeline-button-before");
+        var buttons_after = document.querySelectorAll(".timeline-button");
+
+        for (var i = 0; i < buttons_before.length; i++) {
+          var button = buttons_before[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+
+        for (var i = 0; i < buttons_after.length; i++) {
+          var button = buttons_after[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
       }
 
       let redFlagsFile = "./data_files/dept_coords.json";
@@ -368,6 +392,7 @@
       //   position_station_markers(red_markers)
       //   // position_station_markers()
       // }
+
     </script>
   </body>
 </html>

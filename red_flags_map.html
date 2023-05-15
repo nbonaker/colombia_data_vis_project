@@ -273,6 +273,22 @@
       // }
 
       // URL PARAMETERS
+      function updateTimelinelinks(param_str) {
+        var buttons_before = document.querySelectorAll(".timeline-button-before");
+        var buttons_after = document.querySelectorAll(".timeline-button");
+
+        for (var i = 0; i < buttons_before.length; i++) {
+          var button = buttons_before[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+
+        for (var i = 0; i < buttons_after.length; i++) {
+          var button = buttons_after[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+      }
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const dpt_select = urlParams.get("dpt");
@@ -282,6 +298,8 @@
       if (!!dpt_select) {
         back_url = back_url + "?dpt=" + dpt_select;
         next_url = next_url + "?dpt=" + dpt_select;
+        updateTimelinelinks("?dpt=" + dpt_select);
+
       }
 
       document.getElementById("back_button").href = back_url;

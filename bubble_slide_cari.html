@@ -147,10 +147,10 @@
               <b>Food Security:</b> Able to meet food needs
             </p>
             <p>
-              <a
-                href="https://docs.wfp.org/api/documents/WFP-0000134704/download/"
-                >Learn more about how the WFP categorizes food security</a
-              >
+              <a style="color: #064a7a; font-style: italic"
+                 href="https://docs.wfp.org/api/documents/WFP-0000134704/download/">
+                Learn more about how the WFP categorizes food security
+              </a>
             </p>
           </div>
         </div>
@@ -247,6 +247,23 @@
       }
 
       // URL PARAMETERS
+      function updateTimelinelinks(param_str) {
+        var buttons_before = document.querySelectorAll(".timeline-button-before");
+        var buttons_after = document.querySelectorAll(".timeline-button");
+
+        for (var i = 0; i < buttons_before.length; i++) {
+          var button = buttons_before[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+
+        for (var i = 0; i < buttons_after.length; i++) {
+          var button = buttons_after[i]
+          var cur_href_no_params = button.href.split("?")[0]
+          button.setAttribute("href", cur_href_no_params + param_str);
+        }
+      }
+
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const dpt_select = urlParams.get("dpt");
@@ -256,10 +273,13 @@
       if (!!dpt_select) {
         back_url = back_url + "?dpt=" + dpt_select;
         next_url = next_url + "?dpt=" + dpt_select;
+        updateTimelinelinks("?dpt=" + dpt_select);
       }
 
       document.getElementById("back_button").href = back_url;
       document.getElementById("next_button").href = next_url;
+
+
     </script>
   </body>
 </html>
