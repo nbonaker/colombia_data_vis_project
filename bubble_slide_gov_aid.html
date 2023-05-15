@@ -1,162 +1,218 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="UTF-8">
-  <title>🚩s of Colombia</title>
-  <!-- Load d3.js -->
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="https://d3js.org/d3.v4.js"></script>
-  <script type="module" src="bubbles_aid.js"></script>
-  <link rel="stylesheet" href="main_stylesheet.css">
-</head>
-<style>
-  .bubble-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 20px;
-    width: 60%;
-    height: 100%;
-    display: table-cell;
-
-  }
-  .description-box{
-    background-color:white;
-    background-clip: content-box;
-    border-radius: 20px;
-    width: 30%;
-    height: 100%;
-    display: table-cell;
-    padding-left: 5px;
-    vertical-align: top;
-  }
-  .description-box-text{
-    display: block;
-    width: 95%;
-    height: 95%;
-    padding-left: 5%;
-    padding-top: 5%;
-  }
-</style>
-<body>
-
-  <div class="title-box">
-    <div class="title-box-text">Is the government providing aid to the population?</div>
-  </div>
-
-  <div class="content-container">
-    <div style="display: table-row; padding: 10px;">
-      <div style="height: 100%; display: table-cell;">
-        <div class="vertical-center">
-          <a id="back_button" href="" target="_self">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-left" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"/>
-            </svg>
-          </a>
-        </div>
+  <head>
+    <meta charset="UTF-8" />
+    <title>🚩s of Colombia</title>
+    <!-- Load d3.js -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script type="module" src="bubbles_aid.js"></script>
+    <link rel="stylesheet" href="main_stylesheet.css" />
+  </head>
+  <style>
+    .bubble-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 60%;
+      height: 100%;
+      display: table-cell;
+    }
+    .description-box {
+      background-color: white;
+      background-clip: content-box;
+      border-radius: 20px;
+      width: 30%;
+      height: 100%;
+      display: table-cell;
+      padding-left: 5px;
+      vertical-align: top;
+    }
+    .description-box-text {
+      display: block;
+      width: 95%;
+      height: 95%;
+      padding-left: 5%;
+      padding-top: 5%;
+    }
+  </style>
+  <body>
+    <div class="title-box">
+      <div class="title-box-text">
+        Is the government providing aid to the population?
       </div>
-      <div class="bubble-box">
+    </div>
+
+    <div class="content-container">
+      <div style="display: table-row; padding: 10px">
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="back_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-left"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div class="bubble-box">
           <div id="bubble-graph"></div>
-      </div>
-      <div class="description-box">
-        <div class="description-box-text">
-          <h2>57% of the population is receiving some form of aid from the Colombian government</h2>
-          <p>If we decompose the population into the food security categories, we see that the 
-            percentage of people receiving government aid increases as food security decreases. 
-            Of those that are food secure, only 37% are receiving government aid. Meanwhile, of those
-            that are severely food insecure, almost 74% are receiving government aid.
-          </p>
-          
-          <h2>Legend:</h2>
-          <p>Each bubble represents approximately 100,000 people in Colombia. Bubbles are split to show the relative
-            proportion of the total Colombian population in each food security category.</p>
-          <p>
-            <svg height="20" width="20">
-              <circle cx="10" cy="10" r="9"
-                      stroke="black"
-                      stroke-width="2"
-                      fill="#0443a6"
-              />
-            </svg>
-            Receives government aid
-          </p>
-          <p>
-            <svg height="20" width="20">
-              <circle cx="10" cy="10" r="9"
-                      stroke="black"
-                      stroke-width="2"
-                      fill="#d52719"
-              />
-            </svg>
-            Does not receive aid
-          </p>
         </div>
-      </div>
-      <div style="height: 100%; display: table-cell;">
-        <div class="vertical-center">
-          <a id="next_button" href="" target="_self">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
-            </svg>
-          </a>
+        <div class="description-box">
+          <div class="description-box-text">
+            <h2>
+              57% of the population is receiving some form of aid from the
+              Colombian government
+            </h2>
+            <p>
+              If we decompose the population into the food security categories,
+              we see that the percentage of people receiving government aid
+              increases as food security decreases. Of those that are food
+              secure, only 37% are receiving government aid. Meanwhile, of those
+              that are severely food insecure, almost 74% are receiving
+              government aid.
+            </p>
+
+            <h2>Legend:</h2>
+            <p>
+              Each bubble represents approximately 100,000 people in Colombia.
+              Bubbles are split to show the relative proportion of the total
+              Colombian population in each food security category.
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                  cx="10"
+                  cy="10"
+                  r="9"
+                  stroke="black"
+                  stroke-width="2"
+                  fill="#0443a6"
+                />
+              </svg>
+              Receives government aid
+            </p>
+            <p>
+              <svg height="20" width="20">
+                <circle
+                  cx="10"
+                  cy="10"
+                  r="9"
+                  stroke="black"
+                  stroke-width="2"
+                  fill="#d52719"
+                />
+              </svg>
+              Does not receive aid
+            </p>
+          </div>
+        </div>
+        <div style="height: 100%; display: table-cell">
+          <div class="vertical-center">
+            <a id="next_button" href="" target="_self">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="100%"
+                fill="#aaaaaa"
+                class="bi bi-chevron-compact-right"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <div id="includeHtml" class="timeline-box"></div>
+    <div class="timeline-contain">
+      <a href="./intro_map.html" target="_self" class="bb">Introduction</a>
+      <a href="./bubble_slide_cari.html" target="_self" class="bb"
+        >Food Insecurity</a
+      >
+      <a href="./cari_by_department.html" target="_self" class="bb"
+        >Department CARI</a
+      >
+      <a href="./beeswarm_example.html" target="_self" class="bb"
+        >Food Expenditures</a
+      >
+      <a href="./beeswarm_example_noaid.html" target="_self" class="bb"
+        >Aid for Insecure</a
+      >
+      <a href="./bubble_slide_gov_aid.html" target="_self" class="bb"
+        >Government Aid</a
+      >
+      <a href="aid_by_department.html" target="_self" class="bb"
+        >Department Aid</a
+      >
+      <a href="./red_flags_map.html" target="_self" class="bb">Red Flags Map</a>
+      <a href="./bubbles_action_call.html" target="_self" class="bb"
+        >Call to Action</a
+      >
+    </div>
 
-  <script type="module">
-    $(function() {
-      $("#includeHtml").load("timeline.html");
-    });
-    import {BubbleChart} from "./bubbles_aid.js";
-    // load the data
-    update_bubble_chart()
+    <script type="module">
+      import { BubbleChart } from "./bubbles_aid.js";
+      // load the data
+      update_bubble_chart();
 
-    // resizes the bubble chart when resizing event finishes (prevents jittering)
-    var resize_delay;
-    window.onresize = function() {
-      clearTimeout(resize_delay);
-      resize_delay = setTimeout(update_bubble_chart, 100);
-    }
+      // resizes the bubble chart when resizing event finishes (prevents jittering)
+      var resize_delay;
+      window.onresize = function () {
+        clearTimeout(resize_delay);
+        resize_delay = setTimeout(update_bubble_chart, 100);
+      };
 
-    function update_bubble_chart() {
-      var plot_data = [];
-      d3.csv("data_files/aid_bubble_data.csv", function (data) {
-        for (var i = 0; i < data.length; i++) {
-          plot_data.push({"size": 100, "group": Math.round(data[i].cari), "aid": data[i].aid == 1 })
-        }
-        console.log(plot_data)
-        document.getElementById("bubble-graph").innerHTML = "";
-        // var svg = d3.select("svg");
-        // svg.selectAll("*").remove();
+      function update_bubble_chart() {
+        var plot_data = [];
+        d3.csv("data_files/aid_bubble_data.csv", function (data) {
+          for (var i = 0; i < data.length; i++) {
+            plot_data.push({
+              size: 100,
+              group: Math.round(data[i].cari),
+              aid: data[i].aid == 1,
+            });
+          }
+          console.log(plot_data);
+          document.getElementById("bubble-graph").innerHTML = "";
+          // var svg = d3.select("svg");
+          // svg.selectAll("*").remove();
 
-        let box = document.querySelector('.bubble-box');
-        let width = box.clientWidth;
-        let height = box.clientHeight;
-        let BC = new BubbleChart("#bubble-graph", width, height, "aid")
-        BC.initialize_nodes(plot_data)
+          let box = document.querySelector(".bubble-box");
+          let width = box.clientWidth;
+          let height = box.clientHeight;
+          let BC = new BubbleChart("#bubble-graph", width, height, "aid");
+          BC.initialize_nodes(plot_data);
 
-        // setTimeout(function() { BC.move_nodes(plot_data) }, 6000);
-      });
-    }
+          // setTimeout(function() { BC.move_nodes(plot_data) }, 6000);
+        });
+      }
 
-    // URL PARAMETERS
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const dpt_select = urlParams.get('dpt')
+      // URL PARAMETERS
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const dpt_select = urlParams.get("dpt");
 
-    var back_url = "./beeswarm_example_noaid.html";
-    var next_url = "./aid_by_department.html";
-    if (!!dpt_select) {
-      back_url = back_url + "?dpt=" + dpt_select
-      next_url = next_url + "?dpt=" + dpt_select
-    }
+      var back_url = "./beeswarm_example_noaid.html";
+      var next_url = "./aid_by_department.html";
+      if (!!dpt_select) {
+        back_url = back_url + "?dpt=" + dpt_select;
+        next_url = next_url + "?dpt=" + dpt_select;
+      }
 
-    document.getElementById("back_button").href = back_url;
-    document.getElementById("next_button").href = next_url;
-
-</script>
-
-</body>
+      document.getElementById("back_button").href = back_url;
+      document.getElementById("next_button").href = next_url;
+    </script>
+  </body>
 </html>

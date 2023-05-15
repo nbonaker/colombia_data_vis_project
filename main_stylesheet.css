@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+html {
+  text-align: left;
+  height: 100vh;
+  width: 100vw;
+  background-color: #2e5670;
+  /* background: linear-gradient(#d3e3eb, #becfd8); */
+  background-color: var(--bg-color);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* border: solid red 1px; */
+}
+body {
+  height: 100vh;
+  width: 92vw;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  /* border: solid blue 3px; */
+}
+=======
 html, body {
     margin: auto;
     height: 100%;
@@ -20,11 +43,171 @@ html, body {
 .title-box-text{
     display: grid;
     align-content: end;
+>>>>>>> b62c28debd89788186ea88fd795900560d6b3132
 
-    background-color:white;
-    border-bottom: 1px solid;
-    border-bottom-color: #313639;
+/* APP Header title here  */
+.title-box {
+  /* padding: 16px;  */
+  margin: 0px 8px 0px 8px;
+  padding-top: 8px;
+  /* background-color: rgb(250, 250, 250); */
+  padding-bottom: 16px;
+  font-size: 2.5rem;
+  font-style: italic;
+  text-align: center;
+  /* border-bottom: rgb(141, 143, 145) 2px solid; */
+  border-bottom: 1px solid #313639;
+  margin-bottom: 3px;
+  padding-bottom: 3px;
+  /* border-radius: 8px; */
+  width: 90vw;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+}
+.title-box-text {
+  border-bottom: 1px solid #313639;
+}
+.content {
+  height: 87%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  /* border: pink solid 2px; */
+}
+.left {
+  border-left: var(--border-color);
+  border-right: var(--border-color);
+  margin-top: 8px;
+  /* border-radius: 8px; */
+  width: 75%;
+  margin-right: 0.5%;
+  /* background-color: #f4fbff; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color);
+}
 
+<<<<<<< HEAD
+.right {
+  /* border: rgb(198, 206, 205) 2px solid; */
+  /* border-radius: 8px; */
+  /* border-left: var(--border-color); */
+  border-right: var(--border-color);
+  width: 25%;
+  margin-left: 0.5%;
+  background-color: var(--bg-color);
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-box {
+  height: 10%;
+  width: 90vw;
+  background-color: var(--bg-color);
+  /* border- */
+  /* border-radius: 8px; */
+  display: flex;
+  flex-direction: row;
+  /* margin: auto; */
+  justify-content: space-between;
+  overflow: clip;
+}
+.timeline-contain {
+  height: 7%;
+  width: 98%;
+  display: flex;
+  align-self: center;
+  margin-top: 12px;
+  border-top: rgb(141, 143, 145) 1px solid;
+  /* border: red solid 2px; */
+}
+.bb {
+  align-items: center;
+  text-align: center;
+  padding-top: 2%;
+  background-color: var(--bg-color);
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  /* border-right: rgb(236, 238, 238) 1px solid; */
+  width: 11%;
+  /* border-right: 1px solid black; */
+  /* background: linear-gradient(
+    135deg,
+    rgb(250, 250, 250) 55%,
+    rgb(245, 251, 255)
+  ); */
+  cursor: pointer;
+}
+.bb:click {
+  background-color: rgb(66, 41, 41);
+}
+.bb:hover {
+  background: #0e3e5e; /* Green */
+  color: white;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+:root {
+  --bg-color: rgb(245, 245, 245);
+  --border-color: rgb(198, 206, 205) 2px solid;
+}
+
+/*
+.title-box-text {
+  display: inline-block;
+  background-color: white;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2.5em;
+  text-transform: capitalize;
+  font-style: italic;
+  text-transform: uppercase;
+}
+.content-container {
+  width: 100%;
+  height: 83%;
+  display: table;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+
+/*  TIMELINE ISSUES GO HERE  */
+.timeline-box {
+  display: flex;
+  width: 100%;
+  height: 7.5%;
+}
+.timeline-button {
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 5%;
+}
+.timeline-box-text {
+  display: table-row;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5em;
+  font-style: italic;
+  text-transform: uppercase;
+}
+=======
     width: 100%;
     height: 100%;
     text-align: center;
@@ -69,3 +252,4 @@ html, body {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+>>>>>>> b62c28debd89788186ea88fd795900560d6b3132
