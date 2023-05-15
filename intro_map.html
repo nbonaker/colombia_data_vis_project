@@ -14,12 +14,17 @@
   .map-box{
     background-color:white;
     background-clip: content-box;
-    border-radius: 20px;
-    width: 66%;
+    border-radius: 0px;
+    width: 63%;
     height: 100%;
     display: table-cell;
 
+    border-right: 1px solid;
+    border-right-color: #b6b6b6;
+    margin-right: 5px;
+    padding-right: 5px;
   }
+
   #map {
     border-radius: 20px;
     background-clip: content-box;
@@ -55,6 +60,7 @@
     font-size: 1.0rem;
     z-index: 2;
   }
+
 </style>
 <body>
 
@@ -79,6 +85,15 @@
             <img src = "red_flag_icons/black_outline.svg" width="20" height="20"/> to select a department of particular interest to you.</h3>
 
           <p>Selected Department: <b><span id="department_selected">None</span></b></p>
+        </div>
+      </div>
+      <div style="height: 100%; display: table-cell;">
+        <div class="vertical-center">
+          <a id="next_button" href="./bubble_slide_cari.html" target="_self">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
+            </svg>
+          </a>
         </div>
       </div>
     </div>
@@ -177,10 +192,15 @@
 
               dept_flag_svg.__data__.selected = "1";
               document.getElementById("department_selected").innerText=i.department_name;
+
+              var url = "./bubble_slide_cari.html?dpt=" + i.department;
+              document.getElementById("next_button").href=url;
+              //
             });
 
 
     position_station_markers(markers);
+    connect_back_buttons();
   }
 
   var div = d3.select("body").append("div")
@@ -194,6 +214,29 @@
   function project(d) {
     return map.project(new mapboxgl.LngLat(+d.lng, +d.lat));
   }
+
+  function connect_back_buttons() {
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const dpt_select = urlParams.get('dpt')
+
+    var back_url = "./bubble_slide_cari.html";
+    var next_url = "./beeswarm_example.html";
+    if (!!dpt_select) {
+      back_url = back_url + "?dpt=" + dpt_select
+      next_url = next_url + "?dpt=" + dpt_select
+      var dept_flag_svg = document.getElementById(dpt_select);
+
+      dept_flag_svg.setAttribute("href", './red_flag_icons/red.svg');
+
+      dept_flag_svg.__data__.selected = "1";
+      document.getElementById("department_selected").innerText=dept_flag_svg.__data__.department_name;
+    }
+
+    document.getElementById("back_button").href = back_url;
+    document.getElementById("next_button").href = next_url;
+  }
+
 
 
   let redFlagsFile = "./data_files/dept_coords.json";

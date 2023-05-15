@@ -48,6 +48,15 @@
 
 <div class="content-container">
     <div style="display: table-row; padding: 10px;">
+        <div style="height: 100%; display: table-cell;">
+            <div class="vertical-center">
+                <a id="back_button" href="" target="_self">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-left" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
         <div class="bubble-box">
             <div id="bubble-graph"></div>
         </div>
@@ -107,6 +116,15 @@
                      Families receiving government aid, or families that are food secure.
                 </p>
 
+            </div>
+        </div>
+        <div style="height: 100%; display: table-cell;">
+            <div class="vertical-center">
+                <a id="next_button" href="" target="_self">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" fill="#aaaaaa" class="bi bi-chevron-compact-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z"/>
+                    </svg>
+                </a>
             </div>
         </div>
     </div>
@@ -237,4 +255,19 @@
 
 
     });
+
+    // URL PARAMETERS
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const dpt_select = urlParams.get('dpt')
+
+    var back_url = "./beeswarm_example.html";
+    var next_url = "./bubble_slide_gov_aid.html";
+    if (!!dpt_select) {
+        back_url = back_url + "?dpt=" + dpt_select
+        next_url = next_url + "?dpt=" + dpt_select
+    }
+
+    document.getElementById("back_button").href = back_url;
+    document.getElementById("next_button").href = next_url;
 </script>
